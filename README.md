@@ -19,7 +19,7 @@ Visão geral do que será o projeto em poucas frases.
 | Matrícula    | Nome Completo                       | GitHub                                          |
 | ------------ | ----------------------------------  | ----------------------------------------------- |
 | `22/2006552` | Antonio Amadeu de Sousa Carvalho    | `https://github.com/antonioscarvalho`           |
-| `21/0054321` | Nome do Integrante 2                | `(https://github.com/user2)`                    |
+| `23/1011462` | Heloísa Laura Santos da Silva       | `https://github.com/Heloisa-Santos`             |
 | `22/0067890` | Nome do Integrante 3                | `(https://github.com/user3)`                    |
 | `23/0009876` | Nome do Integrante 4                | `(https://github.com/user4)`                    |
 
