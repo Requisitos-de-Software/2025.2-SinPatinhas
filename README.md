@@ -16,12 +16,12 @@ Visão geral do que será o projeto em poucas frases.
 
 ## 1. Integrantes da Equipe
 
-| Matrícula    | Nome Completo                       | GitHub                                          |
-| ------------ | ----------------------------------  | ----------------------------------------------- |
-| `22/2006552` | Antonio Amadeu de Sousa Carvalho    | `https://github.com/antonioscarvalho`           |
-| `23/1011462` | Heloísa Laura Santos da Silva       | `https://github.com/Heloisa-Santos`             |
-| `22/1037803` | Letícia Kellen Ramos Paiva          | `(https://github.com/leticiakrpaiva)`           |
-| `23/0009876` | Nome do Integrante 4                | `(https://github.com/user4)`                    |
+| Matrícula    | Nome Completo                       		| GitHub                                          |
+| ------------ | ------------------------------------------ | ----------------------------------------------- |
+| `22/2006552` | Antonio Amadeu de Sousa Carvalho    		| `https://github.com/antonioscarvalho`           |
+| `23/1011462` | Heloísa Laura Santos da Silva       		| `https://github.com/Heloisa-Santos`             |
+| `22/1037803` | Letícia Kellen Ramos Paiva          		| `(https://github.com/leticiakrpaiva)`           |
+| `18/0126130` | Luciano Alves do Brasil Schindel Machado	| `(https://github.com/LuGit00)`                  |
 
 ## 2. Visão Geral do Projeto
 
