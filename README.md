@@ -20,7 +20,7 @@ Visão geral do que será o projeto em poucas frases.
 | ------------ | ----------------------------------  | ----------------------------------------------- |
 | `22/2006552` | Antonio Amadeu de Sousa Carvalho    | `https://github.com/antonioscarvalho`           |
 | `23/1011462` | Heloísa Laura Santos da Silva       | `https://github.com/Heloisa-Santos`             |
-| `22/0067890` | Nome do Integrante 3                | `(https://github.com/user3)`                    |
+| `22/1037803` | Letícia Kellen Ramos Paiva          | `(https://github.com/leticiakrpaiva)`           |
 | `23/0009876` | Nome do Integrante 4                | `(https://github.com/user4)`                    |
 
 ## 2. Visão Geral do Projeto
