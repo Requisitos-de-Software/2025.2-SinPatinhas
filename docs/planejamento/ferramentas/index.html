@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planejamento - Sinpatinhas</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../styles/main.css">
+</head>
+<body class="antialiased">
+
+    <!-- Header Section -->
+    <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
+        <div class="container mx-auto px-6">
+            <!-- Top Bar with Title and Mobile Menu Toggle -->
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-3">
+                    <img src="../../assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto">
+                    <h1 class="text-2xl font-bold text-white">Sinpatinhas</h1>
+                </div>
+                <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                </button>
+            </div>
+            
+            <!-- Navigation Bar for Desktop -->
+            <nav class="hidden md:flex justify-center items-center py-2 border-t border-gray-700">
+                <div class="flex space-x-6">
+                    <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300">Home</a>
+                    <a href="../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300">Introdução/Equipe</a>
+                    <a href="#" class="text-white font-medium">Planejamento</a>
+                    
+                </div>
+            </nav>
+        </div>
+
+        <!-- Mobile Menu Dropdown -->
+        <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
+            <div class="container mx-auto px-6 pb-4">
+                <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
+                    <a href="../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Home</a>
+                    <a href="../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Introdução/Equipe</a>
+                    <a href="#" class="text-white font-medium block py-2">Planejamento</a>
+                    <a href="../index.html#rich-picture" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Rich Picture</a>
+                    <a href="../index.html#heatmap" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Heatmap</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="flex min-h-screen pt-24 bg-gray-900">
+        <!-- Sidebar -->
+        <aside class="hidden md:block w-64 bg-gray-800 border-r border-gray-700 fixed left-0 top-24 bottom-0 overflow-y-auto">
+            <div class="p-6">
+                <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
+                <nav class="space-y-2">
+                    <a href="rich-picture/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                        </svg>
+                        Rich Picture
+                    </a>
+                    
+                    <a href="cronograma/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                        </svg>
+                        Cronograma da Equipe
+                    </a>
+                    
+                    <a href="aplicativo/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                        </svg>
+                        Aplicativo Analisado
+                    </a>
+                    
+                    <a href="atas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                        Atas de Reuniões
+                    </a>
+                    
+                    <a href="metodologias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                        </svg>
+                        Metodologias
+                    </a>
+                    
+                    <a href="ferramentas/index.html" class="flex items-center px-3 py-2 text-white bg-gray-700 rounded-lg">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                        </svg>
+                        Ferramentas
+                    </a>
+                </nav>
+            </div>
+        </aside>
+
+        <!-- Mobile Sidebar Toggle -->
+        <button id="sidebar-toggle" class="md:hidden fixed top-28 left-4 z-20 bg-gray-800 text-white p-2 rounded-lg border border-gray-700">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+        </button>
+
+        <!-- Mobile Sidebar Overlay -->
+        <div id="sidebar-overlay" class="md:hidden fixed inset-0 bg-black bg-opacity-50 z-30 hidden"></div>
+
+        <!-- Mobile Sidebar -->
+        <aside id="mobile-sidebar" class="md:hidden fixed left-0 top-24 bottom-0 w-64 bg-gray-800 border-r border-gray-700 transform -translate-x-full transition-transform duration-300 ease-in-out z-40 overflow-y-auto">
+            <div class="p-6">
+                <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
+                <nav class="space-y-2">
+                    <a href="rich-picture/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                        </svg>
+                        Rich Picture
+                    </a>
+                    
+                    <a href="cronograma/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                        </svg>
+                        Cronograma da Equipe
+                    </a>
+                    
+                    <a href="aplicativo/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                        </svg>
+                        Aplicativo Analisado
+                    </a>
+                    
+                    <a href="atas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                        Atas de Reuniões
+                    </a>
+                    
+                    <a href="metodologias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                        </svg>
+                        Metodologias
+                    </a>
+                    
+                    <a href="ferramentas/index.html" class="flex items-center px-3 py-2 text-white bg-gray-700 rounded-lg">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                        </svg>
+                        Ferramentas
+                    </a>
+                </nav>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 md:ml-64">
+            <!-- Ferramentas Section -->
+            <section id="ferramentas" class="section min-h-screen bg-gray-900 p-6">
+                <div class="container mx-auto">
+                    <h2 class="text-4xl font-bold text-center mb-8">Ferramentas do Projeto</h2>
+                    <p class="text-lg text-gray-300 text-center mb-12 max-w-3xl mx-auto">
+                        Conheça as ferramentas utilizadas durante o desenvolvimento deste projeto, desde a comunicação da equipe até a criação da documentação e protótipos.
+                    </p>
+                    
+                    <div class="max-w-6xl mx-auto">
+                        <div class="overflow-x-auto">
+                            <table class="w-full bg-gray-800 rounded-lg overflow-hidden shadow-lg">
+                                <thead class="bg-gray-700">
+                                    <tr>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Logo</th>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Ferramenta</th>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Finalidade</th>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Categoria</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-700">
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/github.png" alt="GitHub" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">GitHub</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Hospedagem do repositório do projeto</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-blue-900 text-blue-200">
+                                                Versionamento
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/Youtube_logo.png" alt="YouTube" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">YouTube</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Hospedagem dos vídeos das reuniões</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-red-900 text-red-200">
+                                                Mídia
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/mkdocs.png" alt="MkDocs" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">MkDocs</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Criação das páginas de documentação</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-900 text-green-200">
+                                                Documentação
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/figma.png" alt="Figma" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">Figma</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Criação dos protótipos gráficos</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-purple-900 text-purple-200">
+                                                Design
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/wpp.png" alt="WhatsApp" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">WhatsApp</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Comunicação da equipe</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-900 text-green-200">
+                                                Comunicação
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/discord.png" alt="Discord" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">Discord</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Realização de reuniões</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-indigo-900 text-indigo-200">
+                                                Reuniões
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/obs.png" alt="OBS" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">OBS Studio</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Gravação das reuniões</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-red-900 text-red-200">
+                                                Gravação
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/canva.png" alt="Canva" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">Canva</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Criação de esquemas gráficos e geração de personas</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-pink-900 text-pink-200">
+                                                Design Gráfico
+                                            </span>
+                                        </td>
+                                    </tr>
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="h-12 w-12 bg-gray-600 rounded-lg flex items-center justify-center">
+                                                <img src="../../assets/images/tools/vscode.png" alt="VS Code" class="h-8 w-8 object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                                                <span class="text-xs text-gray-400 hidden">IMG</span>
+                                            </div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">Visual Studio Code</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Edição de arquivos da documentação</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-blue-900 text-blue-200">
+                                                Editor
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    
+                    <div class="text-center mt-12">
+                        <a href="../index.html" class="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-300">
+                            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                            </svg>
+                            Voltar ao Início
+                        </a>
+                    </div>
+                    
+                    <!-- Histórico de Versão -->
+                    <div class="mt-16 max-w-4xl mx-auto">
+                        <h2 class="text-3xl font-bold text-center mb-8">Histórico de Versão</h2>
+                        <div class="overflow-x-auto">
+                            <table class="w-full bg-gray-800 rounded-lg overflow-hidden shadow-lg">
+                                <thead class="bg-gray-700">
+                                    <tr>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Versão</th>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Data</th>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Descrição</th>
+                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Autores</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-700">
+                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm font-medium text-white">1.0</div>
+                                        </td>
+                                        <td class="px-6 py-4 whitespace-nowrap">
+                                            <div class="text-sm text-gray-300">07/09/2025</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Criação da página de ferramentas</div>
+                                        </td>
+                                        <td class="px-6 py-4">
+                                            <div class="text-sm text-gray-300">Heloisa Laura Santos da Silva</div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 border-t border-gray-800 md:ml-64">
+        <div class="container mx-auto px-6 py-4 text-center text-gray-500">
+            <p>&copy; 2025 Sinpatinhas. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="../scripts/main.js"></script>
+    
+    <script>
+        // Sidebar toggle functionality for mobile
+        const sidebarToggle = document.getElementById('sidebar-toggle');
+        const mobileSidebar = document.getElementById('mobile-sidebar');
+        const sidebarOverlay = document.getElementById('sidebar-overlay');
+
+        function toggleSidebar() {
+            mobileSidebar.classList.toggle('-translate-x-full');
+            sidebarOverlay.classList.toggle('hidden');
+        }
+
+        sidebarToggle.addEventListener('click', toggleSidebar);
+        sidebarOverlay.addEventListener('click', toggleSidebar);
+
+        // Close sidebar when clicking on a link
+        const sidebarLinks = mobileSidebar.querySelectorAll('a');
+        sidebarLinks.forEach(link => {
+            link.addEventListener('click', toggleSidebar);
+        });
+    </script>
+
+</body>
+</html>

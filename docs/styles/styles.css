@@ -1,0 +1,33 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #111827; /* bg-gray-900 */
+    color: #F9FAFB; /* text-gray-50 */
+}
+
+.section {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.card {
+    background-color: #1F2937; /* bg-gray-800 */
+    border: 1px solid #374151; /* border-gray-700 */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Add scroll margin to sections to offset the fixed header */
+#intro, #planejamento, #ferramentas, #rich-picture, #heatmap {
+    scroll-margin-top: 140px;
+}
+
+/* On smaller screens, the header is smaller */
+@media (max-width: 768px) {
+    #intro, #planejamento, #ferramentas, #rich-picture, #heatmap {
+        scroll-margin-top: 80px;
+    }
+}

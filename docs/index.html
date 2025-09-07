@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
+<html lang="pt-BR" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- EDIT THIS: Change the title to your project's name -->
     <title>Project Title - Home</title>
     
     <!-- Tailwind CSS -->
@@ -14,37 +13,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
     
-    <!-- Simple Custom Styles -->
-    <style>
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #111827; /* bg-gray-900 */
-            color: #F9FAFB; /* text-gray-50 */
-        }
-        .section {
-            padding-top: 6rem;
-            padding-bottom: 6rem;
-        }
-        .card {
-            background-color: #1F2937; /* bg-gray-800 */
-            border: 1px solid #374151; /* border-gray-700 */
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-        }
-        /* Add scroll margin to sections to offset the fixed header */
-        #intro, #planejamento, #ferramentas, #rich-picture, #heatmap {
-            scroll-margin-top: 140px;
-        }
-        /* On smaller screens, the header is smaller */
-        @media (max-width: 768px) {
-            #intro, #planejamento, #ferramentas, #rich-picture, #heatmap {
-                scroll-margin-top: 80px;
-            }
-        }
-    </style>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles/main.css">
 </head>
 <body class="antialiased">
 
@@ -53,8 +23,10 @@
         <div class="container mx-auto px-6">
             <!-- Top Bar with Title and Mobile Menu Toggle -->
             <div class="flex justify-between items-center py-4">
-                <!-- EDIT THIS: Your Project Title -->
-                <h1 class="text-2xl font-bold text-white">Your Project Title</h1>
+                <div class="flex items-center space-x-3">
+                    <img src="assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto">
+                    <h1 class="text-2xl font-bold text-white">Sinpatinhas</h1>
+                </div>
                 <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
                 </button>
@@ -64,10 +36,8 @@
             <nav class="hidden md:flex justify-center items-center py-2 border-t border-gray-700">
                 <div class="flex space-x-6">
                     <a href="#intro" class="text-gray-300 hover:text-white transition-colors duration-300">Introdução/Equipe</a>
-                    <a href="#planejamento" class="text-gray-300 hover:text-white transition-colors duration-300">Planejamento</a>
-                    <a href="#ferramentas" class="text-gray-300 hover:text-white transition-colors duration-300">Ferramentas</a>
-                    <a href="#rich-picture" class="text-gray-300 hover:text-white transition-colors duration-300">Rich Picture</a>
-                    <a href="#heatmap" class="text-gray-300 hover:text-white transition-colors duration-300">Heatmap</a>
+                    <a href="planejamento/index.html" class="text-gray-300 hover:text-white transition-colors duration-300">Planejamento</a>
+
                 </div>
             </nav>
         </div>
@@ -77,8 +47,7 @@
             <div class="container mx-auto px-6 pb-4">
                 <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
                     <a href="#intro" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Introdução/Equipe</a>
-                    <a href="#planejamento" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Planejamento</a>
-                    <a href="#ferramentas" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Ferramentas</a>
+                    <a href="planejamento/index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Planejamento</a>
                     <a href="#rich-picture" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Rich Picture</a>
                     <a href="#heatmap" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Heatmap</a>
                 </nav>
@@ -87,76 +56,157 @@
     </header>
 
     <main>
-        <!-- Introdução/Equipe Section -->
-        <section id="intro" class="section min-h-screen flex items-center bg-gray-900">
-            <div class="container mx-auto px-6 text-center">
-                <h2 class="text-3xl md:text-4xl font-bold mb-8">Introdução e Equipe</h2>
-                <p class="text-lg text-gray-300 leading-relaxed max-w-3xl mx-auto">
-                    <!-- EDIT THIS: Describe your project's introduction and team members. -->
-                    This is the introductory section for our project. Here you can describe the project's goals, scope, and the problem it aims to solve. You can also introduce the team members, their roles, and their contributions.
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 pt-24 pb-16">
+        <div class="container mx-auto px-6">
+            <div class="text-center max-w-4xl mx-auto">
+                <h2 class="text-4xl md:text-6xl font-bold text-white mb-6">
+                    Análise de Requisitos
+                    <span class="block text-blue-400">SinPatinhas</span>
+                </h2>
+                <p class="text-xl text-gray-300 mb-8">
+                    Sistema do Cadastro Nacional de Animais Domésticos
                 </p>
-            </div>
-        </section>
-
-        <!-- Planejamento Section -->
-        <section id="planejamento" class="section bg-gray-800">
-            <div class="container mx-auto px-6">
-                <h2 class="text-3xl font-bold text-center mb-12">Planejamento</h2>
-                <div class="max-w-3xl mx-auto text-left">
-                    <p class="text-lg text-gray-300 leading-relaxed">
-                        <!-- EDIT THIS: Detail your project planning. -->
-                        Here, you can outline the project plan, including milestones, timelines, and methodologies used (e.g., Agile, Scrum). You can use lists, paragraphs, or even embed diagrams to illustrate the workflow and schedule.
-                    </p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <a href="#intro" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-medium transition-colors duration-300">
+                        Conhecer o Projeto
+                    </a>
+                    <a href="planejamento/index.html" class="border border-gray-600 hover:border-gray-400 text-gray-300 hover:text-white px-8 py-3 rounded-lg font-medium transition-colors duration-300">
+                        Ver Planejamento
+                    </a>
                 </div>
             </div>
-        </section>
-        
-        <!-- Ferramentas Section -->
-        <section id="ferramentas" class="section bg-gray-900">
-            <div class="container mx-auto px-6">
-                <h2 class="text-3xl font-bold text-center mb-12">Ferramentas</h2>
-                <div class="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-                    <!-- EDIT THIS: Add your tools -->
-                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 1</p></div>
-                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 2</p></div>
-                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 3</p></div>
-                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 4</p></div>
-                </div>
-            </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- Rich Picture Section -->
-        <section id="rich-picture" class="section bg-gray-800">
-            <div class="container mx-auto px-6">
-                <h2 class="text-3xl font-bold text-center mb-12">Rich Picture</h2>
-                <div class="max-w-3xl mx-auto text-center">
-                    <p class="text-lg text-gray-300 leading-relaxed mb-8">
-                        <!-- EDIT THIS: Explain your Rich Picture. -->
-                        A Rich Picture is a way to explore, acknowledge, and define a situation, often through drawing, to create a preliminary mental model. You can embed an image of your Rich Picture below.
-                    </p>
-                    <div class="bg-gray-700 rounded-lg p-4">
-                        <img src="https://placehold.co/800x600/374151/FFFFFF?text=Your+Rich+Picture+Here" alt="Rich Picture placeholder" class="rounded-lg mx-auto max-w-full h-auto">
+    <!-- Introdução Section -->
+    <section id="intro" class="py-16 bg-gray-800">
+        <div class="container mx-auto px-6">
+            <div class="max-w-6xl mx-auto">
+                <div class="text-center mb-12">
+                    <h3 class="text-3xl md:text-4xl font-bold text-white mb-4">
+                        O que é o SinPatinhas?
+                    </h3>
+                    <div class="w-24 h-1 bg-blue-500 mx-auto"></div>
+                </div>
+                
+                <div class="grid md:grid-cols-2 gap-12 items-center mb-16">
+                    <div class="space-y-6">
+                        <p class="text-lg text-gray-300 leading-relaxed">
+                            O <strong class="text-white">SinPatinhas – Sistema do Cadastro Nacional de Animais Domésticos</strong> é uma ferramenta pública, gratuita e digital criada pelo Governo Federal para registrar cães e gatos em todo o território nacional.
+                        </p>
+                        
+                        <p class="text-lg text-gray-300 leading-relaxed">
+                            Coordenado pelo <strong class="text-blue-400">Ministério do Meio Ambiente e Mudança do Clima</strong>, o SinPatinhas é uma das principais entregas do ProPatinhas – Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos.
+                        </p>
+                        
+                        <div class="bg-gray-700 p-6 rounded-lg border-l-4 border-blue-500">
+                            <p class="text-gray-300 italic">
+                                "Seu objetivo é tirar os animais da invisibilidade, reunindo dados essenciais para o planejamento de políticas públicas de bem-estar animal."
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="flex justify-center">
+                        <div class="bg-gray-700 p-8 rounded-xl shadow-lg">
+                            <img src="assets/images/sinpatinhas_logo.png" alt="SinPatinhas Logo" class="w-48 h-auto mx-auto">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Funcionalidades -->
+                <div class="grid md:grid-cols-3 gap-8 mb-16">
+                    <div class="bg-gray-700 p-6 rounded-lg text-center">
+                        <div class="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                            </svg>
+                        </div>
+                        <h4 class="text-xl font-semibold text-white mb-2">Castração</h4>
+                        <p class="text-gray-300">Políticas de controle populacional ético</p>
+                    </div>
+                    
+                    <div class="bg-gray-700 p-6 rounded-lg text-center">
+                        <div class="w-16 h-16 bg-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
+                            </svg>
+                        </div>
+                        <h4 class="text-xl font-semibold text-white mb-2">Vacinação</h4>
+                        <p class="text-gray-300">Programas de saúde preventiva</p>
+                    </div>
+                    
+                    <div class="bg-gray-700 p-6 rounded-lg text-center">
+                        <div class="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                            </svg>
+                        </div>
+                        <h4 class="text-xl font-semibold text-white mb-2">Microchipagem</h4>
+                        <p class="text-gray-300">Identificação permanente dos animais</p>
+                    </div>
+                </div>
+
+                <!-- Como Funciona -->
+                <div class="bg-gradient-to-r from-blue-900/20 to-purple-900/20 p-8 rounded-xl border border-gray-700">
+                    <h4 class="text-2xl font-bold text-white mb-6 text-center">Como Funciona</h4>
+                    <div class="grid md:grid-cols-3 gap-6">
+                        <div class="text-center">
+                            <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white font-bold text-xl">1</div>
+                            <h5 class="text-lg font-semibold text-white mb-2">Login Gov.br</h5>
+                            <p class="text-gray-300">Acesse com sua conta Gov.br</p>
+                        </div>
+                        
+                        <div class="text-center">
+                            <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white font-bold text-xl">2</div>
+                            <h5 class="text-lg font-semibold text-white mb-2">Cadastro do Animal</h5>
+                            <p class="text-gray-300">Insira as informações do seu pet</p>
+                        </div>
+                        
+                        <div class="text-center">
+                            <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white font-bold text-xl">3</div>
+                            <h5 class="text-lg font-semibold text-white mb-2">Carteirinha Digital</h5>
+                            <p class="text-gray-300">Receba o QR Code para a coleira</p>
+                        </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- Heatmap Section -->
-        <section id="heatmap" class="section bg-gray-900">
-            <div class="container mx-auto px-6">
-                <h2 class="text-3xl font-bold text-center mb-12">Heatmap</h2>
-                <div class="max-w-3xl mx-auto text-center">
-                    <p class="text-lg text-gray-300 leading-relaxed mb-8">
-                        <!-- EDIT THIS: Explain your Heatmap. -->
-                        A heatmap is a data visualization technique that shows the magnitude of a phenomenon as color in two dimensions. You can embed an image of your project's heatmap below.
-                    </p>
-                    <div class="bg-gray-700 rounded-lg p-4">
-                        <img src="https://placehold.co/800x600/374151/FFFFFF?text=Your+Heatmap+Here" alt="Heatmap placeholder" class="rounded-lg mx-auto max-w-full h-auto">
+    <!-- Equipe Section -->
+    <section class="py-16 bg-gray-900">
+        <div class="container mx-auto px-6">
+            <div class="max-w-4xl mx-auto text-center">
+                <h3 class="text-3xl md:text-4xl font-bold text-white mb-4">
+                    Nossa Equipe
+                </h3>
+                <div class="w-24 h-1 bg-blue-500 mx-auto mb-12"></div>
+                
+                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Adicione aqui os membros da equipe -->
+                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
+                        <div class="w-20 h-20 bg-gray-600 rounded-full mx-auto mb-4 flex items-center justify-center">
+                            <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path>
+                            </svg>
+                        </div>
+                        <h4 class="text-lg font-semibold text-white">Nome do Membro</h4>
+                        <p class="text-gray-400">Função/Matrícula</p>
                     </div>
+                    
+                    <!-- Repita para outros membros da equipe -->
+                </div>
+                
+                <div class="mt-12 bg-gray-800 p-6 rounded-lg border border-gray-700">
+                    <p class="text-gray-300">
+                        Este projeto de análise de requisitos foi desenvolvido com base em ampla pesquisa e contou com metodologias de engenharia de software para garantir uma documentação completa e precisa do sistema SinPatinhas.
+                    </p>
                 </div>
             </div>
-        </section>
-    </main>
+        </div>
+    </section>
+</main>
 
     <!-- Footer -->
     <footer class="bg-gray-900 border-t border-gray-800">
@@ -166,24 +216,8 @@
         </div>
     </footer>
 
-    <!-- JavaScript for Mobile Menu -->
-    <script>
-        const mobileMenuButton = document.getElementById('mobile-menu-button');
-        const mobileMenu = document.getElementById('mobile-menu');
-        
-        mobileMenuButton.addEventListener('click', () => {
-            mobileMenu.classList.toggle('hidden');
-        });
-
-        // Close mobile menu when a link is clicked
-        const mobileMenuLinks = mobileMenu.getElementsByTagName('a');
-        for (let link of mobileMenuLinks) {
-            link.addEventListener('click', () => {
-                mobileMenu.classList.add('hidden');
-            });
-        }
-    </script>
+    <!-- Custom JavaScript -->
+    <script src="scripts/main.js"></script>
 
 </body>
 </html>
-
