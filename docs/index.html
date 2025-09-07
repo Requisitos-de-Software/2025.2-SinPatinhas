@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- EDIT THIS: Change the title to your project's name -->
+    <title>Project Title - Home</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Simple Custom Styles -->
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #111827; /* bg-gray-900 */
+            color: #F9FAFB; /* text-gray-50 */
+        }
+        .section {
+            padding-top: 6rem;
+            padding-bottom: 6rem;
+        }
+        .card {
+            background-color: #1F2937; /* bg-gray-800 */
+            border: 1px solid #374151; /* border-gray-700 */
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+        /* Add scroll margin to sections to offset the fixed header */
+        #intro, #planejamento, #ferramentas, #rich-picture, #heatmap {
+            scroll-margin-top: 140px;
+        }
+        /* On smaller screens, the header is smaller */
+        @media (max-width: 768px) {
+            #intro, #planejamento, #ferramentas, #rich-picture, #heatmap {
+                scroll-margin-top: 80px;
+            }
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Header Section -->
+    <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
+        <div class="container mx-auto px-6">
+            <!-- Top Bar with Title and Mobile Menu Toggle -->
+            <div class="flex justify-between items-center py-4">
+                <!-- EDIT THIS: Your Project Title -->
+                <h1 class="text-2xl font-bold text-white">Your Project Title</h1>
+                <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+                </button>
+            </div>
+            
+            <!-- Navigation Bar for Desktop -->
+            <nav class="hidden md:flex justify-center items-center py-2 border-t border-gray-700">
+                <div class="flex space-x-6">
+                    <a href="#intro" class="text-gray-300 hover:text-white transition-colors duration-300">Introdução/Equipe</a>
+                    <a href="#planejamento" class="text-gray-300 hover:text-white transition-colors duration-300">Planejamento</a>
+                    <a href="#ferramentas" class="text-gray-300 hover:text-white transition-colors duration-300">Ferramentas</a>
+                    <a href="#rich-picture" class="text-gray-300 hover:text-white transition-colors duration-300">Rich Picture</a>
+                    <a href="#heatmap" class="text-gray-300 hover:text-white transition-colors duration-300">Heatmap</a>
+                </div>
+            </nav>
+        </div>
+
+        <!-- Mobile Menu Dropdown -->
+        <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
+            <div class="container mx-auto px-6 pb-4">
+                <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
+                    <a href="#intro" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Introdução/Equipe</a>
+                    <a href="#planejamento" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Planejamento</a>
+                    <a href="#ferramentas" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Ferramentas</a>
+                    <a href="#rich-picture" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Rich Picture</a>
+                    <a href="#heatmap" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Heatmap</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Introdução/Equipe Section -->
+        <section id="intro" class="section min-h-screen flex items-center bg-gray-900">
+            <div class="container mx-auto px-6 text-center">
+                <h2 class="text-3xl md:text-4xl font-bold mb-8">Introdução e Equipe</h2>
+                <p class="text-lg text-gray-300 leading-relaxed max-w-3xl mx-auto">
+                    <!-- EDIT THIS: Describe your project's introduction and team members. -->
+                    This is the introductory section for our project. Here you can describe the project's goals, scope, and the problem it aims to solve. You can also introduce the team members, their roles, and their contributions.
+                </p>
+            </div>
+        </section>
+
+        <!-- Planejamento Section -->
+        <section id="planejamento" class="section bg-gray-800">
+            <div class="container mx-auto px-6">
+                <h2 class="text-3xl font-bold text-center mb-12">Planejamento</h2>
+                <div class="max-w-3xl mx-auto text-left">
+                    <p class="text-lg text-gray-300 leading-relaxed">
+                        <!-- EDIT THIS: Detail your project planning. -->
+                        Here, you can outline the project plan, including milestones, timelines, and methodologies used (e.g., Agile, Scrum). You can use lists, paragraphs, or even embed diagrams to illustrate the workflow and schedule.
+                    </p>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Ferramentas Section -->
+        <section id="ferramentas" class="section bg-gray-900">
+            <div class="container mx-auto px-6">
+                <h2 class="text-3xl font-bold text-center mb-12">Ferramentas</h2>
+                <div class="max-w-4xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                    <!-- EDIT THIS: Add your tools -->
+                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 1</p></div>
+                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 2</p></div>
+                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 3</p></div>
+                    <div class="card p-4 rounded-lg"><p class="font-medium text-lg">Tool 4</p></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Rich Picture Section -->
+        <section id="rich-picture" class="section bg-gray-800">
+            <div class="container mx-auto px-6">
+                <h2 class="text-3xl font-bold text-center mb-12">Rich Picture</h2>
+                <div class="max-w-3xl mx-auto text-center">
+                    <p class="text-lg text-gray-300 leading-relaxed mb-8">
+                        <!-- EDIT THIS: Explain your Rich Picture. -->
+                        A Rich Picture is a way to explore, acknowledge, and define a situation, often through drawing, to create a preliminary mental model. You can embed an image of your Rich Picture below.
+                    </p>
+                    <div class="bg-gray-700 rounded-lg p-4">
+                        <img src="https://placehold.co/800x600/374151/FFFFFF?text=Your+Rich+Picture+Here" alt="Rich Picture placeholder" class="rounded-lg mx-auto max-w-full h-auto">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Heatmap Section -->
+        <section id="heatmap" class="section bg-gray-900">
+            <div class="container mx-auto px-6">
+                <h2 class="text-3xl font-bold text-center mb-12">Heatmap</h2>
+                <div class="max-w-3xl mx-auto text-center">
+                    <p class="text-lg text-gray-300 leading-relaxed mb-8">
+                        <!-- EDIT THIS: Explain your Heatmap. -->
+                        A heatmap is a data visualization technique that shows the magnitude of a phenomenon as color in two dimensions. You can embed an image of your project's heatmap below.
+                    </p>
+                    <div class="bg-gray-700 rounded-lg p-4">
+                        <img src="https://placehold.co/800x600/374151/FFFFFF?text=Your+Heatmap+Here" alt="Heatmap placeholder" class="rounded-lg mx-auto max-w-full h-auto">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 border-t border-gray-800">
+        <div class="container mx-auto px-6 py-4 text-center text-gray-500">
+            <!-- EDIT THIS: Change to your project's name -->
+            <p>&copy; 2025 [Project Name]. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript for Mobile Menu -->
+    <script>
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        
+        mobileMenuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        // Close mobile menu when a link is clicked
+        const mobileMenuLinks = mobileMenu.getElementsByTagName('a');
+        for (let link of mobileMenuLinks) {
+            link.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+        }
+    </script>
+
+</body>
+</html>
+
