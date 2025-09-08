@@ -1,85 +1,109 @@
-# Projeto de Requisitos de Software – 2025.2
+# 🐾 SinPatinhas – Sistema do Cadastro Nacional de Animais Domésticos
+
+<p align="center">
+  <img src="docs/assets/images/sinpatinhas_logo.png" alt="Logo SinPatinhas" width="400"/>
+</p>
+
+---
+
+<p align="center">
+  📖 <a href="https://requisitos-de-software.github.io/2025.2-Grupo01/" target="_blank"><b>Acessar a Documentação Completa (GitHub Pages)</b></a>
+</p>
+
+---
 
 **Disciplina:** Requisitos de Software  
 **Curso:** Engenharia de Software  
 **Universidade:** Faculdade de Ciências e Tecnologias em Engenharia (FCTE) - Universidade de Brasília (UnB)  
 **Professor:** André Barros de Sales  
-**Grupo:** 01
+**Grupo:** 01  
 
-## Título do Projeto
+---
 
-> **Nome do Sistema:** Em escolha.
+## 📌 Sobre o Projeto
 
-### Descrição Breve
+O SinPatinhas – Sistema do Cadastro Nacional de Animais Domésticos é uma ferramenta pública, gratuita e digital criada pelo Governo Federal para registrar cães e gatos em todo o território nacional.
 
-Visão geral do que será o projeto em poucas frases.
+Coordenado pelo Ministério do Meio Ambiente e Mudança do Clima, o SinPatinhas é uma das principais entregas do ProPatinhas – Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos. Seu objetivo é tirar os animais da invisibilidade, reunindo dados essenciais para o planejamento de políticas públicas de bem-estar animal, como castração, vacinação, microchipagem e ações de enfrentamento ao abandono e aos maus-tratos.
 
-## 1. Integrantes da Equipe
+O SinPatinhas foi desenvolvido com base em ampla escuta social e contou com apoio técnico do Conselho Federal de Medicina Veterinária (CFMV).
 
-| Matrícula    | Nome Completo                       		| GitHub                                          |
-| ------------ | ------------------------------------------ | ----------------------------------------------- |
-| `22/2006552` | Antonio Amadeu de Sousa Carvalho    		| `https://github.com/antonioscarvalho`           |
-| `23/1011462` | Heloísa Laura Santos da Silva       		| `https://github.com/Heloisa-Santos`             |
-| `22/1037803` | Letícia Kellen Ramos Paiva          		| `(https://github.com/leticiakrpaiva)`           |
-| `18/0126130` | Luciano Alves do Brasil Schindel Machado	| `(https://github.com/LuGit00)`                  |
+---
 
-## 2. Visão Geral do Projeto
+## 👥 Integrantes
 
-Nesta seção, é importante detalhar a **Visão do Produto**, descrevendo o escopo do projeto, os objetivos, o público-alvo e os principais stakeholders.
+<p align="center">
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/antonioscarvalho">
+        <img src="https://github.com/antonioscarvalho.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Antonio Carvalho</b>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Heloisa-Santos">
+        <img src="https://github.com/Heloisa-Santos.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Heloísa Santos </b>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/ispratamena250">
+        <img src="https://github.com/ispratamena250.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Isaac Menezes Pereira</b>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/leticiakrpaiva">
+        <img src="https://github.com/leticiakrpaiva.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Letícia Paiva</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/LuGit00">
+        <img src="https://github.com/LuGit00.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Luciano Machado</b>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/14luke08">
+        <img src="https://github.com/14luke08.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Mateus Santos Negrini</b>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/pedrog0">
+        <img src="https://github.com/pedrog0.png?size=150" width="120" style="border-radius:50%;" />
+        <br/><b>Pedro Gomes Oliveira</b>
+      </a>
+    </td>
+  </tr>
+</table>
+</p>
 
-- **Problema:** Qual dor ou necessidade o projeto resolve?
-- **Público-Alvo:** Quem são os usuários finais do sistema? (Ex: Produtores, Consumidores, Administradores)
-- **Escopo:** O que o sistema fará? E o que ele *não* fará?
-- **Objetivos:** Quais metas o projeto pretende alcançar?
+---
 
-## 3. Documentação de Requisitos
+## 🛠️ Tecnologias e Ferramentas
 
-Esta é a seção central do projeto. Organize os artefatos de requisitos de forma clara.
+Durante o desenvolvimento do **SinPatinhas**, serão utilizadas as seguintes ferramentas:
 
-### 3.1. Elicitação de Requisitos
+- **Versionamento e Repositório:** GitHub  
+- **Documentação:** MkDocs Material + GitHub Pages  
+- **Design e Prototipação:** Figma, Canva  
+- **Comunicação e Reuniões:** WhatsApp, Discord  
+- **Gravação de Reuniões:** OBS Studio  
+- **Mídia:** YouTube  
+- **Editor de Código:** Visual Studio Code  
 
-Descreva as técnicas utilizadas para levantar os requisitos.
-- Entrevistas com stakeholders
-- Questionários
-- Brainstorming
-- Análise de documentos
-- Prototipação
+---
 
-### 3.2. Requisitos Funcionais (RF)
 
-Liste e descreva os requisitos funcionais do sistema, utilizando um padrão de identificação.
+## 📝 Histórico de Versões
 
-| ID    | Descrição                                                                      | Prioridade |
-| :---- | :------------------------------------------------------------------------------- | :--------- |
-| `RF001` | O sistema deve permitir que produtores cadastrem novas hortas em seu perfil.     | Alta       |
-| `RF002` | O sistema deve permitir que consumidores busquem por produtos disponíveis.      | Alta       |
-| `RF003` | O sistema deve permitir que usuários realizem login com e-mail e senha.         | Alta       |
-| `RF004` | O sistema deve gerar um relatório mensal de vendas para os produtores.          | Média      |
-| `...`   | ...                                                                              | ...        |
+| Versão | Data       | Descrição                                   | Autor       | Revisor(es) |
+|--------|------------|---------------------------------------------|-------------|-------------|
+| 1.0    | 26/08/2025 | Criação do README inicial                   | Antonio Carvalho | Equipe      |
+| 1.1    | 07/09/2025 | Atualização com logo, GitHub Pages, integrantes e ferramentas | Letícia Paiva | Equipe      |
 
-### 3.3. Requisitos Não Funcionais (RNF)
-
-Liste e descreva os requisitos não funcionais, que definem os critérios de qualidade do sistema.
-
-| ID    | Categoria      | Descrição                                                                  |
-| :---- | :------------- | :------------------------------------------------------------------------- |
-| `RNF001`| Usabilidade    | A interface do sistema deve ser intuitiva, permitindo que um novo usuário realize uma compra em menos de 5 minutos. |
-| `RNF002`| Desempenho     | O tempo de resposta para buscas de produtos não deve exceder 2 segundos.   |
-| `RNF003`| Segurança      | As senhas dos usuários devem ser armazenadas utilizando criptografia hash. |
-| `RNF004`| Disponibilidade| O sistema deve estar disponível 99.5% do tempo.                            |
-| `...`   | ...            | ...                                                                        |
-
-## 4. Modelagem e Diagramas
-
-Insira aqui os diagramas que ajudam a visualizar os requisitos e o comportamento do sistema.
-
-- **Diagramas de Caso de Uso:** Para ilustrar as interações dos atores com o sistema.
-- **Diagramas de Atividades:** Para modelar fluxos de trabalho.
-- **Protótipos de Interface (Wireframes/Mockups):** Adição de links ou imagens dos protótipos de baixa e alta fidelidade.
-
-## 5. Sugestão de Tecnologias e Ferramentas
-
-Tecnologias e ferramentas que serão utilizadas para o gerenciamento do projeto.
-
-- **Ferramentas de Gerenciamento:** Trello, GitHub Projects
-- **Comunicação:** Teams
