@@ -5,23 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Planejamento - Sinpatinhas</title>
     
-    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Google Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
     
-    <!-- Custom CSS -->
     <link rel="stylesheet" href="../styles/main.css">
 </head>
 <body class="antialiased">
 
-    <!-- Header Section -->
     <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
         <div class="container mx-auto px-6">
-            <!-- Top Bar with Title and Mobile Menu Toggle -->
             <div class="flex justify-between items-center py-4">
                 <div class="flex items-center space-x-3">
                     <img src="../assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto">
@@ -32,7 +27,6 @@
                 </button>
             </div>
             
-            <!-- Navigation Bar for Desktop -->
             <nav class="hidden md:flex justify-center items-center py-2 border-t border-gray-700">
                 <div class="flex space-x-6">
                     <a href="../index.html" class="text-gray-300 hover:text-white transition-colors duration-300">Home</a>
@@ -43,7 +37,6 @@
             </nav>
         </div>
 
-        <!-- Mobile Menu Dropdown -->
         <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
             <div class="container mx-auto px-6 pb-4">
                 <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
@@ -58,7 +51,6 @@
     </header>
 
     <div class="flex min-h-screen pt-24 bg-gray-900">
-        <!-- Sidebar -->
         <aside class="hidden md:block w-64 bg-gray-800 border-r border-gray-700 fixed left-0 top-24 bottom-0 overflow-y-auto">
             <div class="p-6">
                 <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
@@ -105,21 +97,26 @@
                         </svg>
                         Ferramentas
                     </a>
+
+                    <a href="heatmap/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2a4 4 0 004 4h2a4 4 0 004-4zm0 0v-2a4 4 0 014-4h2a4 4 0 014 4v2a4 4 0 01-4 4h-2a4 4 0 01-4-4z"></path>
+                        </svg>
+                        Heatmap da Equipe
+                    </a>
+
                 </nav>
             </div>
         </aside>
 
-        <!-- Mobile Sidebar Toggle -->
         <button id="sidebar-toggle" class="md:hidden fixed top-28 left-4 z-20 bg-gray-800 text-white p-2 rounded-lg border border-gray-700">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
             </svg>
         </button>
 
-        <!-- Mobile Sidebar Overlay -->
         <div id="sidebar-overlay" class="md:hidden fixed inset-0 bg-black bg-opacity-50 z-30 hidden"></div>
 
-        <!-- Mobile Sidebar -->
         <aside id="mobile-sidebar" class="md:hidden fixed left-0 top-24 bottom-0 w-64 bg-gray-800 border-r border-gray-700 transform -translate-x-full transition-transform duration-300 ease-in-out z-40 overflow-y-auto">
             <div class="p-6">
                 <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
@@ -170,7 +167,6 @@
             </div>
         </aside>
 
-        <!-- Main Content -->
         <main class="flex-1 md:ml-64">
             <div class="container mx-auto px-6 py-12 text-white">
                 
@@ -214,19 +210,26 @@
                                 O registro oficial de nossas discussões e decisões. As atas garantem transparência, responsabilidade e um histórico claro do progresso do projeto, mantendo todos os membros na mesma página.
                              </p>
                         </div>
-                    </div>
+                        
+                        <a href="heatmap/index.html" class="block">
+                            <div class="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/10 transition-all duration-300 h-full">
+                                <h3 class="text-xl font-semibold mb-2">Heatmap da Equipe</h3>
+                                <p class="text-gray-400">
+                                    Um mapa de calor que ilustra a distribuição de trabalho e a carga horária entre os membros da equipe, ajudando a visualizar o esforço e a alocação de tarefas ao longo do projeto.
+                                </p>
+                            </div>
+                        </a>
+                        </div>
                 </section>
             </div>
         </main>
 
-    <!-- Footer -->
     <footer class="bg-gray-900 border-t border-gray-800 md:ml-64">
         <div class="container mx-auto px-6 py-4 text-center text-gray-500">
             <p>&copy; 2025 Análise - Sinpatinhas. All Rights Reserved.</p>
         </div>
     </footer>
 
-    <!-- Custom JavaScript -->
     <script src="../scripts/main.js"></script>
     
     <script>
