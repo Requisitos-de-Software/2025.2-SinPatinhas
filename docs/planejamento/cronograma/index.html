@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Planejamento - Sinpatinhas</title>
+    <title>Cronograma - Sinpatinhas</title>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -11,12 +11,42 @@
     <!-- Google Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="../styles/main.css">
+    
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #1a202c 0%, #2d3748 50%, #1a202c 100%);
+        }
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+        }
+        .table-row-hover:hover {
+            background-color: #374151;
+        }
+        .status-badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 500;
+        }
+        .status-planned {
+            background-color: #3b82f6;
+            color: white;
+        }
+        .status-completed {
+            background-color: #10b981;
+            color: white;
+        }
+    </style>
 </head>
-<body class="antialiased">
+<body class="antialiased font-inter">
 
     <!-- Header Section -->
     <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
@@ -33,12 +63,11 @@
             </div>
             
             <!-- Navigation Bar for Desktop -->
-            <nav class="hidden md:flex justify-center items-center py-2 border-t border-gray-700">
-                <div class="flex space-x-6">
-                    <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300">Home</a>
-                    <a href="../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300">Introdução/Equipe</a>
-                    <a href="#" class="text-white font-medium">Planejamento</a>
-                    
+            <nav class="hidden md:flex justify-center items-center py-3 border-t border-gray-700">
+                <div class="flex space-x-8">
+                    <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Home</a>
+                    <a href="../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Introdução/Equipe</a>
+                    <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento</a>
                 </div>
             </nav>
         </div>
@@ -70,7 +99,7 @@
                         Rich Picture
                     </a>
                     
-                    <a href="../cronograma/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                    <a href="../cronograma/index.html" class="flex items-center px-3 py-2 text-white bg-cyan-700 rounded-lg">
                         <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
                         </svg>
@@ -98,68 +127,7 @@
                         Metodologias
                     </a>
                     
-                    <a href="../ferramentas/index.html" class="flex items-center px-3 py-2 text-white bg-gray-700 rounded-lg">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                        </svg>
-                        Ferramentas
-                    </a>
-                </nav>
-            </div>
-        </aside>
-
-        <!-- Mobile Sidebar Toggle -->
-        <button id="sidebar-toggle" class="md:hidden fixed top-28 left-4 z-20 bg-gray-800 text-white p-2 rounded-lg border border-gray-700">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-            </svg>
-        </button>
-
-        <!-- Mobile Sidebar Overlay -->
-        <div id="sidebar-overlay" class="md:hidden fixed inset-0 bg-black bg-opacity-50 z-30 hidden"></div>
-
-        <!-- Mobile Sidebar -->
-        <aside id="mobile-sidebar" class="md:hidden fixed left-0 top-24 bottom-0 w-64 bg-gray-800 border-r border-gray-700 transform -translate-x-full transition-transform duration-300 ease-in-out z-40 overflow-y-auto">
-            <div class="p-6">
-                <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
-                <nav class="space-y-2">
-                    <a href="../rich-picture/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                        </svg>
-                        Rich Picture
-                    </a>
-                    
-                    <a href="../cronograma/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                        </svg>
-                        Cronograma da Equipe
-                    </a>
-                    
-                    <a href="../aplicativo/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
-                        </svg>
-                        Aplicativo Analisado
-                    </a>
-                    
-                    <a href="../atas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                        </svg>
-                        Atas de Reuniões
-                    </a>
-                    
-                    <a href="../metodologias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
-                        </svg>
-                        Metodologias
-                    </a>
-                    
-                    <a href="../ferramentas/index.html" class="flex items-center px-3 py-2 text-white bg-gray-700 rounded-lg">
+                    <a href="../ferramentas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
                         <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
@@ -172,183 +140,227 @@
 
         <!-- Main Content -->
         <main class="flex-1 md:ml-64">
-            <section id="cronograma" class="section min-h-screen bg-gray-900 p-6">
-                <div class="container mx-auto">
-                    <h2 class="text-4xl font-bold text-center mb-8 text-white">Cronograma de Atividades</h2>
-                        <!-- Entrega 1 - Planejado -->
-                        <h3 class="text-2xl font-semibold text-gray-300 mb-4">Entrega 1 - Planejado</h3>
-                        <div class="overflow-x-auto mb-12">
-                            <table class="w-full bg-gray-800 rounded-lg overflow-hidden shadow-lg">
-                                <thead class="bg-gray-700">
-                                    <tr>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Atividade</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Período de desenvolvimento</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Responsáveis</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisão</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisores</th>
-                                    </tr>
-                                </thead>
-                                <tbody class="divide-y divide-gray-700">
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Selecionar app</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 <br> Fim: 04/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Heloisa, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 Fim: 05/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Pedro</td>
-                                    </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Selecionar ferramentas do projeto</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 <br> Fim: 04/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Heloisa, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 Fim: 05/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Pedro</td>
-                                    </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Realização do cronograma</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 06/09 <br> Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                    </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Rich Picture</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 05/09 <br> Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Isaac, Pedro, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 07/09 Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Luciano, Letícia</td>
-                                    </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Documentar Equipe</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 05/09 <br> Fim: 09/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 09/09 Fim: 09/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                    </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Gravar apresentação</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 <br> Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                    </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Implementar Git Page</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 06/09 <br> Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Letícia</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 07/09 Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Isaac, Mateus</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+            <div class="container mx-auto px-6 py-12 text-white">
+                
+                <!-- Hero Section -->
+                <section class="text-center mb-12">
+                    <div class="inline-block bg-gradient-to-r from-cyan-500 to-blue-500 p-1 rounded-full mb-6">
+                        <div class="bg-gray-900 rounded-full px-4 py-1">
+                            <span class="text-sm font-semibold text-cyan-300">Planejamento de Projeto</span>
                         </div>
+                    </div>
+                    
+                    <h1 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight bg-gradient-to-r from-white to-cyan-200 bg-clip-text text-transparent">
+                        Cronograma de Atividades
+                    </h1>
+                    
+                    <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
+                        Visualize o planejamento e execução das atividades do projeto Sinpatinhas, com detalhes sobre prazos, responsáveis e status de cada entrega.
+                    </p>
+                    
+                    <div class="w-24 h-1 bg-cyan-500 mx-auto rounded-full mt-8"></div>
+                </section>
 
-                        <h3 class="text-2xl font-semibold text-gray-300 mb-4">Entrega 1 - Entregue</h3>
-                        <div class="overflow-x-auto mb-12">
-                            <table class="w-full bg-gray-800 rounded-lg overflow-hidden shadow-lg">
-                                <thead class="bg-gray-700">
-                                    <tr>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Atividade</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Período de desenvolvimento</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Responsáveis</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisão</th>
-                                        <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisores</th>
+                <!-- Entrega 1 - Planejado -->
+                <section class="mb-16">
+                    <div class="gradient-bg p-6 rounded-2xl border border-gray-700">
+                        <div class="flex items-center justify-between mb-6">
+                            <div class="flex items-center">
+                                <div class="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center mr-4">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                                    </svg>
+                                </div>
+                                <h2 class="text-2xl font-semibold">Entrega 1 - Planejado</h2>
+                            </div>
+                            <span class="status-badge status-planned">Planejado</span>
+                        </div>
+                        
+                        <div class="overflow-x-auto">
+                            <table class="w-full">
+                                <thead>
+                                    <tr class="border-b border-gray-600">
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Atividade</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Período</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Responsáveis</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisão</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisores</th>
                                     </tr>
                                 </thead>
                                 <tbody class="divide-y divide-gray-700">
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Selecionar app</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 <br> Fim: 04/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 Fim: 04/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Selecionar app</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 04/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Heloisa, Luciano, Letícia, Isaac, Mateus</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 05/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio, Pedro</td>
                                     </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Selecionar ferramentas do projeto</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 <br> Fim: 04/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 04/09 Fim: 04/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Selecionar ferramentas</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 04/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Heloisa, Luciano, Letícia, Isaac, Mateus</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 05/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio, Pedro</td>
                                     </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Realização do cronograma</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 07/09 <br> Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Cronograma</td>
+                                        <td class="px-4 py-3 text-gray-300">06/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
                                     </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Rich Picture</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 <br> Fim: 10/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Isaac, Pedro, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 10/09 Fim: 10/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Luciano, Letícia</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Rich Picture</td>
+                                        <td class="px-4 py-3 text-gray-300">05/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Isaac, Pedro, Mateus</td>
+                                        <td class="px-4 py-3 text-gray-300">07/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio, Heloisa, Luciano, Letícia</td>
                                     </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Documentar Equipe</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 <br> Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 08/09 Fim: 08/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Documentar Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">05/09 - 09/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">09/09 - 09/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
                                     </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Gravar apresentação</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 10/09 <br> Fim: 10/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 10/09 Fim: 10/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Letícia, Isaac, Mateus</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Gravar apresentação</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
                                     </tr>
-                                    <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                        <td class="px-6 py-4 text-white">Implementar Git Page</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 06/09 <br> Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Letícia</td>
-                                        <td class="px-6 py-4 text-gray-300">Início: 07/09 Fim: 07/09</td>
-                                        <td class="px-6 py-4 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Isaac, Mateus</td>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Implementar Git Page</td>
+                                        <td class="px-4 py-3 text-gray-300">06/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Letícia</td>
+                                        <td class="px-4 py-3 text-gray-300">07/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Isaac, Mateus</td>
                                     </tr>
                                 </tbody>
                             </table>
                         </div>
-                        <!-- Replicar a mesma estrutura para "Executado" e Entregas 2,3,...7 -->
                     </div>
-            <!-- Histórico de Versão -->
-                <div class="mt-16 max-w-4xl mx-auto">
-                    <h2 class="text-4xl font-bold text-center mb-8 text-white">Histórico de Versão</h2>
-                    <div class="overflow-x-auto">
-                        <table class="w-full bg-gray-800 rounded-lg overflow-hidden shadow-lg">
-                            <thead class="bg-gray-700">
-                                <tr>
-                                    <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Versão</th>
-                                    <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Data</th>
-                                    <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Descrição</th>
-                                    <th class="px-6 py-4 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Autores</th>
-                                </tr>
-                            </thead>
-                            <tbody class="divide-y divide-gray-700">
-                                <tr class="hover:bg-gray-750 transition-colors duration-200">
-                                    <td class="px-6 py-4 whitespace-nowrap">
-                                        <div class="text-sm font-medium text-white">1.0</div>
-                                    </td>
-                                    <td class="px-6 py-4 whitespace-nowrap">
-                                        <div class="text-sm text-gray-300">08/09/2025</div>
-                                    </td>
-                                    <td class="px-6 py-4">
-                                        <div class="text-sm text-gray-300">Criação da página do cronograma</div>
-                                    </td>
-                                    <td class="px-6 py-4">
-                                        <div class="text-sm text-gray-300">Antonio Amadeu de Sousa Carvalho</div>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
+                </section>
+
+                <!-- Entrega 1 - Entregue -->
+                <section class="mb-16">
+                    <div class="gradient-bg p-6 rounded-2xl border border-gray-700">
+                        <div class="flex items-center justify-between mb-6">
+                            <div class="flex items-center">
+                                <div class="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center mr-4">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                    </svg>
+                                </div>
+                                <h2 class="text-2xl font-semibold">Entrega 1 - Entregue</h2>
+                            </div>
+                            <span class="status-badge status-completed">Concluído</span>
+                        </div>
+                        
+                        <div class="overflow-x-auto">
+                            <table class="w-full">
+                                <thead>
+                                    <tr class="border-b border-gray-600">
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Atividade</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Período</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Responsáveis</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisão</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisores</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-700">
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Selecionar app</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 04/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 04/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Selecionar ferramentas</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 04/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">04/09 - 04/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Cronograma</td>
+                                        <td class="px-4 py-3 text-gray-300">07/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Rich Picture</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 10/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Isaac, Pedro, Mateus</td>
+                                        <td class="px-4 py-3 text-gray-300">10/09 - 10/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio, Heloisa, Luciano, Letícia</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Documentar Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09 - 08/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Gravar apresentação</td>
+                                        <td class="px-4 py-3 text-gray-300">10/09 - 10/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                        <td class="px-4 py-3 text-gray-300">10/09 - 10/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Equipe</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">Implementar Git Page</td>
+                                        <td class="px-4 py-3 text-gray-300">06/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Letícia</td>
+                                        <td class="px-4 py-3 text-gray-300">07/09 - 07/09</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio, Heloisa, Pedro, Luciano, Isaac, Mateus</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
-                </div>
-            </section>
+                </section>
+                <!-- Histórico de Versão -->
+                <section class="mb-12">
+                    <div class="gradient-bg p-8 rounded-2xl border border-gray-700">
+                        <h2 class="text-3xl font-bold text-center mb-8 bg-gradient-to-r from-white to-cyan-200 bg-clip-text text-transparent">
+                            Histórico de Versão
+                        </h2>
+                        
+                        <div class="overflow-x-auto">
+                            <table class="w-full">
+                                <thead>
+                                    <tr class="border-b border-gray-600">
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Versão</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Data</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Descrição</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Autores</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-700">
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">1.0</td>
+                                        <td class="px-4 py-3 text-gray-300">08/09/2025</td>
+                                        <td class="px-4 py-3 text-gray-300">Criação da página do cronograma</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio Amadeu de Sousa Carvalho</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+            </div>
         </main>
     </div>
 
     <!-- Footer -->
     <footer class="bg-gray-900 border-t border-gray-800 md:ml-64">
-        <div class="container mx-auto px-6 py-4 text-center text-gray-500">
-            <p>&copy; 2025 Análise - Sinpatinhas. All Rights Reserved.</p>
+        <div class="container mx-auto px-6 py-6 text-center text-gray-500">
+            <p>&copy; 2025 Análise - Sinpatinhas. Todos os direitos reservados.</p>
         </div>
     </footer>
 
@@ -356,24 +368,15 @@
     <script src="../scripts/main.js"></script>
     
     <script>
-        // Sidebar toggle functionality for mobile
-        const sidebarToggle = document.getElementById('sidebar-toggle');
-        const mobileSidebar = document.getElementById('mobile-sidebar');
-        const sidebarOverlay = document.getElementById('sidebar-overlay');
-
-        function toggleSidebar() {
-            mobileSidebar.classList.toggle('-translate-x-full');
-            sidebarOverlay.classList.toggle('hidden');
+        // Mobile menu functionality
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        
+        if (mobileMenuButton && mobileMenu) {
+            mobileMenuButton.addEventListener('click', () => {
+                mobileMenu.classList.toggle('hidden');
+            });
         }
-
-        sidebarToggle.addEventListener('click', toggleSidebar);
-        sidebarOverlay.addEventListener('click', toggleSidebar);
-
-        // Close sidebar when clicking on a link
-        const sidebarLinks = mobileSidebar.querySelectorAll('a');
-        sidebarLinks.forEach(link => {
-            link.addEventListener('click', toggleSidebar);
-        });
     </script>
 
 </body>
