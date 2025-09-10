@@ -3,20 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Planejamento - Sinpatinhas</title>
+    <title>Planejamento - SinPatinhas</title>
     
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     
+    <!-- Google Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="../styles/main.css">
+    
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #1a202c 0%, #2d3748 50%, #1a202c 100%);
+        }
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+        }
+    </style>
 </head>
-<body class="antialiased">
+<body class="antialiased font-inter">
 
+    <!-- Header Section -->
     <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
         <div class="container mx-auto px-6">
+            <!-- Top Bar with Title and Mobile Menu Toggle -->
             <div class="flex justify-between items-center py-4">
                 <div class="flex items-center space-x-3">
                     <img src="../assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto">
@@ -27,16 +45,17 @@
                 </button>
             </div>
             
-            <nav class="hidden md:flex justify-center items-center py-2 border-t border-gray-700">
-                <div class="flex space-x-6">
-                    <a href="../index.html" class="text-gray-300 hover:text-white transition-colors duration-300">Home</a>
-                    <a href="../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300">Introdução/Equipe</a>
-                    <a href="#" class="text-white font-medium">Planejamento</a>
-                    
+            <!-- Navigation Bar for Desktop -->
+            <nav class="hidden md:flex justify-center items-center py-3 border-t border-gray-700">
+                <div class="flex space-x-8">
+                    <a href="../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Home</a>
+                    <a href="../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Introdução/Equipe</a>
+                    <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento</a>
                 </div>
             </nav>
         </div>
 
+        <!-- Mobile Menu Dropdown -->
         <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
             <div class="container mx-auto px-6 pb-4">
                 <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
@@ -51,11 +70,12 @@
     </header>
 
     <div class="flex min-h-screen pt-24 bg-gray-900">
+        <!-- Sidebar -->
         <aside class="hidden md:block w-64 bg-gray-800 border-r border-gray-700 fixed left-0 top-24 bottom-0 overflow-y-auto">
             <div class="p-6">
                 <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
                 <nav class="space-y-2">
-                    <a href="rich-picture/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                    <a href="rich-picture/index.html" class="flex items-center px-3 py-2 text-white bg-cyan-700 rounded-lg">
                         <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
                         </svg>
@@ -90,73 +110,7 @@
                         Metodologias
                     </a>
                     
-                    <a href="ferramentas/index.html" class="flex items-center px-3 py-2 text-white bg-gray-700 rounded-lg">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                        </svg>
-                        Ferramentas
-                    </a>
-
-                    <a href="heatmap/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2a4 4 0 004 4h2a4 4 0 004-4zm0 0v-2a4 4 0 014-4h2a4 4 0 014 4v2a4 4 0 01-4 4h-2a4 4 0 01-4-4z"></path>
-                        </svg>
-                        Heatmap da Equipe
-                    </a>
-
-                </nav>
-            </div>
-        </aside>
-
-        <button id="sidebar-toggle" class="md:hidden fixed top-28 left-4 z-20 bg-gray-800 text-white p-2 rounded-lg border border-gray-700">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-            </svg>
-        </button>
-
-        <div id="sidebar-overlay" class="md:hidden fixed inset-0 bg-black bg-opacity-50 z-30 hidden"></div>
-
-        <aside id="mobile-sidebar" class="md:hidden fixed left-0 top-24 bottom-0 w-64 bg-gray-800 border-r border-gray-700 transform -translate-x-full transition-transform duration-300 ease-in-out z-40 overflow-y-auto">
-            <div class="p-6">
-                <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
-                <nav class="space-y-2">
-                    <a href="rich-picture/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                        </svg>
-                        Rich Picture
-                    </a>
-                    
-                    <a href="cronograma/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
-                        </svg>
-                        Cronograma da Equipe
-                    </a>
-                    
-                    <a href="aplicativo/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
-                        </svg>
-                        Aplicativo Analisado
-                    </a>
-                    
-                    <a href="atas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                        </svg>
-                        Atas de Reuniões
-                    </a>
-                    
-                    <a href="metodologias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
-                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
-                        </svg>
-                        Metodologias
-                    </a>
-                    
-                    <a href="ferramentas/index.html" class="flex items-center px-3 py-2 text-white bg-gray-700 rounded-lg">
+                    <a href="ferramentas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
                         <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
@@ -167,69 +121,142 @@
             </div>
         </aside>
 
+        <!-- Main Content -->
         <main class="flex-1 md:ml-64">
-            <div class="container mx-auto px-6 py-12 text-white">
+            <div class="container mx-auto px-6 py-16 text-white">
                 
-                <section id="introducao" class="text-center mb-16">
-                    <h1 class="text-4xl md:text-5xl font-bold mb-4 tracking-tight">
-                        O Alicerce da Análise do Sinpatinhas: Nosso Planejamento
+                <!-- Hero Section -->
+                <section class="text-center mb-20">
+                    <div class="inline-block bg-gradient-to-r from-cyan-500 to-blue-500 p-1 rounded-full mb-6">
+                        <div class="bg-gray-900 rounded-full px-4 py-1">
+                            <span class="text-sm font-semibold text-cyan-300">Análise de Requisitos</span>
+                        </div>
+                    </div>
+                    
+                    <h1 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight bg-gradient-to-r from-white to-cyan-200 bg-clip-text text-transparent">
+                        O Alicerce da Análise do SinPatinhas
                     </h1>
-                    <p class="text-lg text-gray-300 max-w-3xl mx-auto">
-                        Todo grande projeto começa com um plano sólido. Nesta seção, abrimos as portas para os bastidores do projeto voltado para os requisitos de software do Sinpatinhas, detalhando a estrutura, as metodologias e as ferramentas que guiam nosso desenvolvimento. Acreditamos que um planejamento transparente é a chave para a organização, eficiência e, finalmente, para o sucesso do projeto. Explore abaixo os pilares que sustentam nossa jornada.
+                    
+                    <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-8">
+                        Todo grande projeto começa com um plano sólido. Conheça a estrutura, metodologias e ferramentas que guiam nosso desenvolvimento para garantir o sucesso do SinPatinhas.
                     </p>
+                    
+                    <div class="w-24 h-1 bg-cyan-500 mx-auto rounded-full"></div>
                 </section>
 
-                <section id="overview">
-                    <h2 class="text-3xl font-bold mb-8 text-center">O que você encontrará aqui:</h2>
+                <!-- Cards Section -->
+                <section class="mb-20">
+                    <h2 class="text-3xl font-bold mb-12 text-center">O que você encontrará aqui</h2>
+                    
                     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-
-                        <div class="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/10 transition-all duration-300">
-                            <h3 class="text-xl font-semibold mb-2">Rich Picture</h3>
-                            <p class="text-gray-400">
-                                Uma representação visual do ecossistema do nosso projeto. O Rich Picture nos ajuda a entender as complexas interações entre stakeholders, processos e desafios, oferecendo uma visão holística do problema que estamos resolvendo.
-                            </p>
-                        </div>
-
-                        <div class="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/10 transition-all duration-300">
-                            <h3 class="text-xl font-semibold mb-2">Cronograma da Equipe</h3>
-                            <p class="text-gray-400">
-                                Nossa linha do tempo de desenvolvimento. Aqui, detalhamos as entregas, os marcos (milestones) e os prazos que mantêm a equipe alinhada e focada, garantindo que o projeto avance de forma consistente e organizada.
-                            </p>
-                        </div>
-
-                        <div class="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/10 transition-all duration-300">
-                            <h3 class="text-xl font-semibold mb-2">Aplicativo Analisado</h3>
-                            <p class="text-gray-400">
-                                Uma análise aprofundada de soluções existentes no mercado. Este estudo nos permite identificar pontos fortes, fraquezas e oportunidades, fundamentando as decisões de design e funcionalidades do Sinpatinhas.
-                            </p>
-                        </div>
-
-                        <div class="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/10 transition-all duration-300">
-                            <h3 class="text-xl font-semibold mb-2">Atas de Reuniões</h3>
-                            <p class="text-gray-400">
-                                O registro oficial de nossas discussões e decisões. As atas garantem transparência, responsabilidade e um histórico claro do progresso do projeto, mantendo todos os membros na mesma página.
-                             </p>
-                        </div>
-                        
-                        <a href="heatmap/index.html" class="block">
-                            <div class="bg-gray-800 p-6 rounded-lg border border-gray-700 hover:border-cyan-500 hover:shadow-lg hover:shadow-cyan-500/10 transition-all duration-300 h-full">
-                                <h3 class="text-xl font-semibold mb-2">Heatmap da Equipe</h3>
-                                <p class="text-gray-400">
-                                    Um mapa de calor que ilustra a distribuição de trabalho e a carga horária entre os membros da equipe, ajudando a visualizar o esforço e a alocação de tarefas ao longo do projeto.
-                                </p>
+                        <!-- Rich Picture Card -->
+                        <div class="gradient-bg p-6 rounded-xl border border-cyan-700 card-hover">
+                            <div class="w-12 h-12 bg-cyan-900 rounded-lg flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                                </svg>
                             </div>
-                        </a>
+                            <h3 class="text-xl font-semibold mb-3">Rich Picture</h3>
+                            <p class="text-gray-400 leading-relaxed">
+                                Representação visual do ecossistema do projeto, mostrando as interações entre stakeholders, processos e desafios para uma visão holística.
+                            </p>
                         </div>
+
+                        <!-- Cronograma Card -->
+                        <div class="gradient-bg p-6 rounded-xl border border-gray-700 card-hover">
+                            <div class="w-12 h-12 bg-cyan-900 rounded-lg flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-xl font-semibold mb-3">Cronograma da Equipe</h3>
+                            <p class="text-gray-400 leading-relaxed">
+                                Linha do tempo com entregas, marcos e prazos que mantêm a equipe alinhada e focada no desenvolvimento consistente do projeto.
+                            </p>
+                        </div>
+
+                        <!-- Aplicativo Analisado Card -->
+                        <div class="gradient-bg p-6 rounded-xl border border-gray-700 card-hover">
+                            <div class="w-12 h-12 bg-cyan-900 rounded-lg flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-xl font-semibold mb-3">Aplicativo Analisado</h3>
+                            <p class="text-gray-400 leading-relaxed">
+                                Análise aprofundada de soluções existentes para identificar pontos fortes, fraquezas e oportunidades de melhoria.
+                            </p>
+                        </div>
+
+                        <!-- Atas de Reuniões Card -->
+                        <div class="gradient-bg p-6 rounded-xl border border-gray-700 card-hover">
+                            <div class="w-12 h-12 bg-cyan-900 rounded-lg flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-xl font-semibold mb-3">Atas de Reuniões</h3>
+                            <p class="text-gray-400 leading-relaxed">
+                                Registro oficial das discussões e decisões, garantindo transparência e mantendo todos os membros alinhados com o progresso.
+                            </p>
+                        </div>
+
+                        <!-- Metodologias Card -->
+                        <div class="gradient-bg p-6 rounded-xl border border-gray-700 card-hover">
+                            <div class="w-12 h-12 bg-cyan-900 rounded-lg flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-xl font-semibold mb-3">Metodologias</h3>
+                            <p class="text-gray-400 leading-relaxed">
+                                Abordagens e frameworks utilizados para organizar e gerenciar o desenvolvimento do projeto de forma eficiente.
+                            </p>
+                        </div>
+
+                        <!-- Ferramentas Card -->
+                        <div class="gradient-bg p-6 rounded-xl border border-gray-700 card-hover">
+                            <div class="w-12 h-12 bg-cyan-700 rounded-lg flex items-center justify-center mb-4">
+                                <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path>
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                                </svg>
+                            </div>
+                            <h3 class="text-xl font-semibold mb-3">Ferramentas</h3>
+                            <p class="text-gray-300 leading-relaxed">
+                                Tecnologias e softwares utilizados para desenvolvimento, colaboração e documentação do projeto SinPatinhas.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- CTA Section -->
+                <section class="text-center">
+                    <div class="bg-gray-800 rounded-2xl p-8 md:p-12 border border-gray-700">
+                        <h2 class="text-2xl md:text-3xl font-bold mb-4">Pronto para explorar nosso planejamento?</h2>
+                        <p class="text-gray-400 mb-6 max-w-2xl mx-auto">
+                            Navegue pelos tópicos no menu lateral para conhecer em detalhes cada aspecto do nosso processo de desenvolvimento.
+                        </p>
+                        <a href="rich-picture/index.html" class="inline-flex items-center px-6 py-3 bg-cyan-600 hover:bg-cyan-700 text-white font-medium rounded-lg transition-colors duration-300">
+                            Começar pela Rich Picture
+                            <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
+                            </svg>
+                        </a>
+                    </div>
                 </section>
             </div>
         </main>
+    </div>
 
+    <!-- Footer -->
     <footer class="bg-gray-900 border-t border-gray-800 md:ml-64">
-        <div class="container mx-auto px-6 py-4 text-center text-gray-500">
-            <p>&copy; 2025 Análise - Sinpatinhas. All Rights Reserved.</p>
+        <div class="container mx-auto px-6 py-6 text-center text-gray-500">
+            <p>&copy; 2025 Análise - SinPatinhas. Todos os direitos reservados.</p>
         </div>
     </footer>
 
+    <!-- Custom JavaScript -->
     <script src="../scripts/main.js"></script>
     
     <script>
