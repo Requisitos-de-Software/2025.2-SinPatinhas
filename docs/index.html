@@ -3,250 +3,259 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SinPatinhas - Home</title>
-    
-    <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Google Fonts: Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-    
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="styles/main.css">
+    <title>SinPatinhas</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
 </head>
-<body class="antialiased">
+<body>
 
-    <!-- Header Section -->
-    <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
-        <div class="container mx-auto px-6">
-            <!-- Top Bar with Title and Mobile Menu Toggle -->
-            <div class="flex justify-between items-center py-4">
-                <div class="flex items-center space-x-3">
-                    <img src="assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto">
-                    <h1 class="text-2xl font-bold text-white">SinPatinhas</h1>
+    <header class="header">
+        <div class="header__container">
+            <div class="header__topbar">
+                <div class="header__brand">
+                    <img src="assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="header__logo">
+                    <h1>SinPatinhas</h1>
                 </div>
-                <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
-                </button>
+                <div class="header__actions">
+                    <!-- Toggle de tema -->
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema">
+                        <svg class="theme-toggle__icon theme-toggle__icon--dark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <svg class="theme-toggle__icon theme-toggle__icon--light" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+                    <button id="mobile-menu-button" class="header__mobile-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="3" y1="12" x2="21" y2="12"></line>
+                            <line x1="3" y1="6" x2="21" y2="6"></line>
+                            <line x1="3" y1="18" x2="21" y2="18"></line>
+                        </svg>
+                    </button>
+                </div>
             </div>
             
-            <!-- Navigation Bar for Desktop -->
-            <nav class="hidden md:flex justify-center items-center py-4 border-t border-gray-700">
-                <div class="flex space-x-6">
-                    <a href="#intro" class="text-gray-300 hover:text-white transition-colors duration-300">Introdução/Equipe</a>
-                    <a href="planejamento/index.html" class="text-gray-300 hover:text-white transition-colors duration-300">Planejamento</a>
-
-                </div>
-            </nav>
+            <div class="navbar__links">
+                <a href="#intro" class="navbar__link">Introdução/Equipe</a>
+                <a href="planejamento/index.html" class="navbar__link">Planejamento</a>
+            </div>
+            
         </div>
-
-        <!-- Mobile Menu Dropdown -->
-        <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
-            <div class="container mx-auto px-6 pb-4">
-                <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
-                    <a href="#intro" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Introdução/Equipe</a>
-                    <a href="planejamento/index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Planejamento</a>
+        <div id="mobile-menu" class="mobile-menu">
+            <div class="mobile-menu__container">
+                <nav class="mobile-menu__nav">
+                    <a href="#intro" class="mobile-menu__link">Introdução/Equipe</a>
+                    <a href="planejamento/index.html" class="mobile-menu__link">Planejamento</a>
                 </nav>
             </div>
         </div>
     </header>
 
     <main>
-    <!-- Hero Section -->
-    <section class="bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 pb-24" style="padding-top: 8.5rem;">
-        <div class="container mx-auto px-6">
-            <div class="text-center max-w-4xl mx-auto">
-                <h2 class="text-4xl md:text-6xl font-bold text-white mb-6">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                <h1>
                     Análise de Requisitos
-                    <span class="block text-blue-400">SinPatinhas</span>
-                </h2>
-                <p class="text-xl text-gray-300 mb-8">
+                </h1>
+                <h2> <strong class="section_highlight">Sinpatinhas</strong></h2>
+                <p>
                     Sistema do Cadastro Nacional de Animais Domésticos
                 </p>
-                <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                    <a href="#intro" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-medium transition-colors duration-300">
-                        Conhecer o Projeto
+                <div class="hero-actions">
+                    <a href="#intro" class="btn btn-primary">
+                    Conhecer o Projeto
                     </a>
-                    <a href="planejamento/index.html" class="border border-gray-600 hover:border-gray-400 text-gray-300 hover:text-white px-8 py-3 rounded-lg font-medium transition-colors duration-300">
-                        Ver Planejamento
+                    <a href="planejamento/index.html" class="btn btn-secondary">
+                    Ver Planejamento
                     </a>
+                </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Introdução Section -->
-    <section id="intro" class="py-16 bg-gray-800">
-        <div class="container mx-auto px-6">
-            <div class="max-w-6xl mx-auto">
-                <div class="text-center mb-12">
-                    <h3 class="text-3xl md:text-4xl font-bold text-white mb-4">
-                        O que é o SinPatinhas?
-                    </h3>
-                    <div class="w-24 h-1 bg-blue-500 mx-auto"></div>
-                </div>
-                
-                <div class="grid md:grid-cols-2 gap-12 items-center mb-16">
-                    <div class="space-y-6">
-                        <p class="text-lg text-gray-300 leading-relaxed">
-                            O <strong class="text-white">SinPatinhas – Sistema do Cadastro Nacional de Animais Domésticos</strong> é uma ferramenta pública, gratuita e digital criada pelo Governo Federal para registrar cães e gatos em todo o território nacional.
-                        </p>
-                        
-                        <p class="text-lg text-gray-300 leading-relaxed">
-                            Coordenado pelo <strong class="text-blue-400">Ministério do Meio Ambiente e Mudança do Clima</strong>, o SinPatinhas é uma das principais entregas do ProPatinhas – Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos.
-                        </p>
-                        
-                        <div class="bg-gray-700 p-6 rounded-lg border-l-4 border-blue-500">
-                            <p class="text-gray-300 italic">
-                                "Seu objetivo é tirar os animais da invisibilidade, reunindo dados essenciais para o planejamento de políticas públicas de bem-estar animal."
+        <!-- Introdução Section -->
+        <section id="intro" class="section section--intro">
+            <div class="section_container">
+                <div class="section_content">
+                    <div class="section_header">
+                        <h3 class="section_title">
+                            O que é o SinPatinhas?
+                        </h3>
+                        <div class="section_divider"></div>
+                    </div>
+                    
+                    <div class="section_grid">
+                        <div class="section_text">
+                            <p>
+                                O <strong class="section_highlight">SinPatinhas – Sistema do Cadastro Nacional de Animais Domésticos</strong> é uma ferramenta pública, gratuita e digital criada pelo Governo Federal para registrar cães e gatos em todo o território nacional.
                             </p>
-                        </div>
-                    </div>
-                    
-                    <div class="flex justify-center">
-                        <div class="bg-gray-700 p-8 rounded-xl shadow-lg">
-                            <img src="assets/images/sinpatinhas_logo.png" alt="SinPatinhas Logo" class="w-48 h-auto mx-auto">
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Funcionalidades -->
-                <div class="grid md:grid-cols-3 gap-8 mb-16">
-                    <div class="bg-gray-700 p-6 rounded-lg text-center">
-                        <div class="w-16 h-16 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                            </svg>
-                        </div>
-                        <h4 class="text-xl font-semibold text-white mb-2">Castração</h4>
-                        <p class="text-gray-300">Políticas de controle populacional ético</p>
-                    </div>
-                    
-                    <div class="bg-gray-700 p-6 rounded-lg text-center">
-                        <div class="w-16 h-16 bg-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                            </svg>
-                        </div>
-                        <h4 class="text-xl font-semibold text-white mb-2">Vacinação</h4>
-                        <p class="text-gray-300">Programas de saúde preventiva</p>
-                    </div>
-                    
-                    <div class="bg-gray-700 p-6 rounded-lg text-center">
-                        <div class="w-16 h-16 bg-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                            </svg>
-                        </div>
-                        <h4 class="text-xl font-semibold text-white mb-2">Microchipagem</h4>
-                        <p class="text-gray-300">Identificação permanente dos animais</p>
-                    </div>
-                </div>
-
-                <!-- Como Funciona -->
-                <div class="bg-gradient-to-r from-blue-900/20 to-purple-900/20 p-8 rounded-xl border border-gray-700">
-                    <h4 class="text-2xl font-bold text-white mb-6 text-center">Como Funciona</h4>
-                    <div class="grid md:grid-cols-3 gap-6">
-                        <div class="text-center">
-                            <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white font-bold text-xl">1</div>
-                            <h5 class="text-lg font-semibold text-white mb-2">Login Gov.br</h5>
-                            <p class="text-gray-300">Acesse com sua conta Gov.br</p>
+                            
+                            <p class="section_paragraph">
+                                Coordenado pelo <strong class="section_highlight">Ministério do Meio Ambiente e Mudança do Clima</strong>, o SinPatinhas é uma das principais entregas do ProPatinhas – Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos.
+                            </p>
+                            
+                            <div class="section_quote">
+                                <p class="section_quote-text">
+                                    "Seu objetivo é tirar os animais da invisibilidade, reunindo dados essenciais para o planejamento de políticas públicas de bem-estar animal."
+                                </p>
+                            </div>
                         </div>
                         
-                        <div class="text-center">
-                            <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white font-bold text-xl">2</div>
-                            <h5 class="text-lg font-semibold text-white mb-2">Cadastro do Animal</h5>
-                            <p class="text-gray-300">Insira as informações do seu pet</p>
+                        <div class="section_image-wrapper">
+                            <div class="section_image-card">
+                                <img src="assets/images/sinpatinhas_logo.png" alt="SinPatinhas Logo" class="section_image">
+                            </div>
                         </div>
-                        
-                        <div class="text-center">
-                            <div class="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center mx-auto mb-4 text-white font-bold text-xl">3</div>
-                            <h5 class="text-lg font-semibold text-white mb-2">Carteirinha Digital</h5>
-                            <p class="text-gray-300">Receba o QR Code para a coleira</p>
+                    </div>
+
+                    <!-- Funcionalidades -->
+                  <div class="services-grid">
+                    <div class="service-card">
+                        <div class="service-icon blue">
+                        <svg class="icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
+                        </div>
+                        <h4>Castração</h4>
+                        <p>Políticas de controle populacional ético</p>
+                    </div>
+
+                    <div class="service-card">
+                        <div class="service-icon green">
+                        <svg class="icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
+                        </svg>
+                        </div>
+                        <h4>Vacinação</h4>
+                        <p>Programas de saúde preventiva</p>
+                    </div>
+
+                    <div class="service-card">
+                        <div class="service-icon purple">
+                        <svg class="icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                        </div>
+                        <h4>Microchipagem</h4>
+                        <p>Identificação permanente dos animais</p>
+                    </div>
+                    </div>
+
+
+                    <!-- Como Funciona -->
+                    <div class="how-it-works">
+                        <h4 class="how-it-works__title">Como Funciona</h4>
+                        <div class="how-it-works__steps">
+                            <div class="how-it-works__step">
+                                <div class="how-it-works__number">1</div>
+                                <h5 class="how-it-works__step-title">Login Gov.br</h5>
+                                <p class="how-it-works__desc">Acesse com sua conta Gov.br</p>
+                            </div>
+                            <div class="how-it-works__step">
+                                <div class="how-it-works__number">2</div>
+                                <h5 class="how-it-works__step-title">Cadastro do Animal</h5>
+                                <p >Insira as informações do seu pet</p>
+                            </div>
+                            <div class="how-it-works__step">
+                                <div class="how-it-works__number">3</div>
+                                <h5 class="how-it-works__step-title">Carteirinha Digital</h5>
+                                <p class="how-it-works__desc">Receba o QR Code para a coleira</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <!-- Equipe Section -->
-    <section class="py-16 bg-gray-900">
-        <div class="container mx-auto px-6">
-            <div class="max-w-4xl mx-auto text-center">
-                <h3 class="text-3xl md:text-4xl font-bold text-white mb-4">
-                    Nossa Equipe
-                </h3>
-                <div class="w-24 h-1 bg-blue-500 mx-auto mb-12"></div>
-                
-                <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Equipe Section -->
+        <section class="section section--team">
+            <div class="team__container">
+                <div class="team__content">
+                    <h3 class="team__title">
+                        Nossa Equipe
+                    </h3>
+                    <div class="team__divider"></div>
                     
-                    <!-- Antonio -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/antonioscarvalho.png?size=200" alt="Antonio Carvalho" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Antonio Carvalho</h4>
-                    </div>
+                    <div class="equipe-cards">
+                        
+                        <!-- Antonio -->
+                        <div class="Card">
+                            <img src="https://github.com/antonioscarvalho.png?size=200" alt="Antonio Carvalho">
+                            <h4>Antonio Carvalho</h4>
+                        </div>
 
-                    <!-- Heloísa -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/Heloisa-Santos.png?size=200" alt="Heloísa Santos" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Heloísa Santos</h4>
-                    </div>
+                        <!-- Heloísa -->
+                        <div class="Card">
+                            <img src="https://github.com/Heloisa-Santos.png?size=200" alt="Heloísa Santos">
+                            <h4>Heloísa Santos</h4>
+                        </div>
 
-                    <!-- Isaac -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/ispratamena250.png?size=200" alt="Isaac Menezes Pereira" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Isaac Menezes Pereira</h4>
-                    </div>
+                        <!-- Isaac -->
+                        <div class="Card">
+                            <img src="https://github.com/ispratamena250.png?size=200" alt="Isaac Menezes Pereira">
+                            <h4>Isaac Menezes Pereira</h4>
+                        </div>
 
-                    <!-- Letícia -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/leticiakrpaiva.png?size=200" alt="Letícia Paiva" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Letícia Paiva</h4>
-                    </div>
+                        <!-- Letícia -->
+                        <div class="Card">
+                            <img src="https://github.com/leticiakrpaiva.png?size=200" alt="Letícia Paiva">
+                            <h4>Letícia Paiva</h4>
+                        </div>
 
-                    <!-- Luciano -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/LuGit00.png?size=200" alt="Luciano Machado" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Luciano Machado</h4>
-                    </div>
+                        <!-- Luciano -->
+                        <div class="Card">
+                            <img src="https://github.com/LuGit00.png?size=200" alt="Luciano Machado">
+                            <h4>Luciano Machado</h4>
+                        </div>
 
-                    <!-- Mateus -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/14luke08.png?size=200" alt="Mateus Santos Negrini" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Mateus Santos Negrini</h4>
-                    </div>
+                        <!-- Mateus -->
+                        <div class="Card">
+                            <img src="https://github.com/14luke08.png?size=200" alt="Mateus Santos Negrini">
+                            <h4>Mateus Santos Negrini</h4>
+                        </div>
 
-                    <!-- Pedro -->
-                    <div class="bg-gray-800 p-6 rounded-lg border border-gray-700">
-                        <img src="https://github.com/pedrog0.png?size=200" alt="Pedro Gomes Oliveira" class="w-20 h-20 rounded-full mx-auto mb-4">
-                        <h4 class="text-lg font-semibold text-white">Pedro Gomes Oliveira</h4>
+                        <!-- Pedro -->
+                        <div class="Card">
+                            <img src="https://github.com/pedrog0.png?size=200" alt="Pedro Gomes Oliveira">
+                            <h4>Pedro Gomes Oliveira</h4>
+                        </div>
                     </div>
-                </div>
-                
-                <div class="mt-12 bg-gray-800 p-6 rounded-lg border border-gray-700">
-                    <p class="text-gray-300">
-                        Este projeto de análise de requisitos foi desenvolvido com base em ampla pesquisa e contou com metodologias de engenharia de software para garantir uma documentação completa e precisa do sistema SinPatinhas.
-                    </p>
+                    
+                    <div class="Card-secondary">
+                        <p>
+                            Este projeto de análise de requisitos foi desenvolvido com base em ampla pesquisa e contou com metodologias de engenharia de software para garantir uma documentação completa e precisa do sistema SinPatinhas.
+                        </p>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
-</main>
+        </section>
+    </main>
 
-
-    <!-- Footer -->
-    <footer class="bg-gray-900 border-t border-gray-800">
-        <div class="container mx-auto px-6 py-4 text-center text-gray-500">
-            <!-- EDIT THIS: Change to your project's name -->
-            <p>&copy; 2025 Análise - SinPatinhas. All Rights Reserved.</p>
+    <footer class="footer">
+        <div class="footer__container">
+            <p class="footer__copyright">&copy; 2025 Análise - SinPatinhas. All Rights Reserved.</p>
         </div>
     </footer>
 
-    <!-- Custom JavaScript -->
-    <script src="scripts/main.js"></script>
 
+    <script src="scripts/scripts.js">    </script>
+  
+ 
 </body>
 </html>
