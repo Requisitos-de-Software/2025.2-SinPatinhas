@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Planejamento - Atas | Sinpatinhas</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/alpinejs" defer></script>
+
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+
+  <!-- CSS (2 níveis acima) -->
+  <link rel="stylesheet" href="../../styles/main.css"/>
+
+  <style>
+    .gradient-bg { background: linear-gradient(135deg, #1a202c 0%, #2d3748 50%, #1a202c 100%); }
+    .card-hover { transition: all .3s ease; }
+    .card-hover:hover { transform: translateY(-5px); box-shadow: 0 10px 25px -5px rgba(0,0,0,.3); }
+  </style>
+</head>
+<body class="antialiased font-inter">
+
+  <!-- Header -->
+  <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
+    <div class="container mx-auto px-6">
+      <div class="flex justify-between items-center py-4">
+        <div class="flex items-center space-x-3">
+          <img src="../../assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto"/>
+          <h1 class="text-2xl font-bold text-white">Sinpatinhas</h1>
+        </div>
+        <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/></svg>
+        </button>
+      </div>
+
+      <!-- Desktop nav -->
+      <nav class="hidden md:flex justify-center items-center py-3 border-t border-gray-700">
+        <div class="flex space-x-8">
+          <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Home</a>
+          <a href="../../index.html#intro" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Introdução/Equipe</a>
+          <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento</a>
+        </div>
+      </nav>
+    </div>
+
+    <!-- Mobile nav -->
+    <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
+      <div class="container mx-auto px-6 pb-4">
+        <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
+          <a href="../../index.html" class="text-gray-300 hover:text-white block py-2">Home</a>
+          <a href="../../index.html#intro" class="text-gray-300 hover:text-white block py-2">Introdução/Equipe</a>
+          <a href="#" class="text-white font-medium block py-2">Planejamento</a>
+          <a href="../rich-picture/index.html" class="text-gray-300 hover:text-white block py-2">Rich Picture</a>
+          <a href="../heatmap/index.html" class="text-gray-300 hover:text-white block py-2">Heatmap</a>
+          <a href="../aplicativo/index.html" class="text-gray-300 hover:text-white block py-2">Aplicativo Analisado</a>
+          <a href="../cronograma/index.html" class="text-gray-300 hover:text-white block py-2">Cronograma</a>
+          <a href="../atas/index.html" class="text-white bg-cyan-700 rounded px-3 py-2">Atas</a>
+          <a href="../ferramentas/index.html" class="text-gray-300 hover:text-white block py-2">Ferramentas</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <div class="flex min-h-screen pt-24 bg-gray-900">
+    <!-- Sidebar -->
+    <aside class="hidden md:block w-64 bg-gray-800 border-r border-gray-700 fixed left-0 top-24 bottom-0 overflow-y-auto">
+      <div class="p-6">
+        <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
+        <nav class="space-y-2">
+          <a href="../rich-picture/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg">Rich Picture</a>
+          <a href="../cronograma/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg">Cronograma da Equipe</a>
+          <a href="../aplicativo/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg">Aplicativo Analisado</a>
+          <a href="../heatmap/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg">Heatmap da Equipe</a>
+          <a href="../atas/index.html" class="flex items-center px-3 py-2 text-white bg-cyan-700 rounded-lg">Atas de Reuniões</a>
+          <a href="../metodologias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg">Metodologias</a>
+          <a href="../ferramentas/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg">Ferramentas</a>
+        </nav>
+      </div>
+    </aside>
+
+    <!-- Main -->
+    <main class="flex-1 md:ml-64">
+      <div class="container mx-auto px-6 py-16 text-white">
+
+        <!-- Hero -->
+        <section class="text-center mb-12">
+          <div class="inline-block bg-gradient-to-r from-cyan-500 to-blue-500 p-1 rounded-full mb-6">
+            <div class="bg-gray-900 rounded-full px-4 py-1">
+              <span class="text-sm font-semibold text-cyan-300">Registro de Reuniões</span>
+            </div>
+          </div>
+
+          <h1 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight bg-gradient-to-r from-white to-cyan-200 bg-clip-text text-transparent">
+            Atas do Projeto
+          </h1>
+          <p class="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed mb-8">
+            Documentação oficial das reuniões da equipe do projeto Sinpatinhas.
+          </p>
+          <div class="w-24 h-1 bg-cyan-500 mx-auto rounded-full"></div>
+        </section>
+
+        <!-- Accordion Atas -->
+        <section class="space-y-6">
+          <!-- ATA 01 -->
+          <div x-data="{ open: false }" class="gradient-bg rounded-xl border border-gray-700 p-4">
+            <button @click="open = !open" class="flex justify-between items-center w-full text-left">
+              <span class="text-lg font-semibold">ATA 01 – 01/09/2025</span>
+              <svg :class="{ 'rotate-180': open }" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div x-show="open" x-transition class="mt-4 text-gray-300 text-justify leading-relaxed">
+              <p><em>(Conteúdo da ata 01 aqui...)</em></p>
+            </div>
+          </div>
+
+          <!-- ATA 02 -->
+          <div x-data="{ open: false }" class="gradient-bg rounded-xl border border-gray-700 p-4">
+            <button @click="open = !open" class="flex justify-between items-center w-full text-left">
+              <span class="text-lg font-semibold">ATA 02 – 09/09/2025</span>
+              <svg :class="{ 'rotate-180': open }" class="w-6 h-6 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div x-show="open" x-transition class="mt-4 text-gray-300 text-justify leading-relaxed">
+              <p>
+                Aos nove dias do mês de setembro de dois mil e vinte e cinco, às vinte e duas horas, reuniu-se de forma remota o Grupo 1 da disciplina Requisitos de Software, com o objetivo de apresentar e discutir o andamento do projeto SIMPATINHAS, sistema digital vinculado à Lei nº 15.046/2024, que autoriza a criação de cadastro nacional de animais domésticos. A reunião foi aberta pelo integrante Antonio Amadeu de Sousa Carvalho, que saudou os presentes e concedeu a palavra a Luciano Machado. O mesmo contextualizou a lei de referência e apresentou a proposta do sistema, destacando-o como ferramenta pública e gratuita de registro de cães e gatos em todo o território nacional, sob coordenação do Ministério do Meio Ambiente e Mudança do Clima. Em continuidade, Mateus Santos Negrini apresentou o rich picture representativo do funcionamento do sistema, descrevendo a interação entre tutores de animais e médicos veterinários, bem como funcionalidades como cadastro, registro de procedimentos, transferência de propriedade e obrigatoriedade de microchipagem. Na sequência, Heloísa Laura Santos Silva expôs a lista de ferramentas utilizadas pelo grupo, a saber: GitHub, YouTube, MKDocs, Figma, WhatsApp, Discord/Teams, Canva, OBS e Visual Studio Code, justificando a função de cada uma no desenvolvimento do projeto. Posteriormente, Isaac Menezes Pereira apresentou a lista de verificação aplicada ao rich picture, confirmando a coerência da representação gráfica, clareza dos atores, operações e fluxos de dados, além da ausência de redundâncias, destacando a qualidade da modelagem elaborada. Em seguida, Pedro Gomes Oliveira relatou a organização da lista de verificação em planilha Excel, bem como a revisão da legenda do rich picture, tornando-a mais objetiva e legível. Na sequência, Letícia Kellen Ramos Paiva preparou-se para expor suas contribuições, conforme programação interna do grupo. Nada mais havendo a tratar, a reunião foi encerrada, sendo lavrada a presente ata.
+uniu-se de forma remota o Grupo 1 da disciplina <strong>Requisitos de Software</strong>, com o objetivo de apresentar e discutir o andamento do projeto <strong>SINPATINHAS</strong>, sistema digital vinculado à Lei nº 15.046/2024.
+              </p>
+              <p class="mt-2">
+                Brasília, nove de setembro de dois mil e vinte e cinco. 
+                 
+                <br><strong>Participantes:</strong> Antonio, Heloísa, Isaac, Letícia, Luciano, Mateus, Pedro.
+                <br><strong>link da reunião:</strong> https://youtu.be/UGXlQqBkPDU
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Voltar -->
+        <div class="text-center mt-12">
+          <a href="../index.html" class="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors duration-300">
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg>
+            Voltar ao Planejamento
+          </a>
+        </div>
+
+      </div>
+    </main>
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 border-t border-gray-800 md:ml-64">
+    <div class="container mx-auto px-6 py-6 text-center text-gray-500">
+      <p>&copy; 2025 Análise - Sinpatinhas. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+
+  <!-- JS -->
+  <script src="../../scripts/main.js"></script>
+  <script>
+    // Mobile menu
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+    if (mobileMenuButton && mobileMenu) {
+      mobileMenuButton.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
+    }
+  </script>
+</body>
+</html>
