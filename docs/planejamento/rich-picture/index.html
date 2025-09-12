@@ -40,8 +40,9 @@
       <!-- Desktop nav  -->
       <nav class="hidden md:flex justify-center items-center py-3 border-t border-gray-700">
         <div class="flex space-x-8">
-          <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Home</a>
-          <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento</a>
+          <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Tela inicial</a>
+          <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento do Projeto</a>
+          <a href="../../elicitacao/index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Elicitação de Requisitos</a>
         </div>
       </nav>
     </div>
@@ -50,7 +51,7 @@
     <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
       <div class="container mx-auto px-6 pb-4">
         <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
-          <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Home</a>
+          <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Tela inicial</a>
           <a href="#" class="text-white font-medium block py-2">Planejamento</a>
           <a href="../rich-picture/index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Rich Picture</a>
           <a href="../heatmap/index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Heatmap</a>
@@ -62,6 +63,7 @@
   <div class="flex min-h-screen pt-24 bg-gray-900">
     <!-- Sidebar -->
     <aside class="hidden md:block w-64 bg-gray-800 border-r border-gray-700 fixed left-0 top-24 bottom-0 overflow-y-auto">
+      <br>
       <div class="p-6">
         <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
         <nav class="space-y-2">
@@ -114,6 +116,13 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
             </svg>
             Ferramentas
+          </a>
+          <a href="../referencias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+              <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                      d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3-7 3V5z" />
+              </svg>
+              Referências
           </a>
         </nav>
       </div>
@@ -245,6 +254,7 @@
                   <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Data</th>
                   <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Descrição</th>
                   <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Autores</th>
+                  <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisores</th>
                 </tr>
               </thead>
               <tbody class="divide-y divide-gray-700">
@@ -252,7 +262,15 @@
                   <td class="px-4 py-3 font-medium">1.0</td>
                   <td class="px-4 py-3 text-gray-300">09/09/2025</td>
                   <td class="px-4 py-3 text-gray-300">Criação da página do Rich Picture</td>
-                  <td class="px-4 py-3 text-gray-300">Pedro Gomes Oliveira</td>
+                  <td class="px-4 py-3 text-gray-300">Pedro</td>
+                  <td class="px-4 py-3 text-gray-300">Antonio</td>
+                </tr>
+                <tr class="table-row-hover">
+                    <td class="px-4 py-3 font-medium">1.1</td>
+                    <td class="px-4 py-3 text-gray-300">09/09/2025</td>
+                    <td class="px-4 py-3 text-gray-300">Alteração da página do Rich Picture</td>
+                    <td class="px-4 py-3 text-gray-300">Antonio</td>
+                    <td class="px-4 py-3 text-gray-300">Pedro</td>
                 </tr>
               </tbody>
             </table>

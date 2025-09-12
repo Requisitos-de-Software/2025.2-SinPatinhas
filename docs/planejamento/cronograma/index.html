@@ -47,36 +47,58 @@
     </style>
 </head>
 <body class="antialiased font-inter">
-
     <!-- Header Section -->
     <header class="bg-gray-900/90 backdrop-blur-sm fixed top-0 left-0 right-0 z-10 border-b border-gray-800">
         <div class="container mx-auto px-6">
-            <!-- Top Bar with Title and Mobile Menu Toggle -->
+            <!-- Top Bar with Title, Theme Toggle and Mobile Menu Toggle -->
             <div class="flex justify-between items-center py-4">
                 <div class="flex items-center space-x-3">
                     <img src="../../assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="h-10 w-auto">
                     <h1 class="text-2xl font-bold text-white">Sinpatinhas</h1>
                 </div>
-                <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
-                </button>
+                <div class="flex items-center space-x-4">
+                    <!-- Theme Toggle Button -->
+                    <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema">
+                        <svg class="theme-toggle__icon theme-toggle__icon--dark w-6 h-6 text-gray-300" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <svg class="theme-toggle__icon theme-toggle__icon--light w-6 h-6 text-gray-300 hidden" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+
+                    <!-- Mobile Menu Toggle -->
+                    <button id="mobile-menu-button" class="md:hidden text-gray-300 hover:text-white focus:outline-none">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+                        </svg>
+                    </button>
+                </div>
             </div>
-            
+
             <!-- Navigation Bar for Desktop -->
             <nav class="hidden md:flex justify-center items-center py-3 border-t border-gray-700">
                 <div class="flex space-x-8">
-                    <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Home</a>
-                    <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento</a>
+                    <a href="../../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Tela inicial</a>
+                    <a href="#" class="text-white font-semibold border-b-2 border-cyan-400 pb-1">Planejamento do Projeto</a>
+                    <a href="../../elicitacao/index.html" class="text-gray-300 hover:text-white transition-colors duration-300 font-medium">Elicitação de Requisitos</a>
                 </div>
             </nav>
         </div>
-
         <!-- Mobile Menu Dropdown -->
         <div id="mobile-menu" class="hidden md:hidden bg-gray-900/90 backdrop-blur-sm">
             <div class="container mx-auto px-6 pb-4">
                 <nav class="flex flex-col space-y-2 pt-2 border-t border-gray-700">
-                    <a href="../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Home</a>
-                    <a href="#" class="text-white font-medium block py-2">Planejamento</a>
+                    <a href="../index.html" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Tela inicial</a>
+                    <a href="#" class="text-white font-medium block py-2">Planejamento de Projeto</a>
                     <a href="../index.html#rich-picture" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Rich Picture</a>
                     <a href="../index.html#heatmap" class="text-gray-300 hover:text-white transition-colors duration-300 block py-2">Heatmap</a>
                 </nav>
@@ -87,6 +109,7 @@
     <div class="flex min-h-screen pt-24 bg-gray-900">
         <!-- Sidebar -->
         <aside class="hidden md:block w-64 bg-gray-800 border-r border-gray-700 fixed left-0 top-24 bottom-0 overflow-y-auto">
+            <br>
             <div class="p-6">
                 <h3 class="text-lg font-semibold text-white mb-4">Planejamento</h3>
                 <nav class="space-y-2">
@@ -140,6 +163,13 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
                         </svg>
                         Ferramentas
+                    </a>
+                    <a href="../referencias/index.html" class="flex items-center px-3 py-2 text-gray-300 hover:text-white hover:bg-gray-700 rounded-lg transition-colors duration-200">
+                        <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3-7 3V5z" />
+                        </svg>
+                        Referências
                     </a>
                 </nav>
             </div>
@@ -346,6 +376,7 @@
                                         <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Data</th>
                                         <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Descrição</th>
                                         <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Autores</th>
+                                        <th class="px-4 py-3 text-left text-sm font-medium text-gray-300 uppercase tracking-wider">Revisores</th>
                                     </tr>
                                 </thead>
                                 <tbody class="divide-y divide-gray-700">
@@ -353,7 +384,15 @@
                                         <td class="px-4 py-3 font-medium">1.0</td>
                                         <td class="px-4 py-3 text-gray-300">08/09/2025</td>
                                         <td class="px-4 py-3 text-gray-300">Criação da página do cronograma</td>
-                                        <td class="px-4 py-3 text-gray-300">Antonio Amadeu de Sousa Carvalho</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio</td>
+                                        <td class="px-4 py-3 text-gray-300">Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td>
+                                    </tr>
+                                    <tr class="table-row-hover">
+                                        <td class="px-4 py-3 font-medium">1.1</td>
+                                        <td class="px-4 py-3 text-gray-300">09/09/2025</td>
+                                        <td class="px-4 py-3 text-gray-300">Alteração da página do cronograma</td>
+                                        <td class="px-4 py-3 text-gray-300">Antonio</td>
+                                        <td class="px-4 py-3 text-gray-300">Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -372,8 +411,6 @@
     </footer>
 
     <!-- Custom JavaScript -->
-    <script src="../scripts/main.js"></script>
-    
     <script>
         // Mobile menu functionality
         const mobileMenuButton = document.getElementById('mobile-menu-button');
@@ -384,7 +421,21 @@
                 mobileMenu.classList.toggle('hidden');
             });
         }
+
+        // Theme toggle functionality
+        const themeToggleButton = document.getElementById('theme-toggle');
+        const darkIcon = document.querySelector('.theme-toggle__icon--dark');
+        const lightIcon = document.querySelector('.theme-toggle__icon--light');
+
+        themeToggleButton.addEventListener('click', () => {
+            document.documentElement.classList.toggle('dark');
+
+            // Toggle icons
+            darkIcon.classList.toggle('hidden');
+            lightIcon.classList.toggle('hidden');
+        });
     </script>
+
 
 </body>
 </html>
