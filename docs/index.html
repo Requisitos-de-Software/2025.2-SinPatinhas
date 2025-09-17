@@ -1,264 +1,169 @@
 <!DOCTYPE html>
-<html lang="pt-BR" class="scroll-smooth">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SinPatinhas</title>
-    <link rel="stylesheet" href="styles/styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com"/>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>SinPatinhas — Análise de Requisitos</title>
+
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+
+  <style>
+    .app-name-link img { height: 50px; margin-right: .5rem; }
+    .content img { max-width: 100%; }
+
+
+    .sidebar{ font-size: 15px; }
+
+    .sidebar-nav strong{
+      font-size: 1.10rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .01em;
+      margin: .75rem 0 .35rem;
+      display: block;
+    }
+
+    .sidebar-nav > ul > li { margin: .2rem 0; }
+    .sidebar-nav > ul > li > a{
+      font-size: 1.02rem;
+      font-weight: 600;
+      line-height: 1.25;
+      padding: 3px 0;
+    }
+
+    .sidebar-nav .app-sub-sidebar{ margin: 4px 0 6px; padding-left: 14px; }
+    .sidebar-nav .app-sub-sidebar a{
+      font-size: .95rem;
+      line-height: 1.22;
+      padding: 2px 0;
+      font-weight: 500;
+    }
+
+    .sidebar-nav .app-sub-sidebar .app-sub-sidebar{ padding-left: 12px; }
+
+
+    .sidebar-nav ul{ list-style: none; padding-left: 0; }
+    .sidebar-nav li:before,
+    .sidebar-nav a:before,
+    .sidebar-nav .app-sub-sidebar li:before,
+    .sidebar-nav .app-sub-sidebar a:before{
+      content: none !important;
+    }
+
+
+    .sidebar-nav li.active > a { color: #3766ae !important; font-weight: 700; }
+    .sidebar-nav li a:hover { color: #274b87 !important; }
+
+
+    .app-nav{ padding-right: 120px !important; }   
+    .cover .app-nav{ padding-right: 120px !important; }
+    .cover .app-nav a{
+      color: #fff !important;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .cover .app-nav a:hover{ text-decoration: underline; }
+
+    .app-nav ul li:nth-child(2){ display: none !important; }
+
+    .github-corner svg{
+      position: fixed;
+      top: 0; right: 0;
+      z-index: 10000;
+      border: 0;
+      width: 110px; height: 110px;
+      fill: #ffffff;    
+      color: #2a61b3;   
+    }
+    .github-corner .octo-arm{ transform-origin: 130px 106px; }
+    .github-corner:hover .octo-arm{ animation: octocat-wave 560ms ease-in-out; }
+    @keyframes octocat-wave{
+      0%,100% { transform: rotate(0); }
+      20%,60% { transform: rotate(-20deg); }
+      40%,80% { transform: rotate(10deg); }
+    }
+    @media (max-width:600px){
+      .github-corner:hover .octo-arm{ animation: none; }
+      .github-corner .octo-arm{ animation: octocat-wave 1.6s ease-in-out infinite; }
+    }
+
+    .sidebar {
+      background: #f3f4f6 !important;   
+      border-right: 1px solid #e5e7eb !important;
+    }
+
+    .sidebar a { color: #1f2937 !important; }         
+    .sidebar a:hover { color: #0f172a !important; }   
+    .sidebar-nav strong { color: #111827 !important; }
+
+    .sidebar-nav li.active > a {
+      background: #e8f0fe !important;   
+      color: #1d4ed8 !important;
+      border-radius: 6px;
+      padding: 4px 8px;
+    }
+
+    .sidebar .search input {
+      background: #eef2f7 !important;
+      border: 1px solid #e5e7eb !important;
+      color: #111827 !important;
+    }
+
+    .app-nav {
+      background: linear-gradient(180deg, #f8fafc, #f1f5f9) !important;
+    }
+    .cover .app-nav { background: transparent !important; }
+
+      </style>
 </head>
 <body>
+  <div id="app"></div>
 
-    <header class="header">
-        <div class="header__container">
-            <div class="header__topbar">
-                <div class="header__brand">
-                    <img src="assets/images/sinpatinhas_logo.png" alt="Sinpatinhas Logo" class="header__logo">
-                    <h1>SinPatinhas</h1>
-                </div>
-                <div class="header__actions">
-                    <!-- Toggle de tema -->
-                    <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema">
-                        <svg class="theme-toggle__icon theme-toggle__icon--dark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <circle cx="12" cy="12" r="5"></circle>
-                            <line x1="12" y1="1" x2="12" y2="3"></line>
-                            <line x1="12" y1="21" x2="12" y2="23"></line>
-                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                            <line x1="1" y1="12" x2="3" y2="12"></line>
-                            <line x1="21" y1="12" x2="23" y2="12"></line>
-                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                        </svg>
-                        <svg class="theme-toggle__icon theme-toggle__icon--light" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                        </svg>
-                    </button>
-                    <button id="mobile-menu-button" class="header__mobile-toggle">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <line x1="3" y1="12" x2="21" y2="12"></line>
-                            <line x1="3" y1="6" x2="21" y2="6"></line>
-                            <line x1="3" y1="18" x2="21" y2="18"></line>
-                        </svg>
-                    </button>
-                </div>
-            </div>
-            
-            <div class="navbar__links">
-                <a href="#intro" class="navbar__link">Tela inicial</a>
-                <a href="planejamento/index.html" class="navbar__link">Planejamento do Projeto</a>
-                <a href="elicitacao/index.html" class="navbar__link">Elicitação de Requisitos</a>
-            </div>
-            
-        </div>
-        <div id="mobile-menu" class="mobile-menu">
-            <div class="mobile-menu__container">
-                <nav class="mobile-menu__nav">
-                    <a href="#intro" class="mobile-menu__link">Tela inicial</a>
-                    <a href="planejamento/index.html" class="mobile-menu__link">Planejamento do Projeto</a>
-                    <a href="elicitacao/index.html" class="mobile-menu__link">Elicitação de Requisitos</a>
-
-                </nav>
-            </div>
-        </div>
-    </header>
-
-    <main>
-        <!-- Hero Section -->
-        <section class="hero">
-            <div class="container">
-                <div class="hero-content">
-                <h1>
-                    Análise de Requisitos
-                </h1>
-                <h2> <strong class="section_highlight">Sinpatinhas</strong></h2>
-                <p>
-                    Sistema do Cadastro Nacional de Animais Domésticos
-                </p>
-                <div class="hero-actions">
-                    <a href="#intro" class="btn btn-primary">
-                    Conhecer o Projeto
-                    </a>
-                    <a href="planejamento/index.html" class="btn btn-secondary">
-                    Ver Planejamento
-                    </a>
-                </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Introdução Section -->
-        <section id="intro" class="section section--intro">
-            <div class="section_container">
-                <div class="section_content">
-                    <div class="section_header">
-                        <h3 class="section_title">
-                            O que é o SinPatinhas?
-                        </h3>
-                        <div class="section_divider"></div>
-                    </div>
-                    
-                    <div class="section_grid">
-                        <div class="section_text">
-                            <p>
-                                O <strong class="section_highlight">SinPatinhas – Sistema do Cadastro Nacional de Animais Domésticos</strong> é uma ferramenta pública, gratuita e digital criada pelo Governo Federal para registrar cães e gatos em todo o território nacional.
-                            </p>
-                            
-                            <p class="section_paragraph">
-                                Coordenado pelo <strong class="section_highlight">Ministério do Meio Ambiente e Mudança do Clima</strong>, o SinPatinhas é uma das principais entregas do ProPatinhas – Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos.
-                            </p>
-                            
-                            <div class="section_quote">
-                                <p class="section_quote-text">
-                                    "Seu objetivo é tirar os animais da invisibilidade, reunindo dados essenciais para o planejamento de políticas públicas de bem-estar animal."
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="section_image-wrapper">
-                            <div class="section_image-card">
-                                <img src="assets/images/sinpatinhas_logo.png" alt="SinPatinhas Logo" class="section_image">
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Funcionalidades -->
-                  <div class="services-grid">
-                    <div class="service-card">
-                        <div class="service-icon blue">
-                        <svg class="icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                        </svg>
-                        </div>
-                        <h4>Castração</h4>
-                        <p>Políticas de controle populacional ético</p>
-                    </div>
-
-                    <div class="service-card">
-                        <div class="service-icon green">
-                        <svg class="icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
-                        </svg>
-                        </div>
-                        <h4>Vacinação</h4>
-                        <p>Programas de saúde preventiva</p>
-                    </div>
-
-                    <div class="service-card">
-                        <div class="service-icon purple">
-                        <svg class="icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                        </svg>
-                        </div>
-                        <h4>Microchipagem</h4>
-                        <p>Identificação permanente dos animais</p>
-                    </div>
-                    </div>
+  <script>
+    window.$docsify = {
+      name: '<img src="assets/images/sinpatinhas_logo.png" alt="logo"> SinPatinhas',
+      loadSidebar: true,
+      loadNavbar: true,
+      coverpage: true,
+      auto2top: true,
+      subMaxLevel: 2,   
+      search: 'auto'
+    };
+  </script>
 
 
-                    <!-- Como Funciona -->
-                    <div class="how-it-works">
-                        <h4 class="how-it-works__title">Como Funciona</h4>
-                        <div class="how-it-works__steps">
-                            <div class="how-it-works__step">
-                                <div class="how-it-works__number">1</div>
-                                <h5 class="how-it-works__step-title">Login Gov.br</h5>
-                                <p class="how-it-works__desc">Acesse com sua conta Gov.br</p>
-                            </div>
-                            <div class="how-it-works__step">
-                                <div class="how-it-works__number">2</div>
-                                <h5 class="how-it-works__step-title">Cadastro do Animal</h5>
-                                <p >Insira as informações do seu pet</p>
-                            </div>
-                            <div class="how-it-works__step">
-                                <div class="how-it-works__number">3</div>
-                                <h5 class="how-it-works__step-title">Carteirinha Digital</h5>
-                                <p class="how-it-works__desc">Receba o QR Code para a coleira</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+  <a href="https://github.com/Requisitos-de-Software/2025.2-Grupo01"
+     class="github-corner"
+     aria-label="Ver este projeto no GitHub"
+     target="_blank" rel="noopener">
+    <svg viewBox="0 0 250 250" aria-hidden="true" focusable="false">
 
-        <!-- Equipe Section -->
-        <section class="section section--team">
-            <div class="team__container">
-                <div class="team__content">
-                    <h3 class="team__title">
-                        Nossa Equipe
-                    </h3>
-                    <div class="team__divider"></div>
-                    
-                    <div class="equipe-cards">
-                        
-                        <!-- Antonio -->
-                        <div class="Card">
-                            <img src="https://github.com/antonioscarvalho.png?size=200" alt="Antonio Carvalho">
-                            <h4>Antonio Carvalho</h4>
-                        </div>
-
-                        <!-- Heloísa -->
-                        <div class="Card">
-                            <img src="https://github.com/Heloisa-Santos.png?size=200" alt="Heloísa Santos">
-                            <h4>Heloísa Santos</h4>
-                        </div>
-
-                        <!-- Isaac -->
-                        <div class="Card">
-                            <img src="https://github.com/ispratamena250.png?size=200" alt="Isaac Menezes Pereira">
-                            <h4>Isaac Menezes Pereira</h4>
-                        </div>
-
-                        <!-- Letícia -->
-                        <div class="Card">
-                            <img src="https://github.com/leticiakrpaiva.png?size=200" alt="Letícia Paiva">
-                            <h4>Letícia Paiva</h4>
-                        </div>
-
-                        <!-- Luciano -->
-                        <div class="Card">
-                            <img src="https://github.com/LuGit00.png?size=200" alt="Luciano Machado">
-                            <h4>Luciano Machado</h4>
-                        </div>
-
-                        <!-- Mateus -->
-                        <div class="Card">
-                            <img src="https://github.com/14luke08.png?size=200" alt="Mateus Santos Negrini">
-                            <h4>Mateus Santos Negrini</h4>
-                        </div>
-
-                        <!-- Pedro -->
-                        <div class="Card">
-                            <img src="https://github.com/pedrog0.png?size=200" alt="Pedro Gomes Oliveira">
-                            <h4>Pedro Gomes Oliveira</h4>
-                        </div>
-                    </div>
-                    
-                    <div class="Card-secondary">
-                        <p>
-                            Este projeto de análise de requisitos foi desenvolvido com base em ampla pesquisa e contou com metodologias de engenharia de software para garantir uma documentação completa e precisa do sistema SinPatinhas.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <footer class="footer">
-        <div class="footer__container">
-            <p class="footer__copyright">&copy; 2025 Análise - SinPatinhas. All Rights Reserved.</p>
-        </div>
-    </footer>
+  <path class="octo-arm" fill="currentColor"
+    d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6
+      C122.0,82.7 120.5,78.6 120.5,78.6
+      C119.2,72.0 123.4,76.3 123.4,76.3
+      C127.3,80.9 125.5,87.3 125.5,87.3
+      C122.9,97.6 130.6,101.9 134.4,103.2"></path>
 
 
-    <script src="scripts/scripts.js">    </script>
-  
- 
+  <path class="octo-body" fill="currentColor"
+    d="M115.0,115.0 C114.9,115.1 100.3,110.0 100.3,89.6
+      C100.3,79.7 104.3,73.6 104.3,73.6
+      C99.9,61.1 105.1,51.7 105.1,51.7
+      C114.3,44.6 125.3,58.0 125.3,58.0
+      C133.7,55.1 142.5,53.9 150.9,54.4
+      C161.4,55.1 170.7,58.6 170.7,58.6
+      C170.7,58.6 178.7,45.3 187.9,51.6
+      C187.9,51.6 192.9,61.1 188.5,73.6
+      C188.5,73.6 192.5,79.7 192.5,89.6
+      C192.5,110.1 177.9,115.0 177.8,115.0"></path>
+
+  </a>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>

@@ -1,0 +1,73 @@
+site_name: SinPatinhas — Análise de Requisitos
+repo_name: 2025.2-Grupo01
+repo_url: "https://github.com/Requisitos-de-Software/2025.2-Grupo01"          
+
+theme:
+  name: material
+  language: pt
+  logo: docs/assets/images/sinpatinhas_logo.png
+  favicon: docs/assets/images/sinpatinhas_logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.expand
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: cyan
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+      locale: pt_BR
+      fallback_to_build_date: true
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - styles/overrides.css
+
+nav:
+  - Tela inicial: index.md
+  - Planejamento:
+      - Visão geral: planejamento/index.md
+      - Aplicativo analisado: planejamento/aplicativo/index.md
+      - Atas de reuniões: planejamento/atas/index.md
+      - Cronograma da equipe: planejamento/cronograma/index.md
+      - Ferramentas: planejamento/ferramentas/index.md
+      - Heatmap da equipe: planejamento/heatmap/index.md
+      - Metodologias: planejamento/metodologias/index.md
+      - Referências: planejamento/referencias/index.md
+      - Rich Picture: planejamento/rich-picture/index.md
+  - Elicitação de Requisitos:
+      - Visão geral: elicitacao/index.md
