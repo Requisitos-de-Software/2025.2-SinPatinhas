@@ -11,8 +11,9 @@
 Este heatmap mostra a intensidade do envolvimento de cada membro da equipe nas diferentes fases do projeto. **Cores mais intensas** indicam maior alocação de tempo e esforço.
 
 <div class="img-frame">
-  <img src="../../assets/images/Heatmap.png" alt="Heatmap de alocação da equipe Sinpatinhas" />
+  <img src="assets/images/Heatmap.png" alt="Heatmap de alocação da equipe Sinpatinhas">
 </div>
+
 
 ### Legenda
 | Cor | Significado |

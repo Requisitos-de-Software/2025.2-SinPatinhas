@@ -3,22 +3,22 @@
 <div class="chip">Ecossistema de Trabalho</div>
 
 
-## Tabela de Ferramentas  
+## Tabela de Ferramentas
 
 | Logo | Ferramenta | Finalidade | Categoria |
 |---:|---|---|---|
-| <img class="tool-logo" src="../../assets/images/tools/github.png" alt="GitHub"> | **GitHub** | Hospedagem do repositório e controle de versão | <span class="tag tag-blue">Versionamento</span> |
-| <img class="tool-logo" src="../../assets/images/tools/Youtube_logo.png" alt="YouTube"> | **YouTube** | Hospedagem dos vídeos das reuniões | <span class="tag tag-red">Mídia</span> |
-| <img class="tool-logo" src="../../assets/images/tools/mkdocs.png" alt="MkDocs"> | **MkDocs** | Criação e publicação das páginas de documentação | <span class="tag tag-green">Documentação</span> |
-| <img class="tool-logo" src="../../assets/images/tools/figma.png" alt="Figma"> | **Figma** | Criação de protótipos e design de interfaces | <span class="tag tag-purple">Design</span> |
-| <img class="tool-logo" src="../../assets/images/tools/wpp.png" alt="WhatsApp"> | **WhatsApp** | Comunicação rápida da equipe | <span class="tag tag-emerald">Comunicação</span> |
-| <img class="tool-logo" src="../../assets/images/tools/discord.png" alt="Discord"> | **Discord** | Reuniões por voz e compartilhamento de tela | <span class="tag tag-indigo">Reuniões</span> |
-| <img class="tool-logo" src="../../assets/images/tools/obs.png" alt="OBS Studio"> | **OBS Studio** | Gravação das reuniões | <span class="tag tag-red">Gravação</span> |
-| <img class="tool-logo" src="../../assets/images/tools/canva.png" alt="Canva"> | **Canva** | Esquemas gráficos e personas | <span class="tag tag-pink">Design Gráfico</span> |
-| <img class="tool-logo" src="../../assets/images/tools/vscode.png" alt="VS Code"> | **Visual Studio Code** | Edição dos arquivos da documentação | <span class="tag tag-blue">Editor</span> |
-| <img class="tool-logo" src="../../assets/images/tools/gpt.png" alt="ChatGPT"> | **ChatGPT** | Verificação e assistência na elaboração do site | <span class="tag tag-green">Verificação</span> |
+| <img src="assets/images/tools/github.png" alt="GitHub" width="28"> | **GitHub** | Hospedagem do repositório e controle de versão | <span class="tag tag-blue">Versionamento</span> |
+| <img src="assets/images/tools/YouTube_logo.png" alt="YouTube" width="28"> | **YouTube** | Hospedagem dos vídeos das reuniões | <span class="tag tag-red">Mídia</span> |
+| <img src="assets/images/tools/mkdocs.png" alt="MkDocs" width="28"> | **MkDocs** | Criação e publicação das páginas de documentação | <span class="tag tag-green">Documentação</span> |
+| <img src="assets/images/tools/figma.png" alt="Figma" width="28"> | **Figma** | Criação de protótipos e design de interfaces | <span class="tag tag-purple">Design</span> |
+| <img src="assets/images/tools/wpp.png" alt="WhatsApp" width="28"> | **WhatsApp** | Comunicação rápida da equipe | <span class="tag tag-emerald">Comunicação</span> |
+| <img src="assets/images/tools/discord.png" alt="Discord" width="28"> | **Discord** | Reuniões por voz e compartilhamento de tela | <span class="tag tag-indigo">Reuniões</span> |
+| <img src="assets/images/tools/obs.png" alt="OBS Studio" width="28"> | **OBS Studio** | Gravação das reuniões | <span class="tag tag-red">Gravação</span> |
+| <img src="assets/images/tools/canva.png" alt="Canva" width="28"> | **Canva** | Esquemas gráficos e personas | <span class="tag tag-pink">Design Gráfico</span> |
+| <img src="assets/images/tools/vscode.png" alt="VS Code" width="28"> | **Visual Studio Code** | Edição dos arquivos da documentação | <span class="tag tag-blue">Editor</span> |
+| <img src="assets/images/tools/gpt.png" alt="ChatGPT" width="28"> | **ChatGPT** | Verificação e assistência na elaboração do site | <span class="tag tag-green">Verificação</span> |
 
----
+--
 
 ## Histórico de Versão
 

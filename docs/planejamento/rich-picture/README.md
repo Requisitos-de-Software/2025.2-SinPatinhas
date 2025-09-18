@@ -11,12 +11,12 @@ Representação visual do problema, dos atores e de suas relações no contexto 
 A seguir está o Rich Picture do projeto, acompanhado da legenda para facilitar a leitura.
 
 <div class="img-frame">
-  <img src="../../assets/images/richpicture/richpicture.png" alt="Rich Picture do Projeto SinPatinhas">
+  <img src="assets/images/richpicture/richpicture.png" alt="Rich Picture do Projeto SinPatinhas">
 </div>
 
 ### Legenda
 <div class="img-frame">
-  <img src="../../assets/images/richpicture/richpicture_legenda_01.png" alt="Legenda do Rich Picture">
+  <img src="assets/images/richpicture/richpicture_legenda_01.png" alt="Legenda do Rich Picture">
 </div>
 
 ---
