@@ -21,7 +21,7 @@ Este heatmap mostra a intensidade do envolvimento de cada membro da equipe nas d
 | <span class="legend-dot" style="background:#15803d"></span> | Alta participação |
 | <span class="legend-dot" style="background:#22c55e"></span> | Participação média |
 | <span class="legend-dot" style="background:#eab308"></span> | Participação moderada |
-| <span class="legend-dot" style="background:#6b7280"></span> | Baixa participação |
+| <span class="legend-dot" style="background:#FF0000"></span> | Baixa participação |
 
 ---
 

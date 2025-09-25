@@ -1,46 +1,251 @@
-# Heatmap da Equipe
+# Cronograma
 
-<div class="chip">Distribuição de Trabalho</div>
+<div class="chip">Cronograma de atividades</div>
 
-> Visualize a distribuição de carga de trabalho e o envolvimento dos membros da equipe ao longo das diferentes etapas do projeto **Sinpatinhas**.
-
----
-
-## Visualização da Alocação da Equipe
-
-Este heatmap mostra a intensidade do envolvimento de cada membro da equipe nas diferentes fases do projeto. **Cores mais intensas** indicam maior alocação de tempo e esforço.
-
-<div class="img-frame">
-  <img src="../../assets/images/Heatmap.png" alt="Heatmap de alocação da equipe Sinpatinhas" />
-</div>
-
-### Legenda
-| Cor | Significado |
-|---|---|
-| <span class="legend-dot" style="background:#15803d"></span> | Alta participação |
-| <span class="legend-dot" style="background:#22c55e"></span> | Participação média |
-| <span class="legend-dot" style="background:#eab308"></span> | Participação moderada |
-| <span class="legend-dot" style="background:#6b7280"></span> | Baixa participação |
+## Descrição
+O cronograma visa à organização de todas as tarefas que deverão ser realizadas no decorrer da disciplina de Requisitos de Software. Portanto, as atividades foram classificadas quanto ao seu planejamento e execução, para melhor acompanhamento e gestão do projeto.
 
 ---
 
-## Como interpretar
-- Cada **linha** representa um membro da equipe.  
-- Cada **coluna** representa uma etapa/entrega do projeto.  
-- A **intensidade da cor** indica o nível de envolvimento em cada atividade.
+## Etapa 1 – Planejamento do Projeto
 
-## Objetivo
-Garantir uma **distribuição equilibrada** de trabalho, identificar possíveis **sobrecargas** e visualizar claramente o **comprometimento** de cada membro em todas as fases do projeto.
+### Planejado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>04/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>–</td><td>–</td></tr>
+<tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>–</td><td>–</td></tr>
+<tr><td>06/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>05/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>–</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio, Mateus, Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 1</b> – Cronograma Planejado da Etapa 1</p>
+
+### Executado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade Executada</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>02/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>03/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>–</td><td>–</td></tr>
+<tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>–</td><td>–</td></tr>
+<tr><td>05/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>06/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>–</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio, Mateus, Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 2</b> – Cronograma Executado da Etapa 1</p>
+
+---
+
+## Etapa 2 – Elicitação
+
+### Planejado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>20/09/2025</td><td>Definição do perfil de usuários</td><td>Mateus, Luciano</td><td>–</td><td>–</td></tr>
+<tr><td>22/09/2025</td><td>Levantamento das técnicas de elicitação usadas</td><td>Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>24/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>24/09/2025</td><td>Upload das técnicas de elicitação que serão usadas no projeto</td><td>Heloísa</td><td>–</td><td>–</td></tr>
+<tr><td>26/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>26/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>–</td><td>–</td></tr>
+<tr><td>26/09/2025</td><td>Inspeção Etapa 2</td><td>Isaac e Letícia</td><td>–</td><td>–</td></tr>
+<tr><td>27/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>30/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>01/10/2025</td><td>Inspeção Etapa 2 - Grupo 2</td><td>Pedro e Heloísa</td><td>–</td><td>–</td></tr>
+<tr><td>03/10/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 3</b> – Cronograma Planejado da Etapa 2</p>
+
+### Executado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade Executada</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 4</b> – Cronograma Executado da Etapa 2</p>
+
+## Etapa 3 – Modelagem Tradicional
+
+### Planejado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>07/10/2025</td><td>Elaboração do Diagrama de Caso de Uso</td><td>Antonio, Letícia</td><td>–</td><td>–</td></tr>
+<tr><td>09/10/2025</td><td>Especificação de Casos de Uso</td><td>Pedro, Heloísa</td><td>–</td><td>–</td></tr>
+<tr><td>11/10/2025</td><td>Elaboração do Diagrama de Classes</td><td>Mateus, Luciano</td><td>–</td><td>–</td></tr>
+<tr><td>13/10/2025</td><td>Validação dos Modelos Tradicionais</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>14/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>18/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 5</b> – Cronograma Planejado da Etapa 3</p>
+
+### Executado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade Executada</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 6</b> – Cronograma Executado da Etapa 3</p>
+
+---
+
+## Etapa 4 – Modelagem Ágil
+
+### Planejado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>21/10/2025</td><td>Definição das Histórias de Usuário</td><td>Luciano, Isaac</td><td>–</td><td>–</td></tr>
+<tr><td>23/10/2025</td><td>Construção do Backlog do Produto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>25/10/2025</td><td>Construção dos Diagramas Ágeis (User Story Mapping, etc.)</td><td>Antonio, Letícia</td><td>–</td><td>–</td></tr>
+<tr><td>27/10/2025</td><td>Revisão e validação das histórias com stakeholders</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>28/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>31/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 7</b> – Cronograma Planejado da Etapa 4</p>
+
+### Executado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade Executada</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 8</b> – Cronograma Executado da Etapa 4</p>
+
+---
+
+## Etapa 5 – Análise de Requisitos
+
+### Planejado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>04/11/2025</td><td>Aplicação das técnicas de validação (MoSCoW, SMART, INVEST)</td><td>Pedro, Heloísa</td><td>–</td><td>–</td></tr>
+<tr><td>06/11/2025</td><td>Consolidação das métricas de qualidade</td><td>Antonio, Mateus</td><td>–</td><td>–</td></tr>
+<tr><td>08/11/2025</td><td>Validação cruzada entre os artefatos</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>10/11/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>14/11/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 9</b> – Cronograma Planejado da Etapa 5</p>
+
+### Executado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade Executada</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 10</b> – Cronograma Executado da Etapa 5</p>
+
+---
+
+## Projeto Final
+
+### Planejado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>18/11/2025</td><td>Integração dos artefatos em documento final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>20/11/2025</td><td>Revisão completa do projeto</td><td>Isaac, Luciano</td><td>–</td><td>–</td></tr>
+<tr><td>22/11/2025</td><td>Gravação da apresentação final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>25/11/2025</td><td>Entrega final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 11</b> – Cronograma Planejado do Projeto Final</p>
+
+### Executado
+<table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
+<thead>
+<tr>
+<th>Data</th><th>Atividade Executada</th><th>Responsável</th><th>Status</th><th>Observações</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+</tbody>
+</table>
+
+<p style="text-align: center;"><b>Tabela 12</b> – Cronograma Executado do Projeto Final</p>
 
 ---
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                         | Autores           | Revisores                                                                 |
-|------:|------------|-----------------------------------|-------------------|---------------------------------------------------------------------------|
-| 1.0   | 10/09/2025 | Criação da página do Heatmap      | Luciano Machado   | Antonio Carvalho                                                           |
-| 1.1   | 10/09/2025 | Atualização da página do Heatmap  | Antonio Carvalho  | Letícia Paiva                                                              |
-| 1.2   | 10/09/2025 | Atualização de membro no Heatmap  | Letícia Paiva     | Antonio Carvalho, Heloísa Santos, Isaac Menezes, Luciano Machado, Mateus Negrini e Pedro Gomes |
+| Versão | Data       | Descrição                         | Autores            | Revisores     |
+|------:|------------|-----------------------------------|-------------------|---------------|
+| 1.0 | 08/09/2025 | Criação da página do cronograma | Antonio Carvalho | Letícia Paiva |
+| 1.1   | 24/09/2025 | Atualização do cronograma com novas etapas | Antonio Carvalho | Pedro Gomes |
 
 ---
 
@@ -73,7 +278,6 @@ Garantir uma **distribuição equilibrada** de trabalho, identificar possíveis 
     border-radius:4px;
     box-shadow: inset 0 0 0 2px rgba(0,0,0,.08);
   }
-  /* Tabelas mais legíveis no Docsify */
   .markdown-section table{ width:100%; border-collapse:collapse; }
   .markdown-section thead th{
     text-transform:uppercase; letter-spacing:.04em; font-size:.78rem;
