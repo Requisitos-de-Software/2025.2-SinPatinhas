@@ -22,7 +22,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>–</td><td>–</td></tr>
 <tr><td>06/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>05/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio, Mateus, Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
@@ -39,15 +39,15 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>02/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>03/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>–</td><td>–</td></tr>
-<tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>–</td><td>–</td></tr>
-<tr><td>05/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>06/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio, Mateus, Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>02/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>03/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>Entregue</td><td>–</td></tr>
+<tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>Entregue</td><td>–</td></tr>
+<tr><td>05/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>06/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>Entregue</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>Entregue</td></tr>
+<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>Entregue</td></tr>
 </tbody>
 </table>
 
@@ -89,7 +89,8 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>23/09/2025</td><td>Definição do perfil de usuários</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 </tbody>
 </table>
 
