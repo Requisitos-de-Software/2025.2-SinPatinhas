@@ -8,9 +8,10 @@ Documentação oficial das reuniões da equipe do projeto **Sinpatinhas**.
 
 ## Atas
 
-- [ATA 01 — 04/09/2025](ata_reuniao_1)
-- [ATA 02 — 09/09/2025](ata_reuniao_2)
-- [ATA 03 — 10/09/2025](ata_reuniao_3)
+- [ATA 01 — 04/09/2025](/planejamento/atas/ata_reuniao_1.md)
+- [ATA 02 — 09/09/2025](/planejamento/atas/ata_reuniao_2.md)
+- [ATA 03 — 10/09/2025](/planejamento/atas/ata_reuniao_3.md)
+
 
 
 ---
