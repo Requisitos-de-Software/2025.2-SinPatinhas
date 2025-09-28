@@ -12,6 +12,71 @@
     .app-name-link img { height: 50px; margin-right: .5rem; }
     .content img { max-width: 100%; }
 
+    /* Botão de tema */
+    .theme-toggle {
+      position: fixed;
+      top: 16px;
+      right: 70px;
+      z-index: 10001;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+
+    .theme-toggle:hover {
+      transform: scale(1.05);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+
+    /* Tema claro (padrão) */
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #1f2937;
+      --sidebar-bg: #f3f4f6;
+      --sidebar-border: #e5e7eb;
+      --sidebar-active: #e8f0fe;
+      --sidebar-active-text: #1d4ed8;
+      --search-bg: #eef2f7;
+      --search-border: #e5e7eb;
+      --nav-bg: linear-gradient(180deg, #f8fafc, #f1f5f9);
+      --toggle-bg: #ffffff;
+      --toggle-text: #1f2937;
+      --sidebar-title-color: #111827;
+    }
+
+    /* Tema escuro */
+    [data-theme="dark"] {
+      --bg-color: #0f172a;
+      --text-color: #f1f5f9;
+      --sidebar-bg: #1e293b;
+      --sidebar-border: #334155;
+      --sidebar-active: #1e40af;
+      --sidebar-active-text: #bfdbfe;
+      --search-bg: #334155;
+      --search-border: #475569;
+      --nav-bg: linear-gradient(180deg, #1e293b, #0f172a);
+      --toggle-bg: #334155;
+      --toggle-text: #fbbf24;
+      --sidebar-title-color: #ffffff;
+    }
+
+    .theme-toggle {
+      background: var(--toggle-bg);
+      color: var(--toggle-text);
+    }
+
+    body {
+      background: var(--bg-color);
+      color: var(--text-color);
+    }
 
     .sidebar{ font-size: 15px; }
 
@@ -89,35 +154,89 @@
     }
 
     .sidebar {
-      background: #f3f4f6 !important;   
-      border-right: 1px solid #e5e7eb !important;
+      background: var(--sidebar-bg) !important;   
+      border-right: 1px solid var(--sidebar-border) !important;
     }
 
-    .sidebar a { color: #1f2937 !important; }         
-    .sidebar a:hover { color: #0f172a !important; }   
-    .sidebar-nav strong { color: #111827 !important; }
+    .sidebar a { color: var(--text-color) !important; }         
+    .sidebar a:hover { color: var(--text-color) !important; opacity: 0.8; }   
+    .sidebar-nav strong { color: var(--sidebar-title-color) !important; }
 
     .sidebar-nav li.active > a {
-      background: #e8f0fe !important;   
-      color: #1d4ed8 !important;
+      background: var(--sidebar-active) !important;   
+      color: var(--sidebar-active-text) !important;
       border-radius: 6px;
       padding: 4px 8px;
     }
 
     .sidebar .search input {
-      background: #eef2f7 !important;
-      border: 1px solid #e5e7eb !important;
-      color: #111827 !important;
+      background: var(--search-bg) !important;
+      border: 1px solid var(--search-border) !important;
+      color: var(--text-color) !important;
     }
 
     .app-nav {
-      background: linear-gradient(180deg, #f8fafc, #f1f5f9) !important;
+      background: var(--nav-bg) !important;
     }
     .cover .app-nav { background: transparent !important; }
+
+    /* Tema escuro para o conteúdo principal */
+    [data-theme="dark"] .markdown-section {
+      color: var(--text-color);
+      background: var(--bg-color);
+    }
+
+    [data-theme="dark"] .markdown-section h1,
+    [data-theme="dark"] .markdown-section h2,
+    [data-theme="dark"] .markdown-section h3,
+    [data-theme="dark"] .markdown-section h4,
+    [data-theme="dark"] .markdown-section h5,
+    [data-theme="dark"] .markdown-section h6 {
+      color: #ffffff !important;
+      font-weight: 600;
+    }
+
+    [data-theme="dark"] .markdown-section p,
+    [data-theme="dark"] .markdown-section li,
+    [data-theme="dark"] .markdown-section span {
+      color: #e2e8f0 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table thead th {
+      background: #334155 !important;
+      color: #ffffff !important;
+      border-color: #475569 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table tbody td {
+      background: #1e293b !important;
+      color: #e2e8f0 !important;
+      border-color: #334155 !important;
+    }
+
+    [data-theme="dark"] .markdown-section table tbody tr:hover {
+      background: #334155 !important;
+    }
+
+    [data-theme="dark"] .markdown-section strong {
+      color: #ffffff !important;
+    }
+
+    [data-theme="dark"] .markdown-section code {
+      background: #334155 !important;
+      color: #fbbf24 !important;
+      padding: 2px 4px;
+      border-radius: 3px;
+    }
 
       </style>
 </head>
 <body>
+  <!-- Botão de alternância de tema -->
+  <button class="theme-toggle" id="theme-toggle" title="Alternar tema">
+    <span id="theme-icon">🌙</span>
+  </button>
+  
   <div id="app"></div>
 
   <script>
@@ -128,7 +247,8 @@
       coverpage: true,
       auto2top: true,
       subMaxLevel: 2,   
-      search: 'auto'
+      search: 'auto',
+      relativePath: true
     };
   </script>
 
@@ -161,6 +281,49 @@
 
   </a>
 
+
+  <script>
+    // Sistema de tema claro/escuro
+    const themeToggle = document.getElementById('theme-toggle');
+    const themeIcon = document.getElementById('theme-icon');
+    
+    // Verificar tema salvo ou preferência do sistema
+    const savedTheme = localStorage.getItem('theme');
+    const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    
+    let currentTheme = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+    
+    // Aplicar tema inicial
+    function applyTheme(theme) {
+      if (theme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        themeIcon.textContent = '☀️';
+        themeToggle.title = 'Alternar para tema claro';
+      } else {
+        document.documentElement.removeAttribute('data-theme');
+        themeIcon.textContent = '🌙';
+        themeToggle.title = 'Alternar para tema escuro';
+      }
+      localStorage.setItem('theme', theme);
+    }
+    
+    // Aplicar tema inicial
+    applyTheme(currentTheme);
+    
+    // Event listener para o botão
+    themeToggle.addEventListener('click', () => {
+      currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+      applyTheme(currentTheme);
+    });
+    
+    // Listener para mudanças na preferência do sistema
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+      if (!localStorage.getItem('theme')) {
+        currentTheme = e.matches ? 'dark' : 'light';
+        applyTheme(currentTheme);
+      }
+    });
+  </script>
 
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>

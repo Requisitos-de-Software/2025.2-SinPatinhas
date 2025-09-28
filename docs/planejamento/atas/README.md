@@ -8,9 +8,15 @@ Documentação oficial das reuniões da equipe do projeto **Sinpatinhas**.
 
 ## Atas
 
-- [ATA 01 — 04/09/2025](./ata_reuniao_1.md)  
-- [ATA 02 — 09/09/2025](./ata_reuniao_2.md) 
-- [ATA 03 — 10/09/2025](./ata_reuniao_3.md)
+- [ATA 01 — 04/09/2025](/planejamento/atas/ata_reuniao_1.md)
+- [ATA 02 — 09/09/2025](/planejamento/atas/ata_reuniao_2.md)
+- [ATA 03 — 10/09/2025](/planejamento/atas/ata_reuniao_3.md)
+- [ATA 04 — 11/09/2025](/planejamento/atas/ata_reuniao_4.md)
+- [ATA 05 — 12/09/2025](/planejamento/atas/ata_reuniao_5.md)
+- [ATA 06 — 16/09/2025](/planejamento/atas/ata_reuniao_6.md)
+- [ATA 07 — 17/09/2025](/planejamento/atas/ata_reuniao_7.md)
+
+
 
 ---
 
@@ -21,6 +27,8 @@ Documentação oficial das reuniões da equipe do projeto **Sinpatinhas**.
 | 1.0   | 11/09/2025 | Criação da página de hospedagem das atas de reunião  | Pedro   | Antonio   |
 | 1.1   | 12/09/2025 | Alteração da página de hospedagem das atas de reunião | Antonio | Pedro     |
 | 1.2   | 23/09/2025 | Alteração das atas 01 e 02                            | Antonio | Todos     |
+| 1.3   | 27/09/2025 | Correção do caminho para as atas                       | Letícia   | Todos     |
+| 1.4  | 27/09/2025 | Alteração das atas 04, 05, 06 e 07                    | Pedro   | Todos     |
 
 ---
 
