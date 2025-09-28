@@ -89,8 +89,12 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>23/09/2025</td><td>Definição do perfil de usuários</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>23/09/2025</td><td>Definição do perfil de usuários</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>28/09/2025</td><td>Levantamento da página de perfis de usuários</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td></td><td>Levantamento das técnicas de elicitação usadas</td><td>Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>25/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>27/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 </tbody>
 </table>
 
