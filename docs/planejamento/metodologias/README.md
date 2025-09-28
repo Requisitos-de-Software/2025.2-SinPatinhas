@@ -6,11 +6,8 @@ O processo de definição e compreensão das necessidades e restrições de um n
 Uma de suas fases mais críticas é a **elicitação de requisitos** (*elicit requirements*).  
 Segundo Vazquez e Simões (2016, p. 140), a elicitação é “um processo de aquisição de conhecimento, onde se aplicam técnicas para compreender melhor o negócio a ser impactado pelo projeto, para identificar partes interessadas e para identificar e refinar os tipos de requisitos”.
 
-Falhas na identificação das reais necessidades dos usuários podem levar a **graves consequências** no desenvolvimento.  
-Por isso, o analista deve atuar de forma **proativa** para descobrir inclusive os **requisitos implícitos** — desejos que a parte interessada não verbaliza por achar óbvios ou por estarem ainda **subconscientes**.
+Falhas na identificação das reais necessidades dos usuários podem levar a **graves consequências** no desenvolvimento. Por isso, o analista deve atuar de forma **proativa** para descobrir inclusive os **requisitos implícitos** — desejos que a parte interessada não verbaliza por achar óbvios ou por estarem ainda **subconscientes**. (VAZQUEZ; SIMÕES, 2016).
 
-> A escolha da técnica depende do domínio do negócio, da cultura da organização e dos recursos disponíveis.  
-> É comum combinar **múltiplas abordagens** ao longo do projeto.
 
 ---
 
@@ -29,8 +26,8 @@ Por isso, o analista deve atuar de forma **proativa** para descobrir inclusive o
 
 | Versão | Data       | Descrição                                                | Autores | Revisores |
 |------:|------------|----------------------------------------------------------|---------|-----------|
-| 1.0   | 11/09/2025 | Criação da página de hospedagem das atas de reunião     | Pedro   | Antonio   |
-| 1.1   | 12/09/2025 | Alteração da página de hospedagem das atas de reunião   | Antonio | Pedro     |
+| 1.0   | 11/09/2025 | Criação da página de Metodologias     | Pedro   | Antonio   |
+
 
 ---
 
