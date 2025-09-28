@@ -1,67 +1,60 @@
-# Elicitação de Requisitos
+# Técnicas de Priorização
 
-> Esta seção reúne os artefatos produzidos no processo de **Elicitação de Requisitos** do projeto **SinPatinhas** — desde o entendimento dos usuários até as técnicas utilizadas para levantamento e priorização das necessidades.
+> Esta seção documenta as técnicas de **priorização de requisitos** adotadas pelo time do **SinPatinhas**, definindo como os requisitos levantados serão organizados e hierarquizados para apoiar as tomadas de decisão.
 
 <div class="plan-hero">
-  <div class="plan-hero__title">📝 Elicitação de Requisitos</div>
+  <div class="plan-hero__title">⚖️ Priorização de Requisitos</div>
   <div class="plan-hero__chips">
-    <span class="chip">Documentação viva</span>
-    <span class="chip">Base para análise</span>
-    <span class="chip">Atualizado continuamente</span>
+    <span class="chip">MoSCoW</span>
+    <span class="chip">$100</span>
+    <span class="chip">Spreadsheet</span>
   </div>
 </div>
 
 ---
 
-## Seções
+## Técnicas Escolhidas
 
 <div class="plan-grid">
 
 <a class="card">
-  <div class="card__icon">👥</div>
-  <div class="card__title">Perfil de Usuários</div>
-  <div class="card__desc">Caracterização dos grupos de usuários e suas necessidades principais.</div>
+  <div class="card__icon">📌</div>
+  <div class="card__title">MoSCoW</div>
+  <div class="card__desc">Classificação em categorias <em>Must Have</em>, <em>Should Have</em>, <em>Could Have</em> e <em>Won’t Have</em>. Permite alinhar expectativas entre equipe e stakeholders.</div>
 </a>
 
 <a class="card">
-  <div class="card__icon">🎯</div>
-  <div class="card__title">Técnicas de Elicitação</div>
-  <div class="card__desc">Métodos aplicados para coletar informações e identificar requisitos.</div>
-</a>
-
-<a class="card">
-  <div class="card__icon">⚖️</div>
-  <div class="card__title">Técnicas de Priorização</div>
-  <div class="card__desc">Critérios e métodos usados para hierarquizar requisitos levantados.</div>
-</a>
-
-<a class="card">
-  <div class="card__icon">🗂️</div>
-  <div class="card__title">Requisitos Coletados</div>
-  <div class="card__desc">Lista organizada de requisitos funcionais e não funcionais obtidos.</div>
+  <div class="card__icon">💵</div>
+  <div class="card__title">$100</div>
+  <div class="card__desc">Distribuição fictícia de $100 entre requisitos, refletindo a importância relativa de cada um. Favorece priorização democrática.</div>
 </a>
 
 <a class="card">
   <div class="card__icon">📊</div>
-  <div class="card__title">Resultados</div>
-  <div class="card__desc">Síntese dos achados e direcionamentos para etapas posteriores.</div>
-</a>
-
-<a class="card">
-  <div class="card__icon">📚</div>
-  <div class="card__title">Referências</div>
-  <div class="card__desc">Fontes consultadas e materiais de apoio utilizados.</div>
+  <div class="card__title">Spreadsheet</div>
+  <div class="card__desc">Planilha estruturada para organizar, comparar e ranquear requisitos de forma colaborativa e transparente.</div>
 </a>
 
 </div>
 
 ---
 
+## Justificativa da Escolha
+
+As três técnicas foram selecionadas considerando:
+- **MoSCoW** → Simplicidade, clareza e consenso rápido entre stakeholders.  
+- **$100** → Método intuitivo e quantitativo, que obriga à priorização realista.  
+- **Spreadsheet** → Facilidade de registro, visualização e integração com outras atividades do projeto.  
+
+O uso combinado oferece equilíbrio entre **clareza qualitativa**, **distribuição quantitativa** e **ferramenta prática de acompanhamento**.
+
+---
+
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                    | Autores  | Revisores |
-|-------:|------------|-----------------------------------------------|----------|-----------|
-| 1.0    | 27/09/2025 | Criação da página de Elicitação de Requisitos | Antonio  | -         |
+| Versão | Data       | Descrição                               | Autores  | Revisores |
+|-------:|------------|------------------------------------------|----------|-----------|
+| 1.0    | 27/09/2025 | Criação da página de Técnicas de Priorização | Antonio  | -         |
 
 ---
 
@@ -77,12 +70,12 @@
 
 /* ====== Hero ====== */
 .plan-hero{
-  background: linear-gradient(135deg, #0ea5e9 0%, #2563eb 100%);
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%);
   border-radius: 14px;
   padding: 1.25rem 1.25rem;
   color: #fff;
   margin: .5rem 0 1.25rem;
-  box-shadow: 0 10px 24px rgba(37,99,235,.18);
+  box-shadow: 0 10px 24px rgba(16,185,129,.18);
 }
 .plan-hero__title{
   font-size: 1.35rem;
@@ -124,7 +117,7 @@
   position:absolute; inset:0;
   border-radius: 14px;
   padding:1px;
-  background: linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%);
+  background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
   -webkit-mask-composite: xor; mask-composite: exclude;
   opacity:.0; transition: opacity .2s ease;
