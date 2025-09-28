@@ -24,27 +24,15 @@
 </a>
 
 <a class="card">
-  <div class="card__icon">🎯</div>
-  <div class="card__title">Técnicas de Elicitação</div>
-  <div class="card__desc">Métodos aplicados para coletar informações e identificar requisitos.</div>
-</a>
-
-<a class="card">
   <div class="card__icon">⚖️</div>
   <div class="card__title">Técnicas de Priorização</div>
   <div class="card__desc">Critérios e métodos usados para hierarquizar requisitos levantados.</div>
 </a>
 
 <a class="card">
-  <div class="card__icon">🗂️</div>
-  <div class="card__title">Requisitos Coletados</div>
-  <div class="card__desc">Lista organizada de requisitos funcionais e não funcionais obtidos.</div>
-</a>
-
-<a class="card">
   <div class="card__icon">📊</div>
-  <div class="card__title">Resultados</div>
-  <div class="card__desc">Síntese dos achados e direcionamentos para etapas posteriores.</div>
+  <div class="card__title">Listas de verificação</div>
+  <div class="card__desc">Síntese dos artefatos essenciais e direcionamentos para etapas posteriores.</div>
 </a>
 
 <a class="card">

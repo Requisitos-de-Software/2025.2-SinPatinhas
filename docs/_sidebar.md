@@ -15,9 +15,10 @@
 
 - ELICITAÇÃO
   - [Visão Geral](/elicitacao/README.md)
-  - [Perfis de Usuário](/elicitacao/listas_verificacao)
+  - [Perfis de Usuário](/elicitacao/perfis_usuarios/perfis-de-usuario)
   - [Técnicas de Elicitação](/elicitacao/tecnicas_elicitacao/)
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
+  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
 
 - ANÁLISE
   - [Visão Geral](/analise/README.md)
