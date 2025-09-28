@@ -57,5 +57,4 @@ Durante o desenvolvimento do **SinPatinhas**, serão utilizadas as seguintes fer
 |--------|------------|---------------------------------------------|-------------|-------------|
 | 1.0    | 26/08/2025 | Criação do README inicial                   | Antonio Carvalho | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus, Pedro      |
 | 1.1    | 07/09/2025 | Atualização com logo, GitHub Pages, integrantes e ferramentas | Letícia Paiva | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus, Pedro      |
-| 1.1.1  | 08/09/2025 | Criação do cronograma de atividades | Antonio Carvalho | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus, Pedro      |
 
