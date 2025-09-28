@@ -181,8 +181,11 @@
 |------:|------------|---------------------------------------------|---------------|-----------|
 | 1.0   | 12/09/2025 | Criação da página de Elicitação de Requisitos | Letícia Paiva | Antonio   |
 | 1.1   | 24/09/2025 | Adição do cronograma de elicitação          | Pedro Gomes  |      |
+| 1.2   | 24/09/2025 | Adição dos requisitos elicitados            | Pedro e Letícia | Antonio   |
+| 1.3   | 26/09/2025 | Adição da entrevista com Ana Beatriz e requisitos  | Antonio e Letícia | Pedro     |
 
----
+
+---'
 
 <style>
   .chip{
