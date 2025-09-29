@@ -6,7 +6,7 @@
   <div class="plan-hero__title">✅ Checklists do Projeto</div>
   <div class="plan-hero__chips">
     <span class="chip">Técnicas de Priorização</span>
-    <a href="#/elicitacao/listas_verificacao/listas_verificacao_perfil_usuario.md" class="chip">
+    <a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="chip">
          Perfil do Usuário
     </a>
     <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">
