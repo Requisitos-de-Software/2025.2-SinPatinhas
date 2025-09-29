@@ -7,8 +7,8 @@
   <div class="plan-hero__chips">
     <span class="chip">Técnicas de Priorização</span>
     <span class="chip">Cenários</span>
-      <a href="\lista_verificacao_perfil_usuario.md" class="chip">Perfil do Usuário</a>
-    <span class="chip">Personas</span>
+    <a href="listas_verificacao.md\lista_verificacao_perfil_usuario.md" class="chip">Perfil do Usuário</a>
+    <a href="/docs/elicitacao/listas_verificacao/lista_personas.md" class="chip">Personas</a>
   </div>
 </div>
 
@@ -21,95 +21,127 @@
 
 </div>
 
-
 <table>
-  <thead>
-    <tr>
-      <th>Item</th>
-      <th>Conforme</th>
-      <th>Não Conforme</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>O perfil de usuário possui registro dos objetivos dos usuários?</td>
-      <td><input type="checkbox" name="conforme1"></td>
-      <td><input type="checkbox" name="nao_conforme1"></td>
-    </tr>
-    <tr>
-      <td>O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?</td>
-      <td><input type="checkbox" name="conforme2"></td>
-      <td><input type="checkbox" name="nao_conforme2"></td>
-    </tr>
-    <tr>
-      <td>As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?</td>
-      <td><input type="checkbox" name="conforme3"></td>
-      <td><input type="checkbox" name="nao_conforme3"></td>
-    </tr>
-    <tr>
-      <td>Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)</td>
-      <td><input type="checkbox" name="conforme4"></td>
-      <td><input type="checkbox" name="nao_conforme4"></td>
-    </tr>
-    <tr>
-      <td>Os dados coletados foram agregados em grupos de acordo com os valores observados? (faixa etária 10-15 anos)</td>
-      <td><input type="checkbox" name="conforme5"></td>
-      <td><input type="checkbox" name="nao_conforme5"></td>
-    </tr>
-    <tr>
-      <td>Foram traçados perfis de usuário considerando as faixas de dados agregados?</td>
-      <td><input type="checkbox" name="conforme6"></td>
-      <td><input type="checkbox" name="nao_conforme6"></td>
-    </tr>
-    <tr>
-      <td>Foi calculada a proporção de usuários que se encaixam em cada perfil?</td>
-      <td><input type="checkbox" name="conforme7"></td>
-      <td><input type="checkbox" name="nao_conforme7"></td>
-    </tr>
-    <tr>
-      <td>O perfil de usuário foi elaborado dentro de um processo iterativo?</td>
-      <td><input type="checkbox" name="conforme8"></td>
-      <td><input type="checkbox" name="nao_conforme8"></td>
-    </tr>
-    <tr>
-      <td>As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)</td>
-      <td><input type="checkbox" name="conforme9"></td>
-      <td><input type="checkbox" name="nao_conforme9"></td>
-    </tr>
-    <tr>
-      <td>Os usuários foram categorizados em grupos?</td>
-      <td><input type="checkbox" name="conforme10"></td>
-      <td><input type="checkbox" name="nao_conforme10"></td>
-    </tr>
-    <tr>
-      <td>Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?</td>
-      <td><input type="checkbox" name="conforme11"></td>
-      <td><input type="checkbox" name="nao_conforme11"></td>
-    </tr>
-    <tr>
-      <td>O perfil de usuário possui função desempenhada pelo usuário?</td>
-      <td><input type="checkbox" name="conforme12"></td>
-      <td><input type="checkbox" name="nao_conforme12"></td>
-    </tr>
-    <tr>
-      <td>O perfil de usuário possui nível de experiência do usuário?</td>
-      <td><input type="checkbox" name="conforme13"></td>
-      <td><input type="checkbox" name="nao_conforme13"></td>
-    </tr>
-    <tr>
-      <td>O perfil de usuário possui tarefas que deverão ser realizadas no sistema?</td>
-      <td><input type="checkbox" name="conforme14"></td>
-      <td><input type="checkbox" name="nao_conforme14"></td>
-    </tr>
-  </tbody>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Item</th>
+            <th>Conforme</th>
+            <th>Não Conforme</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>O perfil de usuário possui registro dos objetivos dos usuários?</td>
+            <td><input type="checkbox" name="conforme1"></td>
+            <td><input type="checkbox" name="nao_conforme1"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>O perfil detalha a experiência do usuário com produtos similares ou concorrentes?</td>
+            <td><input type="checkbox" name="conforme2"></td>
+            <td><input type="checkbox" name="nao_conforme2"></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?</td>
+            <td><input type="checkbox" name="conforme3"></td>
+            <td><input type="checkbox" name="nao_conforme3"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?</td>
+            <td><input type="checkbox" name="conforme4"></td>
+            <td><input type="checkbox" name="nao_conforme4"></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)</td>
+            <td><input type="checkbox" name="conforme5"></td>
+            <td><input type="checkbox" name="nao_conforme5"></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Os dados coletados foram agregados em grupos de acordo com os valores observados? (faixa etária 10-15 anos)</td>
+            <td><input type="checkbox" name="conforme6"></td>
+            <td><input type="checkbox" name="nao_conforme6"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Foram traçados perfis de usuário considerando as faixas de dados agregados?</td>
+            <td><input type="checkbox" name="conforme7"></td>
+            <td><input type="checkbox" name="nao_conforme7"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Foi calculada a proporção de usuários que se encaixam em cada perfil?</td>
+            <td><input type="checkbox" name="conforme8"></td>
+            <td><input type="checkbox" name="nao_conforme8"></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>O perfil de usuário foi elaborado dentro de um processo iterativo?</td>
+            <td><input type="checkbox" name="conforme9"></td>
+            <td><input type="checkbox" name="nao_conforme9"></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)</td>
+            <td><input type="checkbox" name="conforme10"></td>
+            <td><input type="checkbox" name="nao_conforme10"></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Os usuários foram categorizados em grupos?</td>
+            <td><input type="checkbox" name="conforme11"></td>
+            <td><input type="checkbox" name="nao_conforme11"></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?</td>
+            <td><input type="checkbox" name="conforme12"></td>
+            <td><input type="checkbox" name="nao_conforme12"></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>O conhecimento do usuário sobre o domínio do produto está especificado?</td>
+            <td><input type="checkbox" name="conforme13"></td>
+            <td><input type="checkbox" name="nao_conforme13"></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>O perfil considera os idiomas e jargões específicos do usuário ou de seu grupo profissional? </td>
+            <td><input type="checkbox" name="conforme14"></td>
+            <td><input type="checkbox" name="nao_conforme14"></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>O perfil de usuário possui tarefas que deverão ser realizadas no sistema?</td>
+            <td><input type="checkbox" name="conforme15"></td>
+            <td><input type="checkbox" name="nao_conforme15"></td>
+        </tr>
+    </tbody>
 </table>
 
+
+## Lista de verificação elaborada por cada integrante do grupo
+
+| Integrante |
+|------------|
+| [Antonio Carvalho]() |
+| [Heloisa Santos](https://docs.google.com/document/d/1_17Gd6IwQEBumfZFkrqFcfNF8LkH3qTYbXeTQScUqBU/edit?usp=sharing) |
+| [Isaac Menezes Pereira]() |
+| [Letícia Paiva]() |
+| [Luciano Machado]() |
+| [Mateus Negrini]() |
+| [Pedro Gomes Oliveira]() |
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 2/09/2025 | Criação da página da lista de verificação do pergil de usuário   | Heloisa  | -         |
+| 1.0    | 2/09/2025 | Criação da página da lista de verificação do perfil de usuário   | Heloisa  | -         |
 
 ---
 

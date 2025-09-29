@@ -7,7 +7,7 @@
   <div class="plan-hero__chips">
     <span class="chip">Técnicas de Priorização</span>
     <span class="chip">Cenários</span>
-    <a href="\lista_verificacao_perfil_usuario.md" class="chip">Perfil do Usuário</a>
+    <a href="listas_verificacao.md\lista_verificacao_perfil_usuario.md" class="chip">Perfil do Usuário</a>
     <span class="chip">Personas</span>
   </div>
 </div>
