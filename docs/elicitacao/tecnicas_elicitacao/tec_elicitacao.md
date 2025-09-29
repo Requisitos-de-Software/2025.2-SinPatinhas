@@ -6,7 +6,12 @@
 
 - ### Introdução
 
-  ...
+  Este documento tem como objetivo registrar e detalhar o processo de **Elicitação de Requisitos** realizado pelo grupo para o desenvolvimento do sistema **Sinpatinhas** (Sistema Nacional de Identificação e Registro de Animais de Estimação).
+
+  A fase de elicitação é crucial para garantir que o sistema final atenda às necessidades tanto dos órgãos públicos, em conformidade com as leis e decretos vigentes, quanto dos usuários finais, como tutores e veterinários. Para tal, foram empregadas metodologias como **Análise de Documentos** (para entender o contexto legal e técnico) e **Entrevistas** com stakeholders chave (para capturar necessidades do usuário e validar o escopo).
+
+  As seções a seguir detalham as metodologias aplicadas, o cronograma de atividades e o resultado do trabalho, apresentando os Requisitos Funcionais (RF) e Não Funcionais (RNF) identificados até o momento.
+
 - ### Metodologias de Elicitação Utilizadas pelo Grupo
   O grupo adotou as seguintes metodologias de elicitação:
   - *Analise de Documentos*: Revisão de documentos existentes para entender o contexto e requisitos iniciais.
@@ -180,7 +185,7 @@
 | Versão | Data       | Descrição                                  | Autores       | Revisores |
 |------:|------------|---------------------------------------------|---------------|-----------|
 | 1.0   | 12/09/2025 | Criação da página de Elicitação de Requisitos | Letícia Paiva | Antonio   |
-| 1.1   | 24/09/2025 | Adição do cronograma de elicitação          | Pedro Gomes  |      |
+| 1.1   | 24/09/2025 | Adição do cronograma de elicitação          | Pedro Gomes  |   Antonio   |
 | 1.2   | 24/09/2025 | Adição dos requisitos elicitados            | Pedro e Letícia | Antonio   |
 | 1.3   | 26/09/2025 | Adição da entrevista com Ana Beatriz e requisitos  | Antonio e Letícia | Pedro     |
 
