@@ -5,8 +5,8 @@
 <div class="plan-hero">
   <div class="plan-hero__title">✅ Checklists do Projeto</div>
   <div class="plan-hero__chips">
-    <span class="chip">Técnicas de Priorização</span>
-    <span class="chip">Cenários</span>
+    <a href="#/elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md" class="chip">Técnicas de Priorização</span>
+    <a href="#/elicitacao/listas_verificacao/lista_cenarios.md" class="chip">Cenários</span>
     <a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="chip">
          Perfil do Usuário
     </a>
@@ -241,4 +241,12 @@
   font-size: .95rem;
   line-height: 1.35;
 }
+.plan-hero__chips .chip {
+  color: #fff !important; 
+  text-decoration: none; 
+}
+
+.plan-hero__chips .chip:hover {
+  background: rgba(255,255,255,.35); 
+  color: #fff; 
 </style>

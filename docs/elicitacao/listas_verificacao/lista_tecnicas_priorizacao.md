@@ -6,7 +6,8 @@
   <div class="plan-hero__title">✅ Checklists do Projeto</div>
   <div class="plan-hero__chips">
     <a href="#/elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md" class="chip">Técnicas de Priorização</a>
-    <a href="#/elicitacao/listas_verificacao/lista_cenarios.md" class="chip">Cenários</a>
+    <a href="#/elicitacao/listas_verificacao/lista_cenarios.md" class="chip">
+    Cenários</a>
     <a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="chip">Perfil do Usuário</a>
     <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">Personas</a>
   </div>
@@ -209,4 +210,12 @@
 .card__icon{width:46px;height:46px;border-radius:12px;background:var(--sp-blue-100);display:grid;place-items:center;font-size:1.35rem;margin-bottom:10px;color:var(--sp-blue);box-shadow:inset 0 0 0 1px rgba(55,102,174,.12);}
 .card__title{font-weight:700;font-size:1.05rem;margin-bottom:4px;color:#0f172a;}
 .card__desc{color:var(--muted);font-size:.95rem;line-height:1.35;}
+.plan-hero__chips .chip {
+  color: #fff !important; 
+  text-decoration: none; 
+}
+
+.plan-hero__chips .chip:hover {
+  background: rgba(255,255,255,.35); 
+  color: #fff; 
 </style>
