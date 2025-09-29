@@ -145,7 +145,7 @@
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 2/09/2025 | Criação da página da lista de verificação do perfil de usuário   | Heloisa  | -         |
+| 1.0    | 2/09/2025 | Criação da página da lista de verificação do perfil de usuário   | Heloisa  | Antonio         |
 
 ---
 

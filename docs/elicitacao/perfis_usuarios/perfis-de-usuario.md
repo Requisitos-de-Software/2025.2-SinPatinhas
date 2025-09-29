@@ -81,8 +81,8 @@ Esses cadastros permitem operações como:
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 28/09/2025 | Criação da página para Checklists   | Antonio  | -         |
-| 1.1    | 29/09/2025 | Correção de links e referências            | Pedro  | -     |
+| 1.0    | 28/09/2025 | Criação da página para Checklists   | Antonio  | Pedro        |
+| 1.1    | 29/09/2025 | Correção de links e referências            | Pedro  | Antonio     |
 
 ---
 
