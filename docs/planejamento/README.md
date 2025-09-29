@@ -74,7 +74,7 @@
 
 | Versão | Data        | Descrição                         | Autores  | Revisores                                            |
 |-------:|-------------|-----------------------------------|----------|------------------------------------------------------|
-| 1.0    | 08/09/2025  | Criação da página do cronograma   | Letícia  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
+| 1.0    | 08/09/2025  | Criação da página Visão Geral   | Letícia  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
 
 ---
 

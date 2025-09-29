@@ -1,18 +1,14 @@
 # Listas de Verificação
 
-> Esta seção centraliza os **links para listas de verificação** utilizadas no projeto **SinPatinhas**. Elas servem como guias de apoio para Técnicas de Priorização, Cenários, Perfil do Usuário e Personas de artefatos produzidos pela equipe.
+> Esta seção centraliza os **artefatos de verificação** utilizados no projeto **SinPatinhas**.  
+> Elas servem como guias de apoio para Técnicas de Priorização, Cenários, Perfil do Usuário e Personas.
 
 <div class="plan-hero">
   <div class="plan-hero__title">✅ Checklists do Projeto</div>
   <div class="plan-hero__chips">
-    <span class="chip">Técnicas de Priorização</span>
-    <a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="chip">
-         Perfil do Usuário
-    </a>
-    <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">
-        Personas
-    </a>
-    <span class="chip">Personas</span>
+    <span class="chip">Documentação viva</span>
+    <span class="chip">Atualizado continuamente</span>
+    <span class="chip">Guia de apoio</span>
   </div>
 </div>
 
@@ -22,6 +18,29 @@
 
 <div class="plan-grid">
 
+<a href="#/elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md" class="card">
+  <div class="card__icon">📊</div>
+  <div class="card__title">Técnicas de Priorização</div>
+  <div class="card__desc">Critérios e métodos para organizar e priorizar requisitos.</div>
+</a>
+
+<a href="#/elicitacao/listas_verificacao/lista_cenarios.md" class="card">
+  <div class="card__icon">🗺️</div>
+  <div class="card__title">Cenários</div>
+  <div class="card__desc">Checklist de objetivo, fluxo, pré/pós-condições e exceções.</div>
+</a>
+
+<a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="card">
+  <div class="card__icon">👤</div>
+  <div class="card__title">Perfil do Usuário</div>
+  <div class="card__desc">Avaliação de clareza, consistência e utilidade do perfil.</div>
+</a>
+
+<a href="#/elicitacao/listas_verificacao/lista_personas.md" class="card">
+  <div class="card__icon">🧩</div>
+  <div class="card__title">Personas</div>
+  <div class="card__desc">Verificação de completude, realismo e representatividade.</div>
+</a>
 
 </div>
 
@@ -29,13 +48,15 @@
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                   | Autores  | Revisores |
-|-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 27/09/2025 | Criação da página para Checklists   | Antonio  | -         |
+| Versão | Data       | Descrição                                   | Autores       | Revisores               |
+|-------:|------------|----------------------------------------------|---------------|-------------------------|
+| 1.0    | 27/09/2025 | Criação da página para Checklists            | Antonio       | Leticia Paiva, Heloisa |
+| 1.1    | 28/09/2025 | Melhoria da navegação com cards intuitivos   | Leticia Paiva | Heloisa, Antonio        |
 
 ---
 
 <style>
+
 :root{
   --sp-blue: #3766ae;      
   --sp-blue-600:#2f5a9b;
@@ -47,12 +68,12 @@
 
 /* ====== Hero ====== */
 .plan-hero{
-  background: linear-gradient(135deg, #9333ea 0%, #6366f1 100%);
+  background: linear-gradient(135deg, var(--sp-blue) 0%, #4a82d0 100%);
   border-radius: 14px;
   padding: 1.25rem 1.25rem;
   color: #fff;
   margin: .5rem 0 1.25rem;
-  box-shadow: 0 10px 24px rgba(99,102,241,.18);
+  box-shadow: 0 10px 24px rgba(55,102,174,.18);
 }
 .plan-hero__title{
   font-size: 1.35rem;
@@ -94,7 +115,7 @@
   position:absolute; inset:0;
   border-radius: 14px;
   padding:1px;
-  background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+  background: linear-gradient(135deg, var(--sp-blue) 0%, #5ba4ff 100%);
   -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
   -webkit-mask-composite: xor; mask-composite: exclude;
   opacity:.0; transition: opacity .2s ease;
@@ -127,4 +148,3 @@
   font-size: .95rem;
   line-height: 1.35;
 }
-</style>

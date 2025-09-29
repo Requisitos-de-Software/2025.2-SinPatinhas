@@ -136,7 +136,7 @@
 | [Antonio Carvalho]() |
 | [Heloisa Santos](https://docs.google.com/document/d/1_17Gd6IwQEBumfZFkrqFcfNF8LkH3qTYbXeTQScUqBU/edit?usp=sharing) |
 | [Isaac Menezes Pereira]() |
-| [Letícia Paiva]() |
+| [Letícia Paiva](https://docs.google.com/document/d/1xuHtyHvEhJyAizGIzFZXCtbXIvSIoJQDutUVQx49VZ8/edit?tab=t.0) |
 | [Luciano Machado]() |
 | [Mateus Negrini]() |
 | [Pedro Gomes Oliveira]() |
