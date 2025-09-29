@@ -173,7 +173,7 @@
 | [Antonio Carvalho]() |
 | [Heloisa Santos]() |
 | [Isaac Menezes Pereira]() |
-| [Letícia Paiva]() |
+| [Letícia Paiva](https://docs.google.com/document/d/15TeVYaZZEhAD8WG7p2geeBq_Ll-SYVKswjFH6oi7Z8I/edit?tab=t.0) |
 | [Luciano Machado]() |
 | [Mateus Negrini]() |
 | [Pedro Gomes Oliveira]() |
