@@ -98,7 +98,7 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
 | Versão | Data        | Descrição                         | Autores  | Revisores                                            |
 |-------:|-------------|-----------------------------------|----------|------------------------------------------------------|
 | 1.0    | 08/09/2025  | Criação da página do introdução   | Letícia  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
-| 1.1    | 30/09/2025  | Correção de contraste das funcionalidades | Luciano Machado | - |
+| 1.1    | 30/09/2025  | Correção de contraste  | Luciano  | - |
 
 ---
 
@@ -139,18 +139,8 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
     width:56px;height:56px;border-radius:50%; display:grid; place-items:center;
     background:#e0f2fe; font-size:28px; margin:0 auto 12px;
   }
-  .feat-card h3{ margin:.25rem 0 .5rem; font-size:1.15rem; }
-  .feat-card p{ margin:0; color:#475569; font-size:1rem; line-height:1.5; }
-
-  /* Fix: texto nítido nas cartas de funcionalidades */
-.feat-card {
-    transition: margin .2s ease, box-shadow .2s ease !important;
-  }
-  .feat-card:hover {
-    transform: none !important;        /* evita layer de composição que borra texto */
-    margin-top: -6px;                  /* mantém o “lift” sem blur */
-    box-shadow: 0 10px 20px rgba(0,0,0,.1);
-  }
+  .feat-card h3{ margin:.25rem 0 .5rem; font-size:1.15rem; color:#1e293b;}
+  .feat-card p{ margin:0; color:#1e293b; font-size:1rem; line-height:1.5; }
 
   /* ---------- Como funciona ---------- */
   .howto{ margin-left: 1.1rem; }
