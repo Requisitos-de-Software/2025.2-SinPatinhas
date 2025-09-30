@@ -18,22 +18,22 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
 
 <div class="feat-grid">
 
-  <div class="feat-card">
+  <div class="feat-card" style="color:#0f172a !important; text-shadow:none !important; opacity:1 !important;">
     <div class="feat-icon">✂️</div>
-    <h3>Castração</h3>
-    <p>Políticas de controle populacional ético e bem-estar animal.</p>
+    <h3 style="color:inherit !important;">Castração</h3>
+    <p style="color:inherit !important;">Políticas de controle populacional ético e bem-estar animal.</p>
   </div>
 
-  <div class="feat-card">
-    <div class="feat-icon">💉</div>
-    <h3>Vacinação</h3>
-    <p>Programas e campanhas de saúde preventiva para cães e gatos.</p>
+  <div class="feat-card" style="color:#0f172a !important; text-shadow:none !important; opacity:1 !important;">
+    <div class="feat-icon">✂💉</div>
+    <h3 style="color:inherit !important;">Vacinação</h3>
+    <p style="color:inherit !important;">Programas e campanhas de saúde preventiva para cães e gatos.</p>
   </div>
 
-  <div class="feat-card">
-    <div class="feat-icon">🧩</div>
-    <h3>Microchipagem</h3>
-    <p>Identificação permanente e auxílio na recuperação de animais.</p>
+  <div class="feat-card" style="color:#0f172a !important; text-shadow:none !important; opacity:1 !important;">
+    <div class="feat-icon">✂🧩</div>
+    <h3 style="color:inherit !important;">Microchipagem</h3>
+    <p style="color:inherit !important;">Identificação permanente e auxílio na recuperação de animais.</p>
   </div>
 
 </div>
