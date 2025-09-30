@@ -43,7 +43,11 @@ Durante o desenvolvimento do **SinPatinhas**, serão utilizadas as seguintes fer
 - **Versionamento e Repositório:** GitHub  
 - **Documentação:** MkDocs Material + GitHub Pages  
 - **Design e Prototipação:** Figma, Canva  
+<<<<<<< HEAD
 - **Comunicação e Reuniões:** WhatsApp, Teams  
+=======
+- **Comunicação e Reuniões:** WhatsApp
+>>>>>>> gh-pages
 - **Gravação de Reuniões:** Teams  
 - **Mídia:** YouTube  
 - **Editor de Código:** Visual Studio Code  
