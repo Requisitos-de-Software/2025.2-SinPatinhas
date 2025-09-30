@@ -18,22 +18,22 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
 
 <div class="feat-grid">
 
-  <div class="feat-card" style="color:#0f172a !important; text-shadow:none !important; opacity:1 !important;">
+  <div class="feat-card">
     <div class="feat-icon">✂️</div>
-    <h3 style="color:inherit !important;">Castração</h3>
-    <p style="color:inherit !important;">Políticas de controle populacional ético e bem-estar animal.</p>
+    <h3>Castração</h3>
+    <p>Políticas de controle populacional ético e bem-estar animal.</p>
   </div>
 
-  <div class="feat-card" style="color:#0f172a !important; text-shadow:none !important; opacity:1 !important;">
-    <div class="feat-icon">✂💉</div>
-    <h3 style="color:inherit !important;">Vacinação</h3>
-    <p style="color:inherit !important;">Programas e campanhas de saúde preventiva para cães e gatos.</p>
+  <div class="feat-card">
+    <div class="feat-icon">💉</div>
+    <h3>Vacinação</h3>
+    <p>Programas e campanhas de saúde preventiva para cães e gatos.</p>
   </div>
 
-  <div class="feat-card" style="color:#0f172a !important; text-shadow:none !important; opacity:1 !important;">
-    <div class="feat-icon">✂🧩</div>
-    <h3 style="color:inherit !important;">Microchipagem</h3>
-    <p style="color:inherit !important;">Identificação permanente e auxílio na recuperação de animais.</p>
+  <div class="feat-card">
+    <div class="feat-icon">🧩</div>
+    <h3>Microchipagem</h3>
+    <p>Identificação permanente e auxílio na recuperação de animais.</p>
   </div>
 
 </div>
@@ -98,7 +98,7 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
 | Versão | Data        | Descrição                         | Autores  | Revisores                                            |
 |-------:|-------------|-----------------------------------|----------|------------------------------------------------------|
 | 1.0    | 08/09/2025  | Criação da página do introdução   | Letícia  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
-| 1.1    | 30/09/2025  | Correção de contraste  | Luciano  | - |
+
 
 ---
 
@@ -139,8 +139,8 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
     width:56px;height:56px;border-radius:50%; display:grid; place-items:center;
     background:#e0f2fe; font-size:28px; margin:0 auto 12px;
   }
-  .feat-card h3{ margin:.25rem 0 .5rem; font-size:1.15rem; color:#1e293b;}
-  .feat-card p{ margin:0; color:#1e293b; font-size:1rem; line-height:1.5; }
+  .feat-card h3{ margin:.25rem 0 .5rem; font-size:1.15rem; }
+  .feat-card p{ margin:0; color:#475569; font-size:1rem; line-height:1.5; }
 
   /* ---------- Como funciona ---------- */
   .howto{ margin-left: 1.1rem; }
@@ -163,12 +163,4 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
     .feat-grid{ grid-template-columns: 1fr; }
     .intro-logo{ width: 240px; }
   }
-
-  .markdown-section .feat-card,
-  .markdown-section .feat-card * {
-    color:#0f172a !important;
-    opacity:1 !important;
-    text-shadow:none !important;
-  }
-  .markdown-section .feat-card a { color:inherit !important; }
 </style>
