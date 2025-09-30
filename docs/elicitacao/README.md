@@ -17,19 +17,19 @@
 
 <div class="plan-grid">
 
-<a class="card">
+<a href="#/elicitacao/perfis_usuarios/perfis-de-usuario.md" class="card">
   <div class="card__icon">👥</div>
   <div class="card__title">Perfil de Usuários</div>
   <div class="card__desc">Caracterização dos grupos de usuários e suas necessidades principais.</div>
 </a>
 
-<a class="card">
+<a href="#/elicitacao/tecnicas_priorizacao/tec-de-priorizacao.md" class="card">
   <div class="card__icon">⚖️</div>
   <div class="card__title">Técnicas de Priorização</div>
   <div class="card__desc">Critérios e métodos usados para hierarquizar requisitos levantados.</div>
 </a>
 
-<a class="card">
+<a href="#/elicitacao/listas_verificacao/listas_verificacao,md" class="card">
   <div class="card__icon">📊</div>
   <div class="card__title">Listas de verificação</div>
   <div class="card__desc">Síntese dos artefatos essenciais e direcionamentos para etapas posteriores.</div>
@@ -49,7 +49,8 @@
 
 | Versão | Data       | Descrição                                    | Autores  | Revisores |
 |-------:|------------|-----------------------------------------------|----------|-----------|
-| 1.0    | 27/09/2025 | Criação da página de Elicitação de Requisitos | Antonio  | -         |
+| 1.0    | 27/09/2025 | Criação da página de Elicitação de Requisitos | Antonio  | Letícia Paiva |
+| 1.1    | 28/09/2025 |  Melhoria na navegação: inclusão de cards interativos entre as seções | Letícia Paiva   | Antonio |
 
 ---
 

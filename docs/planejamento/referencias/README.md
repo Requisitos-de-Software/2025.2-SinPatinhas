@@ -8,15 +8,28 @@ Referências bibliográficas e de projeto no padrão **ABNT**.
 
 ## Lista de Referências
 
-1. POHL, Klaus; RUPP, Chris. **Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam – Foundation Level / IREB compliant.** 2. ed. Rocky Nook, 2015.
+## Lista de Referências
 
-2. UNIVERSIDADE DE BRASÍLIA. Faculdade de Ciência e Tecnologia. **Checklist da disciplina de Engenharia de Requisitos – Projeto de Software.** Gama: FCTE/UnB, 2025. Documento interno da disciplina.
+1. BRASIL. Decreto nº 12.439, de 2025. Regulamenta a Lei nº 15.046, de 2024, que institui o Registro Geral de Animais (RGA) e o Sistema Nacional de Identificação e Controle de Animais Domésticos (SINPatinhas). Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Decreto/D12439.htm>. Acesso em: 28 set. 2025.
+
+2. BRASIL. Lei nº 15.046, de 2024. Institui o Registro Geral de Animais (RGA) e o Sistema Nacional de Identificação e Controle de Animais Domésticos (SINPatinhas). Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15046.htm>. Acesso em: 28 set. 2025.
 
 3. BRASIL. Ministério da Agricultura e Pecuária. **Lista de Verificação da Qualidade de Artefatos - Checklist Ágil.** Brasília, 2023. Disponível em:  
-   <https://www.gov.br/agricultura/>. Acesso em: 12 set. 2025.
+<https://www.gov.br/agricultura/>. Acesso em: 12 set. 2025.
 
-4. UNIVERSIDADE DE BRASÍLIA. Grupo 04 de Engenharia de Requisitos – 2025.2. **Site do projeto.** Disponível em:  
-   <https://requisitos-de-software.github.io/2025.2-Grupo04/>. Acesso em: 12 set. 2025.
+4. BRASIL. Ministério do Meio Ambiente e Mudança do Clima. Perguntas e Respostas sobre o ProPatinhas e o SINPatinhas. GOV.BR, 2025. Disponível em: <https://www.gov.br/mma/pt-br/noticias/perguntas-e-respostas-sobre-o-propatinhas-e-o-sinpatinhas>. Acesso em: 28 set. 2025.
+
+5. BRASIL. Presidência da República. RG para cães e gatos: tire dúvidas sobre a nova ação do governo federal. GOV.BR, 2025. Disponível em: <https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/04/rg-para-caes-e-gatos-tire-duvidas-sobre-a-nova-acao-do-governo-federal>. Acesso em: 28 set. 2025.
+
+6. POHL, Klaus; RUPP, Chris. **Requirements Engineering Fundamentals: A Study Guide for the Certified Professional for Requirements Engineering Exam – Foundation Level / IREB compliant.** 2. ed. Rocky Nook, 2015.
+
+7. UNIVERSIDADE DE BRASÍLIA. Faculdade de Ciência e Tecnologia. **Checklist da disciplina de Engenharia de Requisitos – Projeto de Software.** Gama: FCTE/UnB, 2025. Documento interno da disciplina.
+
+8. UNIVERSIDADE DE BRASÍLIA. Grupo 04 de Engenharia de Requisitos – 2025.2. **Site do projeto.** Disponível em:  
+<https://requisitos-de-software.github.io/2025.2-Grupo04/>. Acesso em: 12 set. 2025.
+
+9. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro : Brasport, 2016
+
 
 ---
 

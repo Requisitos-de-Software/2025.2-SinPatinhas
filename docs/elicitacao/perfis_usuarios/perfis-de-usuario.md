@@ -2,7 +2,9 @@
 
 <div class="chip">Perfis do Sistema</div>
 
-O sistema **Sinpatinhas** possui diferentes perfis de usuários que interagem diretamente com a plataforma. Cada perfil tem funções, responsabilidades e permissões específicas, garantindo que o fluxo de informações seja seguro, organizado e atenda às necessidades dos envolvidos.
+Com uma análise detalhada da documentação, [Lei nº 15.046/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15046.htm), [Decreto nº 12.439/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Decreto/D12439.htm), [Perguntas e Respostas](https://www.gov.br/mma/pt-br/noticias/perguntas-e-respostas-sobre-o-propatinhas-e-o-sinpatinhas) e a pagina do Planalto ["RG para cães e gatos"](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/04/rg-para-caes-e-gatos-tire-duvidas-sobre-a-nova-acao-do-governo-federal), o sistema **Sinpatinhas** possui diferentes perfis de usuários que interagem diretamente com a plataforma. Cada perfil tem funções, responsabilidades e permissões específicas, garantindo que o fluxo de informações seja seguro, organizado e atenda às necessidades dos envolvidos.
+
+Foi possível identificar que o sistema **Sinpatinhas** possui diferentes perfis de usuários que interagem diretamente com a plataforma. Cada perfil tem funções, responsabilidades e permissões específicas, garantindo que o fluxo de informações seja seguro, organizado e atenda às necessidades dos envolvidos.
 
 ---
 
@@ -11,6 +13,7 @@ O sistema **Sinpatinhas** possui diferentes perfis de usuários que interagem di
 O **Dono de Pet** é o usuário responsável por cadastrar e manter os dados de seus animais de estimação na plataforma.
 
 ### Responsabilidades
+
 - Cadastrar seus animais no sistema.
 - Fornecer informações pessoais para criação de conta.
 - Atualizar dados do pet (nome, raça, idade, etc.).
@@ -18,6 +21,7 @@ O **Dono de Pet** é o usuário responsável por cadastrar e manter os dados de 
 - Consultar e acessar a carteirinha digital do animal.
 
 ### Funcionalidades
+
 - Cadastro do pet.
 - Vinculação e desvinculação de animais ao usuário.
 - Troca de titularidade do pet.
@@ -30,11 +34,13 @@ O **Dono de Pet** é o usuário responsável por cadastrar e manter os dados de 
 O **Veterinário** é o profissional qualificado que realiza procedimentos de saúde e registra essas informações no perfil do animal.
 
 ### Responsabilidades
+
 - Inserir dados de procedimentos realizados no pet (vacinação, microchipagem, castração etc.).
 - Fornecer informações de identificação profissional (registro veterinário).
 - Garantir a veracidade dos dados registrados.
 
 ### Funcionalidades
+
 - Cadastro de procedimentos veterinários.
 - Inclusão do pet em sua lista de atendimentos.
 - Atualização do histórico de saúde do animal.
@@ -75,7 +81,8 @@ Esses cadastros permitem operações como:
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 28/09/2025 | Criação da página para Checklists   | Antonio  | -         |
+| 1.0    | 28/09/2025 | Criação da página para Checklists   | Antonio  | Pedro        |
+| 1.1    | 29/09/2025 | Correção de links e referências            | Pedro  | Antonio     |
 
 ---
 

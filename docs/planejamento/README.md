@@ -17,49 +17,49 @@
 
 <div class="plan-grid">
 
-<a class="card">
+<a href="#/planejamento/aplicativo/README.md" class="card">
   <div class="card__icon">📱</div>
   <div class="card__title">Aplicativo Analisado</div>
   <div class="card__desc">Contexto, critérios e motivações para a escolha do app de referência.</div>
 </a>
 
-<a class="card" >
+<a href="#/planejamento/atas/README.md" class="card">
   <div class="card__icon">🗒️</div>
   <div class="card__title">Atas de Reuniões</div>
   <div class="card__desc">Registros objetivos das reuniões do time e decisões tomadas.</div>
 </a>
 
-<a class="card" >
+<a href="#/planejamento/cronograma/README.md" class="card">
   <div class="card__icon">🗓️</div>
   <div class="card__title">Cronograma da Equipe</div>
   <div class="card__desc">Visão de prazos, marcos e responsáveis por etapa.</div>
 </a>
 
-<a class="card">
+<a href="#/planejamento/ferramentas/README.md" class="card">
   <div class="card__icon">🧰</div>
   <div class="card__title">Ferramentas</div>
   <div class="card__desc">Stack utilizada para comunicação, versionamento e documentação.</div>
 </a>
 
-<a class="card" >
+<a href="#/planejamento/heatmap/README.md" class="card" >
   <div class="card__icon">🔥</div>
   <div class="card__title">Heatmap da Equipe</div>
   <div class="card__desc">Disponibilidade do time para facilitar o planejamento de entregas.</div>
 </a>
 
-<a class="card">
+<a href="#/planejamento/metodologias/README.md" class="card" >
   <div class="card__icon">📐</div>
   <div class="card__title">Metodologias</div>
   <div class="card__desc">Abordagens e rituais adotados durante o projeto.</div>
 </a>
 
-<a class="card">
+<a href="#/planejamento/referencias/README.md" class="card" >
   <div class="card__icon">📚</div>
   <div class="card__title">Referências</div>
   <div class="card__desc">Fontes bibliográficas e materiais consultados.</div>
 </a>
 
-<a class="card" >
+<a href="#/planejamento/rich-picture/README.md" class="card" >
   <div class="card__icon">🖼️</div>
   <div class="card__title">Rich Picture</div>
   <div class="card__desc">Visão visual do problema, atores e fluxos principais.</div>
@@ -74,7 +74,8 @@
 
 | Versão | Data        | Descrição                         | Autores  | Revisores                                            |
 |-------:|-------------|-----------------------------------|----------|------------------------------------------------------|
-| 1.0    | 08/09/2025  | Criação da página do cronograma   | Letícia  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
+| 1.0    | 08/09/2025  | Criação da página Visão Geral   | Letícia Paiva  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
+| 1.1    | 28/09/2025 | Melhoria na navegação: inclusão de cards interativos entre as seções   | Leticia Paiva | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro    |
 
 ---
 
