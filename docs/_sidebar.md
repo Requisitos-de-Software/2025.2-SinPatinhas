@@ -20,6 +20,13 @@
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
   - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
 
+- REQUISITOS
+  - [Visão Geral](/requisitos/README.md)
+  - [Funcionais](/requisitos/nao_funcionais/nao_funcionais.md)
+  - [Não Funcionais](/requisitos/funcionais/funcionais.md)
+  - [Referências funcionais](/requisitos/referencias/funcionais.md)
+  - [Referências não funcionais](/requisitos/referencias/nao_funcionais.md)
+
 - ANÁLISE
   - [Visão Geral](/analise/README.md)
 
