@@ -163,4 +163,12 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
     .feat-grid{ grid-template-columns: 1fr; }
     .intro-logo{ width: 240px; }
   }
+
+  .markdown-section .feat-card,
+  .markdown-section .feat-card * {
+    color:#0f172a !important;
+    opacity:1 !important;
+    text-shadow:none !important;
+  }
+  .markdown-section .feat-card a { color:inherit !important; }
 </style>
