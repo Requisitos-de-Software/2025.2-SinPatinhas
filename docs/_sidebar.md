@@ -26,6 +26,8 @@
   - [Não Funcionais](/requisitos/funcionais/funcionais.md)
   - [Referências funcionais](/requisitos/referencias/funcionais.md)
   - [Referências não funcionais](/requisitos/referencias/nao_funcionais.md)
+  - [Experimentação com LLMs](/requisitos/LLMs/experimentacaoLLMs.md)
+ 
 
 - ANÁLISE
   - [Visão Geral](/analise/README.md)

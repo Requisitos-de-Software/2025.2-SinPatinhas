@@ -29,7 +29,7 @@
   <div class="card__desc">Critérios e métodos usados para hierarquizar requisitos levantados.</div>
 </a>
 
-<a href="#/elicitacao/listas_verificacao/listas_verificacao,md" class="card">
+<a href="#/elicitacao/listas_verificacao/listas_verificacao.md" class="card">
   <div class="card__icon">📊</div>
   <div class="card__title">Listas de verificação</div>
   <div class="card__desc">Síntese dos artefatos essenciais e direcionamentos para etapas posteriores.</div>
