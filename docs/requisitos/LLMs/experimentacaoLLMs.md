@@ -322,3 +322,9 @@ As respostas dos modelos foram resumidas para apagar todos os textos desnecessá
 > Funcionalidades avançadas para fases futuras, agregando valor com base em um sistema consolidado.
 
 ---
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                                   | Autores  | Revisores |
+|-------:|------------|----------------------------------------------|----------|-----------|
+| 1.0    | 30/09/2025 | Criação da página da lista de experimentação com LLMs   | Heloisa  | -         |
