@@ -29,7 +29,7 @@
     </tr>
   </thead>
   <tbody>
-   <!-- Técnica: MoSCoW -->
+   <!-- Técnica: MoSCoW (Autor: Antonio Carvalho)-->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: MoSCoW</th>
     </tr>
@@ -64,7 +64,7 @@
       <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
       <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td></tr>
 --
-    <!-- Técnica: Escala de Três Níveis -->
+    <!-- Técnica: Escala de Três Níveis (Autor: Letícia Paiva)-->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: Escala de Três Níveis</th>
     </tr>
@@ -96,7 +96,7 @@
       <td><input type="checkbox" id="conforme19"   name="conforme19"></td>
       <td><input type="checkbox" id="nao_conforme19" name="nao_conforme19"></td></tr>
 --
-    <!-- Técnica: Teste dos $100 -->
+    <!-- Técnica: Teste dos $100 (Autor: Pedro Gomes Oliveira) -->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: Teste dos $100</th>
     </tr>
@@ -134,7 +134,7 @@
       <td><input type="checkbox" id="conforme30"   name="conforme30"></td>
       <td><input type="checkbox" id="nao_conforme30" name="nao_conforme30"></td></tr>
 --
-    <!-- Técnica: In or Out -->
+    <!-- Técnica: In or Out (Autor: Isaac Menezes Pereira) -->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: In or Out (Dentro ou Fora)</th>
     </tr>
@@ -164,7 +164,7 @@
       <td><input type="checkbox" id="nao_conforme38" name="nao_conforme38"></td></tr>
   </tbody>
 --
-    <!-- Técnica: Comparação em Duplas e Ordenamento Ranqueado -->
+    <!-- Técnica: Comparação em Duplas e Ordenamento Ranqueado (Autor: Luciano Machado) -->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: Comparação em Duplas e Ordenamento Ranqueado</th>
     </tr>
@@ -241,7 +241,7 @@
 |-------:|------------|------------------------------------------------------|---------------|-------------------------|
 | 1.0    | 28/09/2025 | Criação da página de checklist de priorização        | Leticia Paiva | Heloisa, Antonio        |
 | 1.1    | 30/09/2025 | Criação da tabela de priorização por duplas          | Luciano Machado | Leticia, Heloisa, Antonio|
-
+| 1.2    | 30/09/2025 | Adiciona autores         | Letícia Paiva | Leticia, Heloisa, Antonio|
 ---
 
 <style>
