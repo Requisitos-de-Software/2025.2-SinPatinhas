@@ -97,6 +97,36 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 
 ---
 
+### 2. **Entrevistas**
+
+#### 🎤 Entrevista 02 – Gustavo  
+- **Perfil**: Jovem, 22 anos, estudante de Ciências Biológicas (UnB), estagiário em micologia. Tem cães; já teve peixes e aves. 
+- **Comportamento**: Registra manualmente vacinas/consultas; animais castrados e com vacinas em dia; consultas frequentes por questões de saúde da raça/espécie.
+- **Necessidades**: Agilidade para registrar vacinas/medicação; sistema nacional para identificação/recuperação; facilitar adoção; acesso a informações de vacinação/castração pública; “cartão SUS digital” do pet; centralização em app; alertas; integração com clínicas/ONGs/pet shops; acesso mobile e web.
+
+📺 [Vídeo da Entrevista (YouTube)](https://www.youtube.com/watch?v=78vAABLNU_4)  
+
+##### ✅ Requisitos Funcionais
+- RF01: O sistema deve permitir a busca e recuperação de animais perdidos ou abandonados.
+- RF02: O sistema deve funcionar como um prontuário digital, centralizando o histórico de saúde e vacinação do animal.
+- RF03: O sistema deve incluir uma funcionalidade para facilitar a adoção de animais.
+- RF04: O sistema deve enviar notificações automáticas para vacinas e lembretes para horários de medicação.
+- RF05: O sistema deve permitir o registro de informações detalhadas do animal, como nome, idade, tipo sanguíneo, peso, altura, raça, espécie e endereço do tutor.
+
+##### ⚙️ Requisitos Não Funcionais
+- RNF01 (Usabilidade): O sistema deve ser claro e fácil de entender, permitindo que o usuário saiba exatamente o que fazer.
+- RNF02 (Compatibilidade/Acessibilidade): O sistema deve ser acessível em múltiplas plataformas, como celular e computador, com prioridade para a experiência móvel. 
+- RNF03 (Integração): O sistema deve permitir a integração com clínicas, ONGs e pet shops para facilitar o acesso à informação. 
+- RNF04 (Utilidade): O sistema deve ser prático e substituir com eficiência o uso de documentos e agendas físicas.
+
+##### ❌ Requisitos Não Implementados
+
+- Sistema de Adoção (RF03)
+- Alertas e Notificações Automáticas (RF04)
+- Integração Direta com Parceiros (RNF03)
+
+---
+
 ## 📜 Histórico de Versão
 
 | Versão | Data       | Descrição                                         | Autores           | Revisores |
@@ -106,6 +136,7 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 | 1.2    | 24/09/2025 | Inclusão de requisitos elicitados                 | Pedro e Letícia   | Antonio   |
 | 1.3    | 26/09/2025 | Entrevista com Ana Beatriz e requisitos associados | Antonio e Letícia | Pedro     |
 | 1.3    | 30/09/2025 | Alteração de estrutura | Antonio | Pedro     |
+| 1.4    | 01/10/2025 |  Entrevista com Gustavo e requisitos associados | Leticia | Pedro     |
 
 ---
 
