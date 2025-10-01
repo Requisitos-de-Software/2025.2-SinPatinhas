@@ -42,10 +42,10 @@
   <div class="card__desc">Verificação de completude, realismo e representatividade.</div>
 </a>
 
-<a href="#/elicitacao/listas_verificacao/lista_elicitação.md" class="card">
+<a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="card">
   <div class="card__icon">🔍</div>
-  <div class="card__title">Elitação</div>
-  <div class="card__desc">VProcesso de coleta e análise inicial de informações para identificar requisitos do sistema.</div>
+  <div class="card__title">Elicitação</div>
+  <div class="card__desc">Processo de coleta e análise inicial de informações para identificar requisitos do sistema.</div>
 </a>
 
 </div>

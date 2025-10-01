@@ -12,6 +12,8 @@
     </a>
     <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">
         Personas
+    <a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="chip">
+        Personas
     </a>
   </div>
 </div>

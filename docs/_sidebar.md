@@ -19,7 +19,6 @@
   - [Técnicas de Elicitação](/elicitacao/tecnicas_elicitacao/tec_elicitacao)
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
   - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
-  - [Listas de Elicitação](/elicitacao/listas_verificacao/listas_elicitação)
 
 - REQUISITOS
   - [Visão Geral](/requisitos/README.md)
