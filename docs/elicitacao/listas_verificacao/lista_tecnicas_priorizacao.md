@@ -227,7 +227,7 @@
 |------------|
 | [Antonio Carvalho]() |
 | [Heloisa Santos]() |
-| [Isaac Menezes Pereira]() |
+| [Isaac Menezes Pereira](https://drive.google.com/file/d/1xc1nOIfZxR5r_MSLzhpMHdZeQKlAc2C2/view) |
 | [Letícia Paiva](https://docs.google.com/document/d/15TeVYaZZEhAD8WG7p2geeBq_Ll-SYVKswjFH6oi7Z8I/edit?tab=t.0) |
 | [Luciano Machado](https://docs.google.com/document/d/1yvkl6bOKOz1APucwxJpZKTQfSNJJ3Y_c67WCc4M1xB4/edit?pli=1&tab=t.0) |
 | [Mateus Negrini]() |

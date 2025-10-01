@@ -172,7 +172,7 @@
 |------------|
 | [Antonio Carvalho]() |
 | [Heloisa Santos](https://docs.google.com/document/d/1_17Gd6IwQEBumfZFkrqFcfNF8LkH3qTYbXeTQScUqBU/edit?usp=sharing) |
-| [Isaac Menezes Pereira]() |
+| [Isaac Menezes Pereira](https://drive.google.com/file/d/10K9yLQv79emw-F-7O3FqmEQ1JsPAAIJM/view?usp=sharing) |
 | [Letícia Paiva](https://docs.google.com/document/d/1xuHtyHvEhJyAizGIzFZXCtbXIvSIoJQDutUVQx49VZ8/edit?tab=t.0) |
 | [Luciano Machado]() |
 | [Mateus Negrini]() |

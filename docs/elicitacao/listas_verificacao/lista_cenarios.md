@@ -54,7 +54,7 @@
 |------------|
 | [Antonio Carvalho]() |
 | [Heloisa Santos]() |
-| [Isaac Menezes Pereira]() |
+| [Isaac Menezes Pereira](https://drive.google.com/file/d/1WBY9PEBFgnyGZV0_tEajS3wFAJOnX4wx/view) |
 | [Letícia Paiva](https://docs.google.com/document/d/1swX9xXXRzD-5Xcl3TjBw92MgUXcp2LCH2Ue6MzN_iQc/edit?tab=t.0) |
 | [Luciano Machado]() |
 | [Mateus Negrini]() |
