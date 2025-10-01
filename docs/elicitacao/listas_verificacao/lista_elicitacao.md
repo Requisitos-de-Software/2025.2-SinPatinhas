@@ -12,8 +12,6 @@
     </a>
     <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">
         Personas
-    <a href="#/elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md" class="chip">
-        Tecnicas de Priorização
     </a>
   </div>
 </div>
