@@ -86,8 +86,6 @@
       <td><input type="checkbox" name="nao_conforme7"></td>
       <td>Pedro</td>
     </tr>
-
-    <!-- Fase 2 -->
     <tr>
       <td colspan="5"><strong>Fase 2: Execução e Postura do Entrevistador</strong></td>
     </tr>
@@ -112,8 +110,6 @@
       <td><input type="checkbox" name="nao_conforme10"></td>
       <td>Pedro</td>
     </tr>
-
-    <!-- Fase 3 -->
     <tr>
       <td colspan="5"><strong>Fase 3: Documentação e Validação (Pós-Entrevista)</strong></td>
     </tr>
@@ -145,6 +141,7 @@
       <td><input type="checkbox" name="nao_conforme14"></td>
       <td>Letícia Paiva / Pedro</td>
     </tr>
+
   </tbody>
 </table>
 
