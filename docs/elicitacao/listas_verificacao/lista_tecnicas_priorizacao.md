@@ -241,7 +241,7 @@
 |-------:|------------|------------------------------------------------------|---------------|-------------------------|
 | 1.0    | 28/09/2025 | Criação da página de checklist de priorização        | Leticia Paiva | Heloisa, Antonio        |
 | 1.1    | 30/09/2025 | Criação da tabela de priorização por duplas          | Luciano Machado | Leticia, Heloisa, Antonio|
-| 1.2    | 30/09/2025 | Adiciona autores         | Letícia Paiva | Leticia, Heloisa, Antonio|
+| 1.2    | 30/09/2025 | Adiciona autores         | Letícia Paiva | Luciano, Heloisa, Antonio|
 ---
 
 <style>
