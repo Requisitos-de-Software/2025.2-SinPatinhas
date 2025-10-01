@@ -20,32 +20,123 @@
 <div class="plan-grid"></div>
 
 <table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Item</th>
-            <th>Conforme</th>
-            <th>Não Conforme</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>1</td><td>O cenário descreve o comportamento e a experiência dos atores envolvidos?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>2</td><td>O cenário possui um enredo com sequência de ações e eventos?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>3</td><td>O cenário inclui uma descrição do ambiente ou contexto que explica os objetivos e ações dos atores?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>4</td><td>A descrição do ator inclui características pessoais que são relevantes para o cenário?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>5</td><td>O cenário é apresentado como uma narrativa, seja em formato textual ou pictórico?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>6</td><td>O cenário mostra atores interagindo com elementos do ambiente?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>7</td><td>O cenário inclui eventos ou ações externas geradas pelo sistema ou pelo ambiente?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>8</td><td>Os comportamentos descritos no cenário são observáveis?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>9</td><td>As ações dos atores no cenário são motivadas por objetivos claros?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>10</td><td>Se o cenário utiliza personas, elas foram elaboradas previamente?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>11</td><td>O cenário define claramente um ator principal?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>12</td><td>O cenário possui um objetivo principal a ser alcançado?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>13</td><td>O cenário possui um título que descreve a situação abordada?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-        <tr><td>14</td><td>A situação inicial em que o ator se encontra é descrita no cenário?</td><td><input type="checkbox"></td><td><input type="checkbox"></td></tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Item</th>
+      <th>Autores</th>
+      <th>Conforme</th>
+      <th>Não Conforme</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>O cenário é apresentado como uma narrativa concreta, rica em detalhes contextuais, seja em formato textual ou pictórico.</td>
+      <td>Heloisa Silva / Pedro Oliveira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>O cenário possui um título que resume a situação.</td>
+      <td>Letícia Paiva / Mateus Negrini</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>O cenário define claramente um ator principal e um objetivo principal a ser alcançado.</td>
+      <td>Letícia Paiva / Pedro Oliveira / Isaac Pereira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>A situação inicial do ator é descrita de forma clara.</td>
+      <td>Letícia Paiva / Mateus Negrini</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>O enredo do cenário apresenta uma sequência lógica de ações e eventos.</td>
+      <td>Heloisa Silva / Letícia Paiva / Mateus Negrini</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>O ambiente e o contexto da situação (quando, onde, por quê) estão bem descritos.</td>
+      <td>Heloisa Silva / Letícia Paiva / Pedro Oliveira / Mateus Negrini / Isaac Pereira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Os atores são descritos com suas características pessoais relevantes para o cenário.</td>
+      <td>Heloisa Silva / Letícia Paiva / Pedro Oliveira / Mateus Negrini / Isaac Pereira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Os objetivos do ator são explícitos e motivam as ações realizadas no cenário.</td>
+      <td>Heloisa Silva / Pedro Oliveira / Mateus Negrini / Isaac Pereira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>O planejamento mental do ator (estratégias e decisões) é descrito quando relevante para a história.</td>
+      <td>Pedro Oliveira / Mateus Negrini</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>O cenário explora situações de exceção ou eventos raros.</td>
+      <td>Pedro Oliveira / Mateus Negrini</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>O cenário descreve apenas um fluxo específico de eventos (não múltiplos, como em um caso de uso).</td>
+      <td>Pedro Oliveira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>O cenário demonstra que o sistema resolve um problema real do usuário.</td>
+      <td>Isaac Pereira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>O cenário deixa claro como os serviços do sistema ajudam o ator a atingir seus objetivos.</td>
+      <td>Isaac Pereira</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Se o cenário utiliza personas, foi verificado se elas foram elaboradas previamente.</td>
+      <td>Heloisa Silva</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>O conjunto de todos os cenários criados é abrangente (cobre diferentes usuários, funções do produto e variações de tarefas).</td>
+      <td>Mateus Negrini</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+    </tr>
+  </tbody>
 </table>
-
 ---
 
 ## Lista de verificação elaborada por cada integrante do grupo
