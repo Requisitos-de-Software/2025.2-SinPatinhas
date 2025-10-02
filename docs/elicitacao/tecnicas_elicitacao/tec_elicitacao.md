@@ -32,6 +32,7 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 |-----------------------|---------------|---------------|------------------|------------------------------------------------|
 | Análise de Documentos | 24/09/2025    | 24/09/2025    | Pedro Gomes      | Realizada conforme o planejado                 |
 | Entrevista            | 25/09/2025    | 26/09/2025    | Antônio e Pedro  | Reagendada devido à solicitação da entrevistada |
+| Entrevista            | 26/09/2025    | 30/09/2025    |  Letícia | Reagendada de acordo com a disponibilidade do entrevistado |
 
 ---
 
