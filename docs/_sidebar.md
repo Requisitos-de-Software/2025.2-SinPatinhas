@@ -1,6 +1,5 @@
 - Sobre
   - [Introdução](/README.md)
-  - [Apresentações](/apresentacoes.md)
 
 - PLANEJAMENTO
   - [Visão Geral](/planejamento/README.md)
