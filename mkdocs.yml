@@ -74,3 +74,5 @@ nav:
       - Rich Picture: planejamento/rich-picture/index.md
   - Elicitação de Requisitos:
       - Visão geral: elicitacao/index.md
+  - Análise:
+      - Visão geral: analise/README.md
