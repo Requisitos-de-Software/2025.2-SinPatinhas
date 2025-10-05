@@ -10,6 +10,7 @@
     Cenários</a>
     <a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="chip">Perfil do Usuário</a>
     <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">Personas</a>
+    <a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="chip">Lista de Elicitação</a>
   </div>
 </div>
 
@@ -29,7 +30,7 @@
     </tr>
   </thead>
   <tbody>
-   <!-- Técnica: MoSCoW -->
+   <!-- Técnica: MoSCoW (Autor: Antonio Carvalho)-->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: MoSCoW</th>
     </tr>
@@ -64,7 +65,7 @@
       <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
       <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td></tr>
 --
-    <!-- Técnica: Escala de Três Níveis -->
+    <!-- Técnica: Escala de Três Níveis (Autor: Letícia Paiva)-->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: Escala de Três Níveis</th>
     </tr>
@@ -96,7 +97,7 @@
       <td><input type="checkbox" id="conforme19"   name="conforme19"></td>
       <td><input type="checkbox" id="nao_conforme19" name="nao_conforme19"></td></tr>
 --
-    <!-- Técnica: Teste dos $100 -->
+    <!-- Técnica: Teste dos $100 (Autor: Pedro Gomes Oliveira) -->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: Teste dos $100</th>
     </tr>
@@ -134,7 +135,7 @@
       <td><input type="checkbox" id="conforme30"   name="conforme30"></td>
       <td><input type="checkbox" id="nao_conforme30" name="nao_conforme30"></td></tr>
 --
-    <!-- Técnica: In or Out -->
+    <!-- Técnica: In or Out (Autor: Isaac Menezes Pereira) -->
     <tr class="section-row">
       <th colspan="4" scope="colgroup">Técnica: In or Out (Dentro ou Fora)</th>
     </tr>
@@ -163,6 +164,60 @@
       <td><input type="checkbox" id="conforme38"   name="conforme38"></td>
       <td><input type="checkbox" id="nao_conforme38" name="nao_conforme38"></td></tr>
   </tbody>
+--
+    <!-- Técnica: Comparação em Duplas e Ordenamento Ranqueado (Autor: Luciano Machado) -->
+    <tr class="section-row">
+      <th colspan="4" scope="colgroup">Técnica: Comparação em Duplas e Ordenamento Ranqueado</th>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>Foi estabelecido uma ordem de comparação, se é maior ou menor, de cada elemento para outro elemento de requerimento? <span class="page-ref">pg. 318</span></td>
+      <td><input type="checkbox" id="conforme39" name="conforme39"></td>
+      <td><input type="checkbox" id="nao_conforme39" name="nao_conforme39"></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>Para cada artefato criado que explicita uma elicitação de requerimentos, foi considerado criar um ordenamento ranqueado por comparação em duplas? <span class="page-ref">pg. 318</span></td>
+      <td><input type="checkbox" id="conforme40" name="conforme40"></td>
+      <td><input type="checkbox" id="nao_conforme40" name="nao_conforme40"></td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>Foi considerada uma pouca quantidade de elementos de requerimentos? <span class="page-ref">pg. 319</span></td>
+      <td><input type="checkbox" id="conforme41" name="conforme41"></td>
+      <td><input type="checkbox" id="nao_conforme41" name="nao_conforme41"></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>Foi considerado que não é possível aplicar a técnica de comparação em duplas para todo o projeto como um todo? <span class="page-ref">pg. 319</span></td>
+      <td><input type="checkbox" id="conforme42" name="conforme42"></td>
+      <td><input type="checkbox" id="nao_conforme42" name="nao_conforme42"></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>Foi considerado que ranquear todos os requerimentos é demais, além do necessário? <span class="page-ref">pg. 319</span></td>
+      <td><input type="checkbox" id="conforme43" name="conforme43"></td>
+      <td><input type="checkbox" id="nao_conforme43" name="nao_conforme43"></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>Os requerimentos foram agrupados em grupos de release ou por caixas de tempo de desenvolvimento? <span class="page-ref">pg. 319</span></td>
+      <td><input type="checkbox" id="conforme44" name="conforme44"></td>
+      <td><input type="checkbox" id="nao_conforme44" name="nao_conforme44"></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>Foi considerado separar as prioridades em grupos de features, prioridade similar ou que apenas devem ser implementadas juntas?</td>
+      <td><input type="checkbox" id="conforme45" name="conforme45"></td>
+      <td><input type="checkbox" id="nao_conforme45" name="nao_conforme45"></td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>Foi atribuído um número único para cada elemento?</td>
+      <td><input type="checkbox" id="conforme46" name="conforme46"></td>
+      <td><input type="checkbox" id="nao_conforme46" name="nao_conforme46"></td>
+    </tr>
+
 </table>
 
 ---
@@ -173,9 +228,9 @@
 |------------|
 | [Antonio Carvalho]() |
 | [Heloisa Santos]() |
-| [Isaac Menezes Pereira]() |
+| [Isaac Menezes Pereira](https://drive.google.com/file/d/1xc1nOIfZxR5r_MSLzhpMHdZeQKlAc2C2/view) |
 | [Letícia Paiva](https://docs.google.com/document/d/15TeVYaZZEhAD8WG7p2geeBq_Ll-SYVKswjFH6oi7Z8I/edit?tab=t.0) |
-| [Luciano Machado]() |
+| [Luciano Machado](https://docs.google.com/document/d/1yvkl6bOKOz1APucwxJpZKTQfSNJJ3Y_c67WCc4M1xB4/edit?pli=1&tab=t.0) |
 | [Mateus Negrini]() |
 | [Pedro Gomes Oliveira]() |
 
@@ -186,7 +241,8 @@
 | Versão | Data       | Descrição                                            | Autores       | Revisores               |
 |-------:|------------|------------------------------------------------------|---------------|-------------------------|
 | 1.0    | 28/09/2025 | Criação da página de checklist de priorização        | Leticia Paiva | Heloisa, Antonio        |
-
+| 1.1    | 30/09/2025 | Criação da tabela de priorização por duplas          | Luciano Machado | Leticia, Heloisa, Antonio|
+| 1.2    | 30/09/2025 | Adiciona autores         | Letícia Paiva | Luciano, Heloisa, Antonio|
 ---
 
 <style>

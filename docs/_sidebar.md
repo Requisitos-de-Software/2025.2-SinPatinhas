@@ -1,6 +1,5 @@
 - SOBRE
   - [Introdução](/README.md)
-  - [Apresentações](/apresentacoes.md)
 
 - ENTREGA 1
   - PLANEJAMENTO
@@ -21,6 +20,11 @@
     - [Técnicas de Elicitação](/elicitacao/tecnicas_elicitacao/tec_elicitacao)
     - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
     - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
+    - [Inspeção grupo+1](/elicitacao/elicitacao_grupo_2/elicitacao_grupo_2)
+
+  - REQUISITOS
+    - [Visão Geral](/requisitos/README.md)
+    - [Experimentação com LLMs](/requisitos/LLMs/experimentacaoLLMs.md)
 
   - ANÁLISE
     - [Visão Geral](/analise/README.md)
