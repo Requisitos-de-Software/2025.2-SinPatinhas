@@ -35,6 +35,14 @@
       - [Decreto nº 12.439/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Decreto/D12439.htm)
       - [Perguntas e Respostas](https://www.gov.br/mma/pt-br/noticias/perguntas-e-respostas-sobre-o-propatinhas-e-o-sinpatinhas)
       - ["RG para cães e gatos"](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/04/rg-para-caes-e-gatos-tire-duvidas-sobre-a-nova-acao-do-governo-federal)
+      - [MMA – Página oficial do SinPatinhas](https://sinpatinhas.mma.gov.br/login)
+      - [MMA – O que é o SinPatinhas?](https://www.gov.br/mma/pt-br/composicao/sbio/dpda/programas-e-Projetos/sinpatinhas)
+      - [Agência Brasil – Governo lança SinPatinhas](https://agenciabrasil.ebc.com.br/geral/noticia/2025-04/saiba-como-funciona-o-sinpatinhas-novo-rg-animal-para-caes-e-gatos)
+      - [CNN Brasil](https://www.cnnbrasil.com.br/politica/sinpatinhas-como-cadastrar-caes-e-gatos-no-programa-de-rg-para-pets/)
+      - [O Globo](https://oglobo.globo.com/brasil/noticia/2025/04/17/rg-animal-veja-como-fazer-cadastro-para-caes-e-gatos-no-sinpatinhas.ghtm)
+      - [InfoMoney – Cadastro nacional de animais](https://www.infomoney.com.br/brasil/sinpatinhas-veja-como-sera-o-rg-de-caes-e-gatos-anunciado-pelo-governo/)
+      - [Lei Geral de Proteção de Dados – LGPD](https://www.gov.br/cidadania/pt-br/lgpd)
+      - [Canal do Pet – IG](https://canaldopet.ig.com.br/2025-04-17/)
 
       **Requisitos Funcionais (RF)**
 
@@ -71,13 +79,40 @@
       RF011 – O sistema deve ser capaz de gerar relatórios e estatísticas para órgãos públicos sobre a população de cães e gatos, auxiliando em políticas de saúde.
       Fonte: BRASIL (2024).
 
+      RF012 – O sistema deve permitir login integrado via Gov.br, possibilitando autenticação única e segura para tutores e profissionais.
+      Fonte: MMA – Ministério do Meio Ambiente e Mudança do Clima; Decreto nº 12.439/2025.
+
+      RF013 – O sistema deve habilitar preenchimento automático de dados pessoais do tutor (quando autorizado via Gov.br), reduzindo a duplicidade de entrada de dados.
+      Fonte: MMA – Ministério do Meio Ambiente e Mudança do Clima; Decreto nº 12.439/2025.
+
+      RF014 – O sistema deve emitir uma carteirinha digital com validade nacional, contendo QR Code que permita acesso rápido às informações básicas do animal.
+      Fonte: O Globo; InfoMoney; CNN Brasil.
+
+      RF015 – O sistema deve permitir o registro opcional do número de microchip no cadastro do animal e exibir o microchip na carteirinha digital quando informado.
+      Fonte: InfoMoney; O Globo.
+
+      RF016 – O sistema deve permitir que médicos veterinários registrem oficialmente procedimentos (castração, vacinas, microchipagem) no prontuário do animal, com identificação do profissional responsável.
+      Fonte: Lei nº 13.426/2017; Agência Brasil.
+
+      RF017 – O sistema deve suportar perfis ampliados de atores (tutores, veterinários, ONGs, protetores independentes e gestores públicos), cada um com permissões e visibilidades específicas.
+      Fonte: MMA – Ministério do Meio Ambiente; CNN Brasil.
+
+      RF018 – O sistema deve possibilitar envio de notificações e campanhas (lembretes de vacinação, castração e microchipagem) e a publicação de materiais educativos de guarda responsável.
+      Fonte: Agência Brasil; O Globo.
+
+      RF019 – O sistema deve oferecer mecanismos de integração com políticas públicas, permitindo cadastros e relatórios específicos para programas sociais (baixa renda, povos/tradicionais, pessoas em situação de rua, protetores) e facilitar ações governamentais.
+      Fonte: Decreto nº 12.439/2025; MMA.
+
+      RF020 – O sistema deve garantir acesso nacional via internet (gratuito) e possuir arquitetura capaz de suportar picos massivos de acesso, com escalabilidade e balanceamento conforme demanda.
+      Fonte: InfoMoney; CNN Brasil.
+
       **Requisitos Não Funcionais (RNF)**
 
       RNF001 (Segurança) – O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), garantindo a segurança e a privacidade dos dados pessoais dos tutores.
       Fonte: BRASIL (2024).
 
       RNF002 (Disponibilidade) – O sistema deve possuir uma disponibilidade de 99,8% em regime 24/7, garantindo o acesso contínuo às informações.
-      Fonte: Requisito implícito pela natureza de serviço público essencial.
+      Fonte: Requisito implícito pela natureza de serviço público essencial, Canal do Pet – IG.
 
       RNF003 (Usabilidade) – A interface do sistema deve ser intuitiva e de fácil utilização para o cidadão comum (tutor).
       Fonte: BRASIL (2025c).
@@ -170,7 +205,50 @@
       RNF002 (Disponibilidade / Desempenho): O sistema deve possuir funcionalidades que operem offline (sem conexão com a internet).
       Fonte: (3:23) - "...ter um modo offline é muito bom."
 
+    ---
 
+      ### Entrevista 02
+
+      <iframe width="100%" height="600" 
+      src="https://www.youtube.com/watch?v=ybGDZRGtCIc" 
+      title="YouTube video player" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      allowfullscreen>
+      </iframe>
+
+      **Nome:** Dra. Ilma Coutinho  
+      **Perfil:** Médica veterinária com mais de 40 anos de experiência, professora universitária e clínica geral. Utiliza sistemas como o Sisvet e conhece o Sinpatinhas.  
+
+      #### Requisitos Funcionais
+
+      RF001 – O sistema deve possuir uma área de instruções integradas (manual digital) explicando passo a passo o uso das funções.  
+      RF002 – O sistema deve permitir upload de foto do animal.  
+      RF003 – O sistema deve possibilitar o cadastro e atualização de endereço do tutor.  
+      RF004 – O sistema deve ter um módulo separado para registro e visualização de exames do animal.  
+      RF005 – O sistema deve ser acessível via celular para consulta de dados fora da clínica.  
+      RF006 – O sistema deve permitir acesso remoto aos dados do animal, não limitado à clínica.  
+      RF007 – O sistema deve permitir integração entre clínicas veterinárias, de modo que um veterinário possa visualizar (mas não alterar) o prontuário criado por outro.  
+      RF008 – O sistema deve permitir o cadastro de ONGs e associações para controle de animais resgatados e adotados.  
+      RF009 – O sistema deve permitir rastreamento de doações e adoções, registrando quem doou, quem adotou e datas correspondentes.  
+      RF010 – O sistema deve permitir a transferência de tutor de forma oficial, preservando o histórico do animal.  
+      RF011 – O sistema deve emitir alertas de acesso suspeito ou tentativas de violação.  
+      RF012 – O sistema deve notificar tutores periodicamente para atualização de dados e fotos do animal.  
+      RF013 – O sistema deve permitir vincular foto do tutor ao registro de adoção.  
+
+      #### Requisitos Não Funcionais
+
+      RNF001 (Usabilidade) – O sistema deve ser fácil de aprender e operar por profissionais com pouca afinidade tecnológica de forma que não cometa erros permanentes e cometa erros concertaveis no maximo 1 vez por semana.  
+      RNF002 (Segurança) – O sistema deve alertar o usuário sobre tentativas de acesso não autorizado, similar a sistemas bancários.  
+      RNF003 (Confiabilidade) – O sistema deve evitar perda de dados e garantir cópias de segurança automáticas.  
+      RNF004 (Integração) – O sistema deve permitir integração entre clínicas, ONGs e o Sinpatinhas.  
+      RNF005 (Acessibilidade) – O sistema deve ser acessível por dispositivos móveis e desktops.  
+      RNF006 (Desempenho) – O sistema deve ter respostas rápidas, de até 2 segundos, mesmo em conexões móveis.  
+      RNF007 (Disponibilidade) – Deve permitir acesso remoto contínuo, 24 horas por dia.  
+      RNF008 (Privacidade) – O acesso aos dados clínicos deve ser restrito, permitindo visualização mas não edição por terceiros.  
+      RNF009 (Auditabilidade) – O sistema deve registrar logs de acesso e modificações.  
+
+    ---
 
 - ### ...
   ...
@@ -188,6 +266,7 @@
 | 1.1   | 24/09/2025 | Adição do cronograma de elicitação          | Pedro Gomes  |   Antonio   |
 | 1.2   | 24/09/2025 | Adição dos requisitos elicitados            | Pedro e Letícia | Antonio   |
 | 1.3   | 26/09/2025 | Adição da entrevista com Ana Beatriz e requisitos  | Antonio e Letícia | Pedro     |
+| 1.4   | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus |      |
 
 
 ---'

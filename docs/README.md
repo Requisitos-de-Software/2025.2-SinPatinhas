@@ -98,6 +98,7 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
 | Versão | Data        | Descrição                         | Autores  | Revisores                                            |
 |-------:|-------------|-----------------------------------|----------|------------------------------------------------------|
 | 1.0    | 08/09/2025  | Criação da página do introdução   | Letícia  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
+| 1.1    | 08/09/2025  | Reestruturação do indice          | Mateus   |                                                      |
 
 
 ---
