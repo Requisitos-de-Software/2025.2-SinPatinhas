@@ -25,7 +25,7 @@
 
   - REQUISITOS
     - [Visão Geral](/requisitos/README.md)
-    - [Visão Geral](/requisitos/funcionais/requisitos_elicitados.md)
+    - [Requisitos consolidados](/requisitos/funcionais/requisitos_elicitados.md)
     
 
   - ANÁLISE
