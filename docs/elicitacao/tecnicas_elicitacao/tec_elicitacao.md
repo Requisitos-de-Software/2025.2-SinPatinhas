@@ -12,6 +12,7 @@ Para isso, foram utilizadas as seguintes metodologias:
 - **Análise de Documentos** → entendimento do contexto legal e técnico.  
 - **Entrevistas** → captura de necessidades reais dos usuários.  
 - **Brainstorming** → geração de ideias e validação inicial de requisitos.  
+- **Análise de sistemas concorrentes** → estudo de como os concorrentes abordam as soluções.
 
 As próximas seções apresentam detalhadamente: metodologias aplicadas, cronograma, requisitos funcionais (RF) e não funcionais (RNF) identificados.
 
@@ -23,6 +24,7 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 - **Entrevistas**: coleta estruturada de informações com stakeholders.  
   - [📄 Roteiro de Entrevista](Roteiro.md)  
 - **Brainstorming**: sessões em grupo para identificação inicial de requisitos.  
+- **Análise de sistemas concorrentes**: avaliação de funcionalidades e interfaces de sistemas similares.  
 
 ---
 
@@ -35,6 +37,7 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 | Entrevista            | 25/09/2025    | 26/09/2025    | Antônio e Pedro  | Reagendada devido à solicitação da entrevistada |
 | Entrevista            | 26/09/2025    | 30/09/2025    |  Letícia | Reagendada de acordo com a disponibilidade do entrevistado |
 | Entrevista            | 29/09/2025    | 29/09/2025    | Mateus           | Realizada conforme o planejado                 |
+| Análise de sistemas concorrentes | ---    | 07/09/2025    | Heloisa           | Realizada após a entrega 2 para elicitação de novos requisitos não implementados        
 
 ---
 
@@ -197,6 +200,32 @@ Fonte: InfoMoney; CNN Brasil.
 - RF012 – O sistema deve notificar tutores periodicamente para atualização de dados e fotos do animal.
 - RF013 – O sistema deve permitir vincular foto do tutor ao registro de adoção.
 ---
+### 3. **Análise de sistemas concorrentes**
+
+Foram analisados dois sistemas concorrentes de planos de saúde para PETS: **Petlove** e **Dog Life** ([link Petlove](https://saude.petlove.com.br/)) ([link Dog Life](https://www.doglife.com.br/)).
+
+Os requisitos foram extraídos principalmente das interfaces de listagem de ambos os sistemas. O sistema da **Dog Life** se destaca por apresentar uma interface de listagem organizada, com opções de filtragem e detalhamento mais completo nos perfis dos prestadores de serviço ([link interface Dog Life](https://www.doglife.com.br/brasilia-df?filters=onlyAccredited)). Já o sistema da **Petlove** chama atenção pelo uso de um mapa interativo com filtragem, facilitando a localização de prestadores e serviços ([link mapa Petlove](https://saude.petlove.com.br/rede-credenciada/se/aracaju)).
+
+Essas observações permitiram identificar boas práticas e oportunidades de melhoria para o sistema SinPatinhas, especialmente no que diz respeito à usabilidade e à apresentação das informações para o usuário final.
+
+##### ❌ Requisitos Não Implementados
+
+- **RF001** – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados no sistema.
+- **RF002** – Implementar filtro por distância, permitindo ao usuário localizar clínicas próximas à sua posição atual.
+- **RF003** – Disponibilizar listagem de tratamentos e serviços oferecidos pelas clínicas e hospitais cadastrados.
+- **RF004** – Implementar filtro por especialidade veterinária, facilitando a busca por profissionais ou estabelecimentos específicos.
+- **RF005** – Incluir informações sobre horários de funcionamento de clínicas e hospitais veterinários.
+- **RF006** – Adicionar indicadores visuais no mapa e nos perfis para mostrar se a clínica ou hospital está aberto ou fechado.
+- **RF007** – Permitir pesquisa de clínicas e hospitais por médico veterinário vinculado.
+- **RF008** – Incluir campo para que clínicas e hospitais informem os preços dos principais procedimentos.
+- **RF009** – Adicionar opção para que médicos veterinários indiquem se realizam atendimentos domiciliares.
+- **RF010** – Implementar sistema de avaliação numérica para os estabelecimentos prestadores de serviço.
+- **RF011** – Implementar sistema de avaliação numérica para os médicos veterinários que realizarem atendimentos.
+- **RF012** – Permitir o envio de comentários e feedbacks sobre o atendimento recebido nos estabelecimentos.
+- **RF013** – Permitir o envio de comentários e feedbacks sobre o atendimento prestado por médicos veterinários.
+- **RF014** – Exibir indicador visual da média de avaliações no perfil de clínicas e hospitais veterinários.
+- **RF015** – Exibir indicador visual da média de avaliações no perfil de médicos veterinários.
+---
 
 ## 📜 Histórico de Versão
 
@@ -208,8 +237,8 @@ Fonte: InfoMoney; CNN Brasil.
 | 1.3    | 26/09/2025 | Entrevista com Ana Beatriz e requisitos associados | Antonio e Letícia | Pedro     |
 | 1.3    | 30/09/2025 | Alteração de estrutura | Antonio | Pedro     |
 | 1.4    | 01/10/2025 |  Entrevista com Gustavo e requisitos associados | Leticia | Pedro     |
-| 1.5    | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus |      |
-
+| 1.5    | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus | Heloisa     |
+| 1.6    | 07/10/2025 | Adição da técnica de análise de sistemas concorrentes  | Heloisa   |  --   |
 ---
 
 <style>
