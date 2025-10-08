@@ -1,6 +1,6 @@
 # Consolidação dos Requisitos Elicitados
 
-> Esta página apresenta a lista consolidada dos requisitos elicitados para o sistema SinPatinhas, com base no processo descrito no documento de Elicitação de Requisitos (`tec_elicitacao.md`). A elicitação foi realizada por meio de análise de documentos oficiais, entrevistas com stakeholders, brainstorming em grupo e análise de sistemas concorrentes. Os requisitos foram classificados em funcionais (implementados e não implementados) e não funcionais, e cada item apresenta sua respectiva fonte de origem.
+> Esta página apresenta a lista consolidada dos requisitos elicitados para o sistema SinPatinhas, com base no processo descrito no documento de [Elicitação de Requisitos](https://requisitos-de-software.github.io/2025.2-SinPatinhas/#/elicitacao/tecnicas_elicitacao/tec_elicitacao). A elicitação foi realizada por meio de análise de documentos oficiais, entrevistas com stakeholders, brainstorming em grupo e análise de sistemas concorrentes. Os requisitos foram classificados em funcionais (implementados e não implementados) e não funcionais, e cada item apresenta sua respectiva fonte de origem.
 
 ---
 
