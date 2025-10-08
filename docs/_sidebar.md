@@ -21,10 +21,11 @@
     - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
     - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
     - [Inspeção grupo+1](/elicitacao/elicitacao_grupo_2/elicitacao_grupo_2)
-    - [Experimentação com LLMs](/requisitos/LLMs/experimentacaoLLMs.md)
+    - [Experimentação com LLMs](/elicitacao/experimentacaoLLMs.md)
 
   - REQUISITOS
     - [Visão Geral](/requisitos/README.md)
+    - [Visão Geral](/requisitos/funcionais/requisitos_elicitados.md)
     
 
   - ANÁLISE
