@@ -149,11 +149,9 @@
 
 | Integrante |
 |------------|
-| [Antonio Carvalho]() |
 | [Heloisa Santos](https://drive.google.com/file/d/1K0e3XNcUESht1RplX1DdndrmKwyfXzac/view?usp=sharing) |
 | [Isaac Menezes Pereira](https://drive.google.com/file/d/1aSHfBhLkgIsNqvGJQVL2JmFvCJ98eK1i/view) |
 | [Letícia Paiva](https://docs.google.com/document/d/1xuHtyHvEhJyAizGIzFZXCtbXIvSIoJQDutUVQx49VZ8/edit?tab=t.0) |
-| [Luciano Machado]() |
 | [Mateus Negrini]() |
 | [Pedro Gomes Oliveira]() |
 

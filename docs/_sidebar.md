@@ -24,7 +24,7 @@
   - [Experimentação com LLMs](/elicitacao/experimentacaoLLMs.md)
 
 - **Modelagem**
-  - [Cenários](modelagem/cenarios.md)
+  - [Cenários](/modelagem/cenarios.md)
   - [Léxicos](modelagem/lexicos.md)
   - [Casos de Uso](modelagem/casos_de_uso.md)
   - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
