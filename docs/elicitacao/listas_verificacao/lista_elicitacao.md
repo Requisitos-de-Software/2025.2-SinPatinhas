@@ -147,12 +147,7 @@
 
 | Integrante |
 |------------|
-| [Antonio Carvalho]() |
-| [Heloisa Santos]() |
-| [Isaac Menezes Pereira]() |
-| [Letícia Paiva]() |
-| [Luciano Machado]() |
-| [Mateus Negrini]() |
+| [Letícia Paiva](https://docs.google.com/document/d/1CRgojOkMi6vhk4ZZKfFdrQXARHefyQiQhZ_S4qiLc70/edit?usp=sharing) |
 | [Pedro Gomes Oliveira]() |
 
 ## Histórico de Versão
