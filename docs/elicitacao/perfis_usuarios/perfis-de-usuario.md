@@ -8,7 +8,7 @@ Foi possível identificar que o sistema **Sinpatinhas** possui diferentes perfis
 
 ---
 
-## 👤 Dono de Pet
+## Dono de Pet
 
 O **Dono de Pet** é o usuário responsável por cadastrar e manter os dados de seus animais de estimação na plataforma.
 
@@ -29,7 +29,7 @@ O **Dono de Pet** é o usuário responsável por cadastrar e manter os dados de 
 
 ---
 
-## 🩺 Veterinário
+## Veterinário
 
 O **Veterinário** é o profissional qualificado que realiza procedimentos de saúde e registra essas informações no perfil do animal.
 
@@ -47,7 +47,7 @@ O **Veterinário** é o profissional qualificado que realiza procedimentos de sa
 
 ---
 
-## 📊 Estrutura de Dados
+## Estrutura de Dados
 
 Os dados fornecidos pelos **donos de pets** e **veterinários** são organizados em diferentes cadastros que interagem entre si:
 
@@ -64,7 +64,7 @@ Esses cadastros permitem operações como:
 
 ---
 
-## 📌 Resumo
+## Resumo
 
 | Perfil        | Objetivo Principal | Exemplos de Ações |
 |---------------|-------------------|-------------------|

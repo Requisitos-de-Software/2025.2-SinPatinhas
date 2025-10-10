@@ -17,14 +17,14 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
-    - media: "(prefers-color-scheme: light)"
+    - media: "(prefers-color-scheme: light"
       scheme: default
       primary: cyan
       accent: blue
       toggle:
         icon: material/weather-night
         name: Modo escuro
-    - media: "(prefers-color-scheme: dark)"
+    - media: "(prefers-color-scheme: dark"
       scheme: slate
       primary: cyan
       accent: blue
@@ -60,17 +60,31 @@ extra_css:
 nav:
   - Tela inicial: index.md
   - Planejamento:
-      - Visão geral: planejamento/index.md
-      - Aplicativo analisado: planejamento/aplicativo/index.md
-      - Atas de reuniões: planejamento/atas/index.md
-      - Ata 1: planejamento/atas/ata_reuniao_1.md
-      - Ata 2: planejamento/atas/ata_reuniao_2.md
-      - Ata 3: planejamento/atas/ata_reuniao_3.md
-      - Cronograma da equipe: planejamento/cronograma/index.md
-      - Ferramentas: planejamento/ferramentas/index.md
-      - Heatmap da equipe: planejamento/heatmap/index.md
-      - Metodologias: planejamento/metodologias/index.md
-      - Referências: planejamento/referencias/index.md
-      - Rich Picture: planejamento/rich-picture/index.md
+    - Visão geral: planejamento/index.md
+    - Aplicativo analisado: planejamento/aplicativo/index.md
+    - Atas de reuniões: planejamento/atas/index.md
+    - Ata 1: planejamento/atas/ata_reuniao_1.md
+    - Ata 2: planejamento/atas/ata_reuniao_2.md
+    - Ata 3: planejamento/atas/ata_reuniao_3.md
+    - Cronograma da equipe: planejamento/cronograma/index.md
+    - Ferramentas: planejamento/ferramentas/index.md
+    - Heatmap da equipe: planejamento/heatmap/index.md
+    - Metodologias: planejamento/metodologias/index.md
+    - Referências: planejamento/referencias/index.md
+    - Rich Picture: planejamento/rich-picture/index.md
   - Elicitação de Requisitos:
-      - Visão geral: elicitacao/index.md
+    - Visão geral: elicitacao/index.md
+  - Modelagem:
+    - Cenários: modelagem/cenarios.md
+    - Léxicos: modelagem/lexicos.md
+    - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
+    - Backlog: modelagem/backlog.md
+    - NFR Framework: modelagem/nfr_framework.md
+  - Análise:
+    - Verificação: analise/verif_principal.md
+    - Validação: analise/valid_principal.md
+  - Pós-Rastreabilidade:
+    - Forward-From: pos-rastreabilidade/foward_from.md
+    - Backward-From: pos-rastreabilidade/backward_from.md
+    - Matriz Geral: pos-rastreabilidade/matriz_geral.md

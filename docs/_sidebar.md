@@ -6,13 +6,13 @@
   - [Cronograma das Atividades](/planejamento/cronograma/README.md)
   - [Ferramentas](/planejamento/ferramentas/README.md)
   - [Metodologia](/planejamento/metodologias/README.md)
-  - [Rich Picture](/planejamento/rich-picture/README.md)
+  - [Heatmap](/planejamento/heatmap/README.md)
   - [Aplicativo Analisado](/planejamento/aplicativo/README.md)
   - [Atas de Reuniões](/planejamento/atas/README.md)
   - [Referências](/planejamento/referencias/README.md)
 
 - **Pré-rastreabilidade**
-    - [Heatmap](/planejamento/heatmap/README.md)
+  - [Rich Picture](/planejamento/rich-picture/README.md)
 
 - **Elicitação**
   - [Visão Geral](/elicitacao/README.md)
@@ -24,7 +24,7 @@
   - [Experimentação com LLMs](/elicitacao/experimentacaoLLMs.md)
 
 - **Modelagem**
-  - [Cenários](/modelagem/cenarios.md)
+  - [Cenários](modelagem/cenarios.md)
   - [Léxicos](modelagem/lexicos.md)
   - [Casos de Uso](modelagem/casos_de_uso.md)
   - [Especificação Suplementar](modelagem/especificacao_suplementar.md)
