@@ -32,56 +32,49 @@ O SinPatinhas foi desenvolvido com base em ampla escuta social e contou com apoi
 
 ## 👥 Integrantes
 
-<p align="center">
-<table>
+<center>
+<table style="margin-left: auto; margin-right: auto;">
   <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/antonioscarvalho">
-        <img src="https://github.com/antonioscarvalho.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Antonio Carvalho</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/Heloisa-Santos">
-        <img src="https://github.com/Heloisa-Santos.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Heloísa Santos </b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/ispratamena250">
-        <img src="https://github.com/ispratamena250.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Isaac Menezes Pereira</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/leticiakrpaiva">
-        <img src="https://github.com/leticiakrpaiva.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Letícia Paiva</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/LuGit00">
-        <img src="https://github.com/LuGit00.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Luciano Machado</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/14luke08">
-        <img src="https://github.com/14luke08.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Mateus Santos Negrini</b>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/pedrog0">
-        <img src="https://github.com/pedrog0.png?size=150" width="120" style="border-radius:50%;" />
-        <br/><b>Pedro Gomes Oliveira</b>
-      </a>
-    </td>
-  </tr>
+        <td align="center">
+            <a href="https://github.com/antonioscarvalho">
+                <img style="border-radius: 50%;" src="https://github.com/antonioscarvalho.png?size=150" width="150px;"/>
+                <h5 class="text-center">Antonio Carvalho</h5>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Heloisa-Santos">
+                <img style="border-radius: 50%;" src="https://github.com/Heloisa-Santos.png?size=150" width="150px;"/>
+                <h5 class="text-center">Heloísa Santos</h5>
+            </a>
+        </td>
+      <td align="center">
+            <a href="https://github.com/ispratamena250">
+                <img style="border-radius: 50%;" src="https://github.com/ispratamena250.png?size=150" width="150px;"/>
+                <h5 class="text-center">Isaac Menezes Pereira</h5>
+            </a>
+        </td>
+    <td align="center">
+            <a href="https://github.com/leticiakrpaiva">
+                <img style="border-radius: 50%;" src="https://github.com/leticiakrpaiva.png?size=150" width="150px;"/>
+                <h5 class="text-center">Letícia Paiva</h5>
+            </a>
+        </td>
+    <td align="center">
+            <a href="https://github.com/14luke08">
+                <img style="border-radius: 50%;" src="https://github.com/14luke08.png?size=150" width="150px;"/>
+                <h5 class="text-center">Mateus Santos Negrini</h5>
+            </a>
+        </td>
+    <td align="center">
+            <a href="https://github.com/pedrog0">
+                <img style="border-radius: 50%;" src="https://github.com/pedrog0.png?size=150" width="150px;"/>
+                <h5 class="text-center">Pedro Gomes Oliveira</h5>
+            </a>
+        </td>
+    </tr>
 </table>
-</p>
+</center>
+
 
 ---
 
