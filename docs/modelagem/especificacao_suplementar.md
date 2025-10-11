@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A **Especificação Suplementar** é um documento que reúne todos os requisitos de um sistema que não foram plenamente descritos nos casos de uso ou nas histórias de usuário <a id="anchor_1" href="#REF1">[1]</a>.  
+A **Especificação Suplementar** é um documento que reúne todos os requisitos de um sistema que não foram plenamente descritos nos casos de uso ou nas histórias de usuário.
 Seu propósito é complementar o modelo de requisitos funcionais, abordando aspectos relacionados a desempenho, segurança, usabilidade e outros atributos de qualidade essenciais ao sucesso do sistema.
 
 No projeto **SinPatinhas**, essa especificação descreve características adicionais que garantem a confiabilidade e a eficiência da plataforma, voltada ao processo de adoção de animais, cadastro de tutores e gestão de abrigos.
@@ -13,7 +13,7 @@ Entre os principais tipos de requisitos abordados estão:
 - **Requisitos legais e éticos**, relacionados à proteção de dados e ao consentimento do usuário;  
 - **Restrições técnicas**, como compatibilidade com navegadores, suporte a dispositivos móveis e integração com bancos de dados.  
 
-A classificação utilizada baseia-se no modelo **FURPS+** (Functionality, Usability, Reliability, Performance, Supportability, entre outros fatores), proposto por Grady (1992), que organiza os requisitos em categorias para facilitar sua análise e rastreabilidade <a id="anchor_2" href="#REF2">[2]</a>.
+A classificação utilizada baseia-se no modelo **FURPS+** (Functionality, Usability, Reliability, Performance, Supportability, entre outros fatores), proposto por Grady (1992), que organiza os requisitos em categorias para facilitar sua análise e rastreabilidade
 
 ---
 
@@ -44,15 +44,16 @@ Essa metodologia assegura que os requisitos complementares estejam alinhados com
 
 ---
 
-## Exemplos de Requisitos Suplementares (FURPS+)
+## **Tabela 1 – Exemplos de Requisitos Suplementares (FURPS+)**  
+*Autoria: Antonio Carvalho*
 
 | Categoria | Requisito | Descrição |
 |------------|------------|------------|
-| **Funcionalidade (F)** | RFN01 | O sistema deve garantir que apenas usuários autenticados possam cadastrar ou editar informações sobre animais. |
-| **Usabilidade (U)** | RFN02 | A interface deve ser intuitiva e permitir navegação fluida em dispositivos móveis. |
-| **Confiabilidade (R)** | RFN03 | O sistema deve armazenar os dados dos usuários de forma segura e à prova de falhas. |
-| **Desempenho (P)** | RFN04 | O carregamento das páginas deve ocorrer em até 3 segundos em conexões padrão. |
-| **Suportabilidade (S)** | RFN05 | O sistema deve permitir fácil atualização do banco de dados e manutenção das funcionalidades sem interrupção prolongada do serviço. |
+| **Funcionalidade (F)** | RF001 | O sistema deve garantir que apenas usuários autenticados possam cadastrar ou editar informações sobre animais. |
+| **Usabilidade (U)** | RF002 | A interface deve ser intuitiva e permitir navegação fluida em dispositivos móveis. |
+| **Confiabilidade (R)** | RF003 | O sistema deve armazenar os dados dos usuários de forma segura e à prova de falhas. |
+| **Desempenho (P)** | RF004 | O carregamento das páginas deve ocorrer em até 3 segundos em conexões padrão. |
+| **Suportabilidade (S)** | RF005 | O sistema deve permitir fácil atualização do banco de dados e manutenção das funcionalidades sem interrupção prolongada do serviço. |
 
 Fonte:
 
