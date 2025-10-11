@@ -28,8 +28,10 @@
   - [Léxicos](/modelagem/lexicos.md)
   - [Casos de Uso](/modelagem/casos_de_uso.md)
   - [Especificação Suplementar](/modelagem/especificacao_suplementar.md)
-  - [Backlog](/modelagem/backlog.md)
-  - [NFR Framework](/modelagem/nfr_framework.md)
+  - ***Agilidade***
+    - [Backlog](/modelagem/agilidade/backlog.md)
+    - [NFR Framework](/modelagem/agilidade/nfr_framework.md)
+    - [Histórias de Usuário](/modelagem/agilidade/historias_de_usuario.md)
 
 - **Análise**
   - [Verificação](analise/verif_principal.md)

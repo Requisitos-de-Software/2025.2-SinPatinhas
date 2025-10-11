@@ -9,7 +9,11 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 
 ---
 
-## Gravações
+## Artefatos e Gravações Unitários
+
+| Participante | Página Específica |
+|---------------|------------------|
+| Antonio Carvalho | [Página específica da modelagem do NFR-framework](/modelagem/gravacoes/antonio/nfr_frame.md) |
 
 ---
 
@@ -51,6 +55,8 @@ As contribuições indicam como um softgoal influencia outro, podendo ser positi
 | **UNKNOWN (?)**      | Contribuição de impacto indefinido.                                          |
 | **AND / OR**         | Representa dependência lógica entre softgoals descendentes e ascendentes.    |
 
+Fonte:
+
 Essas relações ajudam o time do **SinPatinhas** a entender como decisões como “armazenar imagens de animais em nuvem” podem afetar tanto **desempenho** quanto **segurança**.
 
 ### Procedimento de Avaliação
@@ -83,8 +89,6 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
 | 1.0    | 10/10/2025 | Criação da página NFR Framework | Antonio |         |
-
-## Referências
 
 ## Referência Bibliográfica
 
