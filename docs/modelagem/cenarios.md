@@ -13,8 +13,8 @@ Essa técnica é usada para **elicitar a parte comportamental do software**, ass
 
 | Participante | Página Específica |
 |---------------|------------------|
-| **Antonio Carvalho** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/antonio/canarios.md) |
-| **Letícia Paiva** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/leticia/canarios.md) |
+| **Antonio Carvalho** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/antonio/cenarios.md) |
+| **Letícia Paiva** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/leticia/cenarios.md) |
 
 ---
 
@@ -52,11 +52,18 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Antonio Carvalho**| Criou os cenários 03 e 04, referentes aos requisitos **RF005 – Emissão de documento oficial de identificação (RG Pet)** e **RF007 – Atualização do status do animal (perdido, encontrado, óbito, transferência).**                           |
 | **Heloisa Santos**  | —                            |
 | **Isaac Menezes**   | —                            |
-| **Letícia Paiva**   | Criou os cenários 01 e 02, referentes aos requisitos **Sistema de Adoção (RF03)** e **Alertas e Notificações Automáticas (RF04)**. |
+| **Letícia Paiva**   | Criou os cenários 01 e 02, referentes aos requisitos **Sistema de Adoção (RF030)** e **Alertas e Notificações Automáticas (RF031)**. |
 | **Luciano Machado** | —                            |
 | **Matheus Negrini** | —                            |
 | **Pedro Gomes**     | —                            |
 
+
+## Tabela de Contribuição
+
+| **Nome**              | **Contribuição (%)** | **Função** |
+|------------------------|----------------------------------|
+| **Antonio Carvalho**   | 50%                 |  Autor da página de apresentação de cenário | 
+| **Letícia Paiva**   | 50%                 | Adição de cenarios CNR003 e CNR004 | 
 
 ## Referências  
 
