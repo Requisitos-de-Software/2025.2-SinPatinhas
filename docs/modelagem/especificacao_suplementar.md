@@ -46,6 +46,7 @@ Essa metodologia visa garantir que todos os elementos essenciais à construção
 | **Participante** | **Página Específica** |
 |------------------|------------------------|
 | Antonio Carvalho | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/antonio/especificacao.md) |
+| Letícia Paiva | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/leticia/especificacao.md) |
 
 ---
 
@@ -88,13 +89,15 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 |-----------|----------------------|-------------|
 | Antonio Carvalho | 100% | Autor da página de Especificação Suplementar |
 
+
 ---
 
 ## Tabela de Versionamento
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:---------:|:---------------|:-------------|:---------------|
-| 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | - |
+| 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
+
 
 ---
 

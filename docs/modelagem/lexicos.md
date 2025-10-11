@@ -24,6 +24,7 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 | Participante | Página Específica |
 |---------------|------------------|
 | Antonio Carvalho | [Página específica da modelagem dos léxicos](/modelagem/gravacoes/antonio/lexicos.md) |
+| Letícia Paiva | [Página específica da modelagem dos léxicos](/modelagem/gravacoes/leticia/lexicos.md) |
 
 ---
 
@@ -53,7 +54,8 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
-| **Antonio Carvalho**   | 100%                 | Autor da página de léxicos  |
+| **Antonio Carvalho**   | 50%                 | Autor da página de léxicos  |
+| **Letícia Paiva**   | 50%                 | Contribuição da página  |
 
 ---
 
@@ -61,7 +63,9 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
-| 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | -          |
+| 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
+| 1.1    | 10/10/2025 | Adiciona léxicos LX008 e LX009 | Letícia | Antonio       |1
+
 
 ---
 

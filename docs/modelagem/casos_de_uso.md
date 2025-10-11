@@ -13,6 +13,7 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 | Participante | Página Específica |
 |---------------|------------------|
 | **Antonio Carvalho** | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/antonio/caso_de_uso.md) |
+| **Letícia Paiva** | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/leticia/caso_de_uso.md) |
 
 ---
 
@@ -54,7 +55,8 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | - |
+| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | Leticia |
+| 1.1 | 10/10/2025 | Adiciona UC003 e UC004 | Leticia | - |
 
 ---
 
