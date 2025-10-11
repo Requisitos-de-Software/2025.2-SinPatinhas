@@ -8,7 +8,7 @@ Quando uma história apresenta um esforço elevado — por exemplo, superior a t
 
 ## Metodologia  
 
-**Tabela 2: Exemplo de estrutura para o registro de histórias de usuário.**  
+**Tabela 1: Exemplo de estrutura para o registro de histórias de usuário.**  
 
 | Campo                    | Descrição                                   |
 | ------------------------- | ------------------------------------------- |
