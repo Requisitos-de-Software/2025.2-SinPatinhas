@@ -1,83 +1,105 @@
-# Especificação Suplementar
+# Especificação Suplementar – Projeto SinPatinhas
 
 ## Introdução
 
-A **Especificação Suplementar** é um documento que reúne todos os requisitos de um sistema que não foram plenamente descritos nos casos de uso ou nas histórias de usuário.
-Seu propósito é complementar o modelo de requisitos funcionais, abordando aspectos relacionados a desempenho, segurança, usabilidade e outros atributos de qualidade essenciais ao sucesso do sistema.
+O **Artefato Suplementar** é um documento escrito em dialeto comum que compila a totalidade dos requisitos de um sistema que não foram integralmente capturados pelos **casos de uso** <a id="anchor_1" href="#REF1">[1]</a>.  
+Ele adiciona valor ao modelo de casos de uso ao detalhar exigências adicionais, tais como:
 
-No projeto **SinPatinhas**, essa especificação descreve características adicionais que garantem a confiabilidade e a eficiência da plataforma, voltada ao processo de adoção de animais, cadastro de tutores e gestão de abrigos.
+- Requisitos estatutários e normativos, englobando conformidade com diretrizes e padrões de aplicativos;  
+- Características de qualidade, como **Facilidade de Uso**, **Fidelidade**, **Performance**, **Manutenibilidade (Apoio)** e **Segurança da Informação**;  
+- Outras demandas técnicas, abrangendo plataformas e ambientes operacionais suportados, exigências de compatibilidade e restrições de arquitetura.
 
-Entre os principais tipos de requisitos abordados estão:
+A adoção do paradigma **FURPS+** (*Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade*, mais fatores) direciona a descoberta e a estrutura desses requisitos, garantindo a abrangência completa dos aspectos operacionais e de qualidade da aplicação <a id="anchor_2" href="#REF2">[2]</a>.
 
-- **Requisitos de qualidade**, como **usabilidade**, **desempenho**, **segurança**, **confiabilidade** e **manutenibilidade**;  
-- **Requisitos legais e éticos**, relacionados à proteção de dados e ao consentimento do usuário;  
-- **Restrições técnicas**, como compatibilidade com navegadores, suporte a dispositivos móveis e integração com bancos de dados.  
+---
 
-A classificação utilizada baseia-se no modelo **FURPS+** (Functionality, Usability, Reliability, Performance, Supportability, entre outros fatores), proposto por Grady (1992), que organiza os requisitos em categorias para facilitar sua análise e rastreabilidade
+## Objetivo do Documento
+
+A finalidade deste artefato é estabelecer, de modo claro e organizado, as **exigências adicionais do sistema**, assegurando que características de qualidade, limitações de projeto e normas de negócio estejam registradas para nortear o desenvolvimento e a confirmação do sistema.
+
+---
+
+## Estratégia e Etapas de Elaboração
+
+A modelagem das exigências do sistema foi executada com foco na separação entre **requisitos operacionais** e **requisitos não operacionais**.
+
+A criação do Artefato Suplementar deve observar as seguintes etapas primárias:
+
+1. **Elicitação de Requisitos Não Funcionais:** descobrir as necessidades que não são funções diretas do sistema, como parâmetros de velocidade, proteção e simplicidade de manuseio.  
+2. **Classificação FURPS+:** estruturar os requisitos não operacionais e limitações técnicas nas categorias da abordagem FURPS+:  
+   - **Funcionalidade (F):** normas de negócio e funções não abrangidas por casos de uso;  
+   - **Usabilidade (U)**;  
+   - **Reliability (R) – Confiabilidade/Fidelidade**;  
+   - **Performance (P) – Celeridade**;  
+   - **Supportability (S) – Apoio/Manutenibilidade**;  
+   - **+ (Plus):** limitações de arquitetura, execução, interface, etc.  
+3. **Especificação Detalhada:** descrever cada exigência em linguagem natural, de forma inequívoca, singular e mensurável, atribuindo um código único (ID).  
+4. **Associação de Elementos:** para cada categoria FURPS+, elaborar uma tabela consolidando os códigos e suas descrições.  
+5. **Rastreabilidade:** se pertinente, mencionar o **Caso de Uso (UC)** que está diretamente ligado à exigência.
+
+Essa metodologia visa garantir que todos os elementos essenciais à construção do sistema estejam adequadamente documentados e acessíveis a todos os participantes do projeto.
 
 ---
 
 ## Artefatos e Gravações Unitários
 
-| Participante | Página Específica |
-|---------------|------------------|
+| **Participante** | **Página Específica** |
+|------------------|------------------------|
 | Antonio Carvalho | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/antonio/especificacao.md) |
 
 ---
 
-## Finalidade
+### Finalidade
 
-O objetivo deste documento é **complementar os artefatos de requisitos funcionais** do **SinPatinhas**, assegurando que os atributos de qualidade, restrições de projeto e requisitos técnicos estejam devidamente documentados.  
-Dessa forma, ele serve de guia para o desenvolvimento, testes e manutenção do sistema, garantindo que as expectativas dos usuários e dos administradores sejam atendidas de forma consistente e segura.
+O objetivo deste documento é **complementar os elementos de requisitos operacionais do SinPatinhas**, assegurando que os **atributos de qualidade**, **limitações de arquitetura** e **demandas técnicas** estejam devidamente registrados.  
+Dessa forma, ele serve de **referencial para o desenvolvimento, testes e manutenção do sistema**, garantindo que as expectativas dos utilizadores e dos administradores sejam satisfeitas de maneira consistente e segura.
 
 ---
 
 ## Metodologia
 
-A elaboração da Especificação Suplementar do **SinPatinhas** seguiu os seguintes passos:
+A elaboração do Artefato Suplementar do SinPatinhas seguiu as seguintes etapas:
 
-1. **Identificação dos Requisitos Não Funcionais:** a partir das histórias de usuário, foram analisados os aspectos de desempenho, segurança e usabilidade que influenciam o sistema.  
-2. **Classificação FURPS+:** os requisitos identificados foram organizados nas categorias **Funcionalidade**, **Usabilidade**, **Confiabilidade**, **Desempenho** e **Suportabilidade**.  
-3. **Revisão e Consolidação:** os requisitos foram revisados com base nos demais artefatos produzidos pelo grupo, como o **backlog**, o **diagrama de casos de uso** e os **cenários de interação**.  
+1. **Identificação dos Requisitos Não Funcionais:** com base nas narrativas de utilizador, foram analisados os aspectos de celeridade, proteção e facilidade de uso que influenciam o sistema.  
+2. **Classificação FURPS+:** as exigências descobertas foram organizadas nas categorias **Funcionalidade**, **Usabilidade**, **Confiabilidade**, **Desempenho** e **Suportabilidade**.  
+3. **Revisão e Consolidação:** as exigências foram revistas em função dos demais elementos produzidos pelo grupo, como o **registro de pendências**, o **diagrama de interações do utilizador** e os **cenários de interação**.
 
-Essa metodologia assegura que os requisitos complementares estejam alinhados com o contexto e os objetivos do SinPatinhas, além de oferecer suporte ao desenvolvimento de uma aplicação acessível, segura e eficiente.
+Essa estratégia assegura que as exigências adicionais estejam em conformidade com o contexto e os objetivos do SinPatinhas, além de proporcionar apoio à construção de uma aplicação acessível, protegida e eficiente.
 
 ---
 
-## **Tabela 1 – Exemplos de Requisitos Suplementares (FURPS+)**  
+## Tabela 1 – Estrutura para Criação de Especificação Suplementar (FURPS+)
 *Autoria: Antonio Carvalho*
 
-| Categoria | Requisito | Descrição |
-|------------|------------|------------|
-| **Funcionalidade (F)** | RF001 | O sistema deve garantir que apenas usuários autenticados possam cadastrar ou editar informações sobre animais. |
-| **Usabilidade (U)** | RF002 | A interface deve ser intuitiva e permitir navegação fluida em dispositivos móveis. |
-| **Confiabilidade (R)** | RF003 | O sistema deve armazenar os dados dos usuários de forma segura e à prova de falhas. |
-| **Desempenho (P)** | RF004 | O carregamento das páginas deve ocorrer em até 3 segundos em conexões padrão. |
-| **Suportabilidade (S)** | RF005 | O sistema deve permitir fácil atualização do banco de dados e manutenção das funcionalidades sem interrupção prolongada do serviço. |
-
-Fonte:
+| **Categoria** | **Requisito (Código)** | **Descrição** |
+|----------------|------------------------|----------------|
+| Funcionalidade (F) | | |
+| Usabilidade (U) | | |
+| Confiabilidade (R) | | |
+| Desempenho (P) | | |
+| Suportabilidade (S) | | |
+| + (Plus) | | |
 
 ---
 
 ## Tabela de Contribuições
 
-| **Nome**            | **Contribuição (%)** | **Função**                                 |
-|----------------------|----------------------|--------------------------------------------|
-| **Antonio Carvalho** | 100%                 | Autor da página de Especificação Suplementar |
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| Antonio Carvalho | 100% | Autor da página de Especificação Suplementar |
 
 ---
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição                                                      | Autores  | Revisores |
-|-------:|------------|----------------------------------------------------------------|----------|-----------|
-| 1.0    | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | - |
-
+| **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
+|:----------:|:---------:|:---------------|:-------------|:---------------|
+| 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | - |
 
 ---
 
 ## Referências
 
-Grady, R. B. *Practical Software Metrics for Project Management and Process Improvement.* Prentice Hall, 1992. 
+Grady, R. B. *Practical Software Metrics for Project Management and Process Improvement.* Prentice Hall, 1992.
 
----
+Pressman, R. S. *Engenharia de Software: uma abordagem profissional.* 8ª edição. McGraw Hill, 2016.

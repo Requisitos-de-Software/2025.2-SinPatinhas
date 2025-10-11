@@ -29,6 +29,8 @@ A tabela abaixo detalha cada um desses componentes.
 | **Componente**     | **Descrição**                                                                                      |
 |--------------------|----------------------------------------------------------------------------------------------------|
 | **Título**         | Nome que identifica o cenário.                                                                     |
+| **Código** | Código do Cenário |
+| **Caso de uso trabalhado** | [#UC00X](...)|
 | **Metas/Objetivos**| Descreve a finalidade ou o propósito a ser alcançado no cenário.                                   |
 | **Contexto**       | Define as condições em que o cenário ocorre, como local, tempo e pré-condições.                   |
 | **Ator(es)**       | As pessoas, sistemas ou entidades que participam das interações descritas.                         |

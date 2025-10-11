@@ -27,16 +27,27 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 
 ---
 
-## Estrutura Padrão dos Léxicos
+## Estrutura para Criação de um Léxico
 
-Cada entrada léxica segue o formato padronizado abaixo:
+A criação de um léxico tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
+A tabela a seguir apresenta os componentes utilizados.
 
-- **ID:** identificador único do termo.  
-- **Noção:** significado literal ou definição do termo.  
-- **Impacto:** resultado ou consequência do uso do termo no sistema.  
-- **Classificação:** categoria do símbolo (Sujeito, Verbo, Objeto ou Estado).  
-- **Dicionário:** sinônimos ou expressões equivalentes.  
-- **Rastreamento:** vínculo com **Requisitos Funcionais (RF)** ou **Casos de Uso**.
+**Tabela 1 – Estrutura para Criação de um Léxico**  
+*Autoria: Antonio Carvalho*
+
+## Exemplo de Estrutura de Léxico
+
+### #LX000 - Léxico para #UC00 e #CEN00 (Título descritivo do caso)
+
+| ID        | Noção      | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
+| ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
+| LX000-01   | [Termo 1]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-02   | [Termo 2]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-03   | [Termo 3]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-04   | [Termo 4]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-05   | [Termo 5]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+
+---
 
 ## Tabela de Contribuição
 
