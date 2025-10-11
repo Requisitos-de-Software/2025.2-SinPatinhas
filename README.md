@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  📖 <a href="https://requisitos-de-software.github.io/2025.2-Grupo01/" target="_blank"><b>Acessar a Documentação Completa (GitHub Pages)</b></a>
+  📖 <a href="https://requisitos-de-software.github.io/2025.2-SinPatinhas/" target="_blank"><b>Acessar a Documentação Completa (GitHub Pages)</b></a>
 </p>
 
 ---
