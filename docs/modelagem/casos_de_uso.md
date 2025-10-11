@@ -2,11 +2,9 @@
 
 ## Introdução
 
-Os **diagramas de caso de uso** são parte fundamental da **UML (Unified Modeling Language)**, permitindo representar graficamente as funcionalidades de um sistema sob a ótica de seus usuários. Essa abordagem facilita a visualização das interações entre **atores** (usuários ou sistemas externos) e os **serviços oferecidos** pela aplicação, promovendo um entendimento comum entre a equipe de desenvolvimento e os stakeholders.
+Os **casos de uso** são um dos principais artefatos da **UML (Unified Modeling Language)**, permitindo descrever as **interações entre usuários (atores)** e o **sistema**. Por meio deles, é possível compreender **como o sistema deve se comportar** em diferentes situações, garantindo que os **requisitos funcionais** sejam bem representados e validados junto aos stakeholders.
 
-No contexto do **projeto SinPatinhas**, o diagrama de caso de uso ilustra as principais ações do sistema, como **cadastro de tutores e animais (RF001 e RF002)**, **geração do Registro Geral do Animal – RGA (RF003)**, **emissão de documento de identificação (RF005)** e **consulta pública de registros (RF006)**.  
-
-A modelagem também contempla interações complementares, como **atualização de status do animal (RF007)**, **transferência de titularidade (RF009)** e **registro de histórico veterinário (RF008)**. Dessa forma, o diagrama contribui para o entendimento global das funcionalidades previstas e assegura o alinhamento com os **requisitos funcionais elicitados**.
+No contexto do **projeto SinPatinhas**, os casos de uso representam ações essenciais como **cadastro de tutores e animais (RF001 e RF002)**, **geração de registro oficial (RF003)**, **emissão de documento de identificação (RF005)** e **atualização de status (RF007)**. Essa modelagem contribui para o entendimento funcional do sistema e auxilia na documentação das regras de negócio.
 
 ---
 
@@ -14,45 +12,49 @@ A modelagem também contempla interações complementares, como **atualização 
 
 | Participante | Página Específica |
 |---------------|------------------|
-| Antonio Carvalho | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/antonio/caso_de_uso.md) |
+| **Antonio Carvalho** | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/antonio/caso_de_uso.md) |
 
 ---
 
-## Estrutura do Diagrama
+## Estrutura para Criação de um Caso de Uso
 
-O diagrama de casos de uso do **SinPatinhas** contém os seguintes elementos principais:
+A criação de um caso de uso deve seguir uma estrutura organizada que descreva de forma clara as **ações, condições e resultados esperados**.  
+A tabela a seguir apresenta os componentes utilizados.
 
-- **Atores:** representam usuários externos como tutores, veterinários e órgãos públicos.  
-- **Casos de uso:** ações desempenhadas dentro do sistema (ex.: *Cadastrar Animal*, *Emitir RG Pet*, *Consultar Animal*).  
-- **Limite do sistema:** define o escopo do que pertence ao SinPatinhas.  
-- **Relacionamentos:** demonstram dependências e extensões entre funcionalidades.  
+**Tabela 1 – Estrutura para Criação de um Caso de Uso**  
+*Autoria: Antonio Carvalho*
 
-Exemplo:  
-- “Emitir RG Pet” **inclui** “Gerar RGA” (RF003).  
-- “Registrar Microchip” **estende** “Cadastrar Animal” (RF004).  
-
----
-
-## Validação com Usuário
-
-A validação dos casos de uso foi realizada a partir das entrevistas conduzidas na etapa de **elicitação de requisitos**, nas quais foram confirmadas as necessidades principais dos usuários.  
-Tutores e veterinários destacaram funcionalidades essenciais como o **cadastro e histórico dos animais**, **integração com clínicas** e **emissão de documentos oficiais**, garantindo que o modelo atenda às expectativas reais dos usuários.
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | Identificador único do caso de uso (ex.: #UC001). |
+| **Descrição** | Breve explicação sobre a funcionalidade tratada. |
+| **Ator(es)** | Usuário(s) ou sistema(s) que interagem com o caso. |
+| **Pré-condições** | Condições que devem ser atendidas antes da execução do caso. |
+| **Ação** | A operação principal realizada. |
+| **Fluxo principal** | Sequência de passos que descrevem o comportamento esperado. |
+| **Fluxos alternativos** | Caminhos opcionais que podem ocorrer durante a execução. |
+| **Fluxos de exceção** | Tratamento de erros ou situações inesperadas. |
+| **Pós-condições** | Estado do sistema após a execução. |
+| **Data de Criação** | Data em que o caso foi documentado. |
+| **Rastreabilidade** | Código dos requisitos relacionados. |
+| **Cenário Relacionado** | Link para o cenário correspondente. |
+| **Léxico Relacionado** | Termos do léxico utilizados no caso de uso. |
 
 ---
 
 ## Tabela de Contribuição
 
-| Nome               | Contribuição (%) | Função                     |
-|--------------------|------------------|-----------------------------|
-| **Antonio Carvalho** | 100%             | Autor da página de apresentação de caso de uso |
+| Nome | Contribuição (%) | Função |
+|------|------------------|--------|
+| **Antonio Carvalho** | 100% | Autor da página de apresentação de casos de uso |
 
 ---
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição                                 | Autores | Revisores |
-|:------:|:-----------|:------------------------------------------|:--------|:-----------|
-| 1.0    | 10/10/2025 | Criação da apresentação de caso de uso    | Antonio | -          |
+| Versão | Data | Descrição | Autores | Revisores |
+|:------:|:-----------|:-------------------------------------------|:--------|:-----------|
+| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | - |
 
 ---
 

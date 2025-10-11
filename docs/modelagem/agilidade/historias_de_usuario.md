@@ -39,6 +39,6 @@ Fonte: Adaptado do repositório *Bilheteria Digital*, utilizado na disciplina de
 
 ## Referência Bibliográfica
 
-PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, p. 73.
+PRESSMAN, Roger S.; MAXIM, Bruce R.. *Engenharia de software: uma abordagem profissional.* 8 Porto Alegre: AMGH, 2016, p. 73.
 
 ---
