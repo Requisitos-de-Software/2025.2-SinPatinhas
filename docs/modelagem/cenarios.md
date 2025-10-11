@@ -1,25 +1,26 @@
-<div class="plan-hero">
-  <div class="plan-hero__title">Cenários</div>
-  <div class="plan-hero__chips">
-    <span class="chip">Modelagem de Requisitos</span>
-    <span class="chip">Elicitação</span>
-    <span class="chip">Fluxos Comportamentais</span>
-  </div>
-</div>
+# Cenários
 
-#  Introdução aos Cenários
+## Introdução aos Cenários  
 
 A **modelagem de requisitos** é a atividade de criar modelos que representam características ou comportamentos de um software [1].  
-Uma das estratégias utilizadas para isso são os **Cenários**, reconhecidos por ajudar a compreender as interações entre ambientes e sistemas [1].
+Uma das estratégias utilizadas para isso são os **Cenários**, reconhecidos por ajudar a compreender as interações entre ambientes e sistemas [1].  
 
 Essa técnica é usada para **elicitar a parte comportamental do software**, assim como sua **dinâmica e fluxo**.
 
 ---
 
-##  Estrutura para Criação de um Cenário
+## Artefatos e Gravações Unitários  
+
+| Participante | Página Específica |
+|---------------|------------------|
+| **Antonio Carvalho** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/antonio/canarios.md) |
+
+---
+
+## Estrutura para Criação de um Cenário  
 
 A construção de um cenário faz uso de um conjunto de abstrações específicas para estruturar a narrativa.  
-A tabela abaixo detalha cada um desses componentes.
+A tabela abaixo detalha cada um desses componentes.  
 
 **Tabela 1 – Estrutura para Criação de um Cenário**  
 *Autoria: Letícia Paiva*
@@ -36,9 +37,9 @@ A tabela abaixo detalha cada um desses componentes.
 
 ---
 
-## 👥 Integrantes do Grupo
+## Integrantes do Grupo  
 
-A **Tabela 2** apresenta todos os integrantes da equipe que participaram da construção dos Cenários, juntamente com a descrição das atividades que cada um desenvolveu durante o projeto.
+A **Tabela 2** apresenta todos os integrantes da equipe que participaram da construção dos Cenários, juntamente com a descrição das atividades que cada um desenvolveu durante o projeto.  
 
 **Tabela 2 – Integrantes do Grupo Envolvidos**  
 *Autoria: Letícia Paiva*
@@ -55,9 +56,9 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 ---
 
-## 📄 Cenário 01 — Sistema de Adoção (RF03)
+## Cenário 01 — Sistema de Adoção (RF03)  
 
-A seguir, o cenário para o requisito **Sistema de Adoção (RF03)** é detalhado, utilizando a estrutura apresentada no material *Requisitos – Aula 10* de Milene Serrano e Maurício Serrano.
+A seguir, o cenário para o requisito **Sistema de Adoção (RF03)** é detalhado, utilizando a estrutura apresentada no material *Requisitos – Aula 10* de Milene Serrano e Maurício Serrano.  
 
 **Tabela 3 – Cenário 01: Sistema de Adoção (RF03)**  
 *Autoria: Letícia Paiva*
@@ -72,10 +73,9 @@ A seguir, o cenário para o requisito **Sistema de Adoção (RF03)** é detalhad
 | **Episódios** | 1. O candidato a adotante acessa o site e navega para a área *"Adoção"*. <br> 2. Ele utiliza os filtros de busca para refinar os resultados (ex: espécie, porte, idade). <br> 3. O sistema exibe os perfis compatíveis na página. <br> 4. O candidato clica e visualiza o perfil completo de um animal. <br> 5. Após ler as informações, ele clica no botão *"Tenho Interesse em Adotar"*. <br> 6. O site processa a solicitação, notifica a ONG responsável e exibe uma mensagem de confirmação na tela do usuário. |
 | **Exceção** | Ao tentar manifestar interesse, o sistema verifica que o animal selecionado já foi adotado. Uma mensagem é exibida informando a indisponibilidade, e o sistema sugere perfis de animais semelhantes. |
 
-
 ---
 
-## 📄 Cenário 02 — Alertas e Notificações Automáticas (RF04)
+## Cenário 02 — Alertas e Notificações Automáticas (RF04)  
 
 **Tabela 4 – Cenário 02: Alertas e Notificações Automáticas (RF04)**  
 *Autoria: Letícia Paiva*
@@ -92,56 +92,14 @@ A seguir, o cenário para o requisito **Sistema de Adoção (RF03)** é detalhad
 
 ---
 
-## 📘 Referências
+## Referências  
 
 [1] Serrano, M., Serrano, M. *Requisitos – Aula 10*, Material de aula, Universidade de Brasília (UnB).
 
 ---
 
-## 📆 Histórico de Versão
+## Histórico de Versão  
 
-| Versão | Data       | Descrição                                                        | Autores | Revisores |
-|------:|------------|--------------------------------------------------------------------|---------|-----------|
-| 1.0   | 09/10/2025 | Criação da página de **Cenários** e adição dos requisitos RF03 e RF04. | Letícia Paiva | — |
-
----
-
-<style>
-:root{
-  --sp-blue: #3766ae;
-  --sp-blue-600:#2f5a9b;
-  --sp-blue-100:#e8f0fb;
-  --muted: #475569;
-  --bg-card: #ffffff;
-  --ring: rgba(55,102,174,.25);
-}
-
-/* ====== Hero ====== */
-.plan-hero{
-  background: linear-gradient(135deg, #9333ea 0%, #6366f1 100%);
-  border-radius: 14px;
-  padding: 1.25rem;
-  color: #fff;
-  margin: .5rem 0 1.25rem;
-  box-shadow: 0 10px 24px rgba(99,102,241,.18);
-}
-.plan-hero__title{
-  font-size: 1.35rem;
-  font-weight: 800;
-  letter-spacing: .3px;
-}
-.plan-hero__chips{
-  margin-top: .5rem;
-  display:flex;
-  gap:.5rem;
-  flex-wrap: wrap;
-}
-.chip{
-  font-size: .8rem;
-  background: rgba(255,255,255,.18);
-  border: 1px solid rgba(255,255,255,.35);
-  padding: .25rem .55rem;
-  border-radius: 999px;
-  backdrop-filter: blur(2px);
-}
-</style>
+| **Versão** | **Data**   | **Descrição**                                                        | **Autores** | **Revisores** |
+|-----------:|------------|--------------------------------------------------------------------|--------------|---------------|
+| **1.0**    | 09/10/2025 | Criação da página de **Cenários** e adição dos requisitos RF03 e RF04. | Letícia Paiva | — |

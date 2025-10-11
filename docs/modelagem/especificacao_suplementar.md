@@ -15,11 +15,11 @@ Entre os principais tipos de requisitos abordados estão:
 
 A classificação utilizada baseia-se no modelo **FURPS+** (Functionality, Usability, Reliability, Performance, Supportability, entre outros fatores), proposto por Grady (1992), que organiza os requisitos em categorias para facilitar sua análise e rastreabilidade <a id="anchor_2" href="#REF2">[2]</a>.
 
----
+## Artefatos e Gravações Unitários
 
-## Gravações
-
----
+| Participante | Página Específica |
+|---------------|------------------|
+| Antonio Carvalho | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/antonio/especificacao.md) |
 
 ## Finalidade
 
@@ -49,6 +49,8 @@ Essa metodologia assegura que os requisitos complementares estejam alinhados com
 | **Confiabilidade (R)** | RFN03 | O sistema deve armazenar os dados dos usuários de forma segura e à prova de falhas. |
 | **Desempenho (P)** | RFN04 | O carregamento das páginas deve ocorrer em até 3 segundos em conexões padrão. |
 | **Suportabilidade (S)** | RFN05 | O sistema deve permitir fácil atualização do banco de dados e manutenção das funcionalidades sem interrupção prolongada do serviço. |
+
+Fonte:
 
 ---
 
