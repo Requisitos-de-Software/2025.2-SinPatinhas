@@ -15,11 +15,15 @@ Entre os principais tipos de requisitos abordados estão:
 
 A classificação utilizada baseia-se no modelo **FURPS+** (Functionality, Usability, Reliability, Performance, Supportability, entre outros fatores), proposto por Grady (1992), que organiza os requisitos em categorias para facilitar sua análise e rastreabilidade <a id="anchor_2" href="#REF2">[2]</a>.
 
+---
+
 ## Artefatos e Gravações Unitários
 
 | Participante | Página Específica |
 |---------------|------------------|
 | Antonio Carvalho | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/antonio/especificacao.md) |
+
+---
 
 ## Finalidade
 
