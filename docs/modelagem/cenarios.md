@@ -2,10 +2,15 @@
 
 ## Introdução aos Cenários  
 
-A **modelagem de requisitos** é a atividade de criar modelos que representam características ou comportamentos de um software [1].  
-Uma das estratégias utilizadas para isso são os **Cenários**, reconhecidos por ajudar a compreender as interações entre ambientes e sistemas [1].  
+A **modelagem de requisitos** é a atividade de elaborar modelos capazes de representar características ou comportamentos de um software [1].  
+O principal objetivo da modelagem é **tratar aspectos — sejam eles muito abstratos ou muito técnicos — com um apelo visual** [1].  
+Essa abordagem busca tornar mais concretos e claros os conceitos abstratos e, ao mesmo tempo, simplificar os aspectos técnicos que podem ser complexos e pouco conhecidos pelos clientes de um software [1].
 
-Essa técnica é usada para **elicitar a parte comportamental do software**, assim como sua **dinâmica e fluxo**.
+Existem diversas propostas de modelagem, cada uma focada em um aspecto chave do sistema, como **requisitos funcionais ou não funcionais** [1].  
+Dentro deste contexto, a **técnica de Cenários** se destaca como uma estratégia reconhecida para compreender as interações entre ambientes e sistemas [1].
+
+O foco desta técnica é **elicitar a parte comportamental do software**, descrevendo sua dinâmica e seu fluxo de interações [1].  
+Ao transformar o uso do sistema em uma narrativa concreta, os **cenários oferecem uma visão prática de como ele funcionará**, facilitando o entendimento, a comunicação e a descoberta de novos requisitos.
 
 ---
 
@@ -23,10 +28,9 @@ Essa técnica é usada para **elicitar a parte comportamental do software**, ass
 
 ---
 
-## Estrutura para Criação de um Cenário  
+## Metodologia de Criação de Cenários 
 
-A construção de um cenário faz uso de um conjunto de abstrações específicas para estruturar a narrativa.  
-A tabela abaixo detalha cada um desses componentes.  
+A metodologia para a criação de um cenário consiste em estruturar uma narrativa por meio de abstrações específicas, garantindo que a descrição da interação seja clara e completa [1]. As etapas, baseadas nos componentes definidos no material de aula, são as seguintes:
 
 **Tabela 1 – Estrutura para Criação de um Cenário**  
 *Autoria: Letícia Paiva*
