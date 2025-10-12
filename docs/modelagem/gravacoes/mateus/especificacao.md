@@ -2,22 +2,19 @@
 
 ---
 
-<a id="es003"></a>
+<a id="es004"></a>
 
-## #ES003 -
+## #ES004 -
 
 **Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
 
+| **Requisito (Código)** | **Classificação FURPS+** | **Especificação Detalhada** | **Rastreabilidade** |
+| ---------------------- | ------------------------ | --------------------------- | ------------------- |
+| RNF021 | Desempenho (P) | Todas as operações do sistema, incluindo consultas, atualizações e geração de relatórios, devem retornar resultados em **até 2 segundos** sob condições normais de uso (até 10000 usuários simultâneos). | |
 
 
 ---
 
-<a id="es004"></a>
-
-## #ES004 - 
-
-
----
 
 ## Tabela de Contribuição
 
