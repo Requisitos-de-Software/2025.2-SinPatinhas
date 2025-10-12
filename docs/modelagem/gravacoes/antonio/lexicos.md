@@ -1,4 +1,9 @@
+# Léxicos - Antonio Carvalho
+
+* [Link para validação de léxicos com tutor de animal](https://www.youtube.com/watch?v=q3XY4oEoQQo)
+
 ## Léxicos Desenvolvidos
+
 
 <a id="lx001"></a>
 

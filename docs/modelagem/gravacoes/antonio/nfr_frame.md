@@ -1,5 +1,7 @@
 # NFR-Framework - Antonio Carvalho
 
+* [Link para validação de critérios utilizados no NFR-Framework com tutor de animal](https://www.youtube.com/watch?v=ODRDgwerI9I)
+
 ---
 
 ## Tabela de Contribuição
