@@ -10,7 +10,7 @@
 
 
 <p align="center">
-	<img src="../../../assets/images/uml/mapa_interativo.png" alt="Diagrama UML - Mapa Interativo" width="600"/>
+	<img src="https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/master/docs/assets/images/uml/mapa_interativo.png" alt="Diagrama UML - Mapa Interativo" width="600"/>
 </p>
 
 | **Componente** | **Descrição** |
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-	<img src="../../../assets/images/uml/sistema_avaliacao.png" alt="Diagrama UML - Sistema de Avaliação" width="600"/>
+	<img src="https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/master/docs/assets/images/uml/sistema_avaliacao.png" alt="Diagrama UML - Sistema de Avaliação" width="600"/>
 </p>
 
 | **Componente** | **Descrição** |
