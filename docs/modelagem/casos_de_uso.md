@@ -8,6 +8,15 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 
 ---
 
+### Diagrama de Casos de Uso do SinPatinhas:
+
+Com base nos requisitos elicitados na entrega 2 do projeto, foi possível elaborar um conjunto de casos de uso, que compõem o diagrama UML de casos de uso, o qual possui o usuário como ator primário, o servidor DeepSeek e o Sistema externo de conteúdos da internet como atores secundários. O diagrama possui requisitos já implementados no app bem como requisitos que não foram implementados ainda.
+
+![Casos-de-uso](/assets/images/casos_de_uso-SinPatinhas.png)
+
+* [Link para o diagrama UML](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=casos_de_uso-SinPatinhas.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BoYXjYiiKHqswSnjmWUObuaX5Jrnb8X2%26export%3Ddownload)
+
+
 ## Artefatos e Gravações Unitários
 
 | Participante | Página Específica |
