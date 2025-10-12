@@ -1,4 +1,4 @@
-# Cenários – Antonio Carvalho
+# Cenários – Heloisa Silva
 
 ## Cenário 05 —	Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. (RFNI001)
 
@@ -15,9 +15,9 @@ A seguir, o cenário para o requisito **Mapa interativo com a localização das 
 |----------------|----------------|
 | **Título** | Mapa interativo com geolocalização de clínica e hospitais veterinários |
 | **Código** | CNR005 |
-| **Caso de uso trabalhado** | [#UC000](...)|
+| **Caso de uso trabalhado** | [#UC009](...)|
 | **Metas/Objetivos** | Permitir que o tutor pessoa física e jurídica localize de forma visual com base em sua localização clinicas e hospitais veterinários. |
-| **Contexto** | **Local:** Acesso ao site via navegador web, em computador ou smartphone.<br>**Tempo:** Ao requerer atendimento para castração ou microchipagem.<br>**Pré-condição:** O tutor deve estar autenticado no sistema e possuir um animal cadastrado com informações válidas, e a clínnica ou hospital deve possuir convênio com o MMA. |
+| **Contexto** | **Local:** Acesso ao site via navegador web, em computador ou smartphone.<br>**Tempo:** Ao requerer atendimento para castração ou microchipagem.<br>**Pré-condição:** O tutor deve estar autenticado no sistema e possuir um animal cadastrado com informações válidas, e a clínica ou hospital deve possuir convênio com o MMA. |
 | **Ator(es)** | Roberto, 58 anos, é tutor de duas cadelas, não possui recursos para transportá-las por longas distâncias e é criterioso em relação ao atendimento que seus animais recebem. |
 | **Recursos** | Dispositivo com acesso à internet, dados do animal. |
 | **Episódios** | 1. Roberto acessa o sistema e visualizando o mapa, vê quais clínicas ou hospitais prestam o serviço perto de sua casa. <br> 2. Ao selecionar o hospital ou clínica desejada, é apresentado um cronograma de dias e horários disponíveis para realizar o procedimento . <br> 3. Após selecionado dia e horário, o sistema valida os dados obrigatórios (nome, espécie, sexo do animal, idade e dados do tutor responsável). <br> 4. O sistema gera um ID para o agendamento e o registra no perfil do prestador do serviço e tutor <br> 5. Após realizado o procedimento, o sistema marca o agendamento como realizado |
@@ -37,7 +37,7 @@ A seguir, o cenário para o requisito **Mapa interativo com a localização das 
 |----------------|----------------|
 | **Título** | Sistema de avaliação para estabelecimentos |
 | **Código** | CNR006 |
-| **Caso de uso trabalhado** | [#UC000](...)|
+| **Caso de uso trabalhado** | [#UC010](...)|
 | **Metas/Objetivos** | Permitir que o tutor avalie a clínica ou hospital que realizou o procedimento veterinário após sua execução |
 | **Contexto** | **Local:** Portal do tutor, acessado pelo navegador.<br>**Tempo:** Em qualquer momento após a realização do procedimento.<br>**Pré-condição:** O tutor deve estar logado e possuir um animal em seu perfil que tenha realizado procedimento veterinário por meio do sistema. |
 | **Ator(es)** | Roberto, 58 anos, é tutor de duas cadelas, não possui recursos para transportá-las por longas distâncias e é criterioso em relação ao atendimento que seus animais recebem. |
