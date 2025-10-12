@@ -16,7 +16,7 @@ O diagrama contempla **funcionalidades como cadastro de usuários e animais**, r
 
 Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação aos usuários e demais entidades envolvidas, servindo como base para a modelagem e implementação das funcionalidades descritas nos requisitos**.
 
-![Casos-de-uso](/assets/images/casos_de_uso-SinPatinhas.png)
+![Casos-de-uso](../assets/images/casos_de_uso-SinPatinhas.png)
 
 * [Link para o diagrama UML](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=casos_de_uso-SinPatinhas.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BoYXjYiiKHqswSnjmWUObuaX5Jrnb8X2%26export%3Ddownload)
 
