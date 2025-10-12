@@ -59,7 +59,7 @@ A seguir, o cenário para o requisito **Aplicativo Móvel "SINPatinhas Agente" (
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Cenários** própria | Antonio | - |
+| 1.0 | 11/10/2025 | Página de **Cenários** própria | Pedro | - |
 
 ---
 

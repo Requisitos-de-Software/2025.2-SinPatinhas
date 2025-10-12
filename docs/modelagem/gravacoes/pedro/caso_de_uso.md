@@ -1,6 +1,6 @@
 # Casos de uso - Pedro Gomes
 
-## #UC003 – Sistema de Adoção
+## #UC005 – Aplicativo Móvel
 
 **Autor:** Pedro Gomes
 
@@ -26,7 +26,7 @@
 
 ---
 
-## #UC004 – Atualização do Status do Animal
+## #UC006 – Acesso Offline à Ficha do Animal
 
 **Autor:** Pedro Gomes
 

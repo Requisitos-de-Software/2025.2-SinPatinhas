@@ -1,4 +1,4 @@
-## Léxicos Desenvolvidos
+## Léxicos Desenvolvidos - Pedro Gomes
 
 # Léxicos – Cenários 07 e 08
 

@@ -1,4 +1,4 @@
-# Especificações Suplementares - Antonio Carvalho
+# Especificações Suplementares - Pedro Gomes
 
 ---
 
@@ -32,13 +32,34 @@
 | **Observações / Comentários** | - Recomenda-se o uso de arquitetura **MVVM** para modularidade e testes.<br>- O aplicativo deve permitir atualizações automáticas de versão via loja.<br>- Implementar logs locais para auditoria de ações do agente. |
 
 ## #ES005 - Funcionalidade Offline
+
+# Especificação Suplementar – Requisito RNF06: Acesso Offline
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | `RNF06` |
+| **Título** | Acesso Offline à Ficha do Próprio Animal |
+| **Descrição** | Permitir que o tutor acesse informações vitais de seu animal (identificação, histórico, vacinação, contatos) diretamente no aplicativo SINPatinhas, mesmo em locais sem conexão com a internet. |
+| **Justificativa / Objetivo** | Garantir que tutores possam consultar informações essenciais sobre seus animais em qualquer lugar, mesmo em áreas sem cobertura de internet, evitando perda de dados ou atrasos em processos de verificação e atendimento. |
+| **Ator(es)** | Tutor |
+| **Pré-condições** | - O tutor deve ter o aplicativo SINPatinhas instalado.<br>- O tutor deve estar logado no aplicativo.<br>- Os dados do animal devem ter sido previamente salvos offline através da funcionalidade "Disponibilizar Offline". |
+| **Entradas** | - Comando do usuário para acessar a ficha offline.<br>- Seleção do animal desejado na seção "Animais Salvos". |
+| **Saídas** | - Ficha completa do animal exibida na tela, incluindo:<br>  - Nome do animal<br>  - Identificação (RGA)<br>  - Histórico de vacinação<br>  - Fotos<br>  - Contato do tutor<br>- Mensagens de alerta caso os dados não estejam disponíveis offline. |
+| **Regras de Negócio** | 1. Somente animais previamente salvos offline estarão disponíveis para acesso sem conexão.<br>2. Informações exibidas offline devem ser consistentes com os dados do servidor no momento do último salvamento.<br>3. Caso o usuário tente acessar dados não salvos, o sistema exibirá mensagem de alerta: "Sem conexão com a internet. Conecte-se a uma rede para acessar os dados." |
+| **Tratamento de Erros / Exceções** | - Falha no armazenamento local: exibir alerta e sugerir nova sincronização.<br>- Corrupção de dados offline: exibir mensagem de erro e instruir o usuário a atualizar os dados quando houver conexão. |
+| **Dependências** | - Funcionalidade "Disponibilizar Offline" do aplicativo.<br>- Sistema de armazenamento local do dispositivo móvel. |
+| **Critérios de Aceitação** | 1. Usuário consegue abrir a ficha do animal sem conexão com a internet.<br>2. Todas as informações relevantes (identificação, histórico, vacinação, contatos) estão corretas e visíveis.<br>3. Sistema exibe mensagens de alerta quando dados não estão disponíveis offline.<br>4. O acesso offline não altera ou corrompe os dados locais. |
+| **Rastreabilidade** | `CNR006`, `#UC006`, `#LX006-01`, `#LX006-02`, `#LX006-03`, `#LX006-04` |
+| **Data de Criação** | 12/10/2025 |
+| **Observações / Comentários** | - É recomendável que o aplicativo indique visualmente quando os dados estão sendo acessados offline.<br>- Sincronizações periódicas podem ser sugeridas para manter os dados offline atualizados. |
+
 ---
 
 ## Tabela de Contribuição
 
 | Nome | Contribuição (%) | Função |
 |------|------------------|--------|
-| **Antonio Carvalho** | 100% | Autor desta página |
+| **Pedro Gomes** | 100% | Autor desta página |
 
 ---
 
@@ -46,7 +67,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Especificações Suplementares** própria | Antonio | - |
+| 1.0 | 11/10/2025 | Página de **Especificações Suplementares** própria | Pedro | - |
 
 ---
 
