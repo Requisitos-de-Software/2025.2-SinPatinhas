@@ -59,7 +59,7 @@ A seguir, o cenário para o requisito **Mapa interativo com a localização das 
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Cenários** própria | Heloisa | - |
+| 1.0 | 11/10/2025 | Página de **Cenários** própria | Heloisa | Letícia |
 
 ---
 
