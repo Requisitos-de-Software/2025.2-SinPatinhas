@@ -24,7 +24,7 @@
 | **Data de Criação** | 12/10/2025 |
 | **Rastreabilidade** | `RF33` |
 | **Cenário Relacionado** | `#CEN07` |
-| **Léxico Relacionado** | `#LX010` |
+| **Léxico Relacionado** | `#LX012` |
 
 
 
@@ -54,7 +54,7 @@
 | **Data de Criação** | 12/10/2025 |
 | **Rastreabilidade** | `RF44` |
 | **Cenário Relacionado** | `#CEN08` |
-| **Léxico Relacionado** | `#LX011` |
+| **Léxico Relacionado** | `#LX013` |
 
 ---
 
