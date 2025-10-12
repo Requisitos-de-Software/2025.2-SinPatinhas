@@ -235,6 +235,32 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 - **RF024** – Notificação periódica de atualização de dados e fotos do animal.  
 - **RF025** – Vinculação de foto do tutor ao registro de adoção.
 
+### 3. **Análise de sistemas concorrentes**
+
+Foram analisados dois sistemas concorrentes de planos de saúde para PETS: **Petlove** e **Dog Life** ([link Petlove](https://saude.petlove.com.br/)) ([link Dog Life](https://www.doglife.com.br/)).
+
+Os requisitos foram extraídos principalmente das interfaces de listagem de ambos os sistemas. O sistema da **Dog Life** se destaca por apresentar uma interface de listagem organizada, com opções de filtragem e detalhamento mais completo nos perfis dos prestadores de serviço ([link interface Dog Life](https://www.doglife.com.br/brasilia-df?filters=onlyAccredited)). Já o sistema da **Petlove** chama atenção pelo uso de um mapa interativo com filtragem, facilitando a localização de prestadores e serviços ([link mapa Petlove](https://saude.petlove.com.br/rede-credenciada/se/aracaju)).
+
+Essas observações permitiram identificar boas práticas e oportunidades de melhoria para o sistema SinPatinhas, especialmente no que diz respeito à usabilidade e à apresentação das informações para o usuário final.
+
+##### ❌ Requisitos Não Implementados
+
+- **RF001** – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados no sistema. (Petlove)
+- **RF002** – Implementar filtro por distância, permitindo ao usuário localizar clínicas próximas à sua posição atual. (Petlove)
+- **RF003** – Disponibilizar listagem de tratamentos e serviços oferecidos pelas clínicas e hospitais cadastrados. (Petlove)
+- **RF004** – Implementar filtro por especialidade veterinária, facilitando a busca por profissionais ou estabelecimentos específicos. (Petlove)
+- **RF005** – Incluir informações sobre horários de funcionamento de clínicas e hospitais veterinários. (Dog Life)
+- **RF006** – Adicionar indicadores visuais no mapa e nos perfis para mostrar se a clínica ou hospital está aberto ou fechado. (Petlove)
+- **RF007** – Permitir pesquisa de clínicas e hospitais por médico veterinário vinculado. (Dog Life)
+- **RF008** – Incluir campo para que clínicas e hospitais informem os preços dos principais procedimentos. (Dog Life)
+- **RF009** – Adicionar opção para que médicos veterinários indiquem se realizam atendimentos domiciliares. (Dog Life)
+- **RF010** – Implementar sistema de avaliação numérica para os estabelecimentos prestadores de serviço. (Dog Life)
+- **RF011** – Implementar sistema de avaliação numérica para os médicos veterinários que realizarem atendimentos. (Dog Life)
+- **RF012** – Permitir o envio de comentários e feedbacks sobre o atendimento recebido nos estabelecimentos. (Dog Life)
+- **RF013** – Permitir o envio de comentários e feedbacks sobre o atendimento prestado por médicos veterinários. (Dog Life)
+- **RF014** – Exibir indicador visual da média de avaliações no perfil de clínicas e hospitais veterinários. (Dog Life)
+- **RF015** – Exibir indicador visual da média de avaliações no perfil de médicos veterinários. (Dog Life)
+
 
 ## 📜 Histórico de Versão
 
