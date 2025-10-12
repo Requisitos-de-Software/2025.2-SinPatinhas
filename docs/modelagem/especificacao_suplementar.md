@@ -46,9 +46,9 @@ Essa metodologia visa garantir que todos os elementos essenciais à construção
 | **Participante** | **Página Específica** |
 |------------------|------------------------|
 | Antonio Carvalho | [Modelagem das especificações suplementares - Especificações 01 e 02 ](/modelagem/gravacoes/antonio/especificacao.md) |
-| Letícia Paiva | [PModelagem das especificações suplementares - Especificações 03 e 04](/modelagem/gravacoes/leticia/especificacao.md) |
-| Pedro Gomes | [PModelagem das especificações suplementares - Especificações 05 e 06](/modelagem/gravacoes/pedro/especificacao.md) |
-| Mateus Santos Negrini | [PModelagem das especificações suplementares - Especificações 07 e 08](/modelagem/gravacoes/leticia/especificacao.md) |
+| Letícia Paiva | [Modelagem das especificações suplementares - Especificações 03 e 04](/modelagem/gravacoes/leticia/especificacao.md) |
+| Pedro Gomes | [Modelagem das especificações suplementares - Especificações 05 e 06](/modelagem/gravacoes/pedro/especificacao.md) |
+| Mateus Santos Negrini | [Modelagem das especificações suplementares - Especificações 07 e 08](/modelagem/gravacoes/leticia/especificacao.md) |
 
 ---
 
@@ -89,9 +89,9 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
-| Antonio Carvalho | 50% | Autor da página de Especificação Suplementar |
-| Mateus Santos Negrini   | 50% | Adição da especificação suplementar ES007 e ES008 | 
-
+| Antonio Carvalho | 33% | Autor da página de Especificação Suplementar |
+| Letícia Paiva   | 33%   | Adição da especificação suplementar ES007 e ES008 |
+| Mateus Santos Negrini  | 33%   | Adição da especificação suplementar ES003 e ES004 | 
 
 ---
 
@@ -100,7 +100,8 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:---------:|:---------------|:-------------|:---------------|
 | 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
-| 1.1    | 12/10/2025 | Adiciona ES007 e ES008.| Mateus | - |
+| 1.1    | 12/10/2025 | Adiciona ES007 e ES008.| Mateus | Letícia |
+| 1.3    | 12/10/2025 | Adiciona ES003 e ES004.| Letícia | - |
 
 
 ---

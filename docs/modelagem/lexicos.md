@@ -66,8 +66,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
 | 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
-| 1.1    | 10/10/2025 | Adiciona léxicos LX008 e LX009 | Letícia | Antonio       |1
-| 1.2    | 12/10/2025 | Adiciona LXN12 e LXN13.| Mateus | - |
+| 1.1    | 10/10/2025 | Adiciona léxicos LX008 e LX009 | Letícia | Antonio       |
+| 1.2    | 12/10/2025 | Adiciona LXN12 e LXN13.| Mateus | Letícia |
 
 
 ---
