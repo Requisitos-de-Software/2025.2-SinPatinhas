@@ -1,71 +1,123 @@
 # Cenários – Antonio Carvalho
 
-## Cenário 03 — Emissão de Documento Oficial de Identificação (RF05)
+---
 
+* [Link para validação de cenários com tutor de animal](a)
 
+---
 
-<a id="cnr003"></a>
+## Cenário 03 — Sistema de Adoção de Animais (RFNI016)
 
-**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+**Autor:** Antonio Carvalho
 
-**Tabela 3 – Cenário 03: Emissão de Documento Oficial de Identificação (RF05)**  
+**Tabela 1 – Cenário 03: Sistema de Adoção de Animais (RFNI016)**
 
 | **Componente** | **Descrição** |
-|----------------|----------------|
-| **Título** | Emissão do RG Pet |
+|-----------------|----------------|
+| **Título** | Sistema de Adoção de Animais |
 | **Código** | CNR003 |
-| **Caso de uso trabalhado** | [#UC001](...) |
-| **Ambiente/Contexto** | **Local:** Portal do tutor acessado por navegador web, em computador ou smartphone.<br> **Tempo:** Após o cadastro completo do animal.<br> **Pré-condição:** Tutor autenticado e com animal cadastrado. |
-| **Atores** | Douglas, 23 anos, estudante de engenharia de software na UnB, tutor de um cão. |
-| **Objetivos** | Gerar um documento oficial de identificação do animal contendo dados básicos e um número único (RG Pet). |
-| **Planejamento** | O ator deseja ter um documento oficial do seu animal para comprovar sua tutela e facilitar processos de identificação. |
-| **Ações** | 1. Douglas acessa sua área pessoal. <br> 2. Seleciona o animal cadastrado. <br> 3. Clica em *“Gerar RG Pet”*. <br> 4. O sistema valida as informações e gera o RG Pet. <br> 5. O documento é exibido em formato digital com opção de download. |
-| **Eventos** | - Sistema valida dados obrigatórios. <br> - Sistema gera número único de identificação. <br> - Exibição do documento. |
-| **Avaliação** | O ator verifica se as informações estão corretas e se o documento foi gerado adequadamente. |
-| **Exceção** | Caso falte informação obrigatória, o sistema exibe uma mensagem de erro solicitando o preenchimento. |
+| **Caso de uso trabalhado** | #UC001 |
+
+**Ambiente/Contexto**  
+Local: Portal do SinPatinhas acessado via navegador web ou aplicativo móvel.  
+Tempo: Quando o tutor ou ONG deseja disponibilizar um animal para adoção.  
+Pré-condição: Usuário autenticado (tutor ou ONG) com animal cadastrado.
+
+**Atores**  
+Douglas, 23 anos, estudante de engenharia de software na UnB, tutor de um cão, deseja adotar outro animal.
+
+**Objetivos**  
+Permitir a divulgação de animais disponíveis para adoção e facilitar o contato entre tutores/ONGs e adotantes interessados.
+
+**Planejamento**  
+O ator deseja encontrar um novo animal para adoção, com informações seguras e verificadas.
+
+**Ações**  
+1. Douglas acessa o módulo “Adoção”.  
+2. Visualiza lista de animais disponíveis com fotos e informações básicas.  
+3. Filtra por espécie, idade e localização.  
+4. Seleciona um animal de interesse.  
+5. Envia solicitação de adoção.  
+6. O sistema notifica o responsável pelo animal.
+
+**Eventos**  
+- Exibição de perfis de animais disponíveis.  
+- Envio de notificações entre usuários.  
+- Atualização do status de “Disponível” para “Em processo de adoção”.
+
+**Avaliação**  
+O ator confirma se conseguiu visualizar e solicitar a adoção com sucesso.
+
+**Exceção**  
+Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem informando indisponibilidade.
 
 ---
 
-## Cenário 04 — Atualização do Status do Animal (RF07)
+## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)
 
-<a id="cnr004"></a>
+**Autor:** Antonio Carvalho
 
-**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
-
-**Tabela 4 – Cenário 04: Atualização do Status do Animal (RF07)**  
+**Tabela 2 – Cenário 04: Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)**
 
 | **Componente** | **Descrição** |
-|----------------|----------------|
-| **Título** | Atualização de Status do Animal |
+|-----------------|----------------|
+| **Título** | Notificação Periódica para Atualização de Dados e Fotos |
 | **Código** | CNR004 |
-| **Caso de uso trabalhado** | [#UC002](...) |
-| **Ambiente/Contexto** | **Local:** Portal do tutor acessado pelo navegador web.<br> **Tempo:** A qualquer momento após o cadastro do animal.<br> **Pré-condição:** Tutor autenticado com animal em seu perfil. |
-| **Atores** | Douglas, 23 anos, estudante de engenharia de software na UnB, tutor de um cão. |
-| **Objetivos** | Permitir ao tutor atualizar o status do animal, informando se foi perdido, encontrado, transferido ou se ocorreu óbito. |
-| **Planejamento** | O ator deseja manter o status do animal atualizado para facilitar sua gestão e comunicação com outros usuários. |
-| **Ações** | 1. Douglas acessa o perfil do animal. <br> 2. Seleciona *“Atualizar Status”*. <br> 3. Escolhe a nova opção de status. <br> 4. Confirma a atualização. <br> 5. O sistema salva e exibe mensagem de confirmação. |
-| **Eventos** | - Exibição das opções de status. <br> - Registro da data de atualização. <br> - Atualização do perfil do animal. |
-| **Avaliação** | O ator verifica se o status foi alterado corretamente e aparece no perfil do animal. |
-| **Exceção** | Caso o tutor selecione uma opção incompatível (por exemplo, marcar *“Encontrado”* sem estar *“Perdido”*), o sistema bloqueia a ação e exibe uma mensagem de erro. |
+| **Caso de uso trabalhado** | #UC002 |
+
+**Ambiente/Contexto**  
+Local: Portal do tutor ou aplicativo SinPatinhas.  
+Tempo: Periodicamente (a cada 6 meses, por exemplo).  
+Pré-condição: Tutor autenticado com animal registrado no sistema.
+
+**Atores**  
+Douglas, 23 anos, estudante de engenharia de software na UnB, tutor de um cão.
+
+**Objetivos**  
+Manter os registros do animal atualizados, garantindo precisão das informações e fotos recentes.
+
+**Planejamento**  
+O ator deseja manter o cadastro de seu animal sempre atualizado, evitando inconsistências e facilitando sua identificação.
+
+**Ações**  
+1. O sistema envia notificação automática ao tutor.  
+2. Douglas acessa o link da notificação.  
+3. Verifica os dados atuais do animal.  
+4. Atualiza informações ou envia nova foto.  
+5. O sistema salva as alterações e confirma a atualização.
+
+**Eventos**  
+- Envio de notificações automáticas.  
+- Registro da data da última atualização.  
+- Atualização da base de dados do animal.
+
+**Avaliação**  
+O ator verifica se a atualização foi concluída e se as novas informações estão visíveis no perfil do animal.
+
+**Exceção**  
+Caso o tutor ignore a notificação por um longo período, o sistema envia novo lembrete ou alerta visual no perfil.
 
 ---
 
-## Tabela de Contribuição
 
-| Nome | Contribuição (%) | Função |
-|------|------------------|--------|
-| **Antonio Carvalho** | 100% | Autor desta página |
+## Referência para elaboração desses artefatos em específico:
 
----
-
-## Tabela de Versionamento
-
-| Versão | Data | Descrição | Autores | Revisores |
-|:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Cenários** atualizada conforme estrutura de Rosson e Carroll (2002) | Antonio | - |
+![Interação Humano-Computador e Experiência do Usuário. (Especificado em "Referências")](../assets/images/modelagem/antonio_cenarios.png)
 
 ---
 
-## Referências  
+### Tabela de Contribuição
+
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| Antonio Carvalho | 100% | Autor desta página |
+
+### Tabela de Versionamento
+
+| **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
+|-------------|-----------|----------------|--------------|----------------|
+| 1.0 | 11/10/2025 | Adição dos cenários referentes aos requisitos não implementados RFNI016 e RFNI021 | Antonio | - |
+
+### Referências
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do Usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
