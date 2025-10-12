@@ -96,6 +96,12 @@
 
 ---
 
+## Referência para elaboração desses artefatos em específico:
+
+![Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos. (Especificado em "Referências")](../assets/images/modelagem/antonio_lexicos.png)
+
+---
+
 ## Tabela de Contribuição
 
 | Nome | Contribuição (%) | Função |

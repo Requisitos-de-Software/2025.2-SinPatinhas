@@ -52,6 +52,13 @@ Esta seção detalha as exigências para **proteção de dados**, **integridade 
 
 ---
 
+## Referência para elaboração desses artefatos em específico:
+
+![Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos. (Especificado em "Referências")](../assets/images/modelagem/antonio_esp_sup.png)
+
+---
+
+
 ## Tabela de Contribuição
 
 | Nome | Contribuição (%) | Função |

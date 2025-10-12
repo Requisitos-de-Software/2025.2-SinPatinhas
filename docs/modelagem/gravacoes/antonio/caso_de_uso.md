@@ -1,82 +1,94 @@
-# Casos de uso - Antonio Carvalho
+# Casos de uso – Antonio Carvalho
 
 ---
 
-* [Link para validação de critérios de backlog com tutor de animal](https://www.youtube.com/watch?v=9qqIvI8YABc)
+* [Link para validação de casos de uso com tutor de animal](a)
 
 ---
 
-## #UC001 – Emissão de Documento Oficial de Identificação (RG Pet)
+---
+
+* [RFNI016 – Sistema de Adoção de Animais](#uc001)  
+* [RFNI021 – Notificação Periódica para Atualização de Dados e Fotos do Animal](#uc002)
+
+---
+
+## #UC001 – Sistema de Adoção de Animais (RFNI016)
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 <a id="uc001"></a>
 
-<font><p style="text-align: center">**Tabela 01** – Caso de Uso 01 – Emissão de Documento Oficial de Identificação (RG Pet)</p></font>
+<font><p style="text-align: center">**Tabela 01** – Caso de Uso 01 – Sistema de Adoção de Animais (RFNI016)</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
 | **Código** | #UC001 |
-| **Descrição** | O sistema deve permitir que o tutor gere um documento oficial de identificação (RG Pet) para o animal, contendo informações básicas e um número único. |
-| **Ator** | Tutor (Douglas, 23 anos) |
-| **Pré-condições** | O tutor deve estar autenticado e possuir um animal cadastrado com todas as informações obrigatórias preenchidas. |
-| **Ação** | O tutor acessa o perfil do animal e solicita a emissão do RG Pet. |
-| **Fluxo principal** | <ul><li>O tutor acessa sua conta no sistema.</li><li>Seleciona o animal cadastrado.</li><li>Clica em “Gerar RG Pet”.</li><li>O sistema valida os dados obrigatórios do animal.</li><li>O sistema gera um número único de identificação.</li><li>O documento é exibido na tela e disponibilizado para download em PDF.</li></ul> |
-| **Fluxo alternativo** | <ul><li>O tutor cancela a geração do documento antes da finalização.</li><li>O sistema retorna à tela de perfil do animal sem gerar o RG Pet.</li></ul> |
-| **Fluxo de exceção** | <ul><li>O tutor tenta gerar o RG Pet sem todas as informações obrigatórias preenchidas.</li><li>O sistema exibe uma mensagem solicitando a correção dos dados antes da emissão.</li></ul> |
-| **Pós-condições** | O RG Pet é salvo no sistema e disponível para consulta e impressão pelo tutor. |
-| **Data de Criação** | 10/10/2025 |
-| **Rastreabilidade** | #RF05 — Emissão de Documento Oficial de Identificação |
-| **Cenário relacionado** | [#CNR003](/modelagem/gravacoes/antonio/cenarios.md) |
+| **Descrição** | O sistema deve permitir que tutores e ONGs disponibilizem animais para adoção e que usuários interessados possam visualizar e solicitar adoção. |
+| **Ator** | Tutor/ONG (Douglas, 23 anos) e Adotante |
+| **Pré-condições** | O tutor/ONG deve estar autenticado e possuir animais cadastrados. O adotante também deve estar autenticado. |
+| **Ação** | O tutor cadastra o animal para adoção e o adotante acessa a listagem para enviar solicitação. |
+| **Fluxo principal** | <ul><li>O tutor acessa sua conta e cadastra o animal para adoção.</li><li>O adotante acessa o módulo “Adoção”.</li><li>Visualiza lista de animais disponíveis com fotos e informações.</li><li>Filtra por espécie, idade e localização.</li><li>Seleciona um animal e envia solicitação de adoção.</li><li>O sistema notifica o responsável pelo animal.</li></ul> |
+| **Fluxo alternativo** | <ul><li>O adotante cancela a solicitação de adoção antes da confirmação.</li><li>O tutor decide remover o animal da listagem antes da adoção.</li></ul> |
+| **Fluxo de exceção** | <ul><li>O animal já foi adotado antes da solicitação.</li><li>O sistema exibe mensagem informando indisponibilidade do animal.</li></ul> |
+| **Pós-condições** | O sistema registra a solicitação e atualiza o status do animal para “Em processo de adoção”. |
+| **Data de Criação** | 11/10/2025 |
+| **Rastreabilidade** | [RFNI016](#rfni016) — Sistema de Adoção de Animais |
+| **Cenário relacionado** | [#CNR003](/modelagem/gravacoes/antonio/cenarios.md#rfni016) |
 | **Léxico relacionado** | [#LX001](/modelagem/gravacoes/antonio/lexicos.md) |
-
+| **Origem** | Entrevista 2 |
 
 ---
 
-## #UC002 – Atualização do Status do Animal
+## #UC002 – Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 <a id="uc002"></a>
 
-<font><p style="text-align: center">**Tabela 02** – Caso de Uso 02 – Atualização do Status do Animal</p></font>
+<font><p style="text-align: center">**Tabela 02** – Caso de Uso 02 – Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
 | **Código** | #UC002 |
-| **Descrição** | O sistema deve permitir que o tutor atualize o status do animal, informando situações como “Perdido”, “Encontrado”, “Transferido” ou “Óbito”. |
+| **Descrição** | O sistema deve enviar notificações automáticas aos tutores para que atualizem periodicamente os dados e fotos de seus animais. |
 | **Ator** | Tutor (Douglas, 23 anos) |
-| **Pré-condições** | O tutor deve estar autenticado e possuir o animal registrado no sistema. |
-| **Ação** | O tutor acessa o perfil do animal e seleciona a opção de atualização de status. |
-| **Fluxo principal** | <ul><li>O tutor faz login no sistema.</li><li>Acessa o perfil do animal.</li><li>Clica em “Atualizar Status”.</li><li>Seleciona o novo status entre as opções disponíveis.</li><li>Confirma a atualização.</li><li>O sistema registra a alteração e exibe mensagem de sucesso.</li></ul> |
-| **Fluxo alternativo** | <ul><li>O tutor decide não alterar o status e cancela a operação.</li><li>O sistema mantém o status anterior do animal.</li></ul> |
-| **Fluxo de exceção** | <ul><li>O tutor tenta aplicar um status incompatível (ex: marcar como “Encontrado” sem estar “Perdido”).</li><li>O sistema exibe mensagem de erro e bloqueia a ação.</li></ul> |
-| **Pós-condições** | O status do animal é atualizado e registrado com data e hora da alteração. |
-| **Data de Criação** | 10/10/2025 |
-| **Rastreabilidade** | #RF07 — Atualização do Status do Animal |
-| **Cenário relacionado** | [#CNR004](/modelagem/gravacoes/antonio/cenarios.md) |
+| **Pré-condições** | O tutor deve estar autenticado e possuir animal cadastrado no sistema. |
+| **Ação** | O tutor recebe uma notificação e acessa o sistema para atualizar as informações. |
+| **Fluxo principal** | <ul><li>O sistema envia notificação automática ao tutor a cada período determinado (ex: 6 meses).</li><li>O tutor acessa o link contido na notificação.</li><li>Visualiza as informações atuais do animal.</li><li>Atualiza dados ou envia nova foto.</li><li>O sistema salva e confirma a atualização.</li></ul> |
+| **Fluxo alternativo** | <ul><li>O tutor visualiza os dados mas não altera nenhuma informação.</li><li>O sistema apenas atualiza a data de última verificação.</li></ul> |
+| **Fluxo de exceção** | <ul><li>O tutor ignora a notificação por um longo período.</li><li>O sistema envia lembretes adicionais ou exibe alerta no perfil do animal.</li></ul> |
+| **Pós-condições** | O cadastro do animal é atualizado e a data da última modificação é registrada. |
+| **Data de Criação** | 11/10/2025 |
+| **Rastreabilidade** | [RFNI021](#rfni021) — Notificação Periódica para Atualização de Dados e Fotos do Animal |
+| **Cenário relacionado** | [#CNR004](/modelagem/gravacoes/antonio/cenarios.md#rfni021) |
 | **Léxico relacionado** | [#LX002](/modelagem/gravacoes/antonio/lexicos.md) |
+| **Origem** | Entrevista 3 |
+
+---
+
+## Referência para elaboração desses artefatos em específico:
+
+![Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. (Especificado em "Referências")](../assets/images/modelagem/antonio_user_case.png)
 
 ---
 
 ## Tabela de Contribuição
 
-| Nome | Contribuição (%) | Função |
-|------|------------------|--------|
-| **Antonio Carvalho** | 100% | Autor desta página |
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| Antonio Carvalho | 100% | Autor desta página |
 
 ---
 
 ## Tabela de Versionamento
 
-| Versão | Data | Descrição | Autores | Revisores |
-|:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Casos de Uso** própria | Antonio | - |
+| **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
+|-------------|-----------|----------------|--------------|----------------|
+| 1.0 | 11/10/2025 | Adição dos casos de uso referentes aos requisitos não implementados RFNI016 e RFNI021 | Antonio | - |
 
 ---
 
 ## Referências  
 
-SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos.* Brasília: Universidade de Brasília, 2025.
-
----
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos.* Brasília: Universidade de Brasília, 2025.  
