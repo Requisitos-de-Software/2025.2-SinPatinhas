@@ -2,6 +2,12 @@
 
 ---
 
+* [Link para validação de critérios utilizados para especificação suplementar com tutor de animal](https://www.youtube.com/watch?v=VDm2lGHywDw)
+
+---
+
+## Especificações Suplementares Desenvolvidas
+
 <a id="es001"></a>
 
 ## #ES001 - Usabilidade (U)

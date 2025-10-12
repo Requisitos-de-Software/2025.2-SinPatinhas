@@ -1,5 +1,11 @@
 # Casos de uso - Antonio Carvalho
 
+---
+
+* [Link para validação de critérios de backlog com tutor de animal](https://www.youtube.com/watch?v=9qqIvI8YABc)
+
+---
+
 ## #UC001 – Emissão de Documento Oficial de Identificação (RG Pet)
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)

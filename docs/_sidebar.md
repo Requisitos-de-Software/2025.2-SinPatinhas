@@ -29,7 +29,8 @@
   - [Léxicos](/modelagem/lexicos.md)
   - [Casos de Uso](/modelagem/casos_de_uso.md)
   - [Especificação Suplementar](/modelagem/especificacao_suplementar.md)
-  - ***Agilidade***
+  
+- **Agilidade**
     - [Backlog](/modelagem/agilidade/backlog.md)
     - [NFR Framework](/modelagem/agilidade/nfr_framework.md)
     - [Histórias de Usuário](/modelagem/agilidade/historias_de_usuario.md)
