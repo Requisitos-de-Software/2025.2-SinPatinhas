@@ -62,6 +62,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Matheus Negrini** | Criou os cenários 05 e 06, referentes aos requisitos **Acesso à Área de Instruções Integradas (RF033)** e **Notificação Periódica de Atualização (RF044)** |
 | **Pedro Gomes**     | Criou os cenários 07 e 08, referentes aos requisitos **Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)** e **Notificação Periódica de Atualização (RF044)**                        |
 
+---
 
 ## Tabela de Contribuição
 
@@ -69,6 +70,8 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 |------------------------|---------------------|-----------------------------------------|
 | Letícia Paiva   | 50%                 |  Autor da página de apresentação de cenário | 
 | Antonio Carvalho   | 50%                 | Criação de modelo de apresentação de cenário | 
+
+---
 
 ## Referências  
 
