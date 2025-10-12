@@ -23,8 +23,10 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 
 | Participante | Página Específica |
 |---------------|------------------|
-| Antonio Carvalho | [Página específica da modelagem dos léxicos](/modelagem/gravacoes/antonio/lexicos.md) |
-
+| Antonio Carvalho | [Modelagem dos léxicos - Léxico 01, 02, 03, 04, 05, 06 e 07](/modelagem/gravacoes/antonio/lexicos.md) |
+| Letícia Paiva | [Modelagem dos léxicos - Léxico 08 e 09 ](/modelagem/gravacoes/leticia/lexicos.md) |
+| Pedro Gomes | [Modelagem dos léxicos - Léxico 10 e 11](/modelagem/gravacoes/pedro/lexicos.md) |
+| Mateus Santos Negrini | [Modelagem dos léxicos - Léxico 12 e 13 ](/modelagem/gravacoes/leticia/lexicos.md) |
 ---
 
 ## Estrutura para Criação de um Léxico
@@ -53,7 +55,9 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
-| **Antonio Carvalho**   | 100%                 | Autor da página de léxicos  |
+| **Antonio Carvalho**   | 33%                 | Autor da página de léxicos  |
+| **Letícia Paiva**   | 33%                 | Contribuição da página  |
+| **Mateus Santos Negrini**   | 33%                 | Adição de léxico LXN12 e LXN13 | 
 
 ---
 
@@ -61,7 +65,10 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
-| 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | -          |
+| 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
+| 1.1    | 10/10/2025 | Adiciona léxicos LX008 e LX009 | Letícia | Antonio       |
+| 1.2    | 12/10/2025 | Adiciona LXN12 e LXN13.| Mateus | Letícia |
+
 
 ---
 

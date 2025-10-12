@@ -21,7 +21,8 @@
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
   - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
   - [Inspeção grupo+1](/elicitacao/elicitacao_grupo_2/elicitacao_grupo_2)
-  - [Experimentação com LLMs](/elicitacao/experimentacaoLLMs.md)
+  - [Experimentação com LLMs](/elicitacao/tecnicas_elicitacao/experimentacaoLLMs.md)
+  - [Requisitos Elicitados](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
 
 - **Modelagem**
   - [Cenários](/modelagem/cenarios.md)

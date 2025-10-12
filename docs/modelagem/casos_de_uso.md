@@ -12,7 +12,10 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 
 | Participante | Página Específica |
 |---------------|------------------|
-| **Antonio Carvalho** | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/antonio/caso_de_uso.md) |
+| **Antonio Carvalho** | [Modelagem dos casos de uso - Caso de uso 01 e 02](/modelagem/gravacoes/antonio/caso_de_uso.md) |
+| **Letícia Paiva** | [Modelagem dos casos de uso - Caso de uso 03 e 04](/modelagem/gravacoes/leticia/caso_de_uso.md) |
+| **Pedro Gomes** | [Modelagem dos casos de uso - Caso de uso 05 e 06](/modelagem/gravacoes/pedro/caso_de_uso.md) |
+| **Mateus Santos Negrini** | [Modelagem dos casos de uso - Caso de uso 07 e 08](/modelagem/gravacoes/pedro/caso_de_uso.md) |
 
 ---
 
@@ -46,7 +49,11 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | Nome | Contribuição (%) | Função |
 |------|------------------|--------|
-| **Antonio Carvalho** | 100% | Autor da página de apresentação de casos de uso |
+| Antonio Carvalho | 25% | Autor da página de apresentação de casos de uso |
+| Mateus Santos Negrini  | 25% | Adição de casos de uso UC007 e UC008 | 
+| Letícia Paiva   | 25%   | Adição da especificação suplementar UC003 e UC003 |
+| Pedro   | 25%   | Adição da especificação suplementar UC005 e UC006 |
+ 
 
 ---
 
@@ -54,7 +61,10 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | - |
+| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | Leticia |
+| 1.1 | 10/10/2025 | Adiciona UC003 e UC004 | Leticia | Mateus |
+| 1.2 | 12/10/2025 | Adiciona UC007 e UC008 | Mateus | Leticia |
+| 1.3 | 12/10/2025 | Revisa tabela de contribuição| Leticia | - |
 
 ---
 
