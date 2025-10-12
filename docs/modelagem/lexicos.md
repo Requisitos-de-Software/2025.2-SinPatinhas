@@ -26,6 +26,7 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 | Antonio Carvalho | [Modelagem dos léxicos - Léxico 01, 02, 03, 04, 05, 06 e 07](/modelagem/gravacoes/antonio/lexicos.md) |
 | Letícia Paiva | [Modelagem dos léxicos - Léxico 08 e 09 ](/modelagem/gravacoes/leticia/lexicos.md) |
 | Pedro Gomes | [Modelagem dos léxicos - Léxico 10 e 11](/modelagem/gravacoes/pedro/lexicos.md) |
+| Mateus Santos Negrini | [Modelagem dos léxicos - Léxico 12 e 13 ](/modelagem/gravacoes/leticia/lexicos.md) |
 ---
 
 ## Estrutura para Criação de um Léxico

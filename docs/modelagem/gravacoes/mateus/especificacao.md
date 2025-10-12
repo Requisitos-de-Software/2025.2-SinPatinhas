@@ -2,15 +2,28 @@
 
 ---
 
-<a id="es004"></a>
+<a id="es007"></a>
 
-## #ES004 -
+## #ES007 -
 
 **Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
 
 | **Requisito (Código)** | **Classificação FURPS+** | **Especificação Detalhada** | **Rastreabilidade** |
 | ---------------------- | ------------------------ | --------------------------- | ------------------- |
 | RNF021 | Desempenho (P) | Todas as operações do sistema, incluindo consultas, atualizações e geração de relatórios, devem retornar resultados em **até 2 segundos** sob condições normais de uso (até 10000 usuários simultâneos). | |
+
+
+---
+
+<a id="es008"></a>
+
+## #ES008 -
+
+**Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
+
+| **Requisito (Código)** | **Classificação FURPS+** | **Especificação Detalhada** | **Rastreabilidade** |
+| ---------------------- | ------------------------ | --------------------------- | ------------------- |
+| RNF023 | Desempenho (P) | Veterinários devem poder acessar dados clinicos de um animal cadastrado e acessar exames mas não poderá editar exames que não foram realizados por ele. | |
 
 
 ---
