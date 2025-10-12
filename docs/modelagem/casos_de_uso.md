@@ -16,6 +16,7 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 | **Letícia Paiva** | [Modelagem dos casos de uso - Caso de uso 03 e 04](/modelagem/gravacoes/leticia/caso_de_uso.md) |
 | **Pedro Gomes** | [Modelagem dos casos de uso - Caso de uso 05 e 06](/modelagem/gravacoes/pedro/caso_de_uso.md) |
 | **Mateus Santos Negrini** | [Modelagem dos casos de uso - Caso de uso 07 e 08](/modelagem/gravacoes/pedro/caso_de_uso.md) |
+| **Heloisa** | [Modelagem dos casos de uso - Caso de uso 09 e 10](/modelagem/gravacoes/heloisa/caso_de_uso.md) |
 
 ---
 
