@@ -75,11 +75,6 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
   </div>
 
   <div class="team-card">
-    <img src="https://github.com/LuGit00.png?size=200" alt="Luciano Machado">
-    <p>Luciano Machado</p>
-  </div>
-
-  <div class="team-card">
     <img src="https://github.com/14luke08.png?size=200" alt="Mateus Negrini">
     <p>Mateus Negrini</p>
   </div>
