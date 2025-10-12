@@ -9,9 +9,7 @@
 
 
 
-<p align="center">
-	<img src="../../../assets/images/uml/mapa_interativo.png" alt="Diagrama UML - Mapa Interativo" width="600"/>
-</p>
+![Diagrama UML](../../../assets/images/uml/mapa_interativo.png)
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
@@ -41,9 +39,7 @@
 
 
 
-<p align="center">
-	<img src="../../../assets/images/uml/sistema_avaliacao.png" alt="Diagrama UML - Sistema de Avaliação" width="600"/>
-</p>
+![Diagrama UML](../../../assets/images/uml/sistema_avaliacao.png)
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
