@@ -89,9 +89,7 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
-| Antonio Carvalho | 33% | Autor da página de Especificação Suplementar |
-| Letícia Paiva   | 33%   | Adição da especificação suplementar ES007 e ES008 |
-| Mateus Santos Negrini  | 33%   | Adição da especificação suplementar ES003 e ES004 | 
+| Antonio Carvalho | 100% | Autor da página de Especificação Suplementar |
 
 ---
 
@@ -100,8 +98,6 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:---------:|:---------------|:-------------|:---------------|
 | 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
-| 1.1    | 12/10/2025 | Adiciona ES007 e ES008.| Mateus | Letícia |
-| 1.3    | 12/10/2025 | Adiciona ES003 e ES004.| Letícia | - |
 
 
 ---
@@ -109,5 +105,4 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 ## Referências
 
 Grady, R. B. *Practical Software Metrics for Project Management and Process Improvement.* Prentice Hall, 1992.
-
 Pressman, R. S. *Engenharia de Software: uma abordagem profissional.* 8ª edição. McGraw Hill, 2016.

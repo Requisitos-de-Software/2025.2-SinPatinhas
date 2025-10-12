@@ -62,14 +62,17 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Matheus Negrini** | Criou os cenários 05 e 06, referentes aos requisitos **Acesso à Área de Instruções Integradas (RF033)** e **Notificação Periódica de Atualização (RF044)** |
 | **Pedro Gomes**     | Criou os cenários 07 e 08, referentes aos requisitos **Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)** e **Notificação Periódica de Atualização (RF044)**                        |
 
+---
 
 ## Tabela de Contribuição
 
-| **Nome**              | **Contribuição (%)** | **Função** |
-|------------------------|----------------------------------|
-| Antonio Carvalho   | 33%                 |  Autor da página de apresentação de cenário | 
-| Letícia Paiva   | 33%                 | Adição de cenarios CNR003 e CNR004 | 
-| Mateus Santos Negrini   | 33%                 | Adição de cenarios CEN07 e CEN08 | 
+| **Nome**           | **Contribuição (%)** | **Função**                                      |
+|---------------------|----------------------|-------------------------------------------------|
+| Letícia Paiva       | 50%                  | Autora da página de apresentação de cenário     |
+| Antonio Carvalho    | 50%                  | Criação do modelo de apresentação de cenário    |
+
+
+---
 
 ## Referências  
 
@@ -82,4 +85,4 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Versão** | **Data**   | **Descrição**                                                        | **Autores** | **Revisores** |
 |-----------:|------------|--------------------------------------------------------------------|--------------|---------------|
 | **1.0**    | 09/10/2025 | Criação da página de **Cenários**.| Letícia Paiva | Antonio |
-| **1.1**    | 12/10/2025 | Adiciona CEN07 e CEN08.| Mateus | Letícia |
+| **1.1**    | 11/10/2025 | Alteração da página de **Cenários**.| Antonio Carvalho | Letícia Paiva |

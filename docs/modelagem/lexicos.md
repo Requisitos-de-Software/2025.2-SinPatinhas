@@ -55,9 +55,8 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
-| **Antonio Carvalho**   | 33%                 | Autor da página de léxicos  |
-| **Letícia Paiva**   | 33%                 | Contribuição da página  |
-| **Mateus Santos Negrini**   | 33%                 | Adição de léxico LXN12 e LXN13 | 
+| **Antonio Carvalho**   | 50%                 | Autor da página de léxicos  |
+| **Letícia Paiva**   | 50%                 | Contribuição na página  |
 
 ---
 
@@ -66,12 +65,9 @@ A tabela a seguir apresenta os componentes utilizados.
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
 | 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
-| 1.1    | 10/10/2025 | Adiciona léxicos LX008 e LX009 | Letícia | Antonio       |
-| 1.2    | 12/10/2025 | Adiciona LXN12 e LXN13.| Mateus | Letícia |
 
 
 ---
 
 ## Referências
 
-SERRANO M., SERRANO M. Requisitos -  - Disponível em: . Acesso em 19 de Junho de 2025.
