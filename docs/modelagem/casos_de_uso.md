@@ -8,6 +8,19 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 
 ---
 
+### Diagrama de Casos de Uso do SinPatinhas:
+
+Com base nos requisitos elicitados anteriormente para o projeto SinPatinhas, **foi desenvolvido o Diagrama de Casos de Uso UML apresentado abaixo**. O modelo representa as principais interações entre o ator Usuário e o sistema SinPatinhas, incluindo diferentes tipos de perfis — **Pessoa Física, Pessoa Jurídica e Clínicas/Hospitais Veterinários** — que executam ações específicas no sistema.
+
+O diagrama contempla **funcionalidades como cadastro de usuários e animais**, recebimento de tutelas, visualização e edição de registros, além de histórico de transferências e confirmação de alterações. Também **há interação com o servidor do SinPatinhas, responsável pelo processamento das operações e pela comunicação entre os módulos do sistema**.
+
+Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação aos usuários e demais entidades envolvidas, servindo como base para a modelagem e implementação das funcionalidades descritas nos requisitos**.
+
+![Casos-de-uso](../assets/images/casos_de_uso-SinPatinhas.png)
+
+* [Link para o diagrama UML](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=casos_de_uso-SinPatinhas.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BoYXjYiiKHqswSnjmWUObuaX5Jrnb8X2%26export%3Ddownload)
+
+
 ## Artefatos e Gravações Unitários
 
 | Participante | Página Específica |
