@@ -47,7 +47,7 @@ Essa metodologia visa garantir que todos os elementos essenciais à construção
 |------------------|------------------------|
 | Antonio Carvalho | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/antonio/especificacao.md) |
 | Letícia Paiva | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/leticia/especificacao.md) |
-| Mateus Santos Negrini | [Página específica da modelagem das especificações suplementares](/modelagem/gravacoes/mateus/especificacao.md) |
+| Mateus Santos Negrini | [Modelagem das especificações suplementares - Especificações _ e _](/modelagem/gravacoes/mateus/especificacao.md) |
 
 ---
 
