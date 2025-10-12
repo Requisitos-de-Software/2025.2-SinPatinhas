@@ -12,8 +12,9 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 
 | Participante | Página Específica |
 |---------------|------------------|
-| **Antonio Carvalho** | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/antonio/caso_de_uso.md) |
-| **Letícia Paiva** | [Página específica da modelagem dos casos de uso](/modelagem/gravacoes/leticia/caso_de_uso.md) |
+| **Antonio Carvalho** | [Modelagem dos casos de uso - Caso de uso 01 e 02](/modelagem/gravacoes/antonio/caso_de_uso.md) |
+| **Letícia Paiva** | [Modelagem dos casos de uso - Caso de uso 03 e 04](/modelagem/gravacoes/leticia/caso_de_uso.md) |
+| **Pedro Gomes** | [Modelagem dos casos de uso - Caso de uso 05 e 06](/modelagem/gravacoes/pedro/caso_de_uso.md) |
 
 ---
 

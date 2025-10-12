@@ -13,9 +13,11 @@ Essa técnica é usada para **elicitar a parte comportamental do software**, ass
 
 | Participante | Página Específica |
 |---------------|------------------|
-| **Antonio Carvalho** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/antonio/cenarios.md) |
-| **Letícia Paiva** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/leticia/cenarios.md) |
-| **Heloisa Silva** | [Página específica da modelagem dos cenários](/modelagem/gravacoes/heloisa/cenarios.md) |
+| **Letícia Paiva** | [Modelagem dos cenários - Cenário 01 e 02](/modelagem/gravacoes/leticia/cenarios.md) |
+| **Antonio Carvalho** | [Modelagem dos cenários - Cenário 03 e 04](/modelagem/gravacoes/antonio/cenarios.md) |
+| **Heloisa Silva** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/heloisa/cenarios.md) |
+| **Pedro Gomes** | [Modelagem dos cenários - Cenário 07 e 08](/modelagem/gravacoes/pedro/cenarios.md) |
+
 
 
 ---
