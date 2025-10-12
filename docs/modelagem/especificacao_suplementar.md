@@ -89,7 +89,7 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
 | Antonio Carvalho | 50% | Autor da página de Especificação Suplementar |
-| **Mateus Santos Negrini**   | 50% | Adição da especificação suplementar ES004 | 
+| Mateus Santos Negrini   | 50% | Adição da especificação suplementar ES004 | 
 
 
 ---
