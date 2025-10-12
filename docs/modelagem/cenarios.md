@@ -67,9 +67,8 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 | **Nome**              | **Contribuição (%)** | **Função** |
 |------------------------|----------------------------------|
-| Antonio Carvalho   | 33%                 |  Autor da página de apresentação de cenário | 
-| Letícia Paiva   | 33%                 | Adição de cenarios CNR003 e CNR004 | 
-| Mateus Santos Negrini   | 33%                 | Adição de cenarios CEN07 e CEN08 | 
+| Letícia Paiva   | 50%                 |  Autor da página de apresentação de cenário | 
+| Antonio Carvalho   | 50%                 | Criação de modelo de apresentação de cenário | 
 
 ## Referências  
 
@@ -82,4 +81,4 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Versão** | **Data**   | **Descrição**                                                        | **Autores** | **Revisores** |
 |-----------:|------------|--------------------------------------------------------------------|--------------|---------------|
 | **1.0**    | 09/10/2025 | Criação da página de **Cenários**.| Letícia Paiva | Antonio |
-| **1.1**    | 12/10/2025 | Adiciona CEN07 e CEN08.| Mateus | Letícia |
+| **1.1**    | 11/10/2025 | Alteração da página de **Cenários**.| Antonio Carvalho | Letícia Paiva |
