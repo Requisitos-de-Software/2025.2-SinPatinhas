@@ -21,3 +21,5 @@
 ---
 
 ## Referências  
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 15: Elicitação, Análise e Modelagem de Requisitos.* Brasília: Universidade de Brasília, 2025.

@@ -71,5 +71,6 @@
 
 ## Referências  
 
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos.* Brasília: Universidade de Brasília, 2025.
 
 ---

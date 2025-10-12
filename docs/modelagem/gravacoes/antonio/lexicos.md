@@ -108,3 +108,5 @@
 ---
 
 ## Referências
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.
