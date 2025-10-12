@@ -58,7 +58,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Isaac Menezes**   | —                            |
 | **Letícia Paiva**   | Criou os cenários 01 e 02, referentes aos requisitos **Sistema de Adoção (RF030)** e **Alertas e Notificações Automáticas (RF031)**. |
 | **Luciano Machado** | —                            |
-| **Matheus Negrini** | —                            |
+| **Matheus Negrini** | Criou os cenários 07 e 08, referentes aos requisitos **Acesso à Área de Instruções Integradas (RF033)** e **Notificação Periódica de Atualização (RF044)** |
 | **Pedro Gomes**     | —                            |
 
 
@@ -66,8 +66,9 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 | **Nome**              | **Contribuição (%)** | **Função** |
 |------------------------|----------------------------------|
-| **Antonio Carvalho**   | 50%                 |  Autor da página de apresentação de cenário | 
-| **Letícia Paiva**   | 50%                 | Adição de cenarios CNR003 e CNR004 | 
+| **Antonio Carvalho**   | 33%                 |  Autor da página de apresentação de cenário | 
+| **Letícia Paiva**   | 33%                 | Adição de cenarios CNR003 e CNR004 | 
+| **Mateus Santos Negrini**   | 33%                 | Adição de cenarios CEN07 e CEN08 | 
 
 ## Referências  
 
@@ -80,3 +81,4 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Versão** | **Data**   | **Descrição**                                                        | **Autores** | **Revisores** |
 |-----------:|------------|--------------------------------------------------------------------|--------------|---------------|
 | **1.0**    | 09/10/2025 | Criação da página de **Cenários**.| Letícia Paiva | Antonio |
+| **1.2**    | 12/10/2025 | Adiciona CEN07 e CEN08.| Mateus | - |

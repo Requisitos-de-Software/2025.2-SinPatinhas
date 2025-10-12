@@ -48,7 +48,8 @@ A tabela a seguir apresenta os componentes utilizados.
 
 | Nome | Contribuição (%) | Função |
 |------|------------------|--------|
-| **Antonio Carvalho** | 100% | Autor da página de apresentação de casos de uso |
+| **Antonio Carvalho** | 50% | Autor da página de apresentação de casos de uso |
+| **Mateus Santos Negrini**   | 50% | Adição de casos de uso UC007 e UC008 | 
 
 ---
 
@@ -58,6 +59,7 @@ A tabela a seguir apresenta os componentes utilizados.
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
 | 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | Leticia |
 | 1.1 | 10/10/2025 | Adiciona UC003 e UC004 | Leticia | - |
+| 1.2 | 12/10/2025 | Adiciona UC007 e UC008 | Mateus | - |
 
 ---
 
