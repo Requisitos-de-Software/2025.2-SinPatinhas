@@ -66,10 +66,11 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 ## Tabela de Contribuição
 
-| **Nome**              | **Contribuição (%)** | **Função** |
-|------------------------|---------------------|-----------------------------------------|
-| Letícia Paiva   | 50%                 |  Autor da página de apresentação de cenário | 
-| Antonio Carvalho   | 50%                 | Criação de modelo de apresentação de cenário | 
+| **Nome**           | **Contribuição (%)** | **Função**                                      |
+|---------------------|----------------------|-------------------------------------------------|
+| Letícia Paiva       | 50%                  | Autora da página de apresentação de cenário     |
+| Antonio Carvalho    | 50%                  | Criação do modelo de apresentação de cenário    |
+
 
 ---
 
