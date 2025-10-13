@@ -13,6 +13,12 @@ A adoção do paradigma **FURPS+** (*Funcionalidade, Usabilidade, Confiabilidade
 
 ---
 
+## Visão geral
+
+O sistema analisado (Sinpatinhas) pode ser acessado por navegador web por meio do endereço web  <a href="https://sinpatinhas.mma.gov.br/login" target="_blank">https://sinpatinhas.mma.gov.br/login</a>, para acessar o sistema é preciso efetuar o login único por meio do Gov.br. O cadastro no sistema é gratuito. O sistema não tem aplicativo nativo para smartphone, porém o sistema é responsivo e funciona bem quando acessado pelo navegador de tablets e smartphones. A versão atual do sistema é **1.3.1f - 1.4.1b**
+
+---
+
 ## Objetivo do Documento
 
 A finalidade deste artefato é estabelecer, de modo claro e organizado, as **exigências adicionais do sistema**, assegurando que características de qualidade, limitações de projeto e normas de negócio estejam registradas para nortear o desenvolvimento e a confirmação do sistema.
@@ -98,6 +104,7 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:---------:|:---------------|:-------------|:---------------|
 | 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
+| 2.0 | 12/10/2025 | Adição das especificações do sistema | Heloisa | -- |
 
 
 ---
