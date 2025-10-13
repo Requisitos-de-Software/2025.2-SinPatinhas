@@ -1,6 +1,6 @@
 # Casos de uso - Heloisa Silva
 
-## #UC009 – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados (RFNI001)
+## #UC009 – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados [(RFNI001)](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)
 
 **Autor:** Heloisa Silva
 
@@ -31,7 +31,8 @@
 
 <font><p style="text-align: center">**Tabela 01** – Caso de Uso 09 – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados (RFNI001)</p></font>
 
-## #UC010 – Sistema de avaliação numérica para estabelecimentos (RFNI010)
+## #UC010 – Sistema de avaliação numérica para estabelecimentos [(RFNI010)](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni010)
+
 
 **Autor:** Heloisa Silva
 

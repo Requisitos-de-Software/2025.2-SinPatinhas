@@ -23,6 +23,7 @@ Ao transformar o uso do sistema em uma narrativa concreta, os **cenários oferec
 | **Heloisa Silva** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/heloisa/cenarios.md) |
 | **Pedro Gomes** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/pedro/cenarios.md) |
 | **Mateus Santos Negrini** | [Modelagem dos cenários - Cenário 07 e 08](/modelagem/gravacoes/mateus/cenarios.md) |
+| **Isaac Menezes Pereira** | [Modelagem dos cenários - Cenário 09 e 10](/modelagem/gravacoes/isaac/cenarios.md) |
 
 
 

@@ -31,6 +31,7 @@ Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação a
 | **Mateus Santos Negrini** | [Modelagem dos casos de uso - Caso de uso 07 e 08](/modelagem/gravacoes/pedro/caso_de_uso.md) |
 | **Heloisa** | [Modelagem dos casos de uso - Caso de uso 09 e 10](/modelagem/gravacoes/mateus/caso_de_uso.md) |
 | **Heloisa** | [Modelagem dos casos de uso - Caso de uso 09 e 10](/modelagem/gravacoes/heloisa/casos_de_uso.md) |
+| **Isaac Menezes** | [Modelagem dos casos de uso - Caso de uso 11 e 12](/modelagem/gravacoes/isaac/caso_de_uso.md) |
 
 ---
 
