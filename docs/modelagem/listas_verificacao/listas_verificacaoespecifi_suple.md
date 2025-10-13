@@ -32,8 +32,7 @@
 
 Os arquivos individuais foram consolidados em um único documento em formato PDF para consulta e registro no repositório.
 
-📎 **[Acesse aqui o PDF unificado das listas individuais](../../assets/images/pdf_listas/listas_verificacao_especificacao_suplementar_unificado.pdf)**  
-*(Clique no link acima para visualizar ou baixar o documento completo.)*
+📎 **[Clique aqui para abrir o PDF unificado das listas individuais](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_verificacao_especificacao_suplementar_unificado.pdf){:target="_blank"}**
 
 ---
 

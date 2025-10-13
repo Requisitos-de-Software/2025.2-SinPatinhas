@@ -35,7 +35,8 @@
 
 Os arquivos individuais foram consolidados em um único documento em formato PDF para consulta e registro no repositório.
 
-📎 **[Acesse aqui o PDF unificado das listas individuais](../../assets/images/pdf_listas/listas_CasodeUso.pdf)**  
+📎 **[Clique aqui para abrir o PDF unificado da Lista de Verificação de Caso de Uso](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_CasodeUso.pdf)**
+
 *(Clique no link acima para visualizar ou baixar o documento completo.)*
 
 ---
