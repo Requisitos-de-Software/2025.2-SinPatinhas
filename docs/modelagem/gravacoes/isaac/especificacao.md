@@ -2,7 +2,7 @@
 
 ---
 
-## #ES003 – Exibição da média de atendimentos por clínica (RNFI014)
+## #ES009 – Exibição da média de atendimentos por clínica (RNFI014)
 
 **Autor:** Isaac Menezes
 
@@ -34,7 +34,7 @@ Os requisitos de **Exibição da média de atendimentos por clínica** detalham 
 
 ---
 
-## #ES004 – Exibição da média de atendimentos por profissional (RNFI015)
+## #ES010 – Exibição da média de atendimentos por profissional (RNFI015)
 
 **Autor:** Isaac Menezes
 

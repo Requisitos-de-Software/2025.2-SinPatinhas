@@ -55,6 +55,7 @@ Essa metodologia visa garantir que todos os elementos essenciais à construção
 | Letícia Paiva | [Modelagem das especificações suplementares - Especificações 03 e 04](/modelagem/gravacoes/leticia/especificacao.md) |
 | Pedro Gomes | [Modelagem das especificações suplementares - Especificações 05 e 06](/modelagem/gravacoes/pedro/especificacao.md) |
 | Mateus Santos Negrini | [Modelagem das especificações suplementares - Especificações 07 e 08](/modelagem/gravacoes/mateus/especificacao.md) |
+| Isaac Menezes | [Modelagem das especificações suplementares - Especificações 09 e 10](/modelagem/gravacoes/isaac/especificacao.md) |
 
 ---
 
