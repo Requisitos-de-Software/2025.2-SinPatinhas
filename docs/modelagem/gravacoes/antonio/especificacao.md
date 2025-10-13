@@ -21,12 +21,12 @@ Esses requisitos focam na **intuitividade**, **clareza** e **eficiência da inte
 
 | **ID** | **Descrição** | **Rastreamento** |
 |:-------|:---------------|:-----------------|
-| [RNF003](#rnf003) | A interface deve ser intuitiva para cidadãos, facilitando o uso por pessoas de diferentes níveis de afinidade tecnológica. | Análise Doc |
-| [RNF005](#rnf005) | O sistema deve suportar os navegadores principais e ser responsivo em dispositivos móveis (prioridade no mobile). | Análise Doc |
-| [RNF001](#rnf001) (E1) | O sistema deve ser fácil e intuitivo de operar. | Entrevista 01 |
-| [RNF002](#rnf002) (E1) | O layout deve ser limpo e organizado. | Entrevista 01 |
-| [RF012](#rf012) | O sistema deve permitir login integrado via Gov.br, possibilitando autenticação única e segura para tutores e profissionais. | Análise Doc |
-| [RF013](#rf013) | O sistema deve habilitar preenchimento automático de dados pessoais do tutor (quando autorizado via Gov.br), reduzindo a duplicidade e agilizando a entrada de dados. | Análise Doc |
+| [RNF003](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) | A interface deve ser intuitiva para cidadãos, facilitando o uso por pessoas de diferentes níveis de afinidade tecnológica. | Análise Doc |
+| [RNF005](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf005) | O sistema deve suportar os navegadores principais e ser responsivo em dispositivos móveis (prioridade no mobile). | Análise Doc |
+| [RNF001](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) (E1) | O sistema deve ser fácil e intuitivo de operar. | Entrevista 01 |
+| [RNF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) (E1) | O layout deve ser limpo e organizado. | Entrevista 01 |
+| [RF012](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012) | O sistema deve permitir login integrado via Gov.br, possibilitando autenticação única e segura para tutores e profissionais. | Análise Doc |
+| [RF013](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013) | O sistema deve habilitar preenchimento automático de dados pessoais do tutor (quando autorizado via Gov.br), reduzindo a duplicidade e agilizando a entrada de dados. | Análise Doc |
 
 ---
 
@@ -43,21 +43,27 @@ Esta seção detalha as exigências para **proteção de dados**, **integridade 
 
 | **ID** | **Descrição** | **Rastreamento** |
 |:-------|:---------------|:-----------------|
-| [RNF001](#rnf001) | O sistema deve estar em total conformidade com a Lei Geral de Proteção de Dados (LGPD). | Análise Doc |
-| [RNF003](#rnf003) (E1) | O sistema deve garantir a fidelidade contra perda de dados. | Entrevista 01 |
-| [RNF003](#rnf003) (E3) | O sistema deve evitar perda de dados e garantir cópias de segurança automáticas. | Entrevista 03 |
-| [RNF002](#rnf002) (E3) | O sistema deve alertar o usuário sobre tentativas de acesso não autorizado, similar a sistemas bancários. | Entrevista 03 |
-| [RNF009](#rnf009) | O sistema deve registrar logs detalhados de acesso e modificações nos prontuários e cadastros. | Entrevista 03 |
-| [RF006](#rf006) | O acesso à consulta pública via RGA ou microchip deve ser restrito, exibindo apenas dados não sensíveis do animal (ex.: status e contato de recuperação). | Análise Doc |
+| [RNF001](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | O sistema deve estar em total conformidade com a Lei Geral de Proteção de Dados (LGPD). | Análise Doc |
+| [RNF003](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) (E1) | O sistema deve garantir a fidelidade contra perda de dados. | Entrevista 01 |
+| [RNF003](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) (E3) | O sistema deve evitar perda de dados e garantir cópias de segurança automáticas. | Entrevista 03 |
+| [RNF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) (E3) | O sistema deve alertar o usuário sobre tentativas de acesso não autorizado, similar a sistemas bancários. | Entrevista 03 |
+| [RNF009](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | O sistema deve registrar logs detalhados de acesso e modificações nos prontuários e cadastros. | Entrevista 03 |
+| [RF006](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | O acesso à consulta pública via RGA ou microchip deve ser restrito, exibindo apenas dados não sensíveis do animal (ex.: status e contato de recuperação). | Análise Doc |
 
 ---
 
-## Referência para elaboração desses artefatos em específico:
+## Referência para elaboração desses artefatos em específico: Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos.
 
-![Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos. (Especificado em "Referências")](../assets/images/modelagem/antonio_esp_sup.png)
+![Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos. (Especificado em "Referências")](../../../assets/images/modelagem/antonio_esp_sup.png)
 
 ---
 
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
+Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação dos Léxicos, Especificação Suplementar e Cenários.
+
+---
 
 ## Tabela de Contribuição
 
