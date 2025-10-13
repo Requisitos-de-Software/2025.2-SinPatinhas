@@ -11,7 +11,6 @@
 <p><strong>Tabela 1 – Conjunto de requisitos funcionais implementados elicitados.</strong></p>
 
 | Código  | Descrição | Fonte |
-|---------|-----------|-------|
 | [RF001](#rf001) | Cadastro de tutores com dados pessoais. | Documentos/Entrevistas |
 | [RF002](#rf002) | Cadastro de animais vinculados ao tutor. | Documentos/Entrevistas |
 | [RF003](#rf003) | Geração de número de Registro Geral do Animal (RGA). | Documentos |
@@ -41,22 +40,17 @@
 | [RF027](#rf027) | Registro da localização do animal ou tutor. | Entrevista 1 |
 | [RF028](#rf028) | Permitir busca e recuperação de animais perdidos ou abandonados. | Entrevista 2 |
 | [RF029](#rf029) | Prontuário digital centralizando histórico de saúde e vacinação. | Entrevista 2 |
-| [RF030](#rf030) | Funcionalidade para facilitar adoção de animais. | Entrevista 2 |
-| [RF031](#rf031) | Notificações automáticas para vacinas e lembretes de medicação. | Entrevista 2 |
-| [RF032](#rf032) | Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie, endereço do tutor). | Entrevista 2 |
-| [RF033](#rf033) | Área de instruções integradas (manual digital). | Entrevista 3 |
-| [RF034](#rf034) | Upload de foto do animal. | Entrevista 3 |
-| [RF035](#rf035) | Cadastro/atualização de endereço do tutor. | Entrevista 3 |
-| [RF036](#rf036) | Módulo para registro/visualização de exames do animal. | Entrevista 3 |
-| [RF037](#rf037) | Acesso via celular para consulta fora da clínica. | Entrevista 3 |
-| [RF038](#rf038) | Acesso remoto aos dados do animal. | Entrevista 3 |
-| [RF039](#rf039) | Integração entre clínicas veterinárias (visualização de prontuário). | Entrevista 3 |
-| [RF040](#rf040) | Cadastro de ONGs/associações para controle de animais resgatados/adotados. | Entrevista 3 |
-| [RF041](#rf041) | Rastreamento de doações/adoções. | Entrevista 3 |
-| [RF042](#rf042) | Transferência de tutor preservando histórico. | Entrevista 3 |
-| [RF043](#rf043) | Emissão de alertas de acesso suspeito. | Entrevista 3 |
-| [RF044](#rf044) | Notificação periódica para atualização de dados/fotos do animal. | Entrevista 3 |
-| [RF045](#rf045) | Vincular foto do tutor ao registro de adoção. | Entrevista 3 |
+| [RF030](#rf030) | Notificações automáticas para vacinas e lembretes de medicação. | Entrevista 2 |
+| [RF031](#rf031) | Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie, endereço do tutor). | Entrevista 2 |
+| [RF032](#rf032) | Área de instruções integradas (manual digital). | Entrevista 3 |
+| [RF033](#rf033) | Upload de foto do animal. | Entrevista 3 |
+| [RF034](#rf034) | Cadastro/atualização de endereço do tutor. | Entrevista 3 |
+| [RF035](#rf035) | Módulo para registro/visualização de exames do animal. | Entrevista 3 |
+| [RF036](#rf036) | Acesso via celular para consulta fora da clínica. | Entrevista 3 |
+| [RF037](#rf037) | Acesso remoto aos dados do animal. | Entrevista 3 |
+| [RF038](#rf038) | Cadastro de ONGs/associações para controle de animais resgatados/adotados. | Entrevista 3 |
+| [RF039](#rf039) | Rastreamento de doações/adoções. | Entrevista 3 |
+| [RF040](#rf040) | Transferência de tutor preservando histórico. | Entrevista 3 |
 
 ### Requisitos Funcionais Não Implementados
 
