@@ -2,7 +2,7 @@
 
 ---
 
-## #UC009 – Exibir a média de consultas da clínica/hospital (RNFI014)
+## #UC011 – Exibir a média de consultas da clínica/hospital (RNFI014)
 
 **Autor:** Isaac Menezes
 
@@ -28,7 +28,7 @@
 
 ---
 
-## #UC010 – Exibir a média de consultas do profissional (RNFI015)
+## #UC012 – Exibir a média de consultas do profissional (RNFI015)
 
 **Autor:** Isaac Menezes
 
