@@ -6,11 +6,12 @@
 
 ---
 
+<a id="crn003"></a>
+
 ## Cenário 03 — Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autor:** Antonio Carvalho
 
-<a id="crn003"></a>
 
 **Tabela 1 – Cenário 03: Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))**
 
@@ -55,11 +56,12 @@ Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem 
 
 ---
 
+<a id="crn004"></a>
+
 ## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))
 
 **Autor:** Antonio Carvalho
 
-<a id="crn004"></a>
 
 **Tabela 2 – Cenário 04: Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))**
 
