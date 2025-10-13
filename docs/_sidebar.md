@@ -29,6 +29,7 @@
   - [Léxicos](/modelagem/lexicos.md)
   - [Casos de Uso](/modelagem/casos_de_uso.md)
   - [Especificação Suplementar](/modelagem/especificacao_suplementar.md)
+  - [Listas de Verificação](/modelagem/listas_verificacao/listasdeverificação.md)
   
 - **Agilidade**
     - [Backlog](/modelagem/agilidade/backlog.md)
