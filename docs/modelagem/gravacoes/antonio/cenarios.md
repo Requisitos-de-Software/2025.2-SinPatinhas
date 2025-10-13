@@ -2,21 +2,23 @@
 
 ---
 
-* [Link para validação de cenários com tutor de animal](a)
+* [Link para validação de cenários com tutora de animal](https://www.youtube.com/watch?v=loBusGtCcjI)
 
 ---
 
-## Cenário 03 — Sistema de Adoção de Animais (RFNI016)
+## Cenário 03 — Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autor:** Antonio Carvalho
 
-**Tabela 1 – Cenário 03: Sistema de Adoção de Animais (RFNI016)**
+<a id="crn003"></a>
+
+**Tabela 1 – Cenário 03: Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))**
 
 | **Componente** | **Descrição** |
 |-----------------|----------------|
 | **Título** | Sistema de Adoção de Animais |
 | **Código** | CNR003 |
-| **Caso de uso trabalhado** | #UC001 |
+| **Caso de uso trabalhado** | [UC001](/modelagem/gravacoes/antonio/casos_de_uso.md#uc001) |
 
 **Ambiente/Contexto**  
 Local: Portal do SinPatinhas acessado via navegador web ou aplicativo móvel.  
@@ -53,17 +55,19 @@ Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem 
 
 ---
 
-## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)
+## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))
 
 **Autor:** Antonio Carvalho
 
-**Tabela 2 – Cenário 04: Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)**
+<a id="crn004"></a>
+
+**Tabela 2 – Cenário 04: Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))**
 
 | **Componente** | **Descrição** |
 |-----------------|----------------|
 | **Título** | Notificação Periódica para Atualização de Dados e Fotos |
 | **Código** | CNR004 |
-| **Caso de uso trabalhado** | #UC002 |
+| **Caso de uso trabalhado** | [UC002](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002) |
 
 **Ambiente/Contexto**  
 Local: Portal do tutor ou aplicativo SinPatinhas.  
@@ -102,7 +106,14 @@ Caso o tutor ignore a notificação por um longo período, o sistema envia novo 
 
 ## Referência para elaboração desses artefatos em específico:
 
-![Interação Humano-Computador e Experiência do Usuário. (Especificado em "Referências")](../assets/images/modelagem/antonio_cenarios.png)
+![Interação Humano-Computador e Experiência do Usuário. (Especificado em "Referências")](../../../assets/images/modelagem/antonio_cenarios.png)
+
+---
+
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
+Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação dos Léxicos, Especificação Suplementar e Cenários.
 
 ---
 
@@ -116,7 +127,7 @@ Caso o tutor ignore a notificação por um longo período, o sistema envia novo 
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |-------------|-----------|----------------|--------------|----------------|
-| 1.0 | 11/10/2025 | Adição dos cenários referentes aos requisitos não implementados RFNI016 e RFNI021 | Antonio | - |
+| 1.0 | 11/10/2025 | Adição dos cenários referentes aos requisitos não implementados [RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) e [RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Antonio | - |
 
 ### Referências
 

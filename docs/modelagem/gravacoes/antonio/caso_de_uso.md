@@ -2,24 +2,17 @@
 
 ---
 
-* [Link para validação de casos de uso com tutor de animal](a)
+* [Link para validação de casos de uso com tutora de animal](https://www.youtube.com/watch?v=veQV-Rdvk44)
 
 ---
 
----
-
-* [RFNI016 – Sistema de Adoção de Animais](#uc001)  
-* [RFNI021 – Notificação Periódica para Atualização de Dados e Fotos do Animal](#uc002)
-
----
-
-## #UC001 – Sistema de Adoção de Animais (RFNI016)
+## UC001 – Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 <a id="uc001"></a>
 
-<font><p style="text-align: center">**Tabela 01** – Caso de Uso 01 – Sistema de Adoção de Animais (RFNI016)</p></font>
+<font><p style="text-align: center">**Tabela 01** – Caso de Uso 01 – Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
@@ -33,20 +26,20 @@
 | **Fluxo de exceção** | <ul><li>O animal já foi adotado antes da solicitação.</li><li>O sistema exibe mensagem informando indisponibilidade do animal.</li></ul> |
 | **Pós-condições** | O sistema registra a solicitação e atualiza o status do animal para “Em processo de adoção”. |
 | **Data de Criação** | 11/10/2025 |
-| **Rastreabilidade** | [RFNI016](#rfni016) — Sistema de Adoção de Animais |
-| **Cenário relacionado** | [#CNR003](/modelagem/gravacoes/antonio/cenarios.md#rfni016) |
-| **Léxico relacionado** | [#LX001](/modelagem/gravacoes/antonio/lexicos.md) |
+| **Rastreabilidade** | [RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) — Sistema de Adoção de Animais |
+| **Cenário relacionado** | [CNR003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| **Léxico relacionado** | [LX001](/modelagem/gravacoes/antonio/lexicos.md#lx001) |
 | **Origem** | Entrevista 2 |
 
 ---
 
-## #UC002 – Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)
+## #UC002 – Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 <a id="uc002"></a>
 
-<font><p style="text-align: center">**Tabela 02** – Caso de Uso 02 – Notificação Periódica para Atualização de Dados e Fotos do Animal (RFNI021)</p></font>
+<font><p style="text-align: center">**Tabela 02** – Caso de Uso 02 – Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
@@ -60,16 +53,16 @@
 | **Fluxo de exceção** | <ul><li>O tutor ignora a notificação por um longo período.</li><li>O sistema envia lembretes adicionais ou exibe alerta no perfil do animal.</li></ul> |
 | **Pós-condições** | O cadastro do animal é atualizado e a data da última modificação é registrada. |
 | **Data de Criação** | 11/10/2025 |
-| **Rastreabilidade** | [RFNI021](#rfni021) — Notificação Periódica para Atualização de Dados e Fotos do Animal |
-| **Cenário relacionado** | [#CNR004](/modelagem/gravacoes/antonio/cenarios.md#rfni021) |
-| **Léxico relacionado** | [#LX002](/modelagem/gravacoes/antonio/lexicos.md) |
+| **Rastreabilidade** | [RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) — Notificação Periódica para Atualização de Dados e Fotos do Animal |
+| **Cenário relacionado** | [CNR004](/modelagem/gravacoes/antonio/cenarios.md#cn004) |
+| **Léxico relacionado** | [LX002](/modelagem/gravacoes/antonio/lexicos.md#lx002) |
 | **Origem** | Entrevista 3 |
 
 ---
 
-## Referência para elaboração desses artefatos em específico:
+## Referência para elaboração desses artefatos em específico: Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. 
 
-![Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. (Especificado em "Referências")](../assets/images/modelagem/antonio_user_case.png)
+![Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. (Especificado em "Referências")](../../../assets/images/modelagem/antonio_user_case.png)
 
 ---
 

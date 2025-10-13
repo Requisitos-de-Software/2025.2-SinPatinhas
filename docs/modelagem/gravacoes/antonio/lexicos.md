@@ -13,8 +13,8 @@
 
 | ID        | Noção    | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
 | ---------- | -------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
-| LX001-01   | Tutor    | Pessoa responsável pelo cadastro e cuidado do animal.                   | Sujeito       | Dono, Responsável  | RF001, RF002, UC01, CEN03 |
-| LX001-02   | Cadastrar | Ação de inserir novas informações no sistema.                          | Verbo         | Registrar, Inserir | RF001, RF002, UC01, CEN03 |
+| LX001-01   | Tutor    | Pessoa responsável pelo cadastro e cuidado do animal.                   | Sujeito       | Dono, Responsável  | [RF001](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), UC01, CEN03 |
+| LX001-02   | Cadastrar | Ação de inserir novas informações no sistema.                          | Verbo         | Registrar, Inserir | [RF001](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), UC01, CEN03 |
 
 ---
 
@@ -26,8 +26,8 @@
 
 | ID        | Noção     | Impacto                                                                 | Classificação | Dicionário             | Rastreamento |
 | ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ---------------------- | ------------- |
-| LX002-01   | Consultar  | Ação de buscar informações já registradas.                              | Verbo         | Pesquisar, Visualizar  | RF006, UC01, CEN03 |
-| LX002-02   | Carteirinha Digital | Documento eletrônico com informações e QR Code do animal.      | Objeto        | Identificação Digital  | RF014, UC01, CEN03 |
+| LX002-01   | Consultar  | Ação de buscar informações já registradas.                              | Verbo         | Pesquisar, Visualizar  | [RF006](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), UC01, CEN03 |
+| LX002-02   | Carteirinha Digital | Documento eletrônico com informações e QR Code do animal.      | Objeto        | Identificação Digital  | [RF004](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), UC01, CEN03 |
 
 ---
 
@@ -39,8 +39,8 @@
 
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário           | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | -------------------- | ------------- |
-| LX003-01   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado          | RF009, UC02, CEN04 |
-| LX003-02   | Tutor           | Pessoa responsável pelo cuidado do animal adotado.                      | Sujeito       | Dono, Responsável    | RF009, UC02, CEN04 |
+| LX003-01   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado          | [RF009](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), UC02, CEN04 |
+| LX003-02   | Tutor           | Pessoa responsável pelo cuidado do animal adotado.                      | Sujeito       | Dono, Responsável    | [RF009](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), UC02, CEN04 |
 
 ---
 
@@ -52,8 +52,8 @@
 
 | ID        | Noção         | Impacto                                                                 | Classificação | Dicionário            | Rastreamento |
 | ---------- | -------------- | ------------------------------------------------------------------------ | ------------- | --------------------- | ------------- |
-| LX004-01   | Veterinário    | Profissional autorizado a emitir laudos e atualizar histórico.           | Sujeito       | Médico Veterinário    | RF008, RF016, UC02, CEN04 |
-| LX004-02   | Carteirinha Digital | Documento com histórico de vacinação e QR Code do animal.           | Objeto        | Identificação Digital | RF014, RF016, UC02, CEN04 |
+| LX004-01   | Veterinário    | Profissional autorizado a emitir laudos e atualizar histórico.           | Sujeito       | Médico Veterinário    | [RF008](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf008), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), UC02, CEN04 |
+| LX004-02   | Carteirinha Digital | Documento com histórico de vacinação e QR Code do animal.           | Objeto        | Identificação Digital | [RF014](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), UC02, CEN04 |
 
 ---
 
@@ -65,8 +65,8 @@
 
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
-| LX005-01   | Animal Perdido  | Situação em que o animal está desaparecido.                              | Estado        | Desaparecido       | RF007, RF018, UC02, CEN04 |
-| LX005-02   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado        | RF009, UC02, CEN04 |
+| LX005-01   | Animal Perdido  | Situação em que o animal está desaparecido.                              | Estado        | Desaparecido       | [RF007](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007), [RF018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), UC02, CEN04 |
+| LX005-02   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado        | [RF009](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), UC02, CEN04 |
 
 ---
 
@@ -79,7 +79,7 @@
 | ID        | Noção     | Impacto                                                                 | Classificação | Dicionário        | Rastreamento |
 | ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ----------------- | ------------- |
 | LX006-01   | Cadastrar  | Ação de inserir novas informações no sistema.                           | Verbo         | Registrar, Inserir | RF001, RF002, UC01, CEN03 |
-| LX006-02   | Consultar  | Ação de buscar informações já registradas.                               | Verbo         | Pesquisar, Visualizar | RF006, UC01, CEN03 |
+| LX006-02   | Consultar  | Ação de buscar informações já registradas.                               | Verbo         | Pesquisar, Visualizar | [RF006](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), UC01, CEN03 |
 
 ---
 
@@ -96,9 +96,16 @@
 
 ---
 
-## Referência para elaboração desses artefatos em específico:
+## Referência para elaboração desses artefatos em específico: Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.
 
-![Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos. (Especificado em "Referências")](../assets/images/modelagem/antonio_lexicos.png)
+![Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos. (Especificado em "Referências")](../../../assets/images/modelagem/antonio_lexicos.png)
+
+---
+
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
+Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação dos Léxicos, Especificação Suplementar e Cenários.
 
 ---
 
