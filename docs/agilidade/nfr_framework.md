@@ -13,7 +13,7 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 
 | Participante | Página Específica |
 |---------------|------------------|
-| Antonio Carvalho | [Página específica da modelagem do NFR-framework](/modelagem/gravacoes/antonio/nfr_frame.md) |
+| Antonio Carvalho | [Página específica da modelagem do NFR-framework](/agilidade/individuais/antonio/nfr_frame.md) |
 
 ---
 
@@ -46,16 +46,20 @@ Exemplo no **SinPatinhas**:
 
 As contribuições indicam como um softgoal influencia outro, podendo ser positivas ou negativas:
 
-| Tipo de Contribuição | Significado                                                                 |
+**Tabela 1: Exemplo de estrutura para o registro de contrinbuição do softgoal.**
+
+| Tipo de Contribuição | Significado                                                                  |
 |----------------------|------------------------------------------------------------------------------|
 | **MAKE (++)**        | Contribuição fortemente positiva.                                            |
 | **HELP (+)**         | Contribuição parcialmente positiva.                                          |
 | **HURT (-)**         | Contribuição parcialmente negativa.                                          |
 | **BREAK (--)**       | Contribuição fortemente negativa.                                            |
 | **UNKNOWN (?)**      | Contribuição de impacto indefinido.                                          |
+| **SOME(+) / SOME(-)**| Contribuição positiva ou negativa, cuja intensidade não se pode determinar   |
 | **AND / OR**         | Representa dependência lógica entre softgoals descendentes e ascendentes.    |
+| **EQUAL(=)**         | Têm o mesmo label                                                            |
 
-Fonte:
+Fonte: Slide de n° 13, Requisitos – Aula 17, Material de aula, Universidade de Brasília (UnB).
 
 Essas relações ajudam o time do **SinPatinhas** a entender como decisões como “armazenar imagens de animais em nuvem” podem afetar tanto **desempenho** quanto **segurança**.
 
@@ -89,10 +93,11 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
 | 1.0    | 10/10/2025 | Criação da página NFR Framework | Antonio |         |
+| 1.1    | 14/10/2025 | Edição da página NFR Framework | Antonio |         |
 
 ## Referência Bibliográfica
 
-SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, p. 30, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 10/10/2025.
+Serrano, M., Serrano, M. *Requisitos – Aula 17*, Material de aula, Universidade de Brasília (UnB).
 
 
 ---

@@ -81,7 +81,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 ## Referências  
 
-[1] Serrano, M., Serrano, M. *Requisitos – Aula 10*, Material de aula, Universidade de Brasília (UnB).
+Serrano, M., Serrano, M. *Requisitos – Aula 10*, Material de aula, Universidade de Brasília (UnB).
 
 ---
 

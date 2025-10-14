@@ -18,7 +18,7 @@ Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação a
 
 ![Casos-de-uso](../assets/images/casos_de_uso-SinPatinhas.png)
 
-* [Link para o diagrama UML](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=casos_de_uso-SinPatinhas.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BoYXjYiiKHqswSnjmWUObuaX5Jrnb8X2%26export%3Ddownload)
+* [Link para o diagrama de casos de uso](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=casos_de_uso-SinPatinhas.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BoYXjYiiKHqswSnjmWUObuaX5Jrnb8X2%26export%3Ddownload)
 
 
 ## Artefatos e Gravações Unitários
@@ -80,5 +80,5 @@ A tabela a seguir apresenta os componentes utilizados.
 
 ## Referências
 
-[1] Pressman, R. S. *Engenharia de Software: uma abordagem profissional*. 8ª Ed. AMGH, 2016.  
-[2] Sommerville, I. *Engenharia de Software*. 10ª Ed. Pearson, 2019.
+Pressman, R. S. *Engenharia de Software: uma abordagem profissional*. 8ª Ed. AMGH, 2016.  
+Sommerville, I. *Engenharia de Software*. 10ª Ed. Pearson, 2019.
