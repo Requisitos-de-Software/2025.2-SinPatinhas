@@ -28,7 +28,7 @@
 
 ---
 
-## 📜 Histórico de Versão
+## Histórico de Versão
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:--:|:--:|:--|:--|:--|
