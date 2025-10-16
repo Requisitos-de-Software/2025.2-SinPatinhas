@@ -6,6 +6,16 @@ As **histórias de usuário** representam as necessidades, resultados esperados 
 
 Quando uma história apresenta um esforço elevado — por exemplo, superior a três semanas — solicita-se ao cliente que **divida a história em partes menores**, tornando o planejamento mais preciso e o desenvolvimento mais ágil. Além disso, **novas histórias podem ser adicionadas** a qualquer momento do projeto, conforme surgirem novas necessidades ou ajustes de escopo <a id="anchor_1" href="#REF1">[1]</a>.  
 
+---
+
+## Artefatos e Gravações Unitários
+
+| Participante | Página Específica |
+|---------------|------------------|
+| Antonio Carvalho | [Página específica da modelagem de histórias de usuário](/agilidade/individuais/antonio/historias_de_usuario.md) |
+
+---
+
 ## Metodologia  
 
 **Tabela 1: Exemplo de estrutura para o registro de histórias de usuário.**  
@@ -36,6 +46,7 @@ Fonte: Adaptado do repositório *Bilheteria Digital*, utilizado na disciplina de
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
 | 1.0    | 10/10/2025 | Criação da página NFR Framework | Antonio |         |
+| 1.1    | 14/10/2025 | Edição da página NFR Framework | Antonio |         |
 
 ## Referência Bibliográfica
 
