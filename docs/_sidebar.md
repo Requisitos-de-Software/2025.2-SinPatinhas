@@ -11,6 +11,10 @@
   - [Atas de Reuniões](/planejamento/atas/README.md)
   - [Referências](/planejamento/referencias/README.md)
 
+- **Inspeções**
+  - **Entrega 03**
+    - [Inpeção Grupo 02](/inspecoes/inspecao_g2_e3.md)
+
 - **Pré-rastreabilidade**
   - [Rich Picture](/planejamento/rich-picture/README.md)
 
