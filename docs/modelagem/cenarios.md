@@ -14,6 +14,10 @@ Ao transformar o uso do sistema em uma narrativa concreta, os **cenários oferec
 
 ---
 
+* [Link para validação de cenários com tutora de animal](https://www.youtube.com/watch?v=loBusGtCcjI)
+
+---
+
 ## Artefatos e Gravações Unitários  
 
 | Participante | Página Específica |

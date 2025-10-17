@@ -92,7 +92,6 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>23/09/2025</td><td>Definição do perfil de usuários</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>28/09/2025</td><td>Levantamento da página de perfis de usuários</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td></td><td>Levantamento das técnicas de elicitação usadas</td><td>Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>25/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>27/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 </tbody>
@@ -129,7 +128,12 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>07/10/2025</td><td>Elaboração do Diagrama de Caso de Uso</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>09/10/2025</td><td>Especificação de Casos de Uso</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>13/10/2025</td><td>Criação dos Modelos Tradicionais</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>13/10/2025</td><td>Validação dos Modelos Tradicionais</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>14/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>17/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 </tbody>
 </table>
 

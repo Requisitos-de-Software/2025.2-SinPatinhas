@@ -19,6 +19,10 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 
 ---
 
+* [Link para validação de léxicos com tutor de animal](https://www.youtube.com/watch?v=q3XY4oEoQQo)
+
+---
+
 ## Artefatos e Gravações Unitários
 
 | Participante | Página Específica |

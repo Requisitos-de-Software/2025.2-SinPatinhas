@@ -19,6 +19,10 @@ O sistema analisado (Sinpatinhas) pode ser acessado por navegador web por meio d
 
 ---
 
+* [Link para validação de critérios utilizados para especificação suplementar com tutor de animal](https://www.youtube.com/watch?v=VDm2lGHywDw)
+
+---
+
 ## Objetivo do Documento
 
 A finalidade deste artefato é estabelecer, de modo claro e organizado, as **exigências adicionais do sistema**, assegurando que características de qualidade, limitações de projeto e normas de negócio estejam registradas para nortear o desenvolvimento e a confirmação do sistema.

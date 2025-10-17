@@ -8,6 +8,10 @@ No contexto do **projeto SinPatinhas**, os casos de uso representam ações esse
 
 ---
 
+* [Link para validação de casos de uso com tutora de animal](https://www.youtube.com/watch?v=veQV-Rdvk44)
+
+---
+
 ### Diagrama de Casos de Uso do SinPatinhas:
 
 Com base nos requisitos elicitados anteriormente para o projeto SinPatinhas, **foi desenvolvido o Diagrama de Casos de Uso UML apresentado abaixo**. O modelo representa as principais interações entre o ator Usuário e o sistema SinPatinhas, incluindo diferentes tipos de perfis — **Pessoa Física, Pessoa Jurídica e Clínicas/Hospitais Veterinários** — que executam ações específicas no sistema.
