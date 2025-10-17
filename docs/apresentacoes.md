@@ -17,14 +17,14 @@
 ## Etapa 1 – Planejamento do Projeto
 > Apresentação da proposta inicial, definição de escopo, objetivos e estrutura de planejamento do projeto SinPatinhas.
 
-🎥 **[Assistir no YouTube – Apresentação do Projeto: Etapa 1 (Planejamento)](https://www.youtube.com/watch?v=bJhwEYI1BFc&feature=youtu.be)**  
+🎥 **[Assistir no YouTube – Apresentação do Projeto: Planejamento)]()**  
 
 ---
 
 ##  Etapa 2 – Elicitação de Requisitos e Priorização
 > Demonstração das técnicas de elicitação utilizadas, como entrevistas, brainstorming e questionários, além do processo de priorização de requisitos conforme critérios definidos.
 
-🎥 **[Assistir no YouTube – Elicitação de Requisitos: Técnicas e Priorização](https://www.youtube.com/watch?v=uA_s73D0w3o)**
+🎥 **[Assistir no YouTube – Elicitação de Requisitos: Técnicas de elicitação e Priorização](https://www.youtube.com/watch?v=bJhwEYI1BFc&feature=youtu.be)**
 
 ---
 
@@ -40,6 +40,7 @@
 | Versão | Data       | Descrição                                         | Autores        | Revisores |
 |:------:|------------|--------------------------------------------------|----------------|------------|
 | 1.0    | 12/10/2025 | Criação da página de Apresentações por Etapa    | Letícia Paiva  | -          |
+| 1.1    | 17/10/2025 | Edição da página de Apresentações    |  Antonio  | -          |
 
 ---
 
