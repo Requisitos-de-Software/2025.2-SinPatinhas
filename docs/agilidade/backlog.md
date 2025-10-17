@@ -40,19 +40,6 @@ Esse processo garantiu que as entregas mais significativas para **tutores, abrig
 
 ---
 
-## Validação com Pessoas que Utilizam o App de Algum Modo
-
-A validação do backlog foi realizada por meio de uma **revisão colaborativa** com os integrantes do grupo e com potenciais pessoas que utilizam o aplicativo.  
-Durante o processo, avaliou-se a clareza das histórias, a coerência dos épicos e a adequação das prioridades definidas pelo método MoSCoW.
-
-### Participantes da Validação
-
-| Participante       | Papel |
-|---------------------|-------|
-| Antonio Carvalho    | Responsável pela elaboração e organização do backlog |
-
----
-
 ## Tabela de Contribuições
 
 | **Nome**            | **Contribuição (%)** | **Função**                       |

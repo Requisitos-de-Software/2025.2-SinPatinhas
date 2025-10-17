@@ -245,6 +245,14 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 
 ---
 
+## Tabela de Contribuições
+
+| **Nome**            | **Contribuição (%)** | **Função**                       |
+|----------------------|----------------------|----------------------------------|
+| **Antonio Carvalho** | 100%                 | Autor da página de cronograma       |
+
+---
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                         | Autores            | Revisores     |

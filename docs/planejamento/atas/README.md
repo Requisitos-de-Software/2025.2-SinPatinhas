@@ -16,7 +16,14 @@ Documentação oficial das reuniões da equipe do projeto **Sinpatinhas**.
 - [ATA 06 — 16/09/2025](/planejamento/atas/ata_reuniao_6.md)
 - [ATA 07 — 17/09/2025](/planejamento/atas/ata_reuniao_7.md)
 
+---
 
+## Tabela de Contribuições
+
+| **Nome**            | **Contribuição (%)** | **Função**                       |
+|----------------------|----------------------|----------------------------------|
+| **Pedro** | 50%                 | Autor da página de atas de reunião       |
+| **Antonio Carvalho** | 50%                 | Editor da página de atas de reunião       |
 
 ---
 

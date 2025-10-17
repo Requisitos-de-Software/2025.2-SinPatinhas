@@ -1,4 +1,4 @@
-# Referências
+# Referências Bibliográficas Gerais
 
 <div class="chip">Engenharia de Requisitos</div>
 
@@ -30,6 +30,14 @@ Referências bibliográficas e de projeto no padrão **ABNT**.
 
 9. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro : Brasport, 2016
 
+
+---
+
+## Tabela de Contribuições
+
+| **Nome**            | **Contribuição (%)** | **Função**                       |
+|----------------------|----------------------|----------------------------------|
+| **Antonio Carvalho** | 100%                 | Autor da página de referências gerais       |
 
 ---
 

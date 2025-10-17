@@ -106,20 +106,6 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 <a id="rf043"></a>**RF043** – Notificação periódica aos tutores para atualização de dados e fotos (entrevista Dra. Ilma Coutinho).  
 <a id="rf044"></a>**RF044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho).  
 
-#### ❌ Requisitos Não Implementados (RF/RNF)
-
-- **RF030** – Funcionalidade para adoção de animais (entrevista Gustavo)  
-- **RF031** – Alertas e notificações automáticas (entrevista Gustavo)  
-- **RNF007** – Integração direta com parceiros (entrevista Gustavo)  
-- **RF033** – Área de instruções integradas/manual digital (entrevista Dra. Ilma Coutinho)  
-- **RF042** – Emissão de alertas de acesso suspeito (entrevista Dra. Ilma Coutinho)  
-- **RF043** – Notificação periódica aos tutores (entrevista Dra. Ilma Coutinho)  
-- **RF044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho)  
-- **RNF004** – Acesso via web e mobile (entrevista Ana Beatriz)  
-- **RNF005** – Funcionalidades offline (entrevista Ana Beatriz)  
-
----
-
 ### ⚙️ Requisitos Não Funcionais (RNF)
 
 <a id="rnf001"></a>**RNF001 (Usabilidade)** – Sistema fácil e intuitivo.  
@@ -139,6 +125,19 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 <a id="rnf015"></a>**RNF015 (Privacidade)** – Dados clínicos restritos, visualização sem edição por terceiros.  
 <a id="rnf016"></a>**RNF016 (Auditabilidade)** – Registro de logs de acesso e modificações.
 
+#### ❌ Requisitos Não Implementados (RFNI/RNFNI)
+
+<a id="rfni030">**RFNI030** – Funcionalidade para adoção de animais (entrevista Gustavo)  
+<a id="rfni031">**RFNI031** – Alertas e notificações automáticas (entrevista Gustavo)  
+<a id="rnfni007">**RNFNI007** – Integração direta com parceiros (entrevista Gustavo)  
+<a id="rfni033">**RFNI033** – Área de instruções integradas/manual digital (entrevista Dra. Ilma Coutinho)  
+<a id="rfni042">**RFNI042** – Emissão de alertas de acesso suspeito (entrevista Dra. Ilma Coutinho)  
+<a id="rfni043">**RFNI043** – Notificação periódica aos tutores (entrevista Dra. Ilma Coutinho)  
+<a id="rfni044">**RFNI044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho)  
+<a id="rnfni004">**RNFNI004** – Acesso via web e mobile (entrevista Ana Beatriz)  
+<a id="rnfni005">**RNFNI005** – Funcionalidades offline (entrevista Ana Beatriz)  
+
+---
 
 ### 2. **Entrevistas**
 
@@ -269,7 +268,7 @@ Essas observações permitiram identificar boas práticas e oportunidades de mel
 | 1.0    | 12/09/2025 | Criação da página de Elicitação de Requisitos     | Letícia Paiva     | Antonio   |
 | 1.1    | 24/09/2025 | Adição do cronograma de elicitação                | Pedro Gomes       | Antonio   |
 | 1.2    | 24/09/2025 | Inclusão de requisitos elicitados                 | Pedro e Letícia   | Antonio   |
-| 1.3    | 26/09/2025 | Entrevista com Ana Beatriz e requisitos associados | Antonio e Letícia | Pedro     |
+| 1.3    | 26/09/2025 | Entrevista com Ana Beatriz e requisitos associados | Pedro | Antonio     |
 | 1.3    | 30/09/2025 | Alteração de estrutura | Antonio | Pedro     |
 | 1.4    | 01/10/2025 |  Entrevista com Gustavo e requisitos associados | Leticia | Pedro     |
 | 1.5    | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus | Heloisa     |

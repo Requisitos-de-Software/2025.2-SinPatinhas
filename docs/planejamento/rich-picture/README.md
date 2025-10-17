@@ -21,6 +21,15 @@ A seguir está o Rich Picture do projeto, acompanhado da legenda para facilitar 
 
 ---
 
+## Tabela de Contribuições
+
+| **Nome**            | **Contribuição (%)** | **Função**                       |
+|----------------------|----------------------|----------------------------------|
+| **Pedro** | 70%                 | Autor da página de rich-picture       |
+| **Antonio Carvalho** | 30%                 | Editor da página de rich-picture       |
+
+---
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                         | Autores | Revisores |

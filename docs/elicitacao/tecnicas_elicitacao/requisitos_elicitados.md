@@ -119,5 +119,6 @@
 | Versão | Data       | Descrição                                         | Autores           | Revisores |
 |-------:|------------|---------------------------------------------------|-------------------|-----------|
 | 1.0    | 07/10/2025 | Criação da página de consolidação de requisitos     | Heloisa     | ---   |
+| 1.1    | 11/10/2025 | Edição da página de consolidação de requisitos     | Heloisa     | ---   |
 
 ---
