@@ -1,6 +1,6 @@
 # Cenários - Mateus Santos Negrini
 
-## Cenário 07 — Sistema de Adoção (RF030)  
+## Cenário 11 — Sistema de Adoção (RF030)  
 
 **Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Cenário 08 — Notificação Periódica de Atualização (RF044)  
+## Cenário 12 — Notificação Periódica de Atualização (RF044)  
 
 **Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
 

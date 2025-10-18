@@ -1,7 +1,5 @@
 # Cenários
 
----
-
 * [Link para validação de cenários com tutora de animal](https://www.youtube.com/watch?v=loBusGtCcjI)
 
 ---
@@ -18,22 +16,7 @@ Dentro deste contexto, a **técnica de Cenários** se destaca como uma estratég
 O foco desta técnica é **elicitar a parte comportamental do software**, descrevendo sua dinâmica e seu fluxo de interações [1].  
 Ao transformar o uso do sistema em uma narrativa concreta, os **cenários oferecem uma visão prática de como ele funcionará**, facilitando o entendimento, a comunicação e a descoberta de novos requisitos.
 
----
 
-## Artefatos e Gravações Unitários  
-
-| Participante | Página Específica |
-|---------------|------------------|
-| **Letícia Paiva** | [Modelagem dos cenários - Cenário 01 e 02](/modelagem/gravacoes/leticia/cenarios.md) |
-| **Antonio Carvalho** | [Modelagem dos cenários - Cenário 03 — Sistema de Adoção de Animais RFNI016 e Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal RFNI021](/modelagem/gravacoes/antonio/cenarios.md) |
-| **Heloisa Silva** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/heloisa/cenarios.md) |
-| **Pedro Gomes** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/pedro/cenarios.md) |
-| **Mateus Santos Negrini** | [Modelagem dos cenários - Cenário 07 e 08](/modelagem/gravacoes/mateus/cenarios.md) |
-| **Isaac Menezes Pereira** | [Modelagem dos cenários - Cenário 09 e 10](/modelagem/gravacoes/isaac/cenarios.md) |
-
-
-
----
 
 ## Metodologia de Criação de Cenários 
 
@@ -46,7 +29,7 @@ A metodologia para a criação de um cenário consiste em estruturar uma narrati
 |--------------------|----------------------------------------------------------------------------------------------------|
 | **Título**         | Nome que identifica o cenário.                                                                     |
 | **Código** | Código do Cenário |
-| **Caso de uso trabalhado** | [#UC00X](...)|
+| **Caso de uso trabalhado** | #UC00X |
 | **Metas/Objetivos**| Descreve a finalidade ou o propósito a ser alcançado no cenário.                                   |
 | **Contexto**       | Define as condições em que o cenário ocorre, como local, tempo e pré-condições.                   |
 | **Ator(es)**       | As pessoas, sistemas ou entidades que participam das interações descritas.                         |
@@ -56,31 +39,87 @@ A metodologia para a criação de um cenário consiste em estruturar uma narrati
 
 ---
 
-## Integrantes do Grupo  
+## Artefatos e Gravações Unitários
 
-A **Tabela 2** apresenta todos os integrantes da equipe que participaram da construção dos Cenários, juntamente com a descrição das atividades que cada um desenvolveu durante o projeto.  
+A **Tabela 2** apresenta todos os integrantes da equipe que participaram da construção dos Cenários, juntamente com uma descrição do cenário que cada um desenvolveu no projeto.
 
 **Tabela 2 – Integrantes do Grupo Envolvidos**  
 *Autoria: Letícia Paiva*
 
-| **Nome**            | **Quais etapas participou** |
-|---------------------|------------------------------|
-| **Antonio Carvalho**| Criou os cenários 03 e 04, referentes aos requisitos **RF005 – Emissão de documento oficial de identificação (RG Pet)** e **RF007 – Atualização do status do animal (perdido, encontrado, óbito, transferência).**                           |
-| **Heloisa Santos**  | Criou os cenários 05 e 06, referentes aos requisitos **Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. (RFNI001)** e **Sistema de avaliação numérica para estabelecimentos. ( RFNI010)**.|
-| **Isaac Menezes**   | —                            |
-| **Letícia Paiva**   | Criou os cenários 01 e 02, referentes aos requisitos **Sistema de Adoção (RF030)** e **Alertas e Notificações Automáticas (RF031)**. |
-| **Luciano Machado** | —                            |
-| **Matheus Negrini** | Criou os cenários 05 e 06, referentes aos requisitos **Acesso à Área de Instruções Integradas (RF033)** e **Notificação Periódica de Atualização (RF044)** |
-| **Pedro Gomes**     | Criou os cenários 07 e 08, referentes aos requisitos **Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)** e **Notificação Periódica de Atualização (RF044)**                        |
-
----
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Cenário</th>
+    <th>Descrição do requisito</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Letícia Paiva</b></td>
+    <td><a href='/modelagem/gravacoes/leticia/cenarios.md'>Cenário 01</a></td>
+    <td>Sistema de Adoção - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF030</b></a></td>
+  </tr>
+  <tr>
+    <td><a href='/modelagem/gravacoes/leticia/cenarios.md'>Cenário 02</a></td>
+    <td>Alertas e Notificações Automáticas - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF031</b></a></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Antonio Carvalho</b></td>
+    <td><a href='/modelagem/gravacoes/antonio/cenarios.md'>Cenário 03</a></td>
+    <td>Emissão de documento oficial de identificação (RG Pet) - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF005</b></a></td>
+  </tr>
+  <tr>
+    <td><a href='/modelagem/gravacoes/antonio/cenarios.md'>Cenário 04</a></td>
+    <td>Atualização do status do animal (perdido, encontrado, óbito, transferência) - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'> <b>#RF007</b></a></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Heloisa Santos</b></td>
+    <td><a href='/modelagem/gravacoes/heloisa/cenarios.md'>Cenário 05</a></td>
+    <td>Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RFNI001</b></a></td>
+  </tr>
+  <tr>
+    <td><a href='/modelagem/gravacoes/heloisa/cenarios.md'>Cenário 06</a></td>
+    <td>Sistema de avaliação numérica para estabelecimentos - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RFNI010</b></a></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Pedro Gomes</b></td>
+    <td><a href='/modelagem/gravacoes/pedro/cenarios.md'>Cenário 07</a></td>
+    <td>Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF05</b></a></td>
+  </tr>
+  <tr>
+    <td><a href='/modelagem/gravacoes/pedro/cenarios.md'>Cenário 08</a></td>
+    <td>Notificação Periódica de Atualização - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF044</b></a></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Isaac Menezes</b></td>
+    <td><a href='/modelagem/gravacoes/isaac/cenarios.md'>Cenário 09</a></td>
+    <td>Indicador visual da média de atendimentos na clínica/hospital - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RFNI014</b></a></td>
+  </tr>
+  <tr>
+    <td><a href='/modelagem/gravacoes/isaac/cenarios.md'>Cenário 10</a></td>
+    <td>Indicador visual da média de atendimentos por médico - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RFNI015</b></a></td>
+  </tr>
+  <tr>
+    <td><b>Luciano Machado</b></td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Matheus Negrini</b></td>
+    <td><a href='/modelagem/gravacoes/mateus/cenarios.md'>Cenário 11</a></td>
+    <td>Acesso à Área de Instruções Integradas - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF033</b></a></td>
+  </tr>
+  <tr>
+    <td><a href='/modelagem/gravacoes/mateus/cenarios.md'>Cenário 12</a></td>
+    <td>Notificação Periódica de Atualização - <a href='/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md'><b>#RF044</b></a></td>
+  </tr>
+</table>
 
 ## Tabela de Contribuição
 
 | **Nome**           | **Contribuição (%)** | **Função**                                      |
 |---------------------|----------------------|-------------------------------------------------|
-| Letícia Paiva       | 50%                  | Autora da página de apresentação de cenário     |
-| Antonio Carvalho    | 50%                  | Criação do modelo de apresentação de cenário    |
+| Letícia Paiva       | 33%                  | Autora da página de apresentação de cenário     |
+| Antonio Carvalho    | 33%                  | Criação do modelo de apresentação de cenário    |
+| Isaac Menezes Pereia | 33%                 | Refatoração das tabelas                         |
 
 
 ---
@@ -95,5 +134,6 @@ Serrano, M., Serrano, M. *Requisitos – Aula 10*, Material de aula, Universidad
 
 | **Versão** | **Data**   | **Descrição**                                                        | **Autores** | **Revisores** |
 |-----------:|------------|--------------------------------------------------------------------|--------------|---------------|
-| **1.0**    | 09/10/2025 | Criação da página de **Cenários**.| Letícia Paiva | Antonio |
+| **1.0**    | 09/10/2025 | Criação da página de **Cenários**.| Letícia Paiva | Antonio Carvalho |
 | **1.1**    | 11/10/2025 | Alteração da página de **Cenários**.| Antonio Carvalho | Letícia Paiva |
+| **1.2**    | 18/10/2025 | Melhoria na exibição das **tabelas**. | Isaac Menezes Pereira | Antonio Carvalho
