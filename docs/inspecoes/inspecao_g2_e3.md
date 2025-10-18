@@ -1,5 +1,7 @@
 # Inspeção - Grupo 2 - Entrega 3
 
+A 3ª inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizada no dia 16/10, conduzida por Heloísa. O objetivo foi avaliar o processo de modelagem dos requisitos do projeto, verificando a conformidade com os critérios estabelecidos pela disciplina.
+
 ## Lista de Verificação - Modelagem de Requisitos
 
 | ID | Item de Verificação | Conforme? |
@@ -41,8 +43,6 @@
 **Grupo Inspecionado:** Grupo 2
 
 **Data da Inspeção:** 16/10/2025
-
- 
 
 ---
 

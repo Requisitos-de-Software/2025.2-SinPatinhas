@@ -71,7 +71,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>24/09/2025</td><td>Upload das técnicas de elicitação que serão usadas no projeto</td><td>Heloísa</td><td>–</td><td>–</td></tr>
 <tr><td>26/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>26/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>–</td><td>–</td></tr>
-<tr><td>26/09/2025</td><td>Inspeção Etapa 2</td><td>Isaac e Letícia</td><td>–</td><td>–</td></tr>
+<tr><td>26/09/2025</td><td>Inspeção Etapa 2</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>27/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>30/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>01/10/2025</td><td>Inspeção Etapa 2 - Grupo 2</td><td>Pedro e Heloísa</td><td>–</td><td>–</td></tr>
@@ -92,9 +92,11 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>23/09/2025</td><td>Definição do perfil de usuários</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>28/09/2025</td><td>Levantamento da página de perfis de usuários</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td></td><td>Levantamento das técnicas de elicitação usadas</td><td>Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>25/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td>27/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>27/09/2025</td><td>Upload da página das técnicas de priorização no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>29/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>30/09/2025</td><td>Inspeção Etapa 2</td><td>Antonio e Heloisa</td><td>–</td><td>–</td></tr>
+<tr><td>18/10/2025</td><td>Elaboração de página com abordagem e aplicação da MoSCoW</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 </tbody>
 </table>
 
@@ -129,7 +131,14 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>11/10/2025</td><td>Elaboração do Diagrama de Caso de Uso</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>11/10/2025</td><td>Elaboração da página dos Modelos Tradicionais e como devem ser feitos</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>12/10/2025</td><td>Especificação dos Casos de Uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>12/10/2025</td><td>Validação dos Modelos Tradicionais</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>12/10/2025</td><td>Criação das páginas unitárias criando artefatos após validação dos Modelos Tradicionais</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>12/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>16/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>16/10/2025</td><td>Inspeção Etapa 2</td><td>Heloisa</td><td>Entregue</td><td>–</td></tr>
 </tbody>
 </table>
 

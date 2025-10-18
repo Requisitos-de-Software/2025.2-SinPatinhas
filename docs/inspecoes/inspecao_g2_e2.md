@@ -1,8 +1,8 @@
-# Inspeção do Grupo 2 – Requisitos de Software
+# Inspeção - Grupo 2 - Entrega 2
 
-A inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizada no dia 01/10, conduzida por Heloísa e Antônio. O objetivo foi avaliar o processo de elicitação e priorização dos requisitos do projeto, verificando a conformidade com os critérios estabelecidos pela disciplina.
+A 2ª inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizada no dia 01/10, conduzida por Heloísa e Antônio. O objetivo foi avaliar o processo de elicitação e priorização dos requisitos do projeto, verificando a conformidade com os critérios estabelecidos pela disciplina.
 
-## Checklist de Conformidade
+## Checklist de Conformidade de elicitação e priorização
 
 | Item | Conforme | Não Conforme |
 |------|:--------:|:------------:|
