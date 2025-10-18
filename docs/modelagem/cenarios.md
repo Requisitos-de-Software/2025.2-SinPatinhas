@@ -54,7 +54,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
   </tr>
   <tr>
     <td rowspan="2"><b>Letícia Paiva</b></td>
-    <td><a href="/modelagem/gravacoes/leticia/cenarios.md">Cenário 01</a></td>
+    <td><a href="(/modelagem/gravacoes/leticia/cenarios.md)">Cenário 01</a></td>
     <td>Sistema de Adoção - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF030</b></a></td>
   </tr>
   <tr>
