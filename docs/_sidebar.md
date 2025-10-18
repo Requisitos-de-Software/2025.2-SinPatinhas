@@ -1,3 +1,71 @@
+<style>
+/* Estilo geral da sidebar */
+details {
+  border-left: 3px solid #e0e0e0;
+  padding-left: 10px;
+  margin: 6px 0;
+  transition: all 0.2s ease;
+}
+
+/* Estilo do título (summary) */
+summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 15px;
+  color: #333;
+  padding: 6px 8px;
+  border-radius: 6px;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+/* Remove o marcador padrão do navegador */
+summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Adiciona uma seta personalizada à esquerda */
+summary::before {
+  content: "▶";
+  color: #888;
+  font-size: 12px;
+  margin-right: 8px;
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+/* Quando aberto, gira a seta */
+details[open] summary::before {
+  transform: rotate(90deg);
+  color: #1a73e8;
+}
+
+/* Efeito hover */
+summary:hover {
+  background: #f7f7f7;
+  color: #1a73e8;
+}
+
+/* Links internos */
+details a {
+  display: block;
+  margin-left: 22px;
+  margin-top: 4px;
+  text-decoration: none;
+  color: #444;
+  font-size: 14px;
+  font-weight: 400;
+  transition: color 0.2s ease;
+}
+
+/* Efeito hover em links */
+details a:hover {
+  color: #1a73e8;
+}
+</style>
+
+
 - [Sobre](/README.md)
 
 <details>
@@ -74,54 +142,3 @@
   - [Backward-From](pos-rastreabilidade/backward_from.md)
   - [Matriz Geral](pos-rastreabilidade/matriz_geral.md)
 </details>
-<style>
-details {
-  margin: 4px 0;
-  padding-left: 8px;
-}
-
-summary {
-  cursor: pointer;
-  font-size: 15px;
-  font-weight: 600;
-  color: #222;
-  list-style: none;
-  transition: color 0.2s ease;
-}
-
-summary:hover {
-  color: #1a73e8;
-}
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
-details summary::after {
-  content: "▸";
-  float: right;
-  color: #999;
-  transition: transform 0.2s ease, color 0.2s ease;
-}
-
-details[open] summary::after {
-  transform: rotate(90deg);
-  color: #1a73e8;
-}
-
-details[open] summary {
-  color: #1a73e8;
-}
-
-a {
-  color: #444;
-  text-decoration: none;
-  display: block;
-  margin: 2px 0 2px 10px;
-  font-weight: 400;
-}
-
-a:hover {
-  color: #1a73e8;
-}
-</style>
