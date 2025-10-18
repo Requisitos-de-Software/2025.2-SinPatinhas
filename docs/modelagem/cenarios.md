@@ -54,48 +54,48 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
   </tr>
   <tr>
     <td rowspan="2"><b>Letícia Paiva</b></td>
-    <td><a href="(/modelagem/gravacoes/leticia/cenarios.md)">Cenário 01</a></td>
-    <td>Sistema de Adoção - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF030</b></a></td>
+    <td><a href="(/modelagem/gravacoes/leticia/cenarios)">Cenário 01</a></td>
+    <td>Sistema de Adoção - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF030</b></a></td>
   </tr>
   <tr>
-    <td><a href="/modelagem/gravacoes/leticia/cenarios.md">Cenário 02</a></td>
-    <td>Alertas e Notificações Automáticas - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF031</b></a></td>
+    <td><a href="/modelagem/gravacoes/leticia/cenarios">Cenário 02</a></td>
+    <td>Alertas e Notificações Automáticas - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF031</b></a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Antonio Carvalho</b></td>
-    <td><a href="/modelagem/gravacoes/antonio/cenarios.md">Cenário 03</a></td>
-    <td>Emissão de documento oficial de identificação (RG Pet) - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF005</b></a></td>
+    <td><a href="/modelagem/gravacoes/antonio/cenarios">Cenário 03</a></td>
+    <td>Emissão de documento oficial de identificação (RG Pet) - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF005</b></a></td>
   </tr>
   <tr>
-    <td><a href="/modelagem/gravacoes/antonio/cenarios.md">Cenário 04</a></td>
-    <td>Atualização do status do animal (perdido, encontrado, óbito, transferência) - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"> <b>#RF007</b></a></td>
+    <td><a href="/modelagem/gravacoes/antonio/cenarios">Cenário 04</a></td>
+    <td>Atualização do status do animal (perdido, encontrado, óbito, transferência) - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"> <b>#RF007</b></a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Heloisa Santos</b></td>
-    <td><a href="/modelagem/gravacoes/heloisa/cenarios.md">Cenário 05</a></td>
-    <td>Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RFNI001</b></a></td>
+    <td><a href="/modelagem/gravacoes/heloisa/cenarios">Cenário 05</a></td>
+    <td>Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RFNI001</b></a></td>
   </tr>
   <tr>
-    <td><a href="/modelagem/gravacoes/heloisa/cenarios.md">Cenário 06</a></td>
-    <td>Sistema de avaliação numérica para estabelecimentos - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RFNI010</b></a></td>
+    <td><a href="/modelagem/gravacoes/heloisa/cenarios">Cenário 06</a></td>
+    <td>Sistema de avaliação numérica para estabelecimentos - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RFNI010</b></a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Pedro Gomes</b></td>
-    <td><a href="/modelagem/gravacoes/pedro/cenarios.md">Cenário 07</a></td>
-    <td>Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF05</b></a></td>
+    <td><a href="/modelagem/gravacoes/pedro/cenarios">Cenário 07</a></td>
+    <td>Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF05</b></a></td>
   </tr>
   <tr>
-    <td><a href="/modelagem/gravacoes/pedro/cenarios.md">Cenário 08</a></td>
-    <td>Notificação Periódica de Atualização - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF044</b></a></td>
+    <td><a href="/modelagem/gravacoes/pedro/cenarios">Cenário 08</a></td>
+    <td>Notificação Periódica de Atualização - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF044</b></a></td>
   </tr>
   <tr>
     <td rowspan="2"><b>Isaac Menezes</b></td>
-    <td><a href="/modelagem/gravacoes/isaac/cenarios.md">Cenário 09</a></td>
-    <td>Indicador visual da média de atendimentos na clínica/hospital - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RFNI014</b></a></td>
+    <td><a href="/modelagem/gravacoes/isaac/cenarios">Cenário 09</a></td>
+    <td>Indicador visual da média de atendimentos na clínica/hospital - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RFNI014</b></a></td>
   </tr>
   <tr>
-    <td><a href="/modelagem/gravacoes/isaac/cenarios.md">Cenário 10</a></td>
-    <td>Indicador visual da média de atendimentos por médico - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RFNI015</b></a></td>
+    <td><a href="/modelagem/gravacoes/isaac/cenarios">Cenário 10</a></td>
+    <td>Indicador visual da média de atendimentos por médico - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RFNI015</b></a></td>
   </tr>
   <tr>
     <td><b>Luciano Machado</b></td>
@@ -104,12 +104,12 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
   </tr>
   <tr>
     <td rowspan="2"><b>Matheus Negrini</b></td>
-    <td><a href="/modelagem/gravacoes/mateus/cenarios.md">Cenário 11</a></td>
-    <td>Acesso à Área de Instruções Integradas - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF033</b></a></td>
+    <td><a href="/modelagem/gravacoes/mateus/cenarios">Cenário 11</a></td>
+    <td>Acesso à Área de Instruções Integradas - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF033</b></a></td>
   </tr>
   <tr>
-    <td><a href="/modelagem/gravacoes/mateus/cenarios.md">Cenário 12</a></td>
-    <td>Notificação Periódica de Atualização - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md"><b>#RF044</b></a></td>
+    <td><a href="/modelagem/gravacoes/mateus/cenarios">Cenário 12</a></td>
+    <td>Notificação Periódica de Atualização - <a href="/elicitacao/tecnicas_elicitacao/requisitos_elicitados"><b>#RF044</b></a></td>
   </tr>
 </table>
 
