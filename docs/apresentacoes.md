@@ -17,7 +17,7 @@
 ## Etapa 1 – Planejamento do Projeto
 > Apresentação da proposta inicial, definição de escopo, objetivos e estrutura de planejamento do projeto SinPatinhas.
 
-🎥 **[Assistir no YouTube – Apresentação do Projeto: Etapa 1 (Planejamento)](https://www.youtube.com/watch?v=bJhwEYI1BFc&feature=youtu.be)**  
+🎥 **[Assistir no YouTube – Apresentação do Projeto: Planejamento](https://www.youtube.com/watch?v=qqbfLOGvmTw)**  
 
 ---
 
@@ -31,7 +31,7 @@
 ##  Etapa 3 – Modelagem: Cenários, Léxico, Casos de Uso e Especificação Suplementar
 > Apresentação dos artefatos de modelagem do sistema, incluindo a estrutura de cenários, léxicos, diagramas de caso de uso e especificações complementares.
 
-🎥 **[Assistir no YouTube – Cenários, Léxico, Use Case e Especificação Suplementar](https://www.youtube.com/watch?v=uA_s73D0w3o)**
+🎥 **[Assistir no YouTube – Modelagem: Cenários, Léxico, Use Case e Especificação Suplementar](https://www.youtube.com/watch?v=uA_s73D0w3o)**
 
 ---
 
