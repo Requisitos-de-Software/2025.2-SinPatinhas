@@ -1,5 +1,11 @@
 # Cenários
 
+---
+
+* [Link para validação de cenários com tutora de animal](https://www.youtube.com/watch?v=loBusGtCcjI)
+
+---
+
 ## Introdução aos Cenários  
 
 A **modelagem de requisitos** é a atividade de elaborar modelos capazes de representar características ou comportamentos de um software [1].  
@@ -19,7 +25,7 @@ Ao transformar o uso do sistema em uma narrativa concreta, os **cenários oferec
 | Participante | Página Específica |
 |---------------|------------------|
 | **Letícia Paiva** | [Modelagem dos cenários - Cenário 01 e 02](/modelagem/gravacoes/leticia/cenarios.md) |
-| **Antonio Carvalho** | [Modelagem dos cenários - Cenário 03 e 04](/modelagem/gravacoes/antonio/cenarios.md) |
+| **Antonio Carvalho** | [Modelagem dos cenários - Cenário 03 — Sistema de Adoção de Animais RFNI016 e Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal RFNI021](/modelagem/gravacoes/antonio/cenarios.md) |
 | **Heloisa Silva** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/heloisa/cenarios.md) |
 | **Pedro Gomes** | [Modelagem dos cenários - Cenário 05 e 06](/modelagem/gravacoes/pedro/cenarios.md) |
 | **Mateus Santos Negrini** | [Modelagem dos cenários - Cenário 07 e 08](/modelagem/gravacoes/mateus/cenarios.md) |

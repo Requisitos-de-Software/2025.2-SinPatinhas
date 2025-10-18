@@ -1,5 +1,11 @@
 # Especificação Suplementar – Projeto SinPatinhas
 
+---
+
+* [Link para validação de critérios utilizados para especificação suplementar com tutor de animal](https://www.youtube.com/watch?v=VDm2lGHywDw)
+
+---
+
 ## Introdução
 
 O **Artefato Suplementar** é um documento escrito em dialeto comum que compila a totalidade dos requisitos de um sistema que não foram integralmente capturados pelos **casos de uso** <a id="anchor_1" href="#REF1">[1]</a>.  
@@ -51,7 +57,7 @@ Essa metodologia visa garantir que todos os elementos essenciais à construção
 
 | **Participante** | **Página Específica** |
 |------------------|------------------------|
-| Antonio Carvalho | [Modelagem das especificações suplementares - Especificações 01 e 02 ](/modelagem/gravacoes/antonio/especificacao.md) |
+| Antonio Carvalho | [Modelagem das especificações suplementares - Especificações #ES001 - Usabilidade (U) e #ES002 - Segurança e Confiabilidade (R) ](/modelagem/gravacoes/antonio/especificacao.md) |
 | Letícia Paiva | [Modelagem das especificações suplementares - Especificações 03 e 04](/modelagem/gravacoes/leticia/especificacao.md) |
 | Pedro Gomes | [Modelagem das especificações suplementares - Especificações 05 e 06](/modelagem/gravacoes/pedro/especificacao.md) |
 | Mateus Santos Negrini | [Modelagem das especificações suplementares - Especificações 07 e 08](/modelagem/gravacoes/mateus/especificacao.md) |

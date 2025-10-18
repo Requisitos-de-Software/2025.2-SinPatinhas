@@ -1,5 +1,11 @@
 # Casos de Uso – Projeto SinPatinhas
 
+---
+
+* [Link para validação de casos de uso com tutora de animal](https://www.youtube.com/watch?v=veQV-Rdvk44)
+
+---
+
 ## Introdução
 
 Os **casos de uso** são um dos principais artefatos da **UML (Unified Modeling Language)**, permitindo descrever as **interações entre usuários (atores)** e o **sistema**. Por meio deles, é possível compreender **como o sistema deve se comportar** em diferentes situações, garantindo que os **requisitos funcionais** sejam bem representados e validados junto aos stakeholders.
@@ -18,14 +24,14 @@ Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação a
 
 ![Casos-de-uso](../assets/images/casos_de_uso-SinPatinhas.png)
 
-* [Link para o diagrama de casos de uso](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=casos_de_uso-SinPatinhas.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BoYXjYiiKHqswSnjmWUObuaX5Jrnb8X2%26export%3Ddownload)
+* [Link para o diagrama de casos de uso](https://app.diagrams.net/?title=v2_caso_de_uso_sinpatinhas.drawio&lightbox=1&page-id=YY2I2kYa37VnRreWqp_o&client=1)
 
 
 ## Artefatos e Gravações Unitários
 
 | Participante | Página Específica |
 |---------------|------------------|
-| **Antonio Carvalho** | [Modelagem dos casos de uso - Caso de uso 01 e 02](/modelagem/gravacoes/antonio/caso_de_uso.md) |
+| **Antonio Carvalho** | [Modelagem dos casos de uso - Caso de uso UC001 – Sistema de Adoção de Animais RFNI016 e #UC002 – Notificação Periódica para Atualização de Dados e Fotos do Animal RFNI021](/modelagem/gravacoes/antonio/caso_de_uso.md) |
 | **Letícia Paiva** | [Modelagem dos casos de uso - Caso de uso 03 e 04](/modelagem/gravacoes/leticia/caso_de_uso.md) |
 | **Pedro Gomes** | [Modelagem dos casos de uso - Caso de uso 05 e 06](/modelagem/gravacoes/pedro/caso_de_uso.md) |
 | **Mateus Santos Negrini** | [Modelagem dos casos de uso - Caso de uso 07 e 08](/modelagem/gravacoes/pedro/caso_de_uso.md) |

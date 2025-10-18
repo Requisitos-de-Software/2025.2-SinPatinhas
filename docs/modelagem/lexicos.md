@@ -1,5 +1,11 @@
 # Léxicos – Projeto SinPatinhas
 
+---
+
+* [Link para validação de léxicos com tutor de animal](https://www.youtube.com/watch?v=q3XY4oEoQQo)
+
+---
+
 ## Introdução
 
 O **léxico** é uma notação utilizada para definir, de forma padronizada, os **termos e expressões** empregados na linguagem do sistema.  
@@ -23,7 +29,7 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 
 | Participante | Página Específica |
 |---------------|------------------|
-| Antonio Carvalho | [Modelagem dos léxicos - Léxico 01, 02, 03, 04, 05, 06 e 07](/modelagem/gravacoes/antonio/lexicos.md) |
+| Antonio Carvalho | [Modelagem dos léxicos - Léxicos #LX001 - Léxico para #UC01 e #CEN03 (Cadastro de Tutor), #LX002 - Léxico para #UC01 e #CEN03 (Consulta de Dados), #LX003 - Léxico para #UC02 e #CEN04 (Gerenciamento de Adoções), #LX004 - Léxico para #UC02 e #CEN04 (Atualização Veterinária), #LX005 - Léxico para #UC02 e #CEN04 (Atualização de Status do Animal), #LX006 - Léxico para #UC01 e #CEN03 (Gerenciamento de Cadastro) e #LX007 - Léxico para #UC02 e #CEN04 (Monitoramento e Acompanhamento)](/modelagem/gravacoes/antonio/lexicos.md) |
 | Letícia Paiva | [Modelagem dos léxicos - Léxico 08 e 09 ](/modelagem/gravacoes/leticia/lexicos.md) |
 | Pedro Gomes | [Modelagem dos léxicos - Léxico 10 e 11](/modelagem/gravacoes/pedro/lexicos.md) |
 | Mateus Santos Negrini | [Modelagem dos léxicos - Léxico 12 e 13 ](/modelagem/gravacoes/leticia/lexicos.md) |

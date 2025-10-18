@@ -1,19 +1,13 @@
 # Cenários – Antonio Carvalho
 
----
-
-* [Link para validação de cenários com tutora de animal](https://www.youtube.com/watch?v=loBusGtCcjI)
-
----
-
 <a id="crn003"></a>
 
-## Cenário 03 — Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
+## Cenário 03 — Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autor:** Antonio Carvalho
 
 
-**Tabela 1 – Cenário 03: Sistema de Adoção de Animais ([RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))**
+**Tabela 1 – Cenário 03: Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))**
 
 | **Componente** | **Descrição** |
 |-----------------|----------------|
@@ -58,12 +52,12 @@ Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem 
 
 <a id="crn004"></a>
 
-## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))
+## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))
 
 **Autor:** Antonio Carvalho
 
 
-**Tabela 2 – Cenário 04: Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))**
+**Tabela 2 – Cenário 04: Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))**
 
 | **Componente** | **Descrição** |
 |-----------------|----------------|
