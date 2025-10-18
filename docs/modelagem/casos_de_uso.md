@@ -24,7 +24,7 @@ Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação a
 
 ![Casos-de-uso](../assets/images/casos_de_uso-SinPatinhas.png)
 
-* [Link para o diagrama de casos de uso](https://app.diagrams.net/?title=v2_caso_de_uso_sinpatinhas.drawio&lightbox=1&page-id=YY2I2kYa37VnRreWqp_o&client=1)
+* [Link para o diagrama de casos de uso](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=v2_caso_de_uso_sinpatinhas.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1JOocwPjoZbvNTRfiIlNnfZpdQCFAApOf%26export%3Ddownload)
 
 
 ## Artefatos e Gravações Unitários
