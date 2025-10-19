@@ -71,7 +71,7 @@ details a:hover {
 <details>
   <summary><strong>Apresentações</strong></summary>
 
-  - [Entregas](apresentacoes.md)
+  - [Entregas](/apresentacoes.md)
 </details>
 <details>
   <summary><strong>Inspeções</strong></summary>
@@ -87,6 +87,7 @@ details a:hover {
 <details>
   <summary><strong>Planejamento</strong></summary>
 
+  - [Entregas](/planejamento/apresentacoes.md)
   - [Visão Geral](/planejamento/README.md)
   - [Cronograma das Atividades](/planejamento/cronograma/README.md)
   - [Ferramentas](/planejamento/ferramentas/README.md)
