@@ -89,7 +89,8 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
-| **Letícia Paiva**   | 100%                 | Autor da página de História de Usuários  |
+| **Letícia Paiva**   | 50%                 | Autor da página de História de Usuários  |
+| **Antonio Carvalho**   | 50%                 | Autor da página de História de Usuários  |
 
 ---
 
@@ -97,7 +98,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
-| 1.0    | 19/10/2025 | Criação da página de História de Usuários   | Letícia |        |
+| 1.0    | 19/10/2025 | Criação da página de História de Usuários   | Letícia e Antonio |        |
 
 
 ---
