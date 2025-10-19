@@ -8,61 +8,80 @@
 
 ## Introdução
 
-O **léxico** é uma notação utilizada para definir, de forma padronizada, os **termos e expressões** empregados na linguagem do sistema.  
-Na **Engenharia de Requisitos**, ele desempenha um papel essencial ao identificar **palavras específicas do domínio de aplicação**, assegurando que todos os envolvidos no projeto compartilhem o mesmo entendimento dos conceitos <a id="anchor_1" href="#REF1">[1]</a>.
+Este artefato documenta as **histórias de usuário desenvolvidas para o sistema**, seguindo a **metodologia ágil de desenvolvimento**. As histórias são elaboradas na **perspectiva do usuário final**, expressando suas necessidades de forma simples e objetiva.  
+Cada história representa uma funcionalidade do sistema e contém **critérios de aceitação claros**, que orientam tanto o processo de desenvolvimento quanto a **validação das entregas**. O foco é garantir que cada incremento de software gere valor real para o usuário e atenda às expectativas do cliente [1].
 
-Cada termo léxico é composto por dois elementos principais:
+As histórias são redigidas em linguagem natural, facilitando o entendimento entre os membros da equipe e os stakeholders. Além disso, **servem como base para o planejamento das iterações**, priorização das tarefas e realização dos **testes de aceitação** durante as fases de implementação [1].
 
-- **Noção:** o significado literal do termo, ou aquilo que ele representa no sistema <a id="anchor_2" href="#REF2">[2]</a>.  
-- **Impacto:** a consequência prática ou efeito produzido pela utilização desse termo no contexto do projeto.
+---
 
-No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **Léxico Ampliado da Linguagem (LAL)**, categorizando os símbolos conforme suas funções no domínio do sistema:
+### **Objetivo**
 
-- **Sujeito:** identifica quem executa as ações no sistema, como **Tutor**, **Veterinário** ou **Órgão Público**.  
-- **Verbo:** descreve as ações realizadas, como **Cadastrar**, **Consultar**, **Emitir**, **Atualizar**.  
-- **Objeto:** define os elementos manipulados ou gerados pelo sistema, como **Animal**, **Carteirinha**, **Registro Geral do Animal (RGA)**.  
-- **Estado:** indica situações específicas do sistema, como **Animal Adotado**, **Animal Perdido** ou **Cadastro Pendente**.
+O objetivo deste artefato é **registrar, organizar e rastrear** as histórias de usuário que compõem o produto em desenvolvimento. Por meio delas, busca-se:
+
+- **Garantir clareza nos requisitos funcionais**, traduzindo as necessidades do usuário em linguagem acessível e operacional.  
+- **Guiar o desenvolvimento iterativo e incremental**, permitindo entregas contínuas de valor.  
+- **Facilitar a comunicação** entre equipe técnica e cliente, assegurando alinhamento de expectativas.  
+- **Definir critérios objetivos de aceitação**, que possibilitam a verificação e validação de cada funcionalidade entregue [1].
+
+---
+
+### **Metodologia**
+
+As histórias de usuário foram construídas conforme os princípios da **Extreme Programming (XP)**, adaptados ao contexto do projeto. O processo metodológico envolve:
+
+1. **Criação das histórias** – Escritas pelo cliente ou em conjunto com a equipe, descrevendo o que o usuário deseja alcançar [1].  
+2. **Priorização** – As histórias recebem um valor de negócio conforme sua importância para o cliente [1].  
+3. **Estimativa** – A equipe avalia o esforço de implementação, geralmente medido em semanas ou pontos de história [1].  
+4. **Planejamento de iterações** – As histórias priorizadas são agrupadas em ciclos curtos (iterações) que resultam em um incremento funcional do software [1].  
+5. **Implementação e testes** – Cada história guia o desenvolvimento do código e serve de base para os testes de aceitação [1].  
+6. **Validação e feedback** – O cliente valida as entregas e pode ajustar, adicionar ou dividir histórias conforme novas necessidades surgem [1].
+
+Esse processo garante **entregas contínuas e adaptabilidade**, permitindo respostas rápidas a mudanças de requisitos e aprimoramentos constantes [1].
 
 ---
 
 ## Artefatos e Gravações Unitários
 
-| Participante | Página Específica |
-|---------------|------------------|
-| Antonio Carvalho | [Modelagem dos léxicos - Léxicos #LX001 - Léxico para #UC01 e #CEN03 (Cadastro de Tutor), #LX002 - Léxico para #UC01 e #CEN03 (Consulta de Dados), #LX003 - Léxico para #UC02 e #CEN04 (Gerenciamento de Adoções), #LX004 - Léxico para #UC02 e #CEN04 (Atualização Veterinária), #LX005 - Léxico para #UC02 e #CEN04 (Atualização de Status do Animal), #LX006 - Léxico para #UC01 e #CEN03 (Gerenciamento de Cadastro) e #LX007 - Léxico para #UC02 e #CEN04 (Monitoramento e Acompanhamento)](/modelagem/gravacoes/antonio/lexicos.md) |
-| Letícia Paiva | [Modelagem dos léxicos - Léxico 08 e 09 ](/modelagem/gravacoes/leticia/lexicos.md) |
-| Pedro Gomes | [Modelagem dos léxicos - Léxico 10 e 11](/modelagem/gravacoes/pedro/lexicos.md) |
-| Mateus Santos Negrini | [Modelagem dos léxicos - Léxico 12 e 13 ](/modelagem/gravacoes/leticia/lexicos.md) |
-| Heloisa Silva | [Modelagem dos léxicos - Léxico 14 e 15 ](/modelagem/gravacoes/mateus/lexicos.md) |
-| Isaac Menezes | [Modelagem dos léxicos - Léxicos 16, 17, 18, 19, 20, 21, 22](/modelagem/gravacoes/isaac/lexicos.md) |
+| **Participante** | **Página Específica** |
+|-------------------|------------------------|
+| Antonio Carvalho | [Histórias de Usuário](/modelagem/gravacoes/antonio/historias.md) |
+| Letícia Paiva | [Histórias de Usuário 01 e 02 – Sistema de Adoção (RFNI016) e Alertas e Notificações Automáticas (RFNI017)](/modelagem/gravacoes/leticia/historias.md) |
+| Pedro Gomes | [Histórias de Usuário](/modelagem/gravacoes/pedro/historias.md) |
+| Mateus Santos Negrini | [Histórias de Usuário](/modelagem/gravacoes/mateus/historias.md) |
+| Heloisa Silva | [Histórias de Usuário](/modelagem/gravacoes/heloisa/historias.md) |
+| Isaac Menezes | [Histórias de Usuário](/modelagem/gravacoes/isaac/historias.md) |
+
 ---
 
-## Estrutura para Criação de um Léxico
+## Estrutura para Criação de História de Usuário
 
-A criação de um léxico tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
+A criação tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
 A tabela a seguir apresenta os componentes utilizados.
 
 **Tabela 1 – Estrutura para Criação de um Léxico**  
-*Autoria: Antonio Carvalho*
+*Autoria: Letícia Paiva*
 
-## Exemplo de Estrutura de Léxico
+### **Modelo de História de Usuário**
 
-### #LX000 - Léxico para #UC00 e #CEN00 (Título descritivo do caso)
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HUx (História de Usuário número x) |
+| **Tema** | [Área ou módulo do sistema relacionado] |
+| **Descrição** | *Como* [tipo de usuário], *eu quero* [ação desejada], *para que* [benefício esperado]. |
+| **Critérios de Aceitação** | - [Critério 1: resultado esperado] <br> - [Critério 2: comportamento do sistema] <br> - [Critério 3: exceções ou restrições] |
+| **Prioridade** | [Alta / Média / Baixa] |
+| **Status** | [Não Validada / Validada] |
+| **Rastreabilidade** | [Código do requisito funcional relacionado] |
+| **Validação** | [Link para vídeo, teste ou registro de validação] |
 
-| ID        | Noção      | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
-| ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
-| LX000-01   | [Termo 1]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
-| LX000-02   | [Termo 2]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
-| LX000-03   | [Termo 3]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
-| LX000-04   | [Termo 4]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
-| LX000-05   | [Termo 5]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
 
 ---
 
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
-Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim, Antonio*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação dos Léxicos, Especificação Suplementar e Cenários.
+Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim, Letícia*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação da Histórias de Usuários.
 
 ---
 
@@ -70,8 +89,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
-| **Antonio Carvalho**   | 50%                 | Autor da página de léxicos  |
-| **Letícia Paiva**   | 50%                 | Contribuição na página  |
+| **Letícia Paiva**   | 100%                 | Autor da página de História de Usuários  |
 
 ---
 
@@ -79,11 +97,11 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
-| 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
+| 1.0    | 19/10/2025 | Criação da página de História de Usuários   | Letícia |        |
 
 
 ---
 
 ## Referências
 
-SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.
+[1] PRESSMAN, R. S.; MAXIM, B. R. *Engenharia de Software: uma abordagem profissional.* 8ª ed. Porto Alegre: AMGH, 2016. Capítulo 3 – Desenvolvimento Ágil, seção sobre *Extreme Programming (XP)* e *Histórias de Usuário*, p. 88–90.

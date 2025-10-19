@@ -1,4 +1,4 @@
-# Cenários
+# Cenários - Projeto SinPatinhas
 
 ---
 
@@ -68,7 +68,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Antonio Carvalho**| Criou os cenários 03 e 04, referentes aos requisitos **RF005 – Emissão de documento oficial de identificação (RG Pet)** e **RF007 – Atualização do status do animal (perdido, encontrado, óbito, transferência).**                           |
 | **Heloisa Santos**  | Criou os cenários 05 e 06, referentes aos requisitos **Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. (RFNI001)** e **Sistema de avaliação numérica para estabelecimentos. ( RFNI010)**.|
 | **Isaac Menezes**   | —                            |
-| **Letícia Paiva**   | Criou os cenários 01 e 02, referentes aos requisitos **Sistema de Adoção (RF030)** e **Alertas e Notificações Automáticas (RF031)**. |
+| **Letícia Paiva**   | Criou os cenários 01 e 02, referentes aos requisitos **Sistema de Adoção (RFNI016)** e **Alertas e Notificações Automáticas (RFNI017)**. |
 | **Luciano Machado** | —                            |
 | **Matheus Negrini** | Criou os cenários 05 e 06, referentes aos requisitos **Acesso à Área de Instruções Integradas (RF033)** e **Notificação Periódica de Atualização (RF044)** |
 | **Pedro Gomes**     | Criou os cenários 07 e 08, referentes aos requisitos **Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)** e **Notificação Periódica de Atualização (RF044)**                        |

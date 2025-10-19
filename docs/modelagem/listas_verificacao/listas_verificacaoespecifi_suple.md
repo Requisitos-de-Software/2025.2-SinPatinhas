@@ -32,7 +32,7 @@
 
 Os arquivos individuais foram consolidados em um único documento em formato PDF para consulta e registro no repositório.
 
-📎 **[Clique aqui para abrir o PDF unificado das listas individuais](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_verificacao_especificacao_suplementar_unificado.pdf){:target="_blank"}**
+📎 **[Clique aqui para abrir o PDF unificado das listas individuais](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_verificacao_especificacao_suplementar_unificado.pdf)**
 
 ---
 

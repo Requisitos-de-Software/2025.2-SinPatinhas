@@ -1,10 +1,10 @@
 # Cenários - Letícia Paiva
 
-## Cenário 01 — Sistema de Adoção (RF030)  
+## Cenário 01 — Sistema de Adoção (RFNI016)  
 
-A seguir, o cenário para o requisito **Sistema de Adoção (RF03)** é detalhado, utilizando a estrutura apresentada no material *Requisitos – Aula 10* de Milene Serrano e Maurício Serrano.  
+A seguir, o cenário para o requisito **Sistema de Adoção (RFNI016)** é detalhado, utilizando a estrutura apresentada no material *Requisitos – Aula 10* de Milene Serrano e Maurício Serrano.  
 
-**Tabela 1 – Cenário 01: Sistema de Adoção (RF030)**  
+**Tabela 1 – Cenário 01: Sistema de Adoção (RFNI016)**  
 *Autoria: Letícia Paiva*
 
 | **Componente** | **Descrição** |
@@ -22,9 +22,9 @@ A seguir, o cenário para o requisito **Sistema de Adoção (RF03)** é detalhad
 
 ---
 
-## Cenário 02 — Alertas e Notificações Automáticas (RF031)  
+## Cenário 02 — Alertas e Notificações Automáticas (RFNI017)  
 
-**Tabela 2 – Cenário 02: Alertas e Notificações Automáticas (RF031)**  
+**Tabela 2 – Cenário 02: Alertas e Notificações Automáticas (RFNI017)**  
 *Autoria: Letícia Paiva*
 
 | **Componente** | **Descrição** |
