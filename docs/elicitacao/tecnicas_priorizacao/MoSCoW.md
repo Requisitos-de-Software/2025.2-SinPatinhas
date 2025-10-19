@@ -1,6 +1,6 @@
 # Primeiros Resultados da Priorização dos Requisitos – Metodologia MoSCoW
 
-> Esta página apresenta os **resultados iniciais da priorização dos requisitos** elicitados para o sistema **SinPatinhas**, obtidos por meio da aplicação da metodologia **MoSCoW**.  
+> Esta página apresenta os **resultados iniciais da priorização dos requisitos** elicitados para o sistema **SinPatinhas**, obtidos por meio da aplicação da metodologia **MoSCoW** com os integrantes Antonio Carvalho e Pedro Oliveira priorizando com o tutor animal Douglas, o qual possui 23 anos de idade e é estudante de Engenharia de Software na Universidade de Brasília.  
 > 
 > A técnica foi aplicada antes da consolidação de requisitos funcionais, não funcionais, não implementados e agora, nesta página, está em alinhamento ao conjunto consolidado descritos na [página de Consolidação dos Requisitos Elicitados](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md).  
 >  
