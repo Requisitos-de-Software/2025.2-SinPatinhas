@@ -1,0 +1,89 @@
+# Histórias de Usuário – Projeto SinPatinhas
+
+---
+
+* [Link para validação de Histórias de Usuário]()
+
+---
+
+## Introdução
+
+O **léxico** é uma notação utilizada para definir, de forma padronizada, os **termos e expressões** empregados na linguagem do sistema.  
+Na **Engenharia de Requisitos**, ele desempenha um papel essencial ao identificar **palavras específicas do domínio de aplicação**, assegurando que todos os envolvidos no projeto compartilhem o mesmo entendimento dos conceitos <a id="anchor_1" href="#REF1">[1]</a>.
+
+Cada termo léxico é composto por dois elementos principais:
+
+- **Noção:** o significado literal do termo, ou aquilo que ele representa no sistema <a id="anchor_2" href="#REF2">[2]</a>.  
+- **Impacto:** a consequência prática ou efeito produzido pela utilização desse termo no contexto do projeto.
+
+No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **Léxico Ampliado da Linguagem (LAL)**, categorizando os símbolos conforme suas funções no domínio do sistema:
+
+- **Sujeito:** identifica quem executa as ações no sistema, como **Tutor**, **Veterinário** ou **Órgão Público**.  
+- **Verbo:** descreve as ações realizadas, como **Cadastrar**, **Consultar**, **Emitir**, **Atualizar**.  
+- **Objeto:** define os elementos manipulados ou gerados pelo sistema, como **Animal**, **Carteirinha**, **Registro Geral do Animal (RGA)**.  
+- **Estado:** indica situações específicas do sistema, como **Animal Adotado**, **Animal Perdido** ou **Cadastro Pendente**.
+
+---
+
+## Artefatos e Gravações Unitários
+
+| Participante | Página Específica |
+|---------------|------------------|
+| Antonio Carvalho | [Modelagem dos léxicos - Léxicos #LX001 - Léxico para #UC01 e #CEN03 (Cadastro de Tutor), #LX002 - Léxico para #UC01 e #CEN03 (Consulta de Dados), #LX003 - Léxico para #UC02 e #CEN04 (Gerenciamento de Adoções), #LX004 - Léxico para #UC02 e #CEN04 (Atualização Veterinária), #LX005 - Léxico para #UC02 e #CEN04 (Atualização de Status do Animal), #LX006 - Léxico para #UC01 e #CEN03 (Gerenciamento de Cadastro) e #LX007 - Léxico para #UC02 e #CEN04 (Monitoramento e Acompanhamento)](/modelagem/gravacoes/antonio/lexicos.md) |
+| Letícia Paiva | [Modelagem dos léxicos - Léxico 08 e 09 ](/modelagem/gravacoes/leticia/lexicos.md) |
+| Pedro Gomes | [Modelagem dos léxicos - Léxico 10 e 11](/modelagem/gravacoes/pedro/lexicos.md) |
+| Mateus Santos Negrini | [Modelagem dos léxicos - Léxico 12 e 13 ](/modelagem/gravacoes/leticia/lexicos.md) |
+| Heloisa Silva | [Modelagem dos léxicos - Léxico 14 e 15 ](/modelagem/gravacoes/mateus/lexicos.md) |
+| Isaac Menezes | [Modelagem dos léxicos - Léxicos 16, 17, 18, 19, 20, 21, 22](/modelagem/gravacoes/isaac/lexicos.md) |
+---
+
+## Estrutura para Criação de um Léxico
+
+A criação de um léxico tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
+A tabela a seguir apresenta os componentes utilizados.
+
+**Tabela 1 – Estrutura para Criação de um Léxico**  
+*Autoria: Antonio Carvalho*
+
+## Exemplo de Estrutura de Léxico
+
+### #LX000 - Léxico para #UC00 e #CEN00 (Título descritivo do caso)
+
+| ID        | Noção      | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
+| ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
+| LX000-01   | [Termo 1]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-02   | [Termo 2]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-03   | [Termo 3]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-04   | [Termo 4]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+| LX000-05   | [Termo 5]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+
+---
+
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
+Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim, Antonio*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação dos Léxicos, Especificação Suplementar e Cenários.
+
+---
+
+## Tabela de Contribuição
+
+| **Nome**              | **Contribuição (%)** | **Função**                  |
+|------------------------|----------------------|-----------------------------|
+| **Antonio Carvalho**   | 50%                 | Autor da página de léxicos  |
+| **Letícia Paiva**   | 50%                 | Contribuição na página  |
+
+---
+
+## Tabela de Versionamento
+
+| Versão | Data       | Descrição                                 | Autores | Revisores |
+|:------:|:-----------|:------------------------------------------|:--------|:-----------|
+| 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
+
+
+---
+
+## Referências
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.
