@@ -57,7 +57,8 @@
 
 ## Referência para elaboração desses artefatos em específico: Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. 
 
-![Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. (Especificado em "Referências")](../../../assets/images/modelagem/antonio_user_case.png)
+[Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. (Especificado em "Referências")](../../../assets/PDFs/user_cases_e_especificacao.pdf)
+
 
 ---
 
