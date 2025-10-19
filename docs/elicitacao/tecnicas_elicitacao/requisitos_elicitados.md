@@ -8,11 +8,12 @@
 
 ### Requisitos Funcionais Implementados
 
-<p><strong>Tabela 1 – Conjunto de requisitos funcionais implementados elicitados.</strong></p>
+## **Tabela 1 – Conjunto de requisitos funcionais implementados e elicitados**
 
-| Código  | Descrição | Fonte |
-| [RF001](#rf001) | Cadastro de tutores com dados pessoais. | Documentos/Entrevistas |
-| [RF002](#rf002) | Cadastro de animais vinculados ao tutor. | Documentos/Entrevistas |
+| Código | Descrição | Fonte |
+| :--- | :--- | :--- |
+| [RF001](#rf001) | Cadastro de tutores com dados pessoais. | Documentos / Entrevistas |
+| [RF002](#rf002) | Cadastro de animais vinculados ao tutor. | Documentos / Entrevistas |
 | [RF003](#rf003) | Geração de número de Registro Geral do Animal (RGA). | Documentos |
 | [RF004](#rf004) | Associação de microchip ao cadastro. | Documentos |
 | [RF005](#rf005) | Emissão de documento oficial de identificação (RG Pet). | Documentos |
@@ -51,6 +52,7 @@
 | [RF038](#rf038) | Cadastro de ONGs/associações para controle de animais resgatados/adotados. | Entrevista 3 |
 | [RF039](#rf039) | Rastreamento de doações/adoções. | Entrevista 3 |
 | [RF040](#rf040) | Transferência de tutor preservando histórico. | Entrevista 3 |
+
 
 ### Requisitos Funcionais Não Implementados
 

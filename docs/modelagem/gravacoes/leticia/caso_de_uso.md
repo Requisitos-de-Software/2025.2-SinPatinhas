@@ -6,9 +6,9 @@
 
 <a id="uc003"></a>
 
-<font><p style="text-align: center">**Tabela 01** – Caso de Uso 03 – ESistema de Adoção (RF30)</p></font>
+<font><p style="text-align: center">**Tabela 01** – Caso de Uso 03 – Sistema de Adoção (RFNI016)</p></font>
 
-# Caso de Uso – Sistema de Adoção (RF30)
+# Caso de Uso – Sistema de Adoção (RFNI016)
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
@@ -22,7 +22,7 @@
 | **Fluxos de Exceção** | 1. O animal selecionado já foi adotado.<br>→ O sistema exibe um alerta de indisponibilidade.<br><br>2. O sistema apresenta uma falha de conexão ao tentar registrar o interesse.<br>→ Uma mensagem de erro é exibida. |
 | **Pós-condições** | A manifestação de interesse do candidato é registrada no sistema. |
 | **Data de Criação** | 11/10/2025 |
-| **Rastreabilidade** | `RF03` |
+| **Rastreabilidade** | `RFNI016` |
 | **Cenário Relacionado** | `#CEN01` |
 | **Léxico Relacionado** | `#LX008` |
 
@@ -38,7 +38,7 @@
 
 <font><p style="text-align: center">**Tabela 02** – Caso de Uso 02 – Alertas e Notificações Automáticas</p></font>
 
-# Alertas e Notificações Automáticas (RF31)
+# Alertas e Notificações Automáticas (RFNI017)
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
@@ -52,7 +52,7 @@
 | **Fluxos de Exceção** | 1. O ator insere uma data inválida *(ex: uma data no passado).*<br>→ O sistema exibe uma mensagem de erro e não permite o agendamento.<br><br>2. O sistema falha ao tentar salvar o lembrete.<br>→ Uma mensagem de erro é exibida. |
 | **Pós-condições** | Um novo lembrete de saúde é criado e associado ao perfil do animal no sistema. |
 | **Data de Criação** | 11/10/2025 |
-| **Rastreabilidade** | `RF04` |
+| **Rastreabilidade** | `RFNI017` |
 | **Cenário Relacionado** | `#CEN02` |
 | **Léxico Relacionado** | `#LX004` |
 
