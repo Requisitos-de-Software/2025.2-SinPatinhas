@@ -108,15 +108,15 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 
 #### ❌ Requisitos Não Implementados (RF/RNF)
 
-- **RF030** – Funcionalidade para adoção de animais (entrevista Gustavo)  
-- **RF031** – Alertas e notificações automáticas (entrevista Gustavo)  
-- **RNF007** – Integração direta com parceiros (entrevista Gustavo)  
-- **RF033** – Área de instruções integradas/manual digital (entrevista Dra. Ilma Coutinho)  
-- **RF042** – Emissão de alertas de acesso suspeito (entrevista Dra. Ilma Coutinho)  
-- **RF043** – Notificação periódica aos tutores (entrevista Dra. Ilma Coutinho)  
-- **RF044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho)  
-- **RNF004** – Acesso via web e mobile (entrevista Ana Beatriz)  
-- **RNF005** – Funcionalidades offline (entrevista Ana Beatriz)  
+<a id="rfni030"></a>**RF030** – Funcionalidade para adoção de animais (entrevista Gustavo)  
+<a id="rfni031"></a>**RF031** – Alertas e notificações automáticas (entrevista Gustavo)  
+<a id="rnfni007"></a>**RNF007** – Integração direta com parceiros (entrevista Gustavo)  
+<a id="rfni033"></a>**RF033** – Área de instruções integradas/manual digital (entrevista Dra. Ilma Coutinho)  
+<a id="rfni042"></a>**RF042** – Emissão de alertas de acesso suspeito (entrevista Dra. Ilma Coutinho)  
+<a id="rfni043"></a>**RF043** – Notificação periódica aos tutores (entrevista Dra. Ilma Coutinho)  
+<a id="rfni044"></a>**RF044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho)  
+<a id="rnfni004"></a>**RNF004** – Acesso via web e mobile (entrevista Ana Beatriz)  
+<a id="rnfni005"></a>**RNF005** – Funcionalidades offline (entrevista Ana Beatriz)  
 
 ---
 
@@ -269,7 +269,7 @@ Essas observações permitiram identificar boas práticas e oportunidades de mel
 | 1.0    | 12/09/2025 | Criação da página de Elicitação de Requisitos     | Letícia Paiva     | Antonio   |
 | 1.1    | 24/09/2025 | Adição do cronograma de elicitação                | Pedro Gomes       | Antonio   |
 | 1.2    | 24/09/2025 | Inclusão de requisitos elicitados                 | Pedro e Letícia   | Antonio   |
-| 1.3    | 26/09/2025 | Entrevista com Ana Beatriz e requisitos associados | Antonio e Letícia | Pedro     |
+| 1.3    | 26/09/2025 | Entrevista com Ana Beatriz e requisitos associados | Pedro e Antonio | Letícia     |
 | 1.3    | 30/09/2025 | Alteração de estrutura | Antonio | Pedro     |
 | 1.4    | 01/10/2025 |  Entrevista com Gustavo e requisitos associados | Leticia | Pedro     |
 | 1.5    | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus | Heloisa     |

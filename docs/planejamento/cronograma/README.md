@@ -92,7 +92,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>23/09/2025</td><td>Definição do perfil de usuários</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>28/09/2025</td><td>Levantamento da página de perfis de usuários</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td>25/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>25/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr><tr><td>27/09/2025</td><td>Upload da página das técnicas de elicitação no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>27/09/2025</td><td>Upload da página das técnicas de priorização no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>29/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
 <tr><td>30/09/2025</td><td>Inspeção Etapa 2</td><td>Antonio e Heloisa</td><td>–</td><td>–</td></tr>
@@ -251,6 +251,14 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </table>
 
 <p style="text-align: center;"><b>Tabela 12</b> – Cronograma Executado do Projeto Final</p>
+
+---
+
+## Tabela de Contribuições
+
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| Antonio Carvalho | 100% | Autor da página de Especificação Suplementar |
 
 ---
 
