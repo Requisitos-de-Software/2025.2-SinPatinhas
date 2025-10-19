@@ -26,21 +26,6 @@ Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação a
 
 * [Link para o diagrama de casos de uso](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=v2_caso_de_uso_sinpatinhas.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1JOocwPjoZbvNTRfiIlNnfZpdQCFAApOf%26export%3Ddownload)
 
-
-## Artefatos e Gravações Unitários
-
-| Participante | Página Específica |
-|---------------|------------------|
-| **Antonio Carvalho** | [Modelagem dos casos de uso - Caso de uso UC001 – Sistema de Adoção de Animais RFNI016 e #UC002 – Notificação Periódica para Atualização de Dados e Fotos do Animal RFNI021](/modelagem/gravacoes/antonio/caso_de_uso.md) |
-| **Letícia Paiva** | [Modelagem dos casos de uso - Caso de uso 03 e 04](/modelagem/gravacoes/leticia/caso_de_uso.md) |
-| **Pedro Gomes** | [Modelagem dos casos de uso - Caso de uso 05 e 06](/modelagem/gravacoes/pedro/caso_de_uso.md) |
-| **Mateus Santos Negrini** | [Modelagem dos casos de uso - Caso de uso 07 e 08](/modelagem/gravacoes/pedro/caso_de_uso.md) |
-| **Heloisa** | [Modelagem dos casos de uso - Caso de uso 09 e 10](/modelagem/gravacoes/mateus/caso_de_uso.md) |
-| **Heloisa** | [Modelagem dos casos de uso - Caso de uso 09 e 10](/modelagem/gravacoes/heloisa/casos_de_uso.md) |
-| **Isaac Menezes** | [Modelagem dos casos de uso - Caso de uso 11 e 12](/modelagem/gravacoes/isaac/caso_de_uso.md) |
-
----
-
 ## Estrutura para Criação de um Caso de Uso
 
 A criação de um caso de uso deve seguir uma estrutura organizada que descreva de forma clara as **ações, condições e resultados esperados**.  
@@ -67,11 +52,28 @@ A tabela a seguir apresenta os componentes utilizados.
 
 ---
 
+## Artefatos e Gravações Unitários
+| **Participantes** | **Página Específica** | **Descrição** |
+|---------------|------------------|------------------|
+| **Antonio Carvalho** | [#UC001](/modelagem/gravacoes/antonio/caso_de_uso.md) | Sistema de Adoção de Animais (RNFI016) |
+|                      | [#UC002](/modelagem/gravacoes/antonio/caso_de_uso.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal (RNFI021) |
+| **Letícia Paiva**    | [#UC003](/modelagem/gravacoes/leticia/caso_de_uso.md) | Sistema de adoção (RNFI016) |
+|                      | [#UC004](/modelagem/gravacoes/leticia/caso_de_uso.md) | Alertas e Notificações Automáticas (RNFI017) |
+| **Pedro Gomes**      | [#UC005](/modelagem/gravacoes/pedro/caso_de_uso.md)   | Aplicativo Móvel |
+|                      | [#UC006](/modelagem/gravacoes/pedro/caso_de_uso.md)   | Acesso Offline à Ficha do Animal |
+| **Mateus Santos Negrini** | [#UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | Acesso à Área de Instruções Integradas (RF33) |
+|                           | [#UC008](/modelagem/gravacoes/mateus/caso_de_uso.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal (RF44) |
+| **Heloisa Silva**         | [#UC009](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados (RFNI001) |
+|                           | [#UC010](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Sistema de avaliação numérica para estabelecimentos (RFNI010) |
+| **Isaac Menezes**         | [#UC011](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas da clínica/hospital (RNFI014) |
+|                           | [#UC012](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas do profissional (RNFI015) |
+
 ## Tabela de Contribuição
 
 | Nome | Contribuição (%) | Função |
 |------|------------------|--------|
-| Antonio Carvalho | 100% | Autor da página de apresentação de casos de uso |
+| Antonio Carvalho | 50% | Autor da página de apresentação de casos de uso |
+| Isaac Menezes | 50% | Refatoração da tabela de artefatos |
  
 
 ---
@@ -81,6 +83,7 @@ A tabela a seguir apresenta os componentes utilizados.
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
 | 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | Leticia |
+| 1.1 | 19/10/2025 | Refatoração da tabela de artefatos | Isaac | Antonio |
 
 ---
 
