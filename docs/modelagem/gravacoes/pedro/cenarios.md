@@ -1,6 +1,6 @@
 # Cenários – Pedro Gomes
 
-## Cenário 05: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)
+## Cenário 07: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)
 
 <a id="cnr007"></a>
 
@@ -25,7 +25,7 @@ A seguir, o cenário para o requisito **Aplicativo Móvel "SINPatinhas Agente" (
 
 ---
 
-## Cenário 06: Acesso Offline (RNF06)
+## Cenário 08: Acesso Offline (RNF06)
 
 <a id="cnr008"></a>
 
