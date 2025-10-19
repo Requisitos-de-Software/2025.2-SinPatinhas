@@ -104,7 +104,7 @@ details a:hover {
   - [Perfis de Usuário](/elicitacao/perfis_usuarios/perfis-de-usuario)
   - [Técnicas de Elicitação](/elicitacao/tecnicas_elicitacao/tec_elicitacao)
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
-  - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/MoSCoW.md)
+  - [Técnica MoSCoW](/elicitacao/tecnicas_priorizacao/MoSCoW.md)
   - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
   - [Inspeção grupo+1](/elicitacao/elicitacao_grupo_2/elicitacao_grupo_2)
   - [Experimentação com LLMs](/elicitacao/tecnicas_elicitacao/experimentacaoLLMs.md)
