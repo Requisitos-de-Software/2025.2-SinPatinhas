@@ -1,7 +1,5 @@
 # Léxicos – Projeto SinPatinhas
 
----
-
 * [Link para validação de léxicos com tutor de animal](https://www.youtube.com/watch?v=q3XY4oEoQQo)
 
 ---
@@ -23,20 +21,6 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 - **Objeto:** define os elementos manipulados ou gerados pelo sistema, como **Animal**, **Carteirinha**, **Registro Geral do Animal (RGA)**.  
 - **Estado:** indica situações específicas do sistema, como **Animal Adotado**, **Animal Perdido** ou **Cadastro Pendente**.
 
----
-
-## Artefatos e Gravações Unitários
-
-| Participante | Página Específica |
-|---------------|------------------|
-| Antonio Carvalho | [Modelagem dos léxicos - Léxicos #LX001 - Léxico para #UC01 e #CEN03 (Cadastro de Tutor), #LX002 - Léxico para #UC01 e #CEN03 (Consulta de Dados), #LX003 - Léxico para #UC02 e #CEN04 (Gerenciamento de Adoções), #LX004 - Léxico para #UC02 e #CEN04 (Atualização Veterinária), #LX005 - Léxico para #UC02 e #CEN04 (Atualização de Status do Animal), #LX006 - Léxico para #UC01 e #CEN03 (Gerenciamento de Cadastro) e #LX007 - Léxico para #UC02 e #CEN04 (Monitoramento e Acompanhamento)](/modelagem/gravacoes/antonio/lexicos.md) |
-| Letícia Paiva | [Modelagem dos léxicos - Léxico 08 e 09 ](/modelagem/gravacoes/leticia/lexicos.md) |
-| Pedro Gomes | [Modelagem dos léxicos - Léxico 10 e 11](/modelagem/gravacoes/pedro/lexicos.md) |
-| Mateus Santos Negrini | [Modelagem dos léxicos - Léxico 12 e 13 ](/modelagem/gravacoes/leticia/lexicos.md) |
-| Heloisa Silva | [Modelagem dos léxicos - Léxico 14 e 15 ](/modelagem/gravacoes/mateus/lexicos.md) |
-| Isaac Menezes | [Modelagem dos léxicos - Léxicos 16, 17, 18, 19, 20, 21, 22](/modelagem/gravacoes/isaac/lexicos.md) |
----
-
 ## Estrutura para Criação de um Léxico
 
 A criação de um léxico tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
@@ -57,6 +41,33 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX000-04   | [Termo 4]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
 | LX000-05   | [Termo 5]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
 
+## Artefatos e Gravações Unitários
+
+| **Participantes** | **Página Específica** | **Descrição** |
+|---------------|------------------|------------------|
+| **Antonio Carvalho** | [#LX001](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC01 E #CEN03 - Cadastro de Tutor |
+|                      | [#LX002](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC01 e #CEN03 - Consulta de Dados |
+|                      | [#LX003](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC02 e #CEN04 - Gerenciamento de Adoções |
+|                      | [#LX004](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC02 e #CEN04 - Atualização Veterinária |
+|                      | [#LX005](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC02 e #CEN04 - Atualização de Status do Animal |
+|                      | [#LX006](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC01 e #CEN03 - Gerenciamento de Cadastro |
+|                      | [#LX007](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC02 e #CEN04 - Monitoramento e Acompanhamento |
+| **Letícia Paiva**    | [#LX008](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RFNI016) |
+|                      | [#LX009](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas e Notificações Automáticas (RFNI017) |
+| **Pedro Gomes**      | [#LX010](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 07 |
+|                      | [#LX011](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 08 |
+| **Mateus Santos Negrini** | [#LX012](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RF030) |
+|                           | [#LX013](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas de Notificações Automáticas (RF31) |
+| **Heloisa Silva**         | [#LX014](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC09 e #CEN05 - Sistema de Adoção (RFNI001) |
+|                           | [#LX015](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC010 e #CEN06 - Alertas e Notificações Automáticas (RFNI10) |
+| **Isaac Menezes**         | [#LX016](/modelagem/gravacoes/isaac/lexicos.md) | Indicador Visual da Média (RNFI014 e RNFI015) |
+|                           | [#LX017](/modelagem/gravacoes/isaac/lexicos.md) | Usuário (RNFI014 e RNFI015) |
+|                           | [#LX018](/modelagem/gravacoes/isaac/lexicos.md) | Página da Clínica (RNFI014 e RNFI015) |
+|                           | [#LX019](/modelagem/gravacoes/isaac/lexicos.md) | Profissional da área (RNFI014 e RNFI015) |
+|                           | [#LX020](/modelagem/gravacoes/isaac/lexicos.md) | Navegar (RNFI014 e RNFI015) |
+|                           | [#LX021](/modelagem/gravacoes/isaac/lexicos.md) | Média da clínica (RNFI014 e RNFI015) |
+|                           | [#LX022](/modelagem/gravacoes/isaac/lexicos.md) | Média do profissional (RNFI014 e RNFI015) |
+
 ---
 
 ## Agradecimentos
@@ -64,14 +75,13 @@ A tabela a seguir apresenta os componentes utilizados.
 Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
 Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim, Antonio*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação dos Léxicos, Especificação Suplementar e Cenários.
 
----
-
 ## Tabela de Contribuição
 
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
-| **Antonio Carvalho**   | 50%                 | Autor da página de léxicos  |
-| **Letícia Paiva**   | 50%                 | Contribuição na página  |
+| **Antonio Carvalho**   | 33%                 | Autor da página de léxicos  |
+| **Letícia Paiva**   | 33%                 | Contribuição na página  |
+| **Isaac Menezes** | 33% | Refatoração da tabela de artefatos |
 
 ---
 
@@ -80,6 +90,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 | Versão | Data       | Descrição                                 | Autores | Revisores |
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
 | 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio | Letícia       |
+| 1.1 | 19/10/2025 | Refatoração da tabela de artefatos | Isaac | Antonio |
 
 
 ---

@@ -49,18 +49,18 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Nome**            | **Cenário** | **Descrição do requisito** |
 |---------------------|-------------|-----------------------------|
 | **Letícia Paiva**   | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RF030**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Letícia Paiva**   | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RF031**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|    | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RF031**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Antonio Carvalho**| [Cenário 03](/modelagem/gravacoes/antonio/cenarios.md)  | Emissão de documento oficial de identificação (RG Pet) - [**RF005**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Antonio Carvalho**| [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Atualização do status do animal (perdido, encontrado, óbito, transferência) - [**RF007**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Atualização do status do animal (perdido, encontrado, óbito, transferência) - [**RF007**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Heloisa Santos**  | [Cenário 05](/modelagem/gravacoes/heloisa/cenarios.md)  | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - [**RFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Heloisa Santos**  | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|   | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Pedro Gomes**     | [Cenário 07](/modelagem/gravacoes/pedro/cenarios.md)  | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RF05**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Pedro Gomes**     | [Cenário 08](/modelagem/gravacoes/pedro/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|      | [Cenário 08](/modelagem/gravacoes/pedro/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Isaac Menezes**   | [Cenário 09](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos na clínica/hospital - [**RFNI014**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Isaac Menezes**   | [Cenário 10](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos por médico - [**RFNI015**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|    | [Cenário 10](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos por médico - [**RFNI015**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Luciano Machado** | —           | — |
 | **Matheus Negrini** | [Cenário 11](/modelagem/gravacoes/mateus/cenarios.md)  | Acesso à Área de Instruções Integradas - [**RF033**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Matheus Negrini** | [Cenário 12](/modelagem/gravacoes/mateus/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|  | [Cenário 12](/modelagem/gravacoes/mateus/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
 
 ## Agradecimentos
