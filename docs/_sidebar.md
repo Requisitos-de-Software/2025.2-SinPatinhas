@@ -76,7 +76,9 @@ details a:hover {
 <details>
   <summary><strong>Inspeções</strong></summary>
   
+  - [Inspeção do Grupo 02 - Entrega 2](/inspecoes/inspecao_g2_e2)
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
+  
 </details>
 <details>
   <summary><strong>Pré-rastreabilidade</strong></summary>
@@ -126,7 +128,7 @@ details a:hover {
   <summary><strong>Agilidade</strong></summary>
 
   - [Backlog](/modelagem/agilidade/backlog.md)
-  - [NFR Framework](/modelagem/agilidade/nfr_framework.md)
+  - [NFR Framework](/modelagem/agilidade/NFR_framework.md)
   - [Histórias de Usuário](/modelagem/agilidade/historias_de_usuario.md)
 </details>
 
