@@ -56,6 +56,6 @@ A 3ª inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizad
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 16/10/2025 | Criação da página de inspeção do grupo 02 | Heloisa | - |
+| 1.0 | 16/10/2025 | Criação da página de inspeção do grupo 02 | Heloisa | Letícia |
 
 ---
