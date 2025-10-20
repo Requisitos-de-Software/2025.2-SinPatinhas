@@ -2,7 +2,20 @@
 
 ---
 
-* [Link para validação de critérios utilizados para especificação suplementar com tutor de animal](https://www.youtube.com/watch?v=VDm2lGHywDw)
+## Validação com tutor de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 10 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDm2lGHywDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de especificação suplementar. |
 
 ---
 
@@ -55,15 +68,19 @@ Essa metodologia visa garantir que todos os elementos essenciais à construção
 
 ## Artefatos e Gravações Unitários
 
-| **Participante** | **Página Específica** |
-|------------------|------------------------|
-| Antonio Carvalho | [Modelagem das especificações suplementares - Especificações #ES001 - Usabilidade (U) e #ES002 - Segurança e Confiabilidade (R) ](/modelagem/gravacoes/antonio/especificacao.md) |
-| Letícia Paiva | [Modelagem das especificações suplementares - Especificações 03 e 04](/modelagem/gravacoes/leticia/especificacao.md) |
-| Pedro Gomes | [Modelagem das especificações suplementares - Especificações 05 e 06](/modelagem/gravacoes/pedro/especificacao.md) |
-| Mateus Santos Negrini | [Modelagem das especificações suplementares - Especificações 07 e 08](/modelagem/gravacoes/mateus/especificacao.md) |
-| Isaac Menezes | [Modelagem das especificações suplementares - Especificações 09 e 10](/modelagem/gravacoes/isaac/especificacao.md) |
+| **Participantes** | **Página Específica** | **Descrição** |
+|---------------|------------------|------------------|
+| **Antonio Carvalho** | [#ES001](/modelagem/gravacoes/antonio/especificacao.md) | Usabilidade (U) |
+|                      | [#ES002](/modelagem/gravacoes/antonio/especificacao.md) | Segurança e Confiabilidade (R) |
+| **Letícia Paiva**    | [#ES003](/modelagem/gravacoes/leticia/especificacao.md) | |
+|                      | [#ES004](/modelagem/gravacoes/leticia/especificacao.md) | |
+| **Pedro Gomes**      | [#ES005](/modelagem/gravacoes/pedro/especificacao.md)   |  |
+|                      | [#ES006](/modelagem/gravacoes/pedro/especificacao.md)   |  |
+| **Mateus Santos Negrini** | [#ES007](/modelagem/gravacoes/mateus/especificacao.md) |  |
+|                           | [#ES008](/modelagem/gravacoes/mateus/especificacao.md) |  |
+| **Isaac Menezes**         | [#ES009](/modelagem/gravacoes/isaac/especificacao.md) |  |
+|                           | [#ES010](/modelagem/gravacoes/isaac/especificacao.md) |  |
 
----
 
 ### Finalidade
 

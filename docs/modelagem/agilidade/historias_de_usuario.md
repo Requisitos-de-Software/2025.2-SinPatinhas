@@ -2,42 +2,74 @@
 
 ---
 
-* [Link para validação de Histórias de Usuário]()
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 20 de outubro.
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato histórias de usuário. |
 
 ---
 
 ## Introdução
 
-Este artefato documenta as **histórias de usuário desenvolvidas para o sistema**, seguindo a **metodologia ágil de desenvolvimento**. As histórias são elaboradas na **perspectiva do usuário final**, expressando suas necessidades de forma simples e objetiva.  
-Cada história representa uma funcionalidade do sistema e contém **critérios de aceitação claros**, que orientam tanto o processo de desenvolvimento quanto a **validação das entregas**. O foco é garantir que cada incremento de software gere valor real para o usuário e atenda às expectativas do cliente [1].
+Este artefato documenta as **Histórias de Usuário do Sistema SinPatinhas**, conforme os princípios da **modelagem ágil de requisitos** utilizados em metodologias como **Scrum** e **Extreme Programming (XP)**.  
 
-As histórias são redigidas em linguagem natural, facilitando o entendimento entre os membros da equipe e os stakeholders. Além disso, **servem como base para o planejamento das iterações**, priorização das tarefas e realização dos **testes de aceitação** durante as fases de implementação [1].
+De acordo com **Serrano e Serrano (2023)**, as histórias de usuário são **itens do Product Backlog** que descrevem funcionalidades sob a perspectiva do cliente, com foco em *“o que deve ser feito”* e não em *“como deve ser feito”*.  
 
----
-
-### **Objetivo**
-
-O objetivo deste artefato é **registrar, organizar e rastrear** as histórias de usuário que compõem o produto em desenvolvimento. Por meio delas, busca-se:
-
-- **Garantir clareza nos requisitos funcionais**, traduzindo as necessidades do usuário em linguagem acessível e operacional.  
-- **Guiar o desenvolvimento iterativo e incremental**, permitindo entregas contínuas de valor.  
-- **Facilitar a comunicação** entre equipe técnica e cliente, assegurando alinhamento de expectativas.  
-- **Definir critérios objetivos de aceitação**, que possibilitam a verificação e validação de cada funcionalidade entregue [1].
+Essas histórias possibilitam a comunicação entre equipe técnica e stakeholders, garantindo entregas de valor incremental e validável em cada ciclo de desenvolvimento.
 
 ---
 
-### **Metodologia**
+## Objetivo
 
-As histórias de usuário foram construídas conforme os princípios da **Extreme Programming (XP)**, adaptados ao contexto do projeto. O processo metodológico envolve:
+O objetivo deste artefato é **registrar, organizar e rastrear** as histórias de usuário que representam os requisitos funcionais do sistema SinPatinhas. Assim, busca-se:
 
-1. **Criação das histórias** – Escritas pelo cliente ou em conjunto com a equipe, descrevendo o que o usuário deseja alcançar [1].  
-2. **Priorização** – As histórias recebem um valor de negócio conforme sua importância para o cliente [1].  
-3. **Estimativa** – A equipe avalia o esforço de implementação, geralmente medido em semanas ou pontos de história [1].  
-4. **Planejamento de iterações** – As histórias priorizadas são agrupadas em ciclos curtos (iterações) que resultam em um incremento funcional do software [1].  
-5. **Implementação e testes** – Cada história guia o desenvolvimento do código e serve de base para os testes de aceitação [1].  
-6. **Validação e feedback** – O cliente valida as entregas e pode ajustar, adicionar ou dividir histórias conforme novas necessidades surgem [1].
+- Traduzir necessidades reais em funcionalidades compreensíveis;  
+- Apoiar o desenvolvimento iterativo e incremental;  
+- Estabelecer critérios claros de aceitação;  
+- Promover rastreabilidade com os requisitos funcionais e o backlog do produto.
 
-Esse processo garante **entregas contínuas e adaptabilidade**, permitindo respostas rápidas a mudanças de requisitos e aprimoramentos constantes [1].
+---
+
+## Metodologia
+
+As histórias de usuário foram estruturadas com base na **Extreme Programming (XP)** e nos conceitos de **Product Backlog Item (PBI)** do **Scrum** (SERRANO; SERRANO, 2023).  
+O processo seguiu as seguintes etapas:
+
+1. **Criação das Histórias:** elaboradas a partir da visão do usuário (*Como [persona], quero [função], para [benefício]*).  
+2. **Priorização:** conforme o valor de negócio atribuído pelo Product Owner.  
+3. **Estimativa:** em pontos de história ou esforço relativo.  
+4. **Planejamento das Sprints:** seleção das histórias priorizadas para cada iteração.  
+5. **Implementação e Testes de Aceitação:** execução e validação das funcionalidades.  
+6. **Revisão e Feedback:** adaptação contínua conforme os resultados obtidos.
+
+---
+
+## Estrutura de História de Usuário
+
+
+**Tabela 1 – Estrutura para criação de uma história de usuário**
+*Autoria: Letícia Paiva e Antonio Carvalho*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU00X – Identificador da História |
+| **Tema** | Módulo ou funcionalidade principal |
+| **Descrição** | *Quem* [tipo de usuário], *quer* [ação], *para que* [finalidade]. |
+| **Critérios de Aceitação** | Itens observáveis para validar o sucesso da história. |
+| **Prioridade** | Alta / Média / Baixa |
+| **Status** | Não validada / Validada |
+| **Rastreabilidade** | Código do requisito relacionado |
+| **Validação** | Link para teste, gravação ou relatório de validação |
 
 ---
 
@@ -46,7 +78,7 @@ Esse processo garante **entregas contínuas e adaptabilidade**, permitindo respo
 | **Participante** | **Página Específica** |
 |-------------------|------------------------|
 | Antonio Carvalho | [Histórias de Usuário](/modelagem/gravacoes/antonio/historias.md) |
-| Letícia Paiva | [Histórias de Usuário 01 e 02 – Sistema de Adoção (RFNI016) e Alertas e Notificações Automáticas (RFNI017)](/modelagem/gravacoes/leticia/historias.md) |
+| Letícia Paiva | [Histórias de Usuário – RFNI016 e RFNI017](/modelagem/gravacoes/leticia/historias.md) |
 | Pedro Gomes | [Histórias de Usuário](/modelagem/gravacoes/pedro/historias.md) |
 | Mateus Santos Negrini | [Histórias de Usuário](/modelagem/gravacoes/mateus/historias.md) |
 | Heloisa Silva | [Histórias de Usuário](/modelagem/gravacoes/heloisa/historias.md) |
@@ -54,55 +86,26 @@ Esse processo garante **entregas contínuas e adaptabilidade**, permitindo respo
 
 ---
 
-## Estrutura para Criação de História de Usuário
+## Tabela de Contribuição
 
-A criação tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
-A tabela a seguir apresenta os componentes utilizados.
-
-**Tabela 1 – Estrutura para Criação de um Léxico**  
-*Autoria: Letícia Paiva*
-
-### **Modelo de História de Usuário**
-
-| **Campo** | **Descrição** |
-|------------|----------------|
-| **Identificação** | HUx (História de Usuário número x) |
-| **Tema** | [Área ou módulo do sistema relacionado] |
-| **Descrição** | *Como* [tipo de usuário], *eu quero* [ação desejada], *para que* [benefício esperado]. |
-| **Critérios de Aceitação** | - [Critério 1: resultado esperado] <br> - [Critério 2: comportamento do sistema] <br> - [Critério 3: exceções ou restrições] |
-| **Prioridade** | [Alta / Média / Baixa] |
-| **Status** | [Não Validada / Validada] |
-| **Rastreabilidade** | [Código do requisito funcional relacionado] |
-| **Validação** | [Link para vídeo, teste ou registro de validação] |
-
+| Nome | Contribuição (%) | Função |
+|------|------------------|--------|
+| Letícia Paiva | 50% | Co-autor da página de apresentação de histórias de usuário |
+| Antonio Carvalho | 50% | Co-autora da página de apresentação de histórias de usuário |
+ 
 
 ---
 
 ## Agradecimentos
 
-Agradeço o apoio das ferramentas de Inteligência Artificial (IA) Generativa, em especial o uso do ChatGPT (OpenAI), que contribuiu para *formatação textual, revisão linguística, padronização e aprimoramento da clareza técnica deste documento*.
-Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui descritos — incluindo a definição dos cenários, requisitos e estruturas — foram elaborados por mim, Letícia*, sendo a IA utilizada como apoio redacional e organizacional no processo de documentação da Histórias de Usuários.
+Agradeço o apoio das ferramentas de IA generativa (como ChatGPT – OpenAI) utilizadas para **revisão, formatação e padronização técnica do texto**.  
+O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antonio Carvalho** e **Letícia Paiva**, com base nos fundamentos de **Serrano & Serrano (2023)** e **Pressman & Maxim (2016)**.
 
 ---
 
-## Tabela de Contribuição
+## Referências Bibliográficas
 
-| **Nome**              | **Contribuição (%)** | **Função**                  |
-|------------------------|----------------------|-----------------------------|
-| **Letícia Paiva**   | 50%                 | Autor da página de História de Usuários  |
-| **Antonio Carvalho**   | 50%                 | Autor da página de História de Usuários  |
+- SERRANO, Milene; SERRANO, Maurício. *Product Backlog e User Stories – Aula 15*. Material de aula, Universidade de Brasília (UnB), 2025.
+- PRESSMAN, R. S.; MAXIM, B. R. *Engenharia de Software: uma abordagem profissional.* 8ª ed. Porto Alegre: AMGH, 2016. Capítulo 3 – Desenvolvimento Ágil, seção sobre Extreme Programming (XP) e Histórias de Usuário, p. 88–90.
 
 ---
-
-## Tabela de Versionamento
-
-| Versão | Data       | Descrição                                 | Autores | Revisores |
-|:------:|:-----------|:------------------------------------------|:--------|:-----------|
-| 1.0    | 19/10/2025 | Criação da página de História de Usuários   | Letícia e Antonio |        |
-
-
----
-
-## Referências
-
-[1] PRESSMAN, R. S.; MAXIM, B. R. *Engenharia de Software: uma abordagem profissional.* 8ª ed. Porto Alegre: AMGH, 2016. Capítulo 3 – Desenvolvimento Ágil, seção sobre *Extreme Programming (XP)* e *Histórias de Usuário*, p. 88–90.

@@ -2,7 +2,20 @@
 
 ---
 
-* [Link para validação de casos de uso com tutora de animal](https://www.youtube.com/watch?v=veQV-Rdvk44)
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veQV-Rdvk44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de casos de uso. |
 
 ---
 
@@ -68,12 +81,14 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Isaac Menezes**         | [#UC011](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas da clínica/hospital (RNFI014) |
 |                           | [#UC012](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas do profissional (RNFI015) |
 
+---
+
 ## Tabela de Contribuição
 
 | Nome | Contribuição (%) | Função |
 |------|------------------|--------|
-| Antonio Carvalho | 50% | Autor da página de apresentação de casos de uso |
-| Isaac Menezes | 50% | Refatoração da tabela de artefatos |
+| Antonio Carvalho | 80% | Autor da página de apresentação de casos de uso |
+| Isaac Menezes | 20% | Refatoração da tabela de artefatos |
  
 
 ---
