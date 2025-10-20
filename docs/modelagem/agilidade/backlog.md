@@ -28,6 +28,19 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 
 ---
 
+## Artefatos e Gravações Unitários
+
+| **Participantes** | **Página Específica** | **Descrição** |
+|---------------|------------------|------------------|
+| **Antonio Carvalho** | [#BL001](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#BL002](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#BL003](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#BL004](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#BL005](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#BL006](/modelagem/gravacoes/antonio/backlog.md) |  |
+
+---
+
 ## Estrutura Hierárquica
 
 Para melhor organização, o backlog do SinPatinhas foi estruturado nos seguintes níveis de abstração (SERRANO; SERRANO, 2023):
@@ -79,7 +92,7 @@ Tabela 1 - Histórias de usuário classificadas com o Épico X
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
 | BL00X | [Breve descrição do item] | [Nome da funcionalidade] | [Must/Should/Could/Won’t] | [Código do requisito] |
 
----
+
 
 ## Agradecimentos
 

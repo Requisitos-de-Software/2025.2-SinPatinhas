@@ -29,6 +29,21 @@ Essas histórias possibilitam a comunicação entre equipe técnica e stakeholde
 
 ---
 
+## Artefatos e Gravações Unitários
+
+| **Participantes** | **Página Específica** | **Descrição** |
+|---------------|------------------|------------------|
+| **Letícia Paiva**    | [#HU001](/modelagem/gravacoes/leticia/historias.md) |  |
+|                      | [#HU002](/modelagem/gravacoes/leticia/historias.md) |  |
+| **Antonio Carvalho** | [#HU003](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#HU004](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#HU005](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#HU006](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#HU007](/modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#HU008](/modelagem/gravacoes/antonio/backlog.md) |  |
+
+---
+
 ## Objetivo
 
 O objetivo deste artefato é **registrar, organizar e rastrear** as histórias de usuário que representam os requisitos funcionais do sistema SinPatinhas. Assim, busca-se:
@@ -71,20 +86,6 @@ O processo seguiu as seguintes etapas:
 | **Rastreabilidade** | Código do requisito relacionado |
 | **Validação** | Link para teste, gravação ou relatório de validação |
 
----
-
-## Artefatos e Gravações Unitários
-
-| **Participante** | **Página Específica** |
-|-------------------|------------------------|
-| Antonio Carvalho | [Histórias de Usuário](/modelagem/gravacoes/antonio/historias.md) |
-| Letícia Paiva | [Histórias de Usuário – RFNI016 e RFNI017](/modelagem/gravacoes/leticia/historias.md) |
-| Pedro Gomes | [Histórias de Usuário](/modelagem/gravacoes/pedro/historias.md) |
-| Mateus Santos Negrini | [Histórias de Usuário](/modelagem/gravacoes/mateus/historias.md) |
-| Heloisa Silva | [Histórias de Usuário](/modelagem/gravacoes/heloisa/historias.md) |
-| Isaac Menezes | [Histórias de Usuário](/modelagem/gravacoes/isaac/historias.md) |
-
----
 
 ## Tabela de Contribuição
 

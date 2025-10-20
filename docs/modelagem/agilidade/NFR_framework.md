@@ -30,9 +30,10 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 
 ## Artefatos e Gravações Unitários
 
-| **Participante** | **Página Específica** |
-|------------------|------------------------|
-| **Antonio Carvalho** | [Página específica da modelagem do NFR Framework](/agilidade/individuais/antonio/nfr_frame.md) |
+| **Participantes** | **Página Específica** | **Descrição** |
+|---------------|------------------|------------------|
+| **Antonio Carvalho**    | [#CNFR01](/modelagem/gravacoes/antonio/nfr_framework.md) |  |
+|                         | [#CNFR02](/modelagem/gravacoes/antonio/nfr_framework.md) |  |
 
 ---
 
