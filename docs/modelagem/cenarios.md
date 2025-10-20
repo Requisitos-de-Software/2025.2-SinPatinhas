@@ -48,8 +48,8 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 | **Nome**            | **Cenário** | **Descrição do requisito** |
 |---------------------|-------------|-----------------------------|
-| **Letícia Paiva**   | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RF030**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|    | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RF031**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Letícia Paiva**   | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|    | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RNFI017**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Antonio Carvalho**| [Cenário 03](/modelagem/gravacoes/antonio/cenarios.md)  | Emissão de documento oficial de identificação (RG Pet) - [**RF005**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Atualização do status do animal (perdido, encontrado, óbito, transferência) - [**RF007**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Heloisa Santos**  | [Cenário 05](/modelagem/gravacoes/heloisa/cenarios.md)  | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - [**RFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
