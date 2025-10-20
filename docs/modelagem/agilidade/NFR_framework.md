@@ -26,6 +26,11 @@ No contexto do **SinPatinhas**, ele auxilia a equipe a identificar, registrar e 
 
 O uso do NFR Framework permite que cada decisão de desenvolvimento seja documentada de forma lógica e visual, garantindo **rastreabilidade** e **justificativa** para as escolhas técnicas feitas durante o ciclo de vida do sistema <a id="anchor_1" href="#REF1">[1]</a>.
 
+![NFR_Framework_1](../../assets/PDFs/nfr/nfr_1.png)
+![NFR_Framework_2](../../assets/PDFs/nfr/nfr_2.png)
+
+*SERRANO, M.; SERRANO, M. *Requisitos – Aula 17*. Material de aula, Universidade de Brasília (UnB), 2025.* 
+
 ---
 
 ## Artefatos e Gravações Unitários
@@ -40,7 +45,7 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 ## Softgoal Interdependency Graph (SIG)
 
 O **Softgoal Interdependency Graph (SIG)** é um gráfico que representa os **softgoals** — objetivos que não possuem critérios de satisfação precisamente definidos.  
-No **SinPatinhas**, o SIG permite visualizar como cada requisito não funcional se relaciona com outros e quais decisões contribuem positiva ou negativamente para sua satisfação <a id="anchor_2" href="#REF2">[2]</a>.
+No **SinPatinhas**, o SIG permite visualizar como cada requisito não funcional se relaciona com outros e quais decisões contribuem positiva ou negativamente para sua satisfação <a id="anchor_2" href="#REF1">[2]</a>.
 
 ---
 
@@ -66,6 +71,8 @@ As decomposições dividem um softgoal em outros mais específicos.
 **Exemplo (SinPatinhas):**
 - “Usabilidade” → “Interface intuitiva”, “Tempo de resposta rápido”, “Feedback visual”.
 
+---
+
 #### Contribuições
 
 As contribuições indicam como um softgoal influencia outro, podendo ser positivas ou negativas:
@@ -83,9 +90,16 @@ As contribuições indicam como um softgoal influencia outro, podendo ser positi
 | **AND / OR** | Dependência lógica entre softgoals descendentes e ascendentes |
 | **EQUAL (=)** | Representa equivalência semântica entre softgoals |
 
-📚 *Fonte: Slide nº 13 — Requisitos, Aula 17, Material de aula, Universidade de Brasília (UnB).*
+*SERRANO, M.; SERRANO, M. *Requisitos – Aula 17*. Material de aula, Universidade de Brasília (UnB), 2025.*
 
 Essas relações ajudam o time do **SinPatinhas** a compreender como decisões como “armazenar imagens de animais em nuvem” podem afetar tanto **desempenho** quanto **segurança**.
+
+#### Exemplo de Propagação de Impactos
+
+No SinPatinhas, a decisão de **armazenar imagens dos animais em nuvem** contribui positivamente para a **usabilidade** (HELP +), pois permite acesso rápido às informações,  
+mas impacta negativamente a **segurança** (HURT -), devido ao aumento do risco de exposição de dados.
+
+Essas contribuições foram representadas no **Softgoal Interdependency Graph (SIG)**, garantindo a propagação correta dos impactos entre os softgoals relacionados.
 
 ---
 
@@ -103,24 +117,32 @@ Os estados possíveis para cada softgoal são:
 - **Indeterminado**  
 - **Conflitante**
 
+---
+
 Esse processo garante que o produto final atenda aos **requisitos de qualidade** esperados pelos usuários e stakeholders.
 
 ---
 
 ## Modelagem de Artefato NFR
 
-### CNFR0X – Exemplo 0X
+**Tabela 1 – Estrutura para criação de um artefato NFR-Framework**  
+*Autoria: Antonio Carvalho*
 
 | **Campo** | **Detalhamento** |
 |------------|------------------|
 | **Nr Requisito** | CNFR0X |
-| **Classificação** | Desempenho |
+| **Cartão de especificação** | Desempenho |
 | **Descrição** | O sistema deve processar e gerar documento PDF em menos de 5 segundos |
 | **Justificativa** | Garante agilidade no fluxo de trabalho do tutor ao conseguir informação |
 | **Origem** | #RFNI00X |
 | **Critério de Ajuste** | Tempo de geração de arquivo < 5 s |
-| **Dependências** | #RNF08  |
-| **Prioridade** | 8 |
+| **Dependências** | Depende da eficiência de armazenamento em nuvem e da otimização das consultas ao banco de dados. |
+| **Dependências** | #RNF00X  |
+| **Prioridade** | Alta (8/10) |
+| **Conflitos** |	Pode gerar impacto negativo em Segurança e Disponibilidade, devido ao uso de cache e serviços externos
+| **História Relacionada** |	[HU003 – Como tutor, quero cadastrar um animal rapidamente para disponibilizá-lo para adoção]
+| **Softgoals Relacionados** |	Usabilidade (HELP +), Desempenho (MAKE ++), Segurança (HURT -)
+| **Propagação de Impactos** |	A melhoria no desempenho contribui fortemente para Usabilidade (++), mas tem impacto parcialmente negativo em Segurança (-), pois aumenta a exposição de dados em transações mais frequentes
 
 ---
 
