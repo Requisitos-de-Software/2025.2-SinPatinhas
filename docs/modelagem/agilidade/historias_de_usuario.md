@@ -1,24 +1,5 @@
 # Histórias de Usuário – Projeto SinPatinhas
 
----
-
-## Validação com tutora de animal
-
-A validação com o usuário foi feita de forma presencial, no dia **20 de outubro de 2025**.
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
----
-
-## Participantes da validação
-
-| **Participante** | **Papel** |
-|------------------|-----------|
-| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
-
----
-
 ## Introdução
 
 Este artefato documenta as **Histórias de Usuário do Sistema SinPatinhas**, conforme os princípios da **modelagem ágil de requisitos** utilizados em metodologias como **Scrum** e **Extreme Programming (XP)** <a id="anchor_1" href="#REF1">[1]</a>.  
@@ -37,14 +18,14 @@ Essas histórias possibilitam a comunicação entre equipe técnica e stakeholde
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Letícia Paiva**    | [#HU001](/modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU002](/modelagem/gravacoes/leticia/historias.md) |  |
-| **Antonio Carvalho** | [#HU003](/modelagem/gravacoes/antonio/historias.md) |  |
-|                      | [#HU004](/modelagem/gravacoes/antonio/historias.md) |  |
-|                      | [#HU005](/modelagem/gravacoes/antonio/historias.md) |  |
-|                      | [#HU006](/modelagem/gravacoes/antonio/historias.md) |  |
-|                      | [#HU007](/modelagem/gravacoes/antonio/historias.md) |  |
-|                      | [#HU008](/modelagem/gravacoes/antonio/historias.md) |  |
+| **Letícia Paiva**    | [#HU001](../../modelagem/gravacoes/leticia/historias.md) |  |
+|                      | [#HU002](../../modelagem/gravacoes/leticia/historias.md) |  |
+| **Antonio Carvalho** | [#HU003](../../modelagem/gravacoes/antonio/historias.md) |  |
+|                      | [#HU004](../../modelagem/gravacoes/antonio/historias.md) |  |
+|                      | [#HU005](../../modelagem/gravacoes/antonio/historias.md) |  |
+|                      | [#HU006](../../modelagem/gravacoes/antonio/historias.md) |  |
+|                      | [#HU007](../../modelagem/gravacoes/antonio/historias.md) |  |
+|                      | [#HU008](../../modelagem/gravacoes/antonio/historias.md) |  |
 
 ---
 

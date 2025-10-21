@@ -1,4 +1,23 @@
-# Itens de Backlog - Antonio
+# Backlog do Produto - Antonio
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClPEkjUv-jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+## Participantes da validação
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato backlog. |
+
+---
 
 Com base nas histórias HU005 e HU006, foram gerados **itens de backlog derivados de requisitos não implementados (RFNI)**.
 
@@ -13,8 +32,8 @@ Com base nas histórias HU005 e HU006, foram gerados **itens de backlog derivado
 
 | **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
-| **BL001** | Exibição de horários de funcionamento | Exibir automaticamente os horários de funcionamento das clínicas e hospitais parceiros, integrando dados de disponibilidade. | Should have | Não iniciado | Antonio Carvalho | RFNI005 / HU005 |
-| **BL002** | Integração com ONGs, clínicas e pet shops | Implementar integração via API entre o SinPatinhas e os sistemas externos de parceiros para sincronização de dados de animais, adoções e atendimentos. | Must have | Não iniciado | Antonio Carvalho | RFNI018 / HU006 / HU008 |
+| **BL001**  | Exibição de horários de funcionamento | Exibir automaticamente os horários de funcionamento das clínicas e hospitais parceiros, integrando dados de disponibilidade. | Should have | Não iniciado | Antonio Carvalho | [RFNI005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) / [HU005](../../../modelagem/gravacoes/antonio/historias.md#hu005--exibição-de-horários-de-clínicas-parceiras) | 
+| **BL002** | Integração com ONGs, clínicas e pet shops | Implementar integração via API entre o SinPatinhas e os sistemas externos de parceiros para sincronização de dados de animais, adoções e atendimentos. | Must have | Não iniciado | Antonio Carvalho | [RFNI018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) / [HU006](../../../modelagem/gravacoes/antonio/historias.md#hu006--integração-direta-com-parceiros) / [HU008](../../../modelagem/gravacoes/antonio/historias.md#hu008--sincronização-de-dados-entre-ongs-e-clínicas) |
 
 ---
 

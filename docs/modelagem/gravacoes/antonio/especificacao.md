@@ -1,5 +1,24 @@
 # Especificações Suplementares - Antonio Carvalho
 
+---
+
+## Validação com tutor de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 10 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDm2lGHywDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de especificação suplementar. |
+
+---
+
 <a id="es001"></a>
 
 ## #ES001 - Usabilidade (U)

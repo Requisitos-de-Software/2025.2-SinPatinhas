@@ -4,9 +4,9 @@
 
 ## Validação com tutora de animal  
 
-A validação com o usuário foi feita de forma presencial, no dia **20 de outubro de 2025**.  
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
 ---
 
@@ -19,17 +19,9 @@ A validação com o usuário foi feita de forma presencial, no dia **20 de outub
 
 ---
 
-## Introdução  
+## Histórias de Usuário implementadas
 
-Este documento apresenta as **histórias de usuário desenvolvidas por Antonio Carvalho**, correspondentes aos requisitos **RF017**, **RF018**, **RFNI005**, **RFNI018**, **RNF014** e **RNF016** do sistema **SinPatinhas**.  
-
-As histórias foram modeladas conforme os princípios de **Extreme Programming (XP)** e **Scrum**, priorizando a **clareza, rastreabilidade e valor agregado ao usuário final** <a id="anchor_1" href="#REF1">[1]</a><a id="anchor_2" href="#REF2">[2]</a>.  
-
----
-
-## Histórias de Usuário  
-
----
+<a id="hu003"></a>
 
 ### **HU003 – Cadastro e Gerenciamento de Perfis Ampliados**  
 *Autoria: Antonio Carvalho*  
@@ -42,9 +34,11 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 | **Critérios de Aceitação** | - O sistema deve permitir o cadastro de perfis com informações institucionais (CNPJ, missão, contatos, endereço). <br> - Deve permitir atualização e edição de dados. <br> - Perfis devem ser vinculados a campanhas e adoções. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | RF017 |
+| **Rastreabilidade** |  [RF017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017) |
 
 ---
+
+<a id="hu004"></a>
 
 ### **HU004 – Publicação de Campanhas e Materiais Educativos**  
 *Autoria: Antonio Carvalho*  
@@ -57,9 +51,11 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 | **Critérios de Aceitação** | - O sistema deve permitir o envio de campanhas com imagens e textos. <br> - Deve permitir categorizar o tipo de campanha (adoção, vacinação, eventos). <br> - O conteúdo deve ser validado antes da publicação. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | RF018 |
+| **Rastreabilidade** | [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) |
 
 ---
+
+<a id="hu005"></a>
 
 ### **HU005 – Exibição de Horários de Clínicas Parceiras**  
 *Autoria: Antonio Carvalho*  
@@ -72,9 +68,11 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 | **Critérios de Aceitação** | - O sistema deve exibir os horários de abertura e fechamento das clínicas cadastradas. <br> - Deve indicar feriados e horários de plantão. <br> - A informação deve ser atualizada automaticamente a partir das integrações. |
 | **Prioridade** | Média |
 | **Status** | Não validada |
-| **Rastreabilidade** | RFNI005 |
+| **Rastreabilidade** | [RFNI005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) |
 
 ---
+
+<a id="hu006"></a>
 
 ### **HU006 – Integração Direta com Parceiros**  
 *Autoria: Antonio Carvalho*  
@@ -87,9 +85,11 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 | **Critérios de Aceitação** | - O sistema deve possibilitar integração via API REST. <br> - Deve permitir autenticação segura (token). <br> - As atualizações de dados devem ocorrer em tempo real. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | RFNI018 / RNF014 |
+| **Rastreabilidade** | [RFNI018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) / [RNF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) |
 
 ---
+
+<a id="hu007"></a>
 
 ### **HU007 – Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica**  
 *Autoria: Antonio Carvalho*  
@@ -102,9 +102,11 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 | **Critérios de Aceitação** | - A interface deve ter ícones descritivos e botões visíveis. <br> - Deve haver tutoriais curtos em vídeo ou texto. <br> - O sistema deve suportar acessibilidade (tamanho de fonte e contraste). |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | RNF016 |
+| **Rastreabilidade** | [RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
 
 ---
+
+<a id="hu008"></a>
 
 ### **HU008 – Sincronização de Dados entre ONGs e Clínicas**  
 *Autoria: Antonio Carvalho*  
@@ -117,7 +119,7 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 | **Critérios de Aceitação** | - O sistema deve integrar registros de atendimento veterinário ao perfil do animal. <br> - Deve haver sincronização automática semanal. <br> - Em caso de falha, o sistema deve registrar o erro e notificar o administrador. |
 | **Prioridade** | Média |
 | **Status** | Não validada |
-| **Rastreabilidade** | RFNI018 |
+| **Rastreabilidade** | [RFNI018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
 
 ---
 
@@ -140,7 +142,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **A
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 20/10/2025 | Criação das histórias HU003–HU008 | Antonio Carvalho | Letícia Paiva |
+| **1.0** | 20/10/2025 | Criação das histórias HU003–HU008 | Antonio Carvalho | - |
 
 ---
 

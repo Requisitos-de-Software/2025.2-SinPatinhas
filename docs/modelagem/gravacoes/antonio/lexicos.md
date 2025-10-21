@@ -1,5 +1,24 @@
 # Léxicos - Antonio Carvalho
 
+---
+
+## Validação com tutor de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 10 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q3XY4oEoQQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de léxicos. |
+
+---
+
 
 <a id="lx001"></a>
 
@@ -9,8 +28,8 @@
 
 | ID        | Noção    | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
 | ---------- | -------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
-| LX001-01   | Tutor    | Pessoa responsável pelo cadastro e cuidado do animal.                   | Sujeito       | Dono, Responsável  | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), [UC01](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
-| LX001-02   | Cadastrar | Ação de inserir novas informações no sistema.                          | Verbo         | Registrar, Inserir | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), [UC01](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| LX001-01   | Tutor    | Pessoa responsável pelo cadastro e cuidado do animal.                   | Sujeito       | Dono, Responsável  | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| LX001-02   | Cadastrar | Ação de inserir novas informações no sistema.                          | Verbo         | Registrar, Inserir | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
 
 ---
 
@@ -22,8 +41,8 @@
 
 | ID        | Noção     | Impacto                                                                 | Classificação | Dicionário             | Rastreamento |
 | ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ---------------------- | ------------- |
-| LX002-01   | Consultar  | Ação de buscar informações já registradas.                              | Verbo         | Pesquisar, Visualizar  | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), [UC01](/modelagem/gravacoes/antonio/casos_de_uso.md#uc001), [CRN003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
-| LX002-02   | Carteirinha Digital | Documento eletrônico com informações e QR Code do animal.      | Objeto        | Identificação Digital  | [RF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC01](/modelagem/gravacoes/antonio/casos_de_uso.md#uc001), [CRN003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| LX002-01   | Consultar  | Ação de buscar informações já registradas.                              | Verbo         | Pesquisar, Visualizar  | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc001), [CRN003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| LX002-02   | Carteirinha Digital | Documento eletrônico com informações e QR Code do animal.      | Objeto        | Identificação Digital  | [RF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc001), [CRN003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
 
 ---
 
@@ -35,8 +54,8 @@
 
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário           | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | -------------------- | ------------- |
-| LX003-01   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado          | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
-| LX003-02   | Tutor           | Pessoa responsável pelo cuidado do animal adotado.                      | Sujeito       | Dono, Responsável    | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX003-01   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado          | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX003-02   | Tutor           | Pessoa responsável pelo cuidado do animal adotado.                      | Sujeito       | Dono, Responsável    | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
 
 ---
 
@@ -48,8 +67,8 @@
 
 | ID        | Noção         | Impacto                                                                 | Classificação | Dicionário            | Rastreamento |
 | ---------- | -------------- | ------------------------------------------------------------------------ | ------------- | --------------------- | ------------- |
-| LX004-01   | Veterinário    | Profissional autorizado a emitir laudos e atualizar histórico.           | Sujeito       | Médico Veterinário    | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf008), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
-| LX004-02   | Carteirinha Digital | Documento com histórico de vacinação e QR Code do animal.           | Objeto        | Identificação Digital | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX004-01   | Veterinário    | Profissional autorizado a emitir laudos e atualizar histórico.           | Sujeito       | Médico Veterinário    | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf008), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX004-02   | Carteirinha Digital | Documento com histórico de vacinação e QR Code do animal.           | Objeto        | Identificação Digital | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
 
 ---
 
@@ -61,8 +80,8 @@
 
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário         | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ------------------ | ------------- |
-| LX005-01   | Animal Perdido  | Situação em que o animal está desaparecido.                              | Estado        | Desaparecido       | [RF007](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007), [RF018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
-| LX005-02   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado        | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX005-01   | Animal Perdido  | Situação em que o animal está desaparecido.                              | Estado        | Desaparecido       | [RF007](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007), [RF018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX005-02   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado        | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
 
 ---
 
@@ -74,8 +93,8 @@
 
 | ID        | Noção     | Impacto                                                                 | Classificação | Dicionário        | Rastreamento |
 | ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ----------------- | ------------- |
-| LX006-01   | Cadastrar  | Ação de inserir novas informações no sistema.                           | Verbo         | Registrar, Inserir | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC01](/modelagem/gravacoes/antonio/casos_de_uso.md#uc00), [CRN003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
-| LX006-02   | Consultar  | Ação de buscar informações já registradas.                               | Verbo         | Pesquisar, Visualizar | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), [UC01](/modelagem/gravacoes/antonio/casos_de_uso.md#uc00), [CRN003](/modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| LX006-01   | Cadastrar  | Ação de inserir novas informações no sistema.                           | Verbo         | Registrar, Inserir | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc00), [CRN003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| LX006-02   | Consultar  | Ação de buscar informações já registradas.                               | Verbo         | Pesquisar, Visualizar | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc00), [CRN003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
 
 ---
 
@@ -87,14 +106,14 @@
 
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
-| LX007-01   | Tutor           | Pessoa responsável por acompanhar o animal cadastrado ou adotado.        | Sujeito       | Dono, Responsável       | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
-| LX007-02   | Veterinário     | Profissional que fornece dados de acompanhamento e histórico médico.     | Sujeito       | Médico Veterinário      | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002), [CRN004](/modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX007-01   | Tutor           | Pessoa responsável por acompanhar o animal cadastrado ou adotado.        | Sujeito       | Dono, Responsável       | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
+| LX007-02   | Veterinário     | Profissional que fornece dados de acompanhamento e histórico médico.     | Sujeito       | Médico Veterinário      | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CRN004](../../../modelagem/gravacoes/antonio/cenarios.md#crn004) |
 
 ---
 
 ## Referência para elaboração desses artefatos em específico: Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.
 
-![Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos. (Especificado em "Referências")](../../../assets/images/modelagem/antonio_lexicos.png)
+![Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos. (Especificado em "Referências")](../../../assets/images../../../modelagem/antonio_lexicos.png)
 
 ---
 
