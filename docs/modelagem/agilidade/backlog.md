@@ -14,16 +14,27 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 
 ---
 
+## Tabela de Contribuição
+
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| **Letícia Paiva** | 50% | Co-autora da página de backlog |
+| **Antonio Carvalho** | 50% | Co-autor da página de backlog |
+
+---
+
 ## Artefatos e Gravações Unitários
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
 | **Antonio Carvalho** | [#BL001](../../modelagem/gravacoes/antonio/backlog.md) | Exibição de horários de funcionamento |
 |                      | [#BL002](../../modelagem/gravacoes/antonio/backlog.md) | Integração com ONGs, clínicas e pet shops |
-| **Leticia** | [#BL001](../../modelagem/gravacoes/leticia/backlog.md) |  |
-|                      | [#BL002](../../modelagem/gravacoes/leticia/backlog.md) |  |
-| **Pedro Gomes** | [#BL001](../../modelagem/gravacoes/pedro/backlog.md) |  |
-|                      | [#BL002](../../modelagem/gravacoes/pedro/backlog.md) |  |
+| **Leticia** | [#BL003](../../modelagem/gravacoes/leticia/backlog.md) |  |
+|                      | [#BL004](../../modelagem/gravacoes/leticia/backlog.md) |  |
+| **Pedro Gomes** | [#BL005](../../modelagem/gravacoes/pedro/backlog.md) |  |
+|                      | [#BL006](../../modelagem/gravacoes/pedro/backlog.md) |  |
+|                      | [#BL011](../../modelagem/gravacoes/pedro/backlog.md) |  |
+|                      | [#BL012](../../modelagem/gravacoes/pedro/backlog.md) |  |
 | **Heloisa Silva** | [#BL011](../../modelagem/gravacoes/heloisa/backlog.md) |  |
 |                      | [#BL012](../../modelagem/gravacoes/heloisa/backlog.md) |  |
 
@@ -37,7 +48,7 @@ Para melhor organização, o backlog do **SinPatinhas** foi estruturado nos segu
 - **Épicos:** grandes objetivos do sistema;  
 - **Histórias de Usuário (PBIs):** unidades menores, detalhadas e mensuráveis, que podem ser concluídas em uma Sprint.
 
-Para a criação do backlog, foi utilizado como base dois artefatos produzidos: as **Histórias de Usuário** <a id="anchor_4" href="#REF2">[2]</a> e a metodologia de **priorização MoSCoW** <a id="anchor_5" href="#REF3">[3]</a>.
+Para a criação do backlog, foi utilizado como base dois artefatos produzidos: as **Histórias de Usuário** <a id="anchor_4" href="#REF2">[2]</a> e a metodologia de **priorização MoSCoW**.
 
 ![Backlog_3](../../assets/PDFs/backlog/backlog_4.png)
 
@@ -54,7 +65,12 @@ A elaboração do backlog baseou-se nos seguintes princípios do **Scrum** e **S
 3. **Estimativa colaborativa:** o esforço de cada item é estimado pela equipe;  
 4. **Transparência e rastreabilidade:** todos os itens são vinculados aos requisitos e histórias de usuário correspondentes.  
 
-A priorização utilizou o método **MoSCoW**, que classifica os itens em <a id="anchor_7" href="#REF3">[3]</a>:
+![Backlog_5](../../assets/PDFs/backlog/backlog_5.png)
+*PRESSMAN, R. S.; MAXIM, B. R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.*
+
+
+
+A priorização utilizou o método **MoSCoW**, que classifica os itens em:
 
 - **Must have (Essencial)** – indispensáveis para o funcionamento básico;  
 - **Should have (Importante)** – desejáveis, mas não críticos;  
@@ -67,15 +83,15 @@ A priorização utilizou o método **MoSCoW**, que classifica os itens em <a id=
 
 #### Definição de tema
 
-Ao analisar as histórias de usuário criadas, organize os temas <a id="anchor_8" href="#REF2">[2]</a>.
+Ao analisar as histórias de usuário criadas, organize os temas <a id="anchor_8" href="#REF1">[1]</a>.
 
 #### Épicos
 
-Após a definição dos temas, eles são divididos em épicos e, dessa forma, o nível de abstração das atividades que vão ser realizadas diminui <a id="anchor_9" href="#REF2">[2]</a>.
+Após a definição dos temas, eles são divididos em épicos e, dessa forma, o nível de abstração das atividades que vão ser realizadas diminui <a id="anchor_9" href="#REF1">[1]</a>.
 
 #### Histórias de Usuário
 
-As histórias de usuário especificam ainda mais os épicos, elas apresentam descrições de uma determinada funcionalidade, geralmente seguem a forma *“Eu, como ___, desejo ___, para ___.”* <a id="anchor_10" href="#REF2">[2]</a>.
+As histórias de usuário especificam ainda mais os épicos, elas apresentam descrições de uma determinada funcionalidade, geralmente seguem a forma *“Eu, como ___, desejo ___, para ___.”* <a id="anchor_10" href="#REF1">[1]</a>.
 
 #### Exemplo de tabela para organização do backlog
 
@@ -90,18 +106,7 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, formatação e padronização técnica do texto**.  
-O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antonio Carvalho** e **Letícia Paiva**, com base nos fundamentos de **Serrano & Serrano (2025)** <a id="anchor_11" href="#REF1">[1]</a>, **Pressman & Maxim (2021)** <a id="anchor_12" href="#REF3">[3]</a>, **Sommerville (2019)** <a id="anchor_13" href="#REF4">[4]</a> e **Leffingwell (2011)** <a id="anchor_14" href="#REF5">[5]</a>.
-
----
-
-## Tabela de Contribuição
-
-| **Nome** | **Contribuição (%)** | **Função** |
-|-----------|----------------------|-------------|
-| **Letícia Paiva** | 50% | Co-autora da página de backlog |
-| **Antonio Carvalho** | 50% | Co-autor da página de backlog |
-
----
+O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antonio Carvalho** e **Letícia Paiva**, com base nos fundamentos de **Serrano & Serrano (2025)** <a id="anchor_11" href="#REF1">[1]</a>, **Pressman & Maxim (2021)** <a id="anchor_12" href="#REF2">[2]</a>
 
 ## Tabela de Versionamento
 
@@ -116,8 +121,6 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 ## Referências Bibliográficas
 
 <a id="REF1"></a>[1] SERRANO, Milene; SERRANO, Maurício. *Product Backlog e User Stories – Aula 15*. Material de aula, Universidade de Brasília (UnB), 2025.  
-<a id="REF2"></a>[2] LEFFINGWELL, Dean. *Agile Software Requirements.* Addison-Wesley, 2011.  
-<a id="REF3"></a>[3] PRESSMAN, R. S.; MAXIM, B. R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
-<a id="REF4"></a>[4] SOMMERVILLE, Ian. *Engenharia de Software.* 10ª ed. Pearson, 2019.
+<a id="REF2"></a>[3] PRESSMAN, R. S.; MAXIM, B. R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
 
 ---
