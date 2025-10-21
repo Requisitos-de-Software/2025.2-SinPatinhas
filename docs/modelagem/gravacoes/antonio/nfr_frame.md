@@ -3,7 +3,7 @@
 
 ---
 
-## 🧾 Cartão de Especificação NFR – Segurança e Auditabilidade  
+## 1° Cartão de Especificação NFR – Segurança e Auditabilidade  
 
 | **Campo** | **Detalhamento** |
 |------------|------------------|
@@ -12,7 +12,7 @@
 | **Descrição** | O sistema deve detectar acessos não autorizados e registrar **logs de ações e modificações**, garantindo **alertas automáticos** e **transparência operacional**. |
 | **Justificativa** | A presença de mecanismos de segurança e auditoria aumenta a confiança dos usuários e assegura o cumprimento de boas práticas de **governança de dados** e **conformidade institucional**. |
 | **Origem** | [RNF017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf017) / [RNF024](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) / Entrevista 3 |
-| **Critério de Ajuste** | 1️⃣ Geração de alerta em até **2 segundos** após tentativa de acesso indevido.<br>2️⃣ Registro de **100% das ações** críticas em log seguro.<br>3️⃣ Tempo de consulta a logs ≤ **5 segundos**. |
+| **Critério de Ajuste** | Geração de alerta em até **2 segundos** após tentativa de acesso indevido.<br>Registro de **100% das ações** críticas em log seguro.<br>Tempo de consulta a logs ≤ **5 segundos**. |
 | **Dependências** | Módulo de autenticação; API de notificações; banco de dados seguro; infraestrutura de logs e auditoria. |
 | **Prioridade** | Alta (9/10) |
 | **Conflitos** | O excesso de registros pode afetar o **desempenho** ([RNF012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf012)); bloqueios de segurança podem afetar a **disponibilidade** ([RNF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014)). |
@@ -22,11 +22,11 @@
 
 ---
 
-## 🎯 Tema: **Confiabilidade e Segurança Operacional do Sistema SinPatinhas**  
+## Tema: **Confiabilidade e Segurança Operacional do Sistema SinPatinhas**  
 
 ---
 
-## 🧩 Requisito Não Funcional – RNF017  
+## Requisito Não Funcional – RNF017  
 
 ### **Identificação**
 | **Código** | **Descrição** | **Fonte** |
@@ -92,7 +92,7 @@
 
 ---
 
-## 🧩 Requisito Não Funcional – RNF024  
+## Requisito Não Funcional – RNF024  
 
 ### **Identificação**
 | **Código** | **Descrição** | **Fonte** |
@@ -156,7 +156,7 @@
 
 ---
 
-## 🧠 Conclusão  
+## Conclusão  
 
 | **Aspecto Avaliado** | **RNF017 (Segurança)** | **RNF024 (Auditabilidade)** |
 |-----------------------|-------------------------|------------------------------|
@@ -168,7 +168,7 @@
 
 ---
 
-## 📚 Referências  
+## Referências  
 
 | **Código** | **Referência Completa** |
 |-------------|--------------------------|
