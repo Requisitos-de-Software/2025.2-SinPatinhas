@@ -37,8 +37,8 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Antonio Carvalho**    | [#CNFR01](/modelagem/gravacoes/antonio/nfr_framework.md) |  |
-|                         | [#CNFR02](/modelagem/gravacoes/antonio/nfr_framework.md) |  |
+| **Antonio Carvalho**    | [#CNFR01](/modelagem/gravacoes/antonio/nfr_frame.md) |  |
+|                         | [#CNFR02](/modelagem/gravacoes/antonio/nfr_frame.md) |  |
 
 ---
 
@@ -101,6 +101,9 @@ mas impacta negativamente a **segurança** (HURT -), devido ao aumento do risco 
 
 Essas contribuições foram representadas no **Softgoal Interdependency Graph (SIG)**, garantindo a propagação correta dos impactos entre os softgoals relacionados.
 
+| **Softgoal** | **Tipo de Contribuição** | **Descrição do Impacto** |
+|----------------|---------------------------|--------------------------|
+| Usabilidade | HELP (+)| Acesso facilitado por meio de login intuitivo |
 ---
 
 ### Procedimento de Avaliação

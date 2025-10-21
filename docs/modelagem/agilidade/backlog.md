@@ -39,10 +39,6 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 |---------------|------------------|------------------|
 | **Antonio Carvalho** | [#BL001](/modelagem/gravacoes/antonio/backlog.md) |  |
 |                      | [#BL002](/modelagem/gravacoes/antonio/backlog.md) |  |
-|                      | [#BL003](/modelagem/gravacoes/antonio/backlog.md) |  |
-|                      | [#BL004](/modelagem/gravacoes/antonio/backlog.md) |  |
-|                      | [#BL005](/modelagem/gravacoes/antonio/backlog.md) |  |
-|                      | [#BL006](/modelagem/gravacoes/antonio/backlog.md) |  |
 
 ---
 
@@ -98,9 +94,9 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 
 **Tabela 1 – Histórias de usuário classificadas com o Épico X**
 
-| **Identificação** | **História do usuário** | **Requisito do Backlog** | **Prioridade (MoSCoW)** | **Rastreabilidade** |
-|--------------------|--------------------------|--------------------------|---------------------------|----------------------|
-| BL00X | [Breve descrição do item] | [Nome da funcionalidade] | [Must/Should/Could/Won’t] | [Código do requisito] |
+| **Identificação** | **História do usuário** | **Requisito do Backlog** | **Prioridade (MoSCoW)** | | **Status** | **Responsável** | **Rastreabilidade** |
+|--------------------|--------------------------|--------------------------|---------------------------|----------------------|------------|------------|------------|
+| BL00X | História de usuário utilizada | Breve descrição do item | Nome da funcionalidade | Must/Should/Could/Won’t | Status | Responsável pelo item | Código do requisito |
 
 ---
 
