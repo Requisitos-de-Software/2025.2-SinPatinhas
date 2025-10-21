@@ -1,24 +1,5 @@
 # Backlog – Projeto SinPatinhas
 
----
-
-## Validação com tutora de animal
-
-A validação com o usuário foi feita de forma presencial, no dia **20 de outubro de 2025**.
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
----
-
-## Participantes da validação
-
-| **Participante** | **Papel** |
-|------------------|-----------|
-| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato backlog. |
-
----
-
 ## Introdução
 
 O **Product Backlog** é uma **lista dinâmica e priorizada de funcionalidades**, criada e mantida pelo **Product Owner**, que representa tudo o que se deseja implementar no sistema <a id="anchor_1" href="#REF1">[1]</a>.  
@@ -37,8 +18,12 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Antonio Carvalho** | [#BL001](/modelagem/gravacoes/antonio/backlog.md) |  |
-|                      | [#BL002](/modelagem/gravacoes/antonio/backlog.md) |  |
+| **Antonio Carvalho** | [#BL001](../../modelagem/gravacoes/antonio/backlog.md) |  |
+|                      | [#BL002](../../modelagem/gravacoes/antonio/backlog.md) |  |
+| **Leticia** | [#BL001](../../modelagem/gravacoes/leticia/backlog.md) |  |
+|                      | [#BL002](../../modelagem/gravacoes/leticia/backlog.md) |  |
+| **Pedro Gomes** | [#BL001](../../modelagem/gravacoes/pedro/backlog.md) |  |
+|                      | [#BL002](../../modelagem/gravacoes/pedro/backlog.md) |  |
 
 ---
 

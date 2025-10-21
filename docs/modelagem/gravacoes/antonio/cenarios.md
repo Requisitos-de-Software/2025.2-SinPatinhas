@@ -1,5 +1,24 @@
 # Cenários – Antonio Carvalho
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
+
+---
+
 <a id="crn003"></a>
 
 ## Cenário 03 — Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
@@ -13,7 +32,7 @@
 |-----------------|----------------|
 | **Título** | Sistema de Adoção de Animais |
 | **Código** | CNR003 |
-| **Caso de uso trabalhado** | [UC001](/modelagem/gravacoes/antonio/casos_de_uso.md#uc001) |
+| **Caso de uso trabalhado** | [UC001](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc001) |
 
 **Ambiente/Contexto**  
 Local: Portal do SinPatinhas acessado via navegador web ou aplicativo móvel.  
@@ -63,7 +82,7 @@ Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem 
 |-----------------|----------------|
 | **Título** | Notificação Periódica para Atualização de Dados e Fotos |
 | **Código** | CNR004 |
-| **Caso de uso trabalhado** | [UC002](/modelagem/gravacoes/antonio/casos_de_uso.md#uc002) |
+| **Caso de uso trabalhado** | [UC002](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002) |
 
 **Ambiente/Contexto**  
 Local: Portal do tutor ou aplicativo SinPatinhas.  
@@ -123,7 +142,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |-------------|-----------|----------------|--------------|----------------|
-| 1.0 | 11/10/2025 | Adição dos cenários referentes aos requisitos não implementados [RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) e [RFNI021](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Antonio | - |
+| 1.0 | 11/10/2025 | Adição dos cenários referentes aos requisitos não implementados [RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) e [RFNI021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Antonio | - |
 
 ### Referências
 

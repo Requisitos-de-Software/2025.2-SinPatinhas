@@ -1,24 +1,5 @@
 # NFR Framework – Projeto SinPatinhas
 
----
-
-## Validação com tutora de animal
-
-A validação com o usuário foi feita de forma presencial, no dia **20 de outubro de 2025**.
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
----
-
-## Participantes da validação
-
-| **Participante** | **Papel** |
-|------------------|-----------|
-| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato NFR Framework. |
-
----
-
 ## Introdução
 
 O **NFR Framework** é uma metodologia utilizada para representar e analisar **Requisitos Não Funcionais (RNFs)** de um sistema.  
@@ -37,8 +18,9 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Antonio Carvalho**    | [#CNFR01](/modelagem/gravacoes/antonio/nfr_frame.md) |  |
-|                         | [#CNFR02](/modelagem/gravacoes/antonio/nfr_frame.md) |  |
+| **Antonio Carvalho**    | [#CNFR01](../../modelagem/gravacoes/antonio/nfr_frame.md) |  |
+| **Pedro Gomes**         | [#CNFR01](../../modelagem/gravacoes/pedro/nfr_frame.md) |  |
+|                         | [#CNFR02](../../modelagem/gravacoes/pedro/nfr_frame.md) |  |
 
 ---
 

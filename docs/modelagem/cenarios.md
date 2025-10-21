@@ -1,24 +1,5 @@
 # Cenários - Projeto SinPatinhas
 
----
-
-## Validação com tutora de animal
-
-A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
----
-
-### Participantes da validação
-
-| Participante | Papel |
-| ------------ | ----- |
-| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
-
----
-
 ## Introdução aos Cenários  
 
 A **modelagem de requisitos** é a atividade de elaborar modelos capazes de representar características ou comportamentos de um software [1].  
