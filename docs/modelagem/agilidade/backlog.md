@@ -33,6 +33,8 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 |                      | [#BL004](../../modelagem/gravacoes/leticia/backlog.md) |  |
 | **Pedro Gomes** | [#BL005](../../modelagem/gravacoes/pedro/backlog.md) |  |
 |                      | [#BL006](../../modelagem/gravacoes/pedro/backlog.md) |  |
+|                      | [#BL011](../../modelagem/gravacoes/pedro/backlog.md) |  |
+|                      | [#BL012](../../modelagem/gravacoes/pedro/backlog.md) |  |
 
 ---
 

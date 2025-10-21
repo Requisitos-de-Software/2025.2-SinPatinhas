@@ -15,8 +15,8 @@ Com base nas histórias **HU013** e **HU014**, foram gerados **itens de backlog 
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
 | **BL003** | Desenvolvimento do aplicativo móvel | Criar o aplicativo móvel “SINPatinhas” disponível para Android e iOS, permitindo acesso completo às funcionalidades do sistema, como cadastros, adoções e eventos. | Must have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / HU013 |
 | **BL004** | Interface responsiva e intuitiva | Projetar interface acessível, responsiva e adaptada a diferentes tamanhos de tela, priorizando usabilidade e navegação intuitiva. | Should have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / HU013 |
-| **BL005** | Acesso offline à ficha do animal | Permitir o armazenamento local da ficha do animal, possibilitando consulta mesmo sem conexão com a internet. | Must have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
-| **BL006** | Mensagens de aviso e confirmação offline | Exibir mensagens de confirmação ao salvar dados offline e alertas ao tentar acessar informações sem conexão. | Should have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
+| **BL011** | Acesso offline à ficha do animal | Permitir o armazenamento local da ficha do animal, possibilitando consulta mesmo sem conexão com a internet. | Must have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
+| **BL012** | Mensagens de aviso e confirmação offline | Exibir mensagens de confirmação ao salvar dados offline e alertas ao tentar acessar informações sem conexão. | Should have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
 
 <br>
 
