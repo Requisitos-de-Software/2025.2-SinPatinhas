@@ -18,8 +18,8 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Antonio Carvalho** | [#BL001](../../modelagem/gravacoes/antonio/backlog.md) |  |
-|                      | [#BL002](../../modelagem/gravacoes/antonio/backlog.md) |  |
+| **Antonio Carvalho** | [#BL001](../../modelagem/gravacoes/antonio/backlog.md) | Exibição de horários de funcionamento |
+|                      | [#BL002](../../modelagem/gravacoes/antonio/backlog.md) | Integração com ONGs, clínicas e pet shops |
 | **Leticia** | [#BL001](../../modelagem/gravacoes/leticia/backlog.md) |  |
 |                      | [#BL002](../../modelagem/gravacoes/leticia/backlog.md) |  |
 | **Pedro Gomes** | [#BL001](../../modelagem/gravacoes/pedro/backlog.md) |  |
