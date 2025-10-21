@@ -39,13 +39,22 @@ Essas histórias possibilitam a comunicação entre equipe técnica e stakeholde
 |---------------|------------------|------------------|
 | **Letícia Paiva**    | [#HU001](/modelagem/gravacoes/leticia/historias.md) |  |
 |                      | [#HU002](/modelagem/gravacoes/leticia/historias.md) |  |
+|                      | [#HU009](/modelagem/gravacoes/leticia/historias.md) |  |
+|                      | [#HU010](/modelagem/gravacoes/leticia/historias.md) |  |
+|                      | [#HU011](/modelagem/gravacoes/leticia/historias.md) |  |
+|                      | [#HU012](/modelagem/gravacoes/leticia/historias.md) |  |
 | **Antonio Carvalho** | [#HU003](/modelagem/gravacoes/antonio/historias.md) |  |
 |                      | [#HU004](/modelagem/gravacoes/antonio/historias.md) |  |
 |                      | [#HU005](/modelagem/gravacoes/antonio/historias.md) |  |
 |                      | [#HU006](/modelagem/gravacoes/antonio/historias.md) |  |
 |                      | [#HU007](/modelagem/gravacoes/antonio/historias.md) |  |
 |                      | [#HU008](/modelagem/gravacoes/antonio/historias.md) |  |
-
+| **Pedro Gomes**      | [#HU013](/modelagem/gravacoes/pedro/historias.md) |  |
+|                      | [#HU014](/modelagem/gravacoes/pedro/historias.md) |  |
+|                      | [#HU015](/modelagem/gravacoes/pedro/historias.md) |  |
+|                      | [#HU016](/modelagem/gravacoes/pedro/historias.md) |  |
+|                      | [#HU017](/modelagem/gravacoes/pedro/historias.md) |  |
+|                      | [#HU018](/modelagem/gravacoes/pedro/historias.md) |  |
 ---
 
 ## Objetivo

@@ -39,6 +39,8 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 |---------------|------------------|------------------|
 | **Antonio Carvalho**    | [#CNFR01](/modelagem/gravacoes/antonio/nfr_frame.md) |  |
 |                         | [#CNFR02](/modelagem/gravacoes/antonio/nfr_frame.md) |  |
+| **Pedro Gomes**         | [#CNFR01](/modelagem/gravacoes/pedro/nfr_frame.md) |  |
+|                         | [#CNFR02](/modelagem/gravacoes/pedro/nfr_frame.md) |  |
 
 ---
 
