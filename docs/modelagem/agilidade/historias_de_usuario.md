@@ -36,6 +36,13 @@ Essas histórias possibilitam a comunicação entre equipe técnica e stakeholde
 |                      | [#HU016](../../modelagem/gravacoes/pedro/historias.md) |  |
 |                      | [#HU017](../../modelagem/gravacoes/pedro/historias.md) |  |
 |                      | [#HU018](../../modelagem/gravacoes/pedro/historias.md) |  |
+| **Heloisa Silva**    | [#HU031](../../modelagem/gravacoes/heloisa/historias.md) |  |
+|                      | [#HU032](../../modelagem/gravacoes/heloisa/historias.md) |  |
+|                      | [#HU033](../../modelagem/gravacoes/heloisa/historias.md) |  |
+|                      | [#HU034](../../modelagem/gravacoes/heloisa/historias.md) |  |
+|                      | [#HU035](../../modelagem/gravacoes/heloisa/historias.md) |  |
+|                      | [#HU036](../../modelagem/gravacoes/heloisa/historias.md) |  |
+|                      | [#HU037](../../modelagem/gravacoes/heloisa/historias.md) |  |
 
 ---
 
