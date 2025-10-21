@@ -12,46 +12,47 @@
 
 | Código | Descrição | Fonte |
 | :--- | :--- | :--- |
-| [RF001](#rf001) | Cadastro de tutores com dados pessoais. | Documentos / Entrevistas |
-| [RF002](#rf002) | Cadastro de animais vinculados ao tutor. | Documentos / Entrevistas |
-| [RF003](#rf003) | Geração de número de Registro Geral do Animal (RGA). | Documentos |
-| [RF004](#rf004) | Associação de microchip ao cadastro. | Documentos |
-| [RF005](#rf005) | Emissão de documento oficial de identificação (RG Pet). | Documentos |
-| [RF006](#rf006) | Consulta pública via RGA ou microchip. | Documentos |
-| [RF007](#rf007) | Atualização do status do animal (perdido, encontrado, óbito, transferência). | Documentos |
-| [RF008](#rf008) | Registro do histórico de saúde por veterinários. | Documentos |
-| [RF009](#rf009) | Transferência de titularidade do animal. | Documentos |
-| [RF010](#rf010) | Perfis de acesso distintos (Tutor e Veterinário). | Documentos |
-| [RF011](#rf011) | Relatórios e estatísticas para órgãos públicos. | Documentos |
-| [RF012](#rf012) | Permitir login integrado via Gov.br para tutores e profissionais. | Documentos |
-| [RF013](#rf013) | Preenchimento automático de dados pessoais do tutor via Gov.br. | Documentos |
-| [RF014](#rf014) | Emissão de carteirinha digital com QR Code. | Documentos |
-| [RF015](#rf015) | Registro opcional do número de microchip e exibição na carteirinha digital. | Documentos |
-| [RF016](#rf016) | Registro oficial de procedimentos veterinários (castração, vacinas, microchipagem). | Documentos |
-| [RF017](#rf017) | Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos). | Documentos |
-| [RF018](#rf018) | Envio de notificações/campanhas e publicação de materiais educativos. | Documentos |
-| [RF019](#rf019) | Integração com políticas públicas e relatórios para programas sociais. | Documentos |
-| [RF020](#rf020) | Garantir acesso nacional via internet, com escalabilidade. | Documentos |
-| [RF021](#rf021) | Cadastro de perfil do animal. | Entrevista 1 |
-| [RF022](#rf022) | Registro do histórico de vacinas. | Entrevista 1 |
-| [RF023](#rf023) | Cadastro de informações de contato do tutor. | Entrevista 1 |
-| [RF024](#rf024) | Gerenciamento de múltiplos animais. | Entrevista 1 |
-| [RF025](#rf025) | Compartilhamento de informações com familiares. | Entrevista 1 |
-| [RF026](#rf026) | Notificações de vacinas futuras/atrasadas. | Entrevista 1 |
-| [RF027](#rf027) | Registro da localização do animal ou tutor. | Entrevista 1 |
-| [RF028](#rf028) | Permitir busca e recuperação de animais perdidos ou abandonados. | Entrevista 2 |
-| [RF029](#rf029) | Prontuário digital centralizando histórico de saúde e vacinação. | Entrevista 2 |
-| [RF030](#rf030) | Notificações automáticas para vacinas e lembretes de medicação. | Entrevista 2 |
-| [RF031](#rf031) | Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie, endereço do tutor). | Entrevista 2 |
-| [RF032](#rf032) | Área de instruções integradas (manual digital). | Entrevista 3 |
-| [RF033](#rf033) | Upload de foto do animal. | Entrevista 3 |
-| [RF034](#rf034) | Cadastro/atualização de endereço do tutor. | Entrevista 3 |
-| [RF035](#rf035) | Módulo para registro/visualização de exames do animal. | Entrevista 3 |
-| [RF036](#rf036) | Acesso via celular para consulta fora da clínica. | Entrevista 3 |
-| [RF037](#rf037) | Acesso remoto aos dados do animal. | Entrevista 3 |
-| [RF038](#rf038) | Cadastro de ONGs/associações para controle de animais resgatados/adotados. | Entrevista 3 |
-| [RF039](#rf039) | Rastreamento de doações/adoções. | Entrevista 3 |
-| [RF040](#rf040) | Transferência de tutor preservando histórico. | Entrevista 3 |
+|<a id="rf001"></a>**RF001**| Cadastro de tutores com dados pessoais. | [RF001](metodologias/tec_elicitacao.md#rf001) |
+|<a id="rf002"></a>**RF002**| Cadastro de animais vinculados ao tutor. | [RF002](metodologias/tec_elicitacao.md#rf002) |
+|<a id="rf003"></a>**RF003**| Geração de número de Registro Geral do Animal (RGA). | [RF003](metodologias/tec_elicitacao.md#rf003) |
+|<a id="rf004"></a>**RF004**| Associação de microchip ao cadastro. | [RF004](metodologias/tec_elicitacao.md#rf004) |
+|<a id="rf005"></a>**RF005**| Emissão de documento oficial de identificação (RG Pet). | [RF005](metodologias/tec_elicitacao.md#rf005) |
+|<a id="rf006"></a>**RF006**| Consulta pública via RGA ou microchip. | [RF006](metodologias/tec_elicitacao.md#rf006) |
+|<a id="rf007"></a>**RF007**| Atualização do status do animal (perdido, encontrado, óbito, transferência). | [RF007](metodologias/tec_elicitacao.md#rf007) |
+|<a id="rf008"></a>**RF008**| Registro do histórico de saúde por veterinários. | [RF008](metodologias/tec_elicitacao.md#rf008) |
+|<a id="rf009"></a>**RF009**| Transferência de titularidade do animal. | [RF009](metodologias/tec_elicitacao.md#rf009) |
+|<a id="rf010"></a>**RF010**| Perfis de acesso distintos (Tutor e Veterinário). | [RF010](metodologias/tec_elicitacao.md#rf010) |
+|<a id="rf011"></a>**RF011**| Relatórios e estatísticas para órgãos públicos. | [RF011](metodologias/tec_elicitacao.md#rf011) |
+|<a id="rf012"></a>**RF012**| Permitir login integrado via Gov.br para tutores e profissionais. | [RF012](metodologias/tec_elicitacao.md#rf012) |
+|<a id="rf013"></a>**RF013**| Preenchimento automático de dados pessoais do tutor via Gov.br. | [RF013](metodologias/tec_elicitacao.md#rf013) |
+|<a id="rf014"></a>**RF014**| Emissão de carteirinha digital com QR Code. | [RF014](metodologias/tec_elicitacao.md#rf014) |
+|<a id="rf015"></a>**RF015**| Registro opcional do número de microchip e exibição na carteirinha digital. | [RF015](metodologias/tec_elicitacao.md#rf015) |
+|<a id="rf016"></a>**RF016**| Registro oficial de procedimentos veterinários (castração, vacinas, microchipagem). | [RF016](metodologias/tec_elicitacao.md#rf016) |
+|<a id="rf017"></a>**RF017**| Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos). | [RF017](metodologias/tec_elicitacao.md#rf017) |
+|<a id="rf018"></a>**RF018**| Envio de notificações/campanhas e publicação de materiais educativos. | [RF018](metodologias/tec_elicitacao.md#rf018) |
+|<a id="rf019"></a>**RF019**| Integração com políticas públicas e relatórios para programas sociais. | [RF019](metodologias/tec_elicitacao.md#rf019) |
+|<a id="rf020"></a>**RF020**| Garantir acesso nacional via internet, com escalabilidade. | [RF020](metodologias/tec_elicitacao.md#rf020) |
+|<a id="rf021"></a>**RF021**| Cadastro de perfil do animal. | [RF021](metodologias/tec_elicitacao.md#rf021) |
+|<a id="rf022"></a>**RF022**| Registro do histórico de vacinas. | [RF022](metodologias/tec_elicitacao.md#rf022) |
+|<a id="rf023"></a>**RF023**| Cadastro de informações de contato do tutor. | [RF023](metodologias/tec_elicitacao.md#rf023) |
+|<a id="rf024"></a>**RF024**| Gerenciamento de múltiplos animais. | [RF024](metodologias/tec_elicitacao.md#rf024) |
+|<a id="rf025"></a>**RF025**| Compartilhamento de informações com familiares. | [RF025](metodologias/tec_elicitacao.md#rf025) |
+|<a id="rf026"></a>**RF026**| Notificações de vacinas futuras/atrasadas. | [RF026](metodologias/tec_elicitacao.md#rf026) |
+|<a id="rf027"></a>**RF027**| Registro da localização do animal ou tutor. | [RF027](metodologias/tec_elicitacao.md#rf027) |
+|<a id="rf028"></a>**RF028**| Permitir busca e recuperação de animais perdidos ou abandonados. | [RF028](metodologias/tec_elicitacao.md#rf028) |
+|<a id="rf029"></a>**RF029**| Prontuário digital centralizando histórico de saúde e vacinação. | [RF029](metodologias/tec_elicitacao.md#rf029) |
+|<a id="rf030"></a>**RF030**| Notificações automáticas para vacinas e lembretes de medicação. | [RF031](metodologias/tec_elicitacao.md#rf031) |
+|<a id="rf031"></a>**RF031**| Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie, endereço do tutor). | [RF032](metodologias/tec_elicitacao.md#rf032) |
+|<a id="rf032"></a>**RF032**| Área de instruções integradas (manual digital). | [RF033](metodologias/tec_elicitacao.md#rf033) |
+|<a id="rf033"></a>**RF033**| Upload de foto do animal. | [RF034](metodologias/tec_elicitacao.md#rf034) |
+|<a id="rf034"></a>**RF034**| Cadastro/atualização de endereço do tutor. | [RF035](metodologias/tec_elicitacao.md#rf035) |
+|<a id="rf035"></a>**RF035**| Módulo para registro/visualização de exames do animal. | [RF036](metodologias/tec_elicitacao.md#rf036) |
+|<a id="rf036"></a>**RF036**| Acesso via celular para consulta fora da clínica. | [RF037](metodologias/tec_elicitacao.md#rf037) |
+|<a id="rf037"></a>**RF037**| Acesso remoto aos dados do animal. | [RF038](metodologias/tec_elicitacao.md#rf038) |
+|<a id="rf038"></a>**RF038**| Cadastro de ONGs/associações para controle de animais resgatados/adotados. | [RF040](metodologias/tec_elicitacao.md#rf040) |
+|<a id="rf039"></a>**RF039**| Rastreamento de doações/adoções. | [RF041](metodologias/tec_elicitacao.md#rf041) |
+|<a id="rf040"></a>**RF040**| Transferência de tutor preservando histórico. | [RF009](metodologias/tec_elicitacao.md#rf009) e [RF042](metodologias/tec_elicitacao.md#rf042) |
+|<a id="rf041"></a>**RF041**| Integração entre clínicas veterinárias permitindo visualização do prontuário. | [RF039](metodologias/tec_elicitacao.md#rf039) |
 
 
 ### Requisitos Funcionais Não Implementados
@@ -60,60 +61,77 @@
 
 | Código  | Descrição | Fonte |
 |---------|-----------|-------|
-| [RFNI001](#rfni001) | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. | Análise de concorrentes |
-| [RFNI002](#rfni002) | Implementar filtro por distância para localizar clínicas próximas. | Análise de concorrentes |
-| [RFNI003](#rfni003) | Listagem de tratamentos e serviços oferecidos por clínicas/hospitais. | Análise de concorrentes |
-| [RFNI004](#rfni004) | Filtro por especialidade veterinária. | Análise de concorrentes |
-| [RFNI005](#rfni005) | Informações sobre horários de funcionamento de clínicas/hospitais. | Análise de concorrentes |
-| [RFNI006](#rfni006) | Indicadores visuais de aberto/fechado no mapa e perfis. | Análise de concorrentes |
-| [RFNI007](#rfni007) | Pesquisa de clínicas/hospitais por médico veterinário vinculado. | Análise de concorrentes |
-| [RFNI008](#rfni008) | Campo para clínicas/hospitais informarem preços dos principais procedimentos. | Análise de concorrentes |
-| [RFNI009](#rfni009) | Médicos veterinários indicarem se realizam atendimentos domiciliares. | Análise de concorrentes |
-| [RFNI010](#rfni010) | Sistema de avaliação numérica para estabelecimentos. | Análise de concorrentes |
-| [RFNI011](#rfni011) | Sistema de avaliação numérica para médicos veterinários. | Análise de concorrentes |
-| [RFNI012](#rfni012) | Envio de comentários/feedbacks sobre estabelecimentos. | Análise de concorrentes |
-| [RFNI013](#rfni013) | Envio de comentários/feedbacks sobre médicos veterinários. | Análise de concorrentes |
-| [RFNI014](#rfni014) | Indicador visual da média de avaliações no perfil de clínicas/hospitais. | Análise de concorrentes |
-| [RFNI015](#rfni015) | Indicador visual da média de avaliações no perfil de médicos veterinários. | Análise de concorrentes |
-| [RFNI016](#rfni016) | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais). | Entrevista 2 |
-| [RFNI017](#rfni017) | Alertas e notificações automáticas para vacinas e lembretes de medicação. | Entrevista 2 |
-| [RFNI018](#rfni018) | Integração direta com parceiros (clínicas, ONGs, pet shops). | Entrevista 2 |
-| [RFNI019](#rfni019) | Área de instruções integradas (manual digital) explicando passo a passo o uso das funções. | Entrevista 3 |
-| [RFNI020](#rfni020) | Emissão de alertas de acesso suspeito ou tentativas de violação. | Entrevista 3 |
-| [RFNI021](#rfni021) | Notificação periódica para atualização de dados e fotos do animal. | Entrevista 3 |
-| [RFNI022](#rfni022) | Vincular foto do tutor ao registro de adoção. | Entrevista 3 |
+|<a id="rfni001"></a>**RFNI001**| Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. | [RFNI007](metodologias/tec_elicitacao.md#rfni007) |
+|<a id="rfni002"></a>**RFNI002**| Implementar filtro por distância para localizar clínicas próximas. | [RFNI008](metodologias/tec_elicitacao.md#rfni008) |
+|<a id="rfni003"></a>**RFNI003**| Listagem de tratamentos e serviços oferecidos por clínicas/hospitais. | [RFNI009](metodologias/tec_elicitacao.md#rfni009) |
+|<a id="rfni004"></a>**RFNI004**| Filtro por especialidade veterinária. | [RFNI010](metodologias/tec_elicitacao.md#rfni010) |
+|<a id="rfni005"></a>**RFNI005**| Informações sobre horários de funcionamento de clínicas/hospitais. | [RFNI011](metodologias/tec_elicitacao.md#rfni011) |
+|<a id="rfni006"></a>**RFNI006**| Indicadores visuais de aberto/fechado no mapa e perfis. | [RFNI012](metodologias/tec_elicitacao.md#rfni012) |
+|<a id="rfni007"></a>**RFNI007**| Pesquisa de clínicas/hospitais por médico veterinário vinculado. | [RFNI013](metodologias/tec_elicitacao.md#rfni013) |
+|<a id="rfni008"></a>**RFNI008**| Campo para clínicas/hospitais informarem preços dos principais procedimentos. | [RFNI014](metodologias/tec_elicitacao.md#rfni014) |
+|<a id="rfni009"></a>**RFNI009**| Médicos veterinários indicarem se realizam atendimentos domiciliares. | [RFNI015](metodologias/tec_elicitacao.md#rfni015) |
+|<a id="rfni010"></a>**RFNI010**| Sistema de avaliação numérica para estabelecimentos. | [RFNI016](metodologias/tec_elicitacao.md#rfni016) |
+|<a id="rfni011"></a>**RFNI011**| Sistema de avaliação numérica para médicos veterinários. | [RFNI017](metodologias/tec_elicitacao.md#rfni017) |
+|<a id="rfni012"></a>**RFNI012**| Envio de comentários/feedbacks sobre estabelecimentos. | [RFNI018](metodologias/tec_elicitacao.md#rfni018) |
+|<a id="rfni013"></a>**RFNI013**| Envio de comentários/feedbacks sobre médicos veterinários. | [RFNI019](metodologias/tec_elicitacao.md#rfni019) |
+|<a id="rfni014"></a>**RFNI014**| Indicador visual da média de avaliações no perfil de clínicas/hospitais. | [RFNI020](metodologias/tec_elicitacao.md#rfni020) |
+|<a id="rfni015"></a>**RFNI015**| Indicador visual da média de avaliações no perfil de médicos veterinários. | [RFNI021](metodologias/tec_elicitacao.md#rfni021) |
+|<a id="rfni016"></a>**RFNI016**| Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais). | [RF030](metodologias/tec_elicitacao.md#rf030) e [RFNI001](metodologias/tec_elicitacao.md#rfni001) |
+|<a id="rfni017"></a>**RFNI017**| Alertas e notificações automáticas para vacinas e lembretes de medicação. | [RF031](metodologias/tec_elicitacao.md#rf031) e [RFNI002](metodologias/tec_elicitacao.md#rfni002) |
+|<a id="rfni018"></a>**RFNI018**| Integração direta com parceiros (clínicas, ONGs, pet shops). | [RNFNI003](metodologias/tec_elicitacao.md#rnfni003) |
+|<a id="rfni019"></a>**RFNI019**| Área de instruções integradas (manual digital) explicando passo a passo o uso das funções. | [RF033](metodologias/tec_elicitacao.md#rf033) e [RFNI003](metodologias/tec_elicitacao.md#rfni003) |
+|<a id="rfni020"></a>**RFNI020**| Emissão de alertas de acesso suspeito ou tentativas de violação. | [RF043](metodologias/tec_elicitacao.md#rf043) e [RFNI004](metodologias/tec_elicitacao.md#rfni004) |
+|<a id="rfni021"></a>**RFNI021**| Notificação periódica para atualização de dados e fotos do animal. | [RF044](metodologias/tec_elicitacao.md#rf044) e [RFNI005](metodologias/tec_elicitacao.md#rfni005) |
+|<a id="rfni022"></a>**RFNI022**| Vincular foto do tutor ao registro de adoção. | [RF045](metodologias/tec_elicitacao.md#rf045) e [RFNI006](metodologias/tec_elicitacao.md#rfni006) |
 
-### Requisitos Não Funcionais
+### Requisitos Não Funcionais Não Implementados
 
-<p><strong>Tabela 3 – Conjunto de requisitos não funcionais elicitados.</strong></p>
+<p><strong>Tabela 3 – Conjunto de requisitos não funcionais não implementados elicitados.</strong></p>
 
 | Código  | Descrição | Fonte |
 |---------|-----------|-------|
-| [RNF001](#rnf001) | Conformidade com a LGPD. | Documentos |
-| [RNF002](#rnf002) | Disponibilidade: 99,8% de uptime (24/7). | Documentos |
-| [RNF003](#rnf003) | Usabilidade: interface intuitiva para cidadãos. | Documentos |
-| [RNF004](#rnf004) | Desempenho: resposta em consultas públicas < 2s. | Documentos |
-| [RNF005](#rnf005) | Compatibilidade: suporte a navegadores principais e responsividade mobile. | Documentos |
-| [RNF006](#rnf006) | Integração: APIs para integração futura com clínicas e órgãos públicos. | Documentos |
-| [RNF007](#rnf007) | Sistema fácil e intuitivo. | Entrevista 1 |
-| [RNF008](#rnf008) | Design de interface limpo e organizado. | Entrevista 1 |
-| [RNF009](#rnf009) | Confiabilidade: garantia contra perda de dados. | Entrevista 1 |
-| [RNF010](#rnf010) | Acessibilidade: acesso via web e mobile (prioridade mobile). | Entrevista 1 |
-| [RNF011](#rnf011) | Disponibilidade/desempenho: funcionalidades offline. | Entrevista 1 |
-| [RNF012](#rnf012) | Usabilidade: sistema claro e fácil de entender. | Entrevista 2 |
-| [RNF013](#rnf013) | Compatibilidade/acessibilidade: multiplataforma, prioridade mobile. | Entrevista 2 |
-| [RNF014](#rnf014) | Integração com clínicas, ONGs e pet shops. | Entrevista 2 |
-| [RNF015](#rnf015) | Utilidade: substituir documentos/agendas físicas. | Entrevista 2 |
-| [RNF016](#rnf016) | Usabilidade para profissionais com pouca afinidade tecnológica. | Entrevista 3 |
-| [RNF017](#rnf017) | Segurança: alertas de acesso não autorizado. | Entrevista 3 |
-| [RNF018](#rnf018) | Confiabilidade: cópias de segurança automáticas. | Entrevista 3 |
-| [RNF019](#rnf019) | Integração entre clínicas, ONGs e Sinpatinhas. | Entrevista 3 |
-| [RNF020](#rnf020) | Acessibilidade: dispositivos móveis e desktops. | Entrevista 3 |
-| [RNF021](#rnf021) | Desempenho: respostas rápidas (até 2s). | Entrevista 3 |
-| [RNF022](#rnf022) | Disponibilidade: acesso remoto contínuo. | Entrevista 3 |
-| [RNF023](#rnf023) | Privacidade: restrição de acesso a dados clínicos. | Entrevista 3 |
-| [RNF024](#rnf024) | Auditabilidade: logs de acesso e modificações. | Entrevista 3 |
+|<a id="rnfni001"></a>**RNFNI001**| Acesso via web e mobile (prioridade no mobile). | [RNF004](metodologias/tec_elicitacao.md#rnf004) e [RNFNI001](metodologias/tec_elicitacao.md#rnfni001) |
+|<a id="rnfni002"></a>**RNFNI002**| Funcionalidades offline. | [RNF005](metodologias/tec_elicitacao.md#rnf005) e [RNFNI002](metodologias/tec_elicitacao.md#rnfni002) |
+|<a id="rnfni003"></a>**RNFNI003**| Integração direta com parceiros (clínicas, ONGs, pet shops). | [RNFNI003](metodologias/tec_elicitacao.md#rnfni003) |
 
+### Requisitos Não Funcionais
+
+<p><strong>Tabela 4 – Conjunto de requisitos não funcionais elicitados.</strong></p>
+
+| Código  | Descrição | Fonte |
+|---------|-----------|-------|
+|<a id="rnf001"></a>**RNF001**| Conformidade com a LGPD. | [RNF009](metodologias/tec_elicitacao.md#rnf009) |
+|<a id="rnf002"></a>**RNF002**| Disponibilidade: 99,8% de uptime (24/7). | [RNF014](metodologias/tec_elicitacao.md#rnf014) e [RNF030](metodologias/tec_elicitacao.md#rnf030) |
+|<a id="rnf003"></a>**RNF003**| Usabilidade: interface intuitiva para cidadãos. | [RNF001](metodologias/tec_elicitacao.md#rnf001) |
+|<a id="rnf004"></a>**RNF004**| Desempenho: resposta em consultas públicas < 2s. | [RNF013](metodologias/tec_elicitacao.md#rnf013) e [RNF029](metodologias/tec_elicitacao.md#rnf029) |
+|<a id="rnf005"></a>**RNF005**| Compatibilidade: suporte a navegadores principais e responsividade mobile. | [RNF004](metodologias/tec_elicitacao.md#rnf004) e [RNF006](metodologias/tec_elicitacao.md#rnf006) |
+|<a id="rnf006"></a>**RNF006**| Integração: APIs para integração futura com clínicas e órgãos públicos. | [RNF007](metodologias/tec_elicitacao.md#rnf007), [RNF011](metodologias/tec_elicitacao.md#rnf011) e [RNF027](metodologias/tec_elicitacao.md#rnf027) |
+|<a id="rnf007"></a>**RNF007**| Sistema fácil e intuitivo. | [RNF001](metodologias/tec_elicitacao.md#rnf001) e [RNF017](metodologias/tec_elicitacao.md#rnf017) |
+|<a id="rnf008"></a>**RNF008**| Design de interface limpo e organizado. | [RNF002](metodologias/tec_elicitacao.md#rnf002) e [RNF018](metodologias/tec_elicitacao.md#rnf018) |
+|<a id="rnf009"></a>**RNF009**| Confiabilidade: garantia contra perda de dados. | [RNF003](metodologias/tec_elicitacao.md#rnf003), [RNF010](metodologias/tec_elicitacao.md#rnf010), [RNF019](metodologias/tec_elicitacao.md#rnf019) e [RNF026](metodologias/tec_elicitacao.md#rnf026) |
+|<a id="rnf010"></a>**RNF010**| Acessibilidade: acesso via web e mobile (prioridade mobile). | [RNF004](metodologias/tec_elicitacao.md#rnf004), [RNF006](metodologias/tec_elicitacao.md#rnf006) e [RNF012](metodologias/tec_elicitacao.md#rnf012) |
+|<a id="rnf011"></a>**RNF011**| Disponibilidade/desempenho: funcionalidades offline. | [RNF005](metodologias/tec_elicitacao.md#rnf005) |
+|<a id="rnf012"></a>**RNF012**| Usabilidade: sistema claro e fácil de entender. | [RNF001](metodologias/tec_elicitacao.md#rnf001) e [RNF020](metodologias/tec_elicitacao.md#rnf020) |
+|<a id="rnf013"></a>**RNF013**| Compatibilidade/acessibilidade: multiplataforma, prioridade mobile. | [RNF006](metodologias/tec_elicitacao.md#rnf006), [RNF021](metodologias/tec_elicitacao.md#rnf021) e [RNF028](metodologias/tec_elicitacao.md#rnf028) |
+|<a id="rnf014"></a>**RNF014**| Integração com clínicas, ONGs e pet shops. | [RNF007](metodologias/tec_elicitacao.md#rnf007), [RNF011](metodologias/tec_elicitacao.md#rnf011), [RNF022](metodologias/tec_elicitacao.md#rnf022) e [RNF027](metodologias/tec_elicitacao.md#rnf027) |
+|<a id="rnf015"></a>**RNF015**| Utilidade: substituir documentos/agendas físicas. | [RNF008](metodologias/tec_elicitacao.md#rnf008) e [RNF023](metodologias/tec_elicitacao.md#rnf023) |
+|<a id="rnf016"></a>**RNF016**| Usabilidade para profissionais com pouca afinidade tecnológica. | [RNF001](metodologias/tec_elicitacao.md#rnf001) e [RNF024](metodologias/tec_elicitacao.md#rnf024) |
+|<a id="rnf017"></a>**RNF017**| Segurança: alertas de acesso não autorizado. | [RNF009](metodologias/tec_elicitacao.md#rnf009) e [RNF025](metodologias/tec_elicitacao.md#rnf025) |
+|<a id="rnf018"></a>**RNF018**| Confiabilidade: cópias de segurança automáticas. | [RNF010](metodologias/tec_elicitacao.md#rnf010) e [RNF026](metodologias/tec_elicitacao.md#rnf026) |
+|<a id="rnf019"></a>**RNF019**| Integração entre clínicas, ONGs e Sinpatinhas. | [RNF007](metodologias/tec_elicitacao.md#rnf007), [RNF011](metodologias/tec_elicitacao.md#rnf011) e [RNF027](metodologias/tec_elicitacao.md#rnf027) |
+|<a id="rnf020"></a>**RNF020**| Acessibilidade: dispositivos móveis e desktops. | [RNF006](metodologias/tec_elicitacao.md#rnf006), [RNF012](metodologias/tec_elicitacao.md#rnf012) e [RNF028](metodologias/tec_elicitacao.md#rnf028) |
+|<a id="rnf021"></a>**RNF021**| Desempenho: respostas rápidas (até 2s). | [RNF013](metodologias/tec_elicitacao.md#rnf013) e [RNF029](metodologias/tec_elicitacao.md#rnf029) |
+|<a id="rnf022"></a>**RNF022**| Disponibilidade: acesso remoto contínuo. | [RNF014](metodologias/tec_elicitacao.md#rnf014) e [RNF030](metodologias/tec_elicitacao.md#rnf030) |
+|<a id="rnf023"></a>**RNF023**| Privacidade: restrição de acesso a dados clínicos. | [RNF015](metodologias/tec_elicitacao.md#rnf015) e [RNF031](metodologias/tec_elicitacao.md#rnf031) |
+|<a id="rnf024"></a>**RNF024**| Auditabilidade: logs de acesso e modificações. | [RNF016](metodologias/tec_elicitacao.md#rnf016) e [RNF032](metodologias/tec_elicitacao.md#rnf032) |
+
+---
+## Tabela de Contribuição
+
+| **Nome**           | **Contribuição (%)** | **Função**                                      |
+|---------------------|----------------------|-------------------------------------------------|
+| Heloisa      | 50%                  | Criação da página de requisitos elicitados     |
+| Pedro Gomes           | 50%                   | Revisão e correção dos links para garantir a rastreabilidade |
 ---
 
 ## 📜 Histórico de Versão
@@ -121,5 +139,8 @@
 | Versão | Data       | Descrição                                         | Autores           | Revisores |
 |-------:|------------|---------------------------------------------------|-------------------|-----------|
 | 1.0    | 07/10/2025 | Criação da página de consolidação de requisitos     | Heloisa     | Letícia  |
+| 1.1    | 21/10/2025 | Padronização com IDs e links para fontes dos requisitos | Pedro Gomes | -- |
+| 1.2    | 21/10/2025 | Adição de RF041 e referências completas aos requisitos do documento fonte | Pedro Gomes | -- |
+
 
 ---
