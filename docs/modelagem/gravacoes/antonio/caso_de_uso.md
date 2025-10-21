@@ -59,7 +59,6 @@
 
 [Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos. (Especificado em "Referências")](../../../assets/PDFs/user_cases_e_especificacao.pdf)
 
-
 ---
 
 ## Tabela de Contribuição

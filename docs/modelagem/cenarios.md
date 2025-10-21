@@ -1,6 +1,21 @@
 # Cenários - Projeto SinPatinhas
 
-* [Link para validação de cenários com tutora de animal](https://www.youtube.com/watch?v=loBusGtCcjI)
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
 
 ---
 
@@ -50,8 +65,8 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 |---------------------|-------------|-----------------------------|
 | **Letícia Paiva**   | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |    | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RNFI017**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Antonio Carvalho**| [Cenário 03](/modelagem/gravacoes/antonio/cenarios.md)  | Emissão de documento oficial de identificação (RG Pet) - [**RF005**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Atualização do status do animal (perdido, encontrado, óbito, transferência) - [**RF007**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Antonio Carvalho**| [Cenário 03](/modelagem/gravacoes/antonio/cenarios.md)  | Sistema de Adoção de Animais - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Notificação Periódica para Atualização de Dados e Fotos do Animal - [**RNFI021**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Heloisa Santos**  | [Cenário 05](/modelagem/gravacoes/heloisa/cenarios.md)  | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - [**RFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |   | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Pedro Gomes**     | [Cenário 07](/modelagem/gravacoes/pedro/cenarios.md)  | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RF05**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
@@ -62,6 +77,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Matheus Negrini** | [Cenário 11](/modelagem/gravacoes/mateus/cenarios.md)  | Acesso à Área de Instruções Integradas - [**RF033**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |  | [Cenário 12](/modelagem/gravacoes/mateus/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
+---
 
 ## Agradecimentos
 
@@ -74,9 +90,9 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 | **Nome**           | **Contribuição (%)** | **Função**                                      |
 |---------------------|----------------------|-------------------------------------------------|
-| Letícia Paiva       | 33%                  | Autora da página de apresentação de cenário     |
-| Antonio Carvalho    | 33%                  | Criação do modelo de apresentação de cenário    |
-| Isaac Menezes Pereia | 33%                 | Refatoração das tabelas                         |
+| Letícia Paiva       | 40%                  | Autora da página de apresentação de cenário     |
+| Antonio Carvalho    | 40%                  | Criação do modelo de apresentação de cenário    |
+| Isaac Menezes Pereia | 20%                 | Refatoração das tabelas                         |
 
 
 ---
