@@ -31,31 +31,45 @@ De acordo com **Serrano e Serrano (2025)**, as histórias de usuário são **ite
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Letícia Paiva**    | [#HU001](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU002](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU009](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU010](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU011](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU012](../../modelagem/gravacoes/leticia/historias.md) |  |
+| **Letícia Paiva**    | [#HU001](../../modelagem/gravacoes/leticia/historias.md) | Sistema de Adoção |
+|                      | [#HU002](../../modelagem/gravacoes/leticia/historias.md) | Alertas e Notificações Automáticas |
+|                      | [#HU009](../../modelagem/gravacoes/leticia/historias.md) | Compartilhamento de Informações com Familiares |
+|                      | [#HU010](../../modelagem/gravacoes/leticia/historias.md) | Notificações de Vacinas Futuras/Atrasadas |
+|                      | [#HU011](../../modelagem/gravacoes/leticia/historias.md) | Registro da Localização do Animal ou Tutor |
+|                      | [#HU012](../../modelagem/gravacoes/leticia/historias.md) | Registro Detalhado de Informações do Animal |
 | **Antonio Carvalho** | [#HU003](../../modelagem/gravacoes/antonio/historias.md) | Cadastro e Gerenciamento de Perfis Ampliados |
 |                      | [#HU004](../../modelagem/gravacoes/antonio/historias.md) | Publicação de Campanhas e Materiais Educativos |
 |                      | [#HU005](../../modelagem/gravacoes/antonio/historias.md) | Exibição de Horários de Clínicas Parceiras |
 |                      | [#HU006](../../modelagem/gravacoes/antonio/historias.md) | Integração Direta com Parceiros |
 |                      | [#HU007](../../modelagem/gravacoes/antonio/historias.md) | Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica |
 |                      | [#HU008](../../modelagem/gravacoes/antonio/historias.md) | Sincronização de Dados entre ONGs e Clínicas |
-| **Pedro Gomes**      | [#HU013](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU014](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU015](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU016](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU017](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU018](../../modelagem/gravacoes/pedro/historias.md) |  |
+| **Pedro Gomes**      | [#HU013](../../modelagem/gravacoes/pedro/historias.md) | Aplicativo Móvel SinPatinhas |
+|                      | [#HU014](../../modelagem/gravacoes/pedro/historias.md) | Acesso Offline à Ficha do Próprio Animal |
+|                      | [#HU015](../../modelagem/gravacoes/pedro/historias.md) | Compartilhamento de Informações com Familiares |
+|                      | [#HU016](../../modelagem/gravacoes/pedro/historias.md) | Notificações de Vacinas Futuras e Atrasadas |
+|                      | [#HU017](../../modelagem/gravacoes/pedro/historias.md) | Registro da Localização do Animal ou Tutor |
+|                      | [#HU018](../../modelagem/gravacoes/pedro/historias.md) | Restrição de Acesso a Dados Clínicos (Privacidade) |
+|                      | [#HU038](../../modelagem/gravacoes/pedro/historias.md) | Logs de Acesso e Modificações (Auditabilidade) |
+|                      | [#HU039](../../modelagem/gravacoes/pedro/historias.md) | Avaliação Numérica de Médicos Veterinários |
+|                      | [#HU040](../../modelagem/gravacoes/pedro/historias.md) | Envio de Comentários sobre Estabelecimentos |
+| **Mateus Negrini**   | [#HU019](../../modelagem/gravacoes/mateus/historias.md) | Acesso à Área de Instruções Integradas |
+|                      | [#HU020](../../modelagem/gravacoes/mateus/historias.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal |
+|                      | [#HU021](../../modelagem/gravacoes/mateus/historias.md) | Indicador Visual da Média de Avaliações no Perfil de Médicos Veterinários |
+|                      | [#HU022](../../modelagem/gravacoes/mateus/historias.md) | Alertas e Notificações Automáticas para Vacinas e Lembretes de Medicação |
+|                      | [#HU023](../../modelagem/gravacoes/mateus/historias.md) | Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação |
+|                      | [#HU024](../../modelagem/gravacoes/mateus/historias.md) | Vincular Foto do Tutor ao Registro de Adoção |
 | **Heloisa Silva**    | [#HU032](../../modelagem/gravacoes/heloisa/historias.md) | Mapa interatico com localização de estabelecimentos parceiros |
 |                      | [#HU033](../../modelagem/gravacoes/heloisa/historias.md) | Filtro de distância para o mapa |
 |                      | [#HU034](../../modelagem/gravacoes/heloisa/historias.md) |  Tema para o mapa |
 |                      | [#HU035](../../modelagem/gravacoes/heloisa/historias.md) | Sistema de avaliação de estabelecimentos parceiros |
 |                      | [#HU036](../../modelagem/gravacoes/heloisa/historias.md) | Validação visual para o avaliador de estabelecimentos |
 |                      | [#HU037](../../modelagem/gravacoes/heloisa/historias.md) | Notificação para o estabelecimento avaliado |
-|                     
+| **Isaac Menezes**    | [#HU026](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil da clínica/hospital |
+|                      | [#HU027](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil do médico |
+|                      | [#HU028](../../modelagem/gravacoes/isaac/historias.md) | Prontuário digital centralizando histórico de saúde e vacinação |
+|                      | [#HU029](../../modelagem/gravacoes/isaac/historias.md) | Upload de foto do animal |
+|                      | [#HU030](../../modelagem/gravacoes/isaac/historias.md) | Vincular foto do tutor ao registro de dados e fotos do animal |
+|                      | [#HU031](../../modelagem/gravacoes/isaac/historias.md) | Permitir busca e recuperação de animais perdidos ou abandonados |
 
 ---
 

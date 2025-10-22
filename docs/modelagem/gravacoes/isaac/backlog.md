@@ -1,9 +1,9 @@
-# Backlog  – Letícia Paiva
+# Backlog  – Isaac Menezes
 
 ## Introdução
 
-O presente backlog reúne os itens desenvolvidos por **Letícia Paiva**, referentes aos requisitos **RFNI016 (Sistema de Adoção)** e **RFNI017 (Alertas e Notificações Automáticas)** do projeto **SinPatinhas**.  
-Esses itens foram definidos a partir das **histórias de usuário HU001 e HU002**, descritas anteriormente, e seguem a estrutura de priorização **MoSCoW**, conforme as boas práticas das metodologias ágeis <a id="anchor_1" href="#REF1">[1]</a>.
+O presente backlog reúne os itens desenvolvidos por **Isaac Menezes**, referentes aos requisitos **RFNI014 (Média de avaliações de atendimentos de clínicas/hospitais)** e **RFNI015 (Média de avaliações de atendimentos de médicos)** do projeto **SinPatinhas**.  
+Esses itens foram definidos a partir das **histórias de usuário HU026 e HU027**, descritas anteriormente, e seguem a estrutura de priorização **MoSCoW**, conforme as boas práticas das metodologias ágeis <a id="anchor_1" href="#REF1">[1]</a>.
 
 O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob responsabilidade da autora, garantindo alinhamento entre os requisitos elicitados, as histórias de usuário e o planejamento de desenvolvimento do sistema <a id="anchor_2" href="#REF2">[2]</a>.
 
@@ -13,8 +13,8 @@ O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob res
 
 | **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
-| BL001 | Sistema de Adoção | Implementar módulo que permita visualizar animais disponíveis para adoção, com filtros de busca e solicitação direta via ONG cadastrada. | Must have | Não iniciado | Letícia Paiva | RFNI016 / HU001 |
-| BL002 | Alertas e Notificações Automáticas | Implementar sistema de alertas automáticos para informar usuários sobre status de adoção, lembretes de vacinação e atualizações cadastrais. | Should have | Não iniciado | Letícia Paiva | RFNI017 / HU002 |
+| BL009 | Média de avaliações da clínica/hospital | Implementar função que calcule a média de avaliação de atendimentos totais da clínica/hospital. | Must have | Não iniciado | Isaac Menezes | RFNI014 |
+| BL010 | Média de avaliação do médico | Implementar função que calcula a média de avaliações dos atendimentos totais do médico. | Must have | Não iniciado | Isaac Menezes | RFNI015 |
 
 
 ---
@@ -23,7 +23,7 @@ O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob res
 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
-| **Letícia Paiva** | 100% | Autora do backlog individual e responsável pelos itens RFNI016 e RFNI017 |
+| **Isaac Menezes** | 100% | Autora do backlog individual e responsável pelos itens RFNI014 e RFNI015 |
 
 ---
 
@@ -31,7 +31,7 @@ O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob res
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|----------|----------------|------------|--------------|
-| 1.0 | 19/10/2025 | Criação do backlog individual de Letícia Paiva | Letícia Paiva | Heloisa Silva |
+| 1.0 | 21/10/2025 | Criação do backlog individual de Isaac Menezes | - |  |
 
 ---
 
