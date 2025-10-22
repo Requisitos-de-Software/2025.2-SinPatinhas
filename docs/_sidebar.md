@@ -129,6 +129,7 @@ details a:hover {
   - [Backlog](/modelagem/agilidade/backlog.md)
   - [NFR Framework](/modelagem/agilidade/NFR_framework.md)
   - [Histórias de Usuário](/modelagem/agilidade/historias_de_usuario.md)
+  - [Listas de Verificação](/modelagem/listas_verificacao/listas_verificacai_HUB_e_NFR.md)
 </details>
 
 <details>
