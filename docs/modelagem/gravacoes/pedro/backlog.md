@@ -1,48 +1,54 @@
 # Itens de Backlog - Pedro Gomes
 
-Com base nas histórias HU005 e HU006, foram gerados **itens de backlog derivados de requisitos não implementados (RFNI)**.
+Com base nas histórias **HU013** e **HU014**, foram gerados **itens de backlog derivados de requisitos não implementados (RFNI)**.
 
 ---
 
-## Tema: **Integração e Serviços Parceiros**
+## Tema: **Experiência do Usuário e Acesso Offline**
 
-### Épico: **Gestão de Clínicas e Parceiros**
+### Épico: **Aplicativo Móvel e Disponibilidade de Dados**
 
-**Tabela 1 – Itens de backlog derivados de requisitos não implementados**
-*Autoria: Antonio Carvalho*  
+**Tabela 1 – Itens de backlog derivados de requisitos não implementados**  
+*Autoria: Pedro Gomes*  
 
 | **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
-| **BL001** | Exibição de horários de funcionamento | Exibir automaticamente os horários de funcionamento das clínicas e hospitais parceiros, integrando dados de disponibilidade. | Should have | Não iniciado | Antonio Carvalho | RFNI005 / HU005 |
-| **BL002** | Integração com ONGs, clínicas e pet shops | Implementar integração via API entre o SinPatinhas e os sistemas externos de parceiros para sincronização de dados de animais, adoções e atendimentos. | Must have | Não iniciado | Antonio Carvalho | RFNI018 / HU006 / HU008 |
+| **BL003** | Desenvolvimento do aplicativo móvel | Criar o aplicativo móvel “SINPatinhas” disponível para Android e iOS, permitindo acesso completo às funcionalidades do sistema, como cadastros, adoções e eventos. | Must have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / HU013 |
+| **BL004** | Interface responsiva e intuitiva | Projetar interface acessível, responsiva e adaptada a diferentes tamanhos de tela, priorizando usabilidade e navegação intuitiva. | Should have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / HU013 |
+| **BL011** | Acesso offline à ficha do animal | Permitir o armazenamento local da ficha do animal, possibilitando consulta mesmo sem conexão com a internet. | Must have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
+| **BL012** | Mensagens de aviso e confirmação offline | Exibir mensagens de confirmação ao salvar dados offline e alertas ao tentar acessar informações sem conexão. | Should have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
+
+<br>
 
 ---
 
 ## Representação Hierárquica  
 
-**Tema:** Integração e Parcerias  
-**Épico:** Comunicação e Colaboração entre Entidades  
+**Tema:** Experiência do Usuário e Acesso Offline  
+**Épico:** Aplicativo Móvel e Disponibilidade de Dados  
 
 **Histórias Relacionadas:**  
-- **HU005:** Exibição de horários de clínicas e hospitais.  
-- **HU006:** Integração direta com sistemas de parceiros.  
-- **HU008:** Sincronização de dados entre ONGs e clínicas.  
+- **HU013:** Aplicativo móvel “SINPatinhas”.  
+- **HU014:** Acesso offline à ficha do próprio animal.  
+
+<br>
 
 ---
 
 ✅ **Observações Finais**  
-- As histórias seguem o padrão de escrita *“Como [persona], quero [função], para [benefício]”*.  
-- Há **rastreabilidade direta** com os requisitos RF017, RF018, RFNI005, RFNI018, RNF014 e RNF016.  
-- O artefato está **padronizado com o modelo oficial do projeto SinPatinhas**, pronto para inclusão em `/modelagem/gravacoes/antonio/historias.md`.
+- As histórias foram escritas seguindo o padrão: *“Como [persona], quero [função], para [benefício]”*.  
+- Há **rastreabilidade direta** com os requisitos [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) e [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002).  
+- O artefato está **padronizado com o modelo oficial do projeto SINPatinhas**, pronto para inclusão em `/modelagem/gravacoes/pedro/historias.md`.  
+
+<br>
 
 ---
 
-## Agradecimentos
+## Agradecimentos  
 
-Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, padronização técnica e formatação textual**.  
-O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **Antonio Carvalho**, com base nos fundamentos de **Serrano & Serrano (2025)**.
+Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **padronização técnica, textual e formatação**.  
+O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **Pedro Gomes**, com base nos fundamentos de **Serrano & Serrano (2025)**.
 
----
 
 ## Tabela de Contribuição
 

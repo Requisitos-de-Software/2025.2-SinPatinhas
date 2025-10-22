@@ -14,11 +14,19 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 
 ---
 
+## Tabela de Contribuições
+
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| **Antonio Carvalho** | 100% | Autor da página NFR Framework |
+
+---
+
 ## Artefatos e Gravações Unitários
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Antonio Carvalho**    | [#CNFR01](../../modelagem/gravacoes/antonio/nfr_frame.md) |  |
+| **Antonio Carvalho**    | [#CNFR01](../../modelagem/gravacoes/antonio/nfr_frame.md) | Segurança e Auditabilidade |
 | **Pedro Gomes**         | [#CNFR01](../../modelagem/gravacoes/pedro/nfr_frame.md) |  |
 |                         | [#CNFR02](../../modelagem/gravacoes/pedro/nfr_frame.md) |  |
 
@@ -136,15 +144,6 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, padronização técnica e formatação textual**.  
 O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antonio Carvalho** e **Letícia Paiva**, com base nos fundamentos de **Serrano & Serrano (2025)**.
 
----
-
-## Tabela de Contribuições
-
-| **Nome** | **Contribuição (%)** | **Função** |
-|-----------|----------------------|-------------|
-| **Antonio Carvalho** | 100% | Autor da página NFR Framework |
-
----
 
 ## Tabela de Versionamento
 
