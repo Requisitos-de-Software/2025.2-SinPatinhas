@@ -49,6 +49,12 @@ De acordo com **Serrano e Serrano (2025)**, as histórias de usuário são **ite
 |                      | [#HU016](../../modelagem/gravacoes/pedro/historias.md) |  |
 |                      | [#HU017](../../modelagem/gravacoes/pedro/historias.md) |  |
 |                      | [#HU018](../../modelagem/gravacoes/pedro/historias.md) |  |
+| **Mateus Negrini**   | [#HU019](../../modelagem/gravacoes/mateus/historias.md) | Acesso à Área de Instruções Integradas |
+|                      | [#HU020](../../modelagem/gravacoes/mateus/historias.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal |
+|                      | [#HU021](../../modelagem/gravacoes/mateus/historias.md) | Indicador Visual da Média de Avaliações no Perfil de Médicos Veterinários |
+|                      | [#HU022](../../modelagem/gravacoes/mateus/historias.md) | Alertas e Notificações Automáticas para Vacinas e Lembretes de Medicação |
+|                      | [#HU023](../../modelagem/gravacoes/mateus/historias.md) | Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação |
+|                      | [#HU024](../../modelagem/gravacoes/mateus/historias.md) | Vincular Foto do Tutor ao Registro de Adoção |
 | **Heloisa Silva**    | [#HU032](../../modelagem/gravacoes/heloisa/historias.md) | Mapa interatico com localização de estabelecimentos parceiros |
 |                      | [#HU033](../../modelagem/gravacoes/heloisa/historias.md) | Filtro de distância para o mapa |
 |                      | [#HU034](../../modelagem/gravacoes/heloisa/historias.md) |  Tema para o mapa |
