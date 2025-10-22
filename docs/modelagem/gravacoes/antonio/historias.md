@@ -149,8 +149,6 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **A
 ## Referências  
 
 <a id="REF1"></a>[1] SERRANO, Milene; SERRANO, Maurício. *Product Backlog e User Stories – Aula 15*. Universidade de Brasília (UnB), 2025.  
-<a id="REF2"></a>[2] LEFFINGWELL, Dean. *Agile Software Requirements.* Addison-Wesley, 2011.  
-<a id="REF3"></a>[3] PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
-<a id="REF4"></a>[4] SOMMERVILLE, Ian. *Engenharia de Software.* 10ª ed. Pearson, 2019.  
+<a id="REF2"></a>[3] PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
 
 ---

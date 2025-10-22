@@ -4,7 +4,7 @@
 ---
 
 ## 1° Cartão de Especificação NFR – Segurança e Auditabilidade  
-
+ 
 | **Campo** | **Detalhamento** |
 |------------|------------------|
 | **Nr Requisito** | CNFR01 |
@@ -173,5 +173,11 @@
 | **Código** | **Referência Completa** |
 |-------------|--------------------------|
 | [REF1] | SERRANO, Milene; SERRANO, Maurício. *NFR Framework e Requisitos Não Funcionais – Aula 11*. Universidade de Brasília (UnB), 2025. |
-| [REF2] | CHUNG, L.; NIXON, B.; YU, E.; MYLOPOULOS, J. *Non-Functional Requirements in Software Engineering.* Springer, 2000. |
-| [REF3] | PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021. |
+| [REF2] | SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.* Dissertação (Mestrado em Ciência da Computação) - Programa de Pós-Graduação em Ciência da Computação, Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019 . Orientador: Prof. Jaelson Freire Brelaz de Castro. Coorientador: Prof. João Henrique Correia Pimentel. Área de Concentração: Engenharia de Software. |
+| **Código** | **Sub-referência Básica Completa** |
+| [REF1_1] | [Ebrary] Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003. |
+| [REF1_2] | [Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (último acesso: 2017) |
+| [REF1_3] | [Ebrary] Chemuturi, Murali. Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010. |
+| [REF1_4] | Software & Systems Requirements Engineering: In Practice - Brian Berenbach, Daniel Paulish, Juergen Kazmeier, Arnold Rudorfer (Livro bem completo mas, não tem exemplar físico na biblioteca, nem mesmo consta na Ebrary) |
+| [REF1_5] | Requirements Engineering and Management for Software Development Projects - Murali Chemuturi (Livro bem completo mas, não tem exemplar físico na biblioteca, nem mesmo consta na Ebrary) |
+

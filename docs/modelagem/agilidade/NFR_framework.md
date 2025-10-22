@@ -3,7 +3,7 @@
 ## Introdução
 
 O **NFR Framework** é uma metodologia utilizada para representar e analisar **Requisitos Não Funcionais (RNFs)** de um sistema.  
-No contexto do **SinPatinhas**, ele auxilia a equipe a identificar, registrar e avaliar as decisões de projeto que influenciam aspectos como **usabilidade**, **segurança**, **confiabilidade** e **desempenho** da aplicação.  
+No contexto do **SinPatinhas**, ele auxilia a equipe a identificar, registrar e avaliar as decisões de projeto que influenciam aspectos como **usabilidade**, **segurança**, **confiabilidade** e **desempenho** da aplicação <a id="anchor_1" href="#REF1">[1]</a>.
 
 O uso do NFR Framework permite que cada decisão de desenvolvimento seja documentada de forma lógica e visual, garantindo **rastreabilidade** e **justificativa** para as escolhas técnicas feitas durante o ciclo de vida do sistema <a id="anchor_1" href="#REF1">[1]</a>.
 
@@ -43,11 +43,14 @@ No **SinPatinhas**, o SIG permite visualizar como cada requisito não funcional 
 
 ### Tipos de Softgoal
 
-Os **softgoals** são divididos em três tipos principais:
+Os **softgoals** são divididos em três tipos principais  <a id="anchor_1" href="#REF2">[2]</a>:
 
 - **NFR Softgoal:** representa um requisito não funcional, como “Usabilidade” ou “Segurança”.  
 - **Softgoal de Operacionalização:** detalha como o NFR será alcançado, por exemplo, “Autenticação via senha segura”.  
 - **Softgoal de Afirmação:** representa justificativas ou decisões do projeto, como “Uso de autenticação por senha é suficiente para o público-alvo”.
+![NFR_Framework_2](../../assets/PDFs/nfr/nfr_5.png)
+*CHUNG, L.; NIXON, B.; YU, E.; MYLOPOULOS, J.*Non-Functional Requirements in Software Engineering.* Kluwer Academic Publishers, 2000.*
+
 
 Esses tipos auxiliam o time do **SinPatinhas** a organizar visualmente as decisões relacionadas aos requisitos não funcionais.
 
@@ -59,15 +62,18 @@ Os softgoals no NFR Framework podem se **relacionar entre si** por meio de **dec
 
 #### Decomposições
 
-As decomposições dividem um softgoal em outros mais específicos.  
+As decomposições dividem um softgoal em outros mais específicos  <a id="anchor_1" href="#REF2">[2]</a>.  
 **Exemplo (SinPatinhas):**
 - “Usabilidade” → “Interface intuitiva”, “Tempo de resposta rápido”, “Feedback visual”.
+
+![NFR_Framework_2](../../assets/PDFs/nfr/nfr_4.png)
+*CHUNG, L.; NIXON, B.; YU, E.; MYLOPOULOS, J. *Non-Functional Requirements in Software Engineering.* Kluwer Academic Publishers, 2000.*
 
 ---
 
 #### Contribuições
 
-As contribuições indicam como um softgoal influencia outro, podendo ser positivas ou negativas:
+As contribuições indicam como um softgoal influencia outro, podendo ser positivas ou negativas <a id="anchor_1" href="#REF3">[3]</a>:
 
 **Tabela 1 – Estrutura de registro de contribuições entre softgoals**
 
@@ -82,7 +88,9 @@ As contribuições indicam como um softgoal influencia outro, podendo ser positi
 | **AND / OR** | Dependência lógica entre softgoals descendentes e ascendentes |
 | **EQUAL (=)** | Representa equivalência semântica entre softgoals |
 
-*SERRANO, M.; SERRANO, M. *Requisitos – Aula 17*. Material de aula, Universidade de Brasília (UnB), 2025.*
+![NFR_Framework_2](../../assets/PDFs/nfr/nfr_7.png)
+![NFR_Framework_2](../../assets/PDFs/nfr/nfr_6.png)
+*SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.* Dissertação (Mestrado em Ciência da Computação) - Programa de Pós-Graduação em Ciência da Computação, Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019 . Orientador: Prof. Jaelson Freire Brelaz de Castro. Coorientador: Prof. João Henrique Correia Pimentel. Área de Concentração: Engenharia de Software.*
 
 Essas relações ajudam o time do **SinPatinhas** a compreender como decisões como “armazenar imagens de animais em nuvem” podem afetar tanto **desempenho** quanto **segurança**.
 
@@ -96,6 +104,7 @@ Essas contribuições foram representadas no **Softgoal Interdependency Graph (S
 | **Softgoal** | **Tipo de Contribuição** | **Descrição do Impacto** |
 |----------------|---------------------------|--------------------------|
 | Usabilidade | HELP (+)| Acesso facilitado por meio de login intuitivo |
+
 ---
 
 ### Procedimento de Avaliação
@@ -159,6 +168,21 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 ## Referência Bibliográfica
 
 <a id="REF1"></a>SERRANO, M.; SERRANO, M. *Requisitos – Aula 17*. Material de aula, Universidade de Brasília (UnB), 2025.  
-<a id="REF2"></a>CHUNG, L.; NIXON, B.; YU, E.; MYLOPOULOS, J. *Non-Functional Requirements in Software Engineering.* Kluwer Academic Publishers, 2000.
+
+---
+
+## Referências  
+
+| **Código** | **Referência Completa** |
+|-------------|--------------------------|
+| [REF1] | SERRANO, Milene; SERRANO, Maurício. *NFR Framework e Requisitos Não Funcionais – Aula 11*. Universidade de Brasília (UnB), 2025. |
+| [REF2] | CHUNG, L.; NIXON, B.; YU, E.; MYLOPOULOS, J. *Non-Functional Requirements in Software Engineering.* Kluwer Academic Publishers, 2000.
+| [REF3] | SILVA, Reinaldo Antônio da. *NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados.* Dissertação (Mestrado em Ciência da Computação) - Programa de Pós-Graduação em Ciência da Computação, Centro de Informática, Universidade Federal de Pernambuco, Recife, 2019 . Orientador: Prof. Jaelson Freire Brelaz de Castro. Coorientador: Prof. João Henrique Correia Pimentel. Área de Concentração: Engenharia de Software. |
+| **Código** | **Sub-referência Básica Completa** |
+| [REF1_1] | [Ebrary] Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003. |
+| [REF1_2] | [Open Access] Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. http://livrodeengenhariaderequisitos.blogspot.com.br/ (último acesso: 2017) |
+| [REF1_3] | [Ebrary] Chemuturi, Murali. Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010. |
+| [REF1_4] | Software & Systems Requirements Engineering: In Practice - Brian Berenbach, Daniel Paulish, Juergen Kazmeier, Arnold Rudorfer (Livro bem completo mas, não tem exemplar físico na biblioteca, nem mesmo consta na Ebrary) |
+| [REF1_5] | Requirements Engineering and Management for Software Development Projects - Murali Chemuturi (Livro bem completo mas, não tem exemplar físico na biblioteca, nem mesmo consta na Ebrary) |
 
 ---
