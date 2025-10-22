@@ -29,8 +29,8 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 |---------------|------------------|------------------|
 | **Antonio Carvalho** | [#BL001](../../modelagem/gravacoes/antonio/backlog.md) | Exibição de horários de funcionamento |
 |                      | [#BL002](../../modelagem/gravacoes/antonio/backlog.md) | Integração com ONGs, clínicas e pet shops |
-| **Leticia** | [#BL003](../../modelagem/gravacoes/leticia/backlog.md) |  |
-|                      | [#BL004](../../modelagem/gravacoes/leticia/backlog.md) |  |
+| **Leticia** | [#BL003](../../modelagem/gravacoes/leticia/backlog.md) | Sistema de Adoção |
+|                      | [#BL004](../../modelagem/gravacoes/leticia/backlog.md) | Alertas e Notificações Automáticas |
 | **Pedro Gomes** | [#BL005](../../modelagem/gravacoes/pedro/backlog.md) | Desenvolvimento do aplicativo móvel |
 |                      | [#BL006](../../modelagem/gravacoes/pedro/backlog.md) | Interface responsiva e intuitiva |
 |                      | [#BL011](../../modelagem/gravacoes/pedro/backlog.md) | Acesso offline à ficha do próprio animal |
