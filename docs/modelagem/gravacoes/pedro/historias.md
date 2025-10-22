@@ -1,27 +1,8 @@
-# Histórias de Usuário – Antonio Carvalho  
-
----
-
-## Validação com tutora de animal  
-
-A validação com o usuário foi feita de forma presencial, no dia **20 de outubro de 2025**.  
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-
----
-
-## Participantes da validação  
-
-| **Participante** | **Papel** |
-|------------------|-----------|
-| **Pedro Gomes** | Integrante do grupo, responsável pela criação e modelagem das histórias HU013 a HU018. |
-| **Ana Beatriz** | Estudante de Engenharia Aeroespacial, 22 anos, responsável por validar o artefato histórias de usuário. |
-
----
+# Histórias de Usuário – Pedro Gomes 
 
 ## Introdução  
 
-Este documento apresenta as **histórias de usuário desenvolvidas por Pedro Gomes**, correspondentes aos requisitos **RF017**, **RF018**, **RFNI005**, **RFNI018**, **RNF05** e **RNF016** do sistema **SinPatinhas**.  
+Este documento apresenta as **histórias de usuário desenvolvidas por Pedro Gomes**, correspondentes aos requisitos [RNFNI001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001), [RNFNI002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002), [RF025](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf025), [RF026](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf026), [RF027](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf027), [RNF023](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023), [RNF024](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024), [RFNI011](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni011) e [RFNI012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni012) do sistema **SinPatinhas**.  
 
 As histórias foram modeladas conforme os princípios de **Extreme Programming (XP)** e **Scrum**, priorizando a **clareza, rastreabilidade e valor agregado ao usuário final** <a id="anchor_1" href="#REF1">[1]</a><a id="anchor_2" href="#REF2">[2]</a>.  
 
@@ -31,7 +12,7 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 
 ---
 
-### **HU013 – Aplicativo Móvel “SINPatinhas”**  
+### **HU013 – Aplicativo Móvel SinPatinhas**  
 *Autoria: Pedro Gomes*  
 
 | **Campo** | **Descrição** |
@@ -126,12 +107,12 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 
 ---
 
-### **HU019 – Logs de Acesso e Modificações (Auditabilidade)**  
+### **HU038 – Logs de Acesso e Modificações (Auditabilidade)**  
 *Autoria: Pedro Gomes*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
-| **Identificação** | HU019 |
+| **Identificação** | HU038 |
 | **Tema** | Segurança e Controle |
 | **Descrição** | Como administrador do sistema, quero que todos os acessos e modificações sejam registrados em logs, para garantir a rastreabilidade e auditoria de ações no sistema. |
 | **Critérios de Aceitação** | - O sistema deve registrar data, hora, usuário e ação executada. <br>- Os logs devem ser acessíveis apenas por administradores autorizados. <br>- Os registros não devem poder ser alterados ou excluídos. <br>- Deve ser possível exportar os logs para auditoria externa. |
@@ -143,12 +124,12 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 
 ---
 
-### **HU020 – Avaliação Numérica de Médicos Veterinários**  
+### **HU039 – Avaliação Numérica de Médicos Veterinários**  
 *Autoria: Pedro Gomes*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
-| **Identificação** | HU020 |
+| **Identificação** | HU039 |
 | **Tema** | Avaliação e Qualidade de Serviço |
 | **Descrição** | Como tutor de um animal, quero avaliar numericamente os médicos veterinários após o atendimento, para contribuir com a qualidade do serviço prestado e ajudar outros tutores em suas escolhas. |
 | **Critérios de Aceitação** | - O sistema deve permitir avaliações em escala de 1 a 5 estrelas. <br>- O tutor só poderá avaliar após um atendimento registrado. <br>- As médias das avaliações devem ser visíveis para outros tutores. <br>- O veterinário não deve poder alterar suas próprias avaliações. |
@@ -160,12 +141,12 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 
 ---
 
-### **HU021 – Envio de Comentários sobre Estabelecimentos**  
+### **HU040 – Envio de Comentários sobre Estabelecimentos**  
 *Autoria: Pedro Gomes*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
-| **Identificação** | HU021 |
+| **Identificação** | HU040 |
 | **Tema** | Feedback e Comunicação |
 | **Descrição** | Como tutor de um animal, quero enviar comentários ou feedbacks sobre clínicas e pet shops, para compartilhar minha experiência com outros usuários. |
 | **Critérios de Aceitação** | - O sistema deve permitir o envio de comentários textuais sobre estabelecimentos cadastrados. <br>- O tutor deve poder editar ou excluir seu comentário. <br>- Os comentários devem ser moderados antes da publicação. <br>- O sistema deve exibir data e nome do autor junto ao comentário. |
@@ -177,7 +158,7 @@ As histórias foram modeladas conforme os princípios de **Extreme Programming (
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, padronização técnica e formatação textual**.  
-O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **Antonio Carvalho**, com base nos fundamentos de **Serrano & Serrano (2025)**.
+O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **Pedro Gomes**, com base nos fundamentos de **Serrano & Serrano (2025)**.
 
 ---
 
@@ -185,7 +166,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **A
 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
-| Antonio Carvalho | 100% | Autor desta página |
+| Pedro Gomes | 100% | Autor desta página |
 
 ---
 
@@ -193,7 +174,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **A
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 20/10/2025 | Criação das histórias HU003–HU008 | Antonio Carvalho | Letícia Paiva |
+| **1.0** | 20/10/2025 | Criação das histórias HU013–HU018 e HU039–HU040 | Pedro Gomes |  |
 
 ---
 

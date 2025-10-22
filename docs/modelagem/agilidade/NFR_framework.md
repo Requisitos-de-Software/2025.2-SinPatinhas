@@ -27,8 +27,8 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
 | **Antonio Carvalho**    | [#CNFR01](../../modelagem/gravacoes/antonio/nfr_frame.md) | Segurança e Auditabilidade |
-| **Pedro Gomes**         | [#CNFR01](../../modelagem/gravacoes/pedro/nfr_frame.md) |  |
-|                         | [#CNFR02](../../modelagem/gravacoes/pedro/nfr_frame.md) |  |
+| **Pedro Gomes**         | [#CNFR05](../../modelagem/gravacoes/pedro/nfr_frame.md) | Aplicativo Móvel SinPatinhas |
+|                         | [#CNFR06](../../modelagem/gravacoes/pedro/nfr_frame.md) | Acesso Offline à Ficha do Próprio Animal |
 | **Mateus Negrini**      | [#CNFR07](../../modelagem/gravacoes/mateus/nfr_frame_1.md) | Desempenho |
 |                         | [#CNFR08](../../modelagem/gravacoes/mateus/nfr_frame_2.md) | Confiabilidade |
 
