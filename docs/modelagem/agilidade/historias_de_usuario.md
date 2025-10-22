@@ -43,12 +43,21 @@ De acordo com **Serrano e Serrano (2025)**, as histórias de usuário são **ite
 |                      | [#HU006](../../modelagem/gravacoes/antonio/historias.md) | Integração Direta com Parceiros |
 |                      | [#HU007](../../modelagem/gravacoes/antonio/historias.md) | Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica |
 |                      | [#HU008](../../modelagem/gravacoes/antonio/historias.md) | Sincronização de Dados entre ONGs e Clínicas |
-| **Pedro Gomes**      | [#HU013](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU014](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU015](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU016](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU017](../../modelagem/gravacoes/pedro/historias.md) |  |
-|                      | [#HU018](../../modelagem/gravacoes/pedro/historias.md) |  |
+| **Pedro Gomes**      | [#HU013](../../modelagem/gravacoes/pedro/historias.md) | Aplicativo Móvel SinPatinhas |
+|                      | [#HU014](../../modelagem/gravacoes/pedro/historias.md) | Acesso Offline à Ficha do Próprio Animal |
+|                      | [#HU015](../../modelagem/gravacoes/pedro/historias.md) | Compartilhamento de Informações com Familiares |
+|                      | [#HU016](../../modelagem/gravacoes/pedro/historias.md) | Notificações de Vacinas Futuras e Atrasadas |
+|                      | [#HU017](../../modelagem/gravacoes/pedro/historias.md) | Registro da Localização do Animal ou Tutor |
+|                      | [#HU018](../../modelagem/gravacoes/pedro/historias.md) | Restrição de Acesso a Dados Clínicos (Privacidade) |
+|                      | [#HU038](../../modelagem/gravacoes/pedro/historias.md) | Logs de Acesso e Modificações (Auditabilidade) |
+|                      | [#HU039](../../modelagem/gravacoes/pedro/historias.md) | Avaliação Numérica de Médicos Veterinários |
+|                      | [#HU040](../../modelagem/gravacoes/pedro/historias.md) | Envio de Comentários sobre Estabelecimentos |
+| **Mateus Negrini**   | [#HU019](../../modelagem/gravacoes/mateus/historias.md) | Acesso à Área de Instruções Integradas |
+|                      | [#HU020](../../modelagem/gravacoes/mateus/historias.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal |
+|                      | [#HU021](../../modelagem/gravacoes/mateus/historias.md) | Indicador Visual da Média de Avaliações no Perfil de Médicos Veterinários |
+|                      | [#HU022](../../modelagem/gravacoes/mateus/historias.md) | Alertas e Notificações Automáticas para Vacinas e Lembretes de Medicação |
+|                      | [#HU023](../../modelagem/gravacoes/mateus/historias.md) | Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação |
+|                      | [#HU024](../../modelagem/gravacoes/mateus/historias.md) | Vincular Foto do Tutor ao Registro de Adoção |
 | **Heloisa Silva**    | [#HU032](../../modelagem/gravacoes/heloisa/historias.md) | Mapa interatico com localização de estabelecimentos parceiros |
 |                      | [#HU033](../../modelagem/gravacoes/heloisa/historias.md) | Filtro de distância para o mapa |
 |                      | [#HU034](../../modelagem/gravacoes/heloisa/historias.md) |  Tema para o mapa |
