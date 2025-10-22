@@ -64,7 +64,12 @@ De acordo com **Serrano e Serrano (2025)**, as histórias de usuário são **ite
 |                      | [#HU035](../../modelagem/gravacoes/heloisa/historias.md) | Sistema de avaliação de estabelecimentos parceiros |
 |                      | [#HU036](../../modelagem/gravacoes/heloisa/historias.md) | Validação visual para o avaliador de estabelecimentos |
 |                      | [#HU037](../../modelagem/gravacoes/heloisa/historias.md) | Notificação para o estabelecimento avaliado |
-|                     
+| **Isaac Menezes**    | [#HU026](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil da clínica/hospital |
+|                      | [#HU027](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil do médico |
+|                      | [#HU028](../../modelagem/gravacoes/isaac/historias.md) | Prontuário digital centralizando histórico de saúde e vacinação |
+|                      | [#HU029](../../modelagem/gravacoes/isaac/historias.md) | Upload de foto do animal |
+|                      | [#HU030](../../modelagem/gravacoes/isaac/historias.md) | Vincular foto do tutor ao registro de dados e fotos do animal |
+|                      | [#HU031](../../modelagem/gravacoes/isaac/historias.md) | Permitir busca e recuperação de animais perdidos ou abandonados |
 
 ---
 
