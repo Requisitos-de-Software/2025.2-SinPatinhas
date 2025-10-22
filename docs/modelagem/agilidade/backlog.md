@@ -37,10 +37,10 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 |                      | [#BL012](../../modelagem/gravacoes/pedro/backlog.md) | Mensagens de aviso e confirmação offline |
 | **Mateus Negrini**   | [#BL007](../../modelagem/gravacoes/mateus/backlog.md) | Acesso à área de instruções integradas |
 |                      | [#BL008](../../modelagem/gravacoes/mateus/backlog.md) | Notificação periódica de atualização de dados e fotos |
-| **Isaac Menezes** | [#BL009](../../modelagem/gravacoes/isaac/backlog.md) | |
-|                   | [#BL010](../../modelagem/gravacoes/isaac/backlog.md) | |
-| **Heloisa Silva** | [#BL011](../../modelagem/gravacoes/heloisa/backlog.md) |  |
-|                      | [#BL012](../../modelagem/gravacoes/heloisa/backlog.md) |  |
+| **Isaac Menezes** | [#BL009](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliações da clínica/hospital   |
+|                   | [#BL010](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliação do médico |
+| **Heloisa Silva** | [#BL011](../../modelagem/gravacoes/heloisa/backlog.md) | Mapa interativo |
+|                      | [#BL012](../../modelagem/gravacoes/heloisa/backlog.md) | Filtro |
 
 ---
 
