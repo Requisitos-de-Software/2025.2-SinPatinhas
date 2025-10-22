@@ -13,10 +13,10 @@ Com base nas histórias **HU013** e **HU014**, foram gerados **itens de backlog 
 
 | **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
-| **BL003** | Desenvolvimento do aplicativo móvel | Criar o aplicativo móvel “SINPatinhas” disponível para Android e iOS, permitindo acesso completo às funcionalidades do sistema, como cadastros, adoções e eventos. | Must have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / HU013 |
-| **BL004** | Interface responsiva e intuitiva | Projetar interface acessível, responsiva e adaptada a diferentes tamanhos de tela, priorizando usabilidade e navegação intuitiva. | Should have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / HU013 |
-| **BL011** | Acesso offline à ficha do animal | Permitir o armazenamento local da ficha do animal, possibilitando consulta mesmo sem conexão com a internet. | Must have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
-| **BL012** | Mensagens de aviso e confirmação offline | Exibir mensagens de confirmação ao salvar dados offline e alertas ao tentar acessar informações sem conexão. | Should have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / HU014 |
+| **BL005** | Desenvolvimento do aplicativo móvel | Criar o aplicativo móvel “SINPatinhas” disponível para Android e iOS, permitindo acesso completo às funcionalidades do sistema, como cadastros, adoções e eventos. | Must have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / [HU013](../../../modelagem/gravacoes/pedro/historias.md) |
+| **BL006** | Interface responsiva e intuitiva | Projetar interface acessível, responsiva e adaptada a diferentes tamanhos de tela, priorizando usabilidade e navegação intuitiva. | Should have | Não iniciado | Pedro Gomes | [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) / [HU013](../../../modelagem/gravacoes/pedro/historias.md) |
+| **BL011** | Acesso offline à ficha do animal | Permitir o armazenamento local da ficha do animal, possibilitando consulta mesmo sem conexão com a internet. | Must have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / [HU014](../../../modelagem/gravacoes/pedro/historias.md) |
+| **BL012** | Mensagens de aviso e confirmação offline | Exibir mensagens de confirmação ao salvar dados offline e alertas ao tentar acessar informações sem conexão. | Should have | Não iniciado | Pedro Gomes | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) / [HU014](../../../modelagem/gravacoes/pedro/historias.md) |
 
 <br>
 
@@ -38,7 +38,7 @@ Com base nas histórias **HU013** e **HU014**, foram gerados **itens de backlog 
 ✅ **Observações Finais**  
 - As histórias foram escritas seguindo o padrão: *“Como [persona], quero [função], para [benefício]”*.  
 - Há **rastreabilidade direta** com os requisitos [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) e [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002).  
-- O artefato está **padronizado com o modelo oficial do projeto SINPatinhas**, pronto para inclusão em `/modelagem/gravacoes/pedro/historias.md`.  
+- O artefato está **padronizado com o modelo oficial do projeto SINPatinhas**.  
 
 <br>
 
@@ -54,7 +54,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **P
 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
-| Antonio Carvalho | 100% | Autor desta página |
+| Pedro Gomes | 100% | Autor desta página |
 
 ---
 
@@ -62,7 +62,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **P
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 20/10/2025 | Criação dos itens de backlog | Antonio Carvalho | Letícia Paiva |
+| **1.0** | 20/10/2025 | Criação dos itens de backlog | Pedro Gomes |  |
 
 ---
 
