@@ -31,12 +31,12 @@ De acordo com **Serrano e Serrano (2025)**, as histórias de usuário são **ite
 
 | **Participantes** | **Página Específica** | **Descrição** |
 |---------------|------------------|------------------|
-| **Letícia Paiva**    | [#HU001](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU002](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU009](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU010](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU011](../../modelagem/gravacoes/leticia/historias.md) |  |
-|                      | [#HU012](../../modelagem/gravacoes/leticia/historias.md) |  |
+| **Letícia Paiva**    | [#HU001](../../modelagem/gravacoes/leticia/historias.md) | Sistema de Adoção |
+|                      | [#HU002](../../modelagem/gravacoes/leticia/historias.md) | Alertas e Notificações Automáticas |
+|                      | [#HU009](../../modelagem/gravacoes/leticia/historias.md) | Compartilhamento de Informações com Familiares |
+|                      | [#HU010](../../modelagem/gravacoes/leticia/historias.md) | Notificações de Vacinas Futuras/Atrasadas |
+|                      | [#HU011](../../modelagem/gravacoes/leticia/historias.md) | Registro da Localização do Animal ou Tutor |
+|                      | [#HU012](../../modelagem/gravacoes/leticia/historias.md) | Registro Detalhado de Informações do Animal |
 | **Antonio Carvalho** | [#HU003](../../modelagem/gravacoes/antonio/historias.md) | Cadastro e Gerenciamento de Perfis Ampliados |
 |                      | [#HU004](../../modelagem/gravacoes/antonio/historias.md) | Publicação de Campanhas e Materiais Educativos |
 |                      | [#HU005](../../modelagem/gravacoes/antonio/historias.md) | Exibição de Horários de Clínicas Parceiras |

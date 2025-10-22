@@ -13,8 +13,8 @@ O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob res
 
 | **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
-| BL001 | Sistema de Adoção | Implementar módulo que permita visualizar animais disponíveis para adoção, com filtros de busca e solicitação direta via ONG cadastrada. | Must have | Não iniciado | Letícia Paiva | RFNI016 |
-| BL002 | Alertas e Notificações Automáticas | Implementar sistema de alertas automáticos para informar usuários sobre status de adoção, lembretes de vacinação e atualizações cadastrais. | Should have | Não iniciado | Letícia Paiva | RFNI017 |
+| BL001 | Sistema de Adoção | Implementar módulo que permita visualizar animais disponíveis para adoção, com filtros de busca e solicitação direta via ONG cadastrada. | Must have | Não iniciado | Letícia Paiva | RFNI016 / HU001 |
+| BL002 | Alertas e Notificações Automáticas | Implementar sistema de alertas automáticos para informar usuários sobre status de adoção, lembretes de vacinação e atualizações cadastrais. | Should have | Não iniciado | Letícia Paiva | RFNI017 / HU002 |
 
 
 ---
