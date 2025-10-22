@@ -35,6 +35,8 @@ Cada item do backlog — conhecido como **Product Backlog Item (PBI)** — repre
 |                      | [#BL006](../../modelagem/gravacoes/pedro/backlog.md) |  |
 |                      | [#BL011](../../modelagem/gravacoes/pedro/backlog.md) |  |
 |                      | [#BL012](../../modelagem/gravacoes/pedro/backlog.md) |  |
+| **Mateus Negrini**   | [#BL007](../../modelagem/gravacoes/mateus/backlog.md) | Acesso à área de instruções integradas |
+|                      | [#BL008](../../modelagem/gravacoes/mateus/backlog.md) | Notificação periódica de atualização de dados e fotos |
 | **Heloisa Silva** | [#BL011](../../modelagem/gravacoes/heloisa/backlog.md) |  |
 |                      | [#BL012](../../modelagem/gravacoes/heloisa/backlog.md) |  |
 

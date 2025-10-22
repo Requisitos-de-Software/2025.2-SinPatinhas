@@ -23,7 +23,7 @@
 
 | **Requisito (Código)** | **Classificação FURPS+** | **Especificação Detalhada** | **Rastreabilidade** |
 | ---------------------- | ------------------------ | --------------------------- | ------------------- |
-| RNF023 | Desempenho (P) | Veterinários devem poder acessar dados clinicos de um animal cadastrado e acessar exames mas não poderá editar exames que não foram realizados por ele. | |
+| RNF023 | Confiabilidade (R) | Veterinários devem poder acessar dados clinicos de um animal cadastrado e acessar exames mas não poderá editar exames que não foram realizados por ele. | |
 
 
 ---
