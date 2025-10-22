@@ -81,42 +81,6 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 <a id="rf018"></a>**RF018** – Envio de notificações e campanhas educativas.  
 <a id="rf019"></a>**RF019** – Integração com políticas públicas e programas sociais.  
 <a id="rf020"></a>**RF020** – Acesso nacional via internet, arquitetura escalável.  
-<a id="rf021"></a>**RF021** – Cadastro de perfil do animal (entrevista Ana Beatriz).  
-<a id="rf022"></a>**RF022** – Registro do histórico de vacinas (entrevista Ana Beatriz).  
-<a id="rf023"></a>**RF023** – Cadastro de informações de contato do tutor (entrevista Ana Beatriz).  
-<a id="rf024"></a>**RF024** – Gerenciamento de múltiplos animais (entrevista Ana Beatriz).  
-<a id="rf025"></a>**RF025** – Compartilhamento de informações com familiares (entrevista Ana Beatriz).  
-<a id="rf026"></a>**RF026** – Notificações de vacinas futuras/atrasadas (entrevista Ana Beatriz).  
-<a id="rf027"></a>**RF027** – Registro da localização do animal ou tutor (entrevista Ana Beatriz).  
-<a id="rf028"></a>**RF028** – Busca e recuperação de animais perdidos ou abandonados (entrevista Gustavo).  
-<a id="rf029"></a>**RF029** – Prontuário digital centralizando histórico de saúde e vacinação (entrevista Gustavo).  
-<a id="rf030"></a>**RF030** – Funcionalidade para adoção de animais (entrevista Gustavo).  
-<a id="rf031"></a>**RF031** – Envio de notificações automáticas de vacinas e medicação (entrevista Gustavo).  
-<a id="rf032"></a>**RF032** – Registro detalhado do animal (entrevista Gustavo).  
-<a id="rf033"></a>**RF033** – Área de instruções integradas/manual digital (entrevista Dra. Ilma Coutinho).  
-<a id="rf034"></a>**RF034** – Upload de foto do animal (entrevista Dra. Ilma Coutinho).  
-<a id="rf035"></a>**RF035** – Cadastro e atualização de endereço do tutor (entrevista Dra. Ilma Coutinho).  
-<a id="rf036"></a>**RF036** – Módulo separado para registro e visualização de exames (entrevista Dra. Ilma Coutinho).  
-<a id="rf037"></a>**RF037** – Acesso via celular para consulta de dados fora da clínica (entrevista Dra. Ilma Coutinho).  
-<a id="rf038"></a>**RF038** – Acesso remoto aos dados do animal (entrevista Dra. Ilma Coutinho).  
-<a id="rf039"></a>**RF039** – Integração entre clínicas veterinárias (entrevista Dra. Ilma Coutinho).  
-<a id="rf040"></a>**RF040** – Cadastro de ONGs e associações para controle de animais resgatados e adotados (entrevista Dra. Ilma Coutinho).  
-<a id="rf041"></a>**RF041** – Rastreamento de doações e adoções (entrevista Dra. Ilma Coutinho).  
-<a id="rf042"></a>**RF042** – Emissão de alertas de acesso suspeito (entrevista Dra. Ilma Coutinho).  
-<a id="rf043"></a>**RF043** – Notificação periódica aos tutores para atualização de dados e fotos (entrevista Dra. Ilma Coutinho).  
-<a id="rf044"></a>**RF044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho).  
-
-#### ❌ Requisitos Não Implementados (RF/RNF)
-
-<a id="rfni030"></a>**RF030** – Funcionalidade para adoção de animais (entrevista Gustavo)  
-<a id="rfni031"></a>**RF031** – Alertas e notificações automáticas (entrevista Gustavo)  
-<a id="rnfni007"></a>**RNF007** – Integração direta com parceiros (entrevista Gustavo)  
-<a id="rfni033"></a>**RF033** – Área de instruções integradas/manual digital (entrevista Dra. Ilma Coutinho)  
-<a id="rfni042"></a>**RF042** – Emissão de alertas de acesso suspeito (entrevista Dra. Ilma Coutinho)  
-<a id="rfni043"></a>**RF043** – Notificação periódica aos tutores (entrevista Dra. Ilma Coutinho)  
-<a id="rfni044"></a>**RF044** – Vincular foto do tutor ao registro de adoção (entrevista Dra. Ilma Coutinho)  
-<a id="rnfni004"></a>**RNF004** – Acesso via web e mobile (entrevista Ana Beatriz)  
-<a id="rnfni005"></a>**RNF005** – Funcionalidades offline (entrevista Ana Beatriz)  
 
 ---
 
@@ -150,22 +114,22 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 📺 [Vídeo da Entrevista (YouTube)](https://www.youtube.com/embed/Nod9QhMIe20)
 
 ##### ✅ Requisitos Funcionais
-- **RF001** – Cadastro de perfil do animal.  
-- **RF002** – Registro do histórico de vacinas.  
-- **RF003** – Cadastro de informações de contato do tutor.  
-- **RF004** – Gerenciamento de múltiplos animais.  
-- **RF005** – Compartilhamento de informações com familiares.  
-- **RF006** – Notificações de vacinas futuras/atrasadas.  
-- **RF007** – Registro da localização do animal ou tutor.  
+- <a id="rf021"></a>**RF021** – Cadastro de perfil do animal.  
+- <a id="rf022"></a>**RF022** – Registro do histórico de vacinas.  
+- <a id="rf023"></a>**RF023** – Cadastro de informações de contato do tutor.  
+- <a id="rf024"></a>**RF024** – Gerenciamento de múltiplos animais.  
+- <a id="rf025"></a>**RF025** – Compartilhamento de informações com familiares.  
+- <a id="rf026"></a>**RF026** – Notificações de vacinas futuras/atrasadas.  
+- <a id="rf027"></a>**RF027** – Registro da localização do animal ou tutor.  
 
 ##### ⚙️ Requisitos Não Funcionais
-- **RNF001 (Usabilidade)** – Sistema fácil e intuitivo.  
-- **RNF002 (Design de Interface)** – Layout limpo e organizado.  
-- **RNF003 (Confiabilidade)** – Garantia contra perda de dados.  
+- <a id="rnf017"></a>**RNF017 (Usabilidade)** – Sistema fácil e intuitivo.  
+- <a id="rnf018"></a>**RNF018 (Design de Interface)** – Layout limpo e organizado.  
+- <a id="rnf019"></a>**RNF019 (Confiabilidade)** – Garantia contra perda de dados.  
 
 ##### ❌ Requisitos Não Implementados
-- **RNF004 (Acessibilidade)** – Acesso via web e mobile (prioridade no mobile).  
-- **RNF005 (Disponibilidade / Desempenho)** – Funcionalidades offline.  
+- <a id="rnfni001"></a>**RNFNI001 (Acessibilidade)** – Acesso via web e mobile (prioridade no mobile).  
+- <a id="rnfni002"></a>**RNFNI002 (Disponibilidade / Desempenho)** – Funcionalidades offline.  
 
 ---
 
@@ -177,22 +141,22 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 📺 [Vídeo da Entrevista (YouTube)](https://www.youtube.com/watch?v=78vAABLNU_4)
 
 ##### ✅ Requisitos Funcionais
-- **RF008** – O sistema deve permitir a busca e recuperação de animais perdidos ou abandonados.  
-- **RF009** – O sistema deve funcionar como um prontuário digital, centralizando o histórico de saúde e vacinação do animal.  
-- **RF010** – O sistema deve incluir uma funcionalidade para facilitar a adoção de animais.  
-- **RF011** – O sistema deve enviar notificações automáticas para vacinas e lembretes para horários de medicação.  
-- **RF012** – O sistema deve permitir o registro de informações detalhadas do animal, como nome, idade, tipo sanguíneo, peso, altura, raça, espécie e endereço do tutor.  
+- <a id="rf028"></a>**RF028** – O sistema deve permitir a busca e recuperação de animais perdidos ou abandonados.  
+- <a id="rf029"></a>**RF029** – O sistema deve funcionar como um prontuário digital, centralizando o histórico de saúde e vacinação do animal.  
+- <a id="rf030"></a>**RF030** – O sistema deve incluir uma funcionalidade para facilitar a adoção de animais.  
+- <a id="rf031"></a>**RF031** – O sistema deve enviar notificações automáticas para vacinas e lembretes para horários de medicação.  
+- <a id="rf032"></a>**RF032** – O sistema deve permitir o registro de informações detalhadas do animal, como nome, idade, tipo sanguíneo, peso, altura, raça, espécie e endereço do tutor.  
 
 ##### ⚙️ Requisitos Não Funcionais
-- **RNF006 (Usabilidade)** – Sistema claro e fácil de entender, permitindo que o usuário saiba exatamente o que fazer.  
-- **RNF007 (Compatibilidade/Acessibilidade)** – Acessível em múltiplas plataformas (mobile e desktop), com prioridade para mobile.  
-- **RNF008 (Integração)** – Permite integração com clínicas, ONGs e pet shops.  
-- **RNF009 (Utilidade)** – Prático e substitui o uso de documentos e agendas físicas.  
+- <a id="rnf020"></a>**RNF020 (Usabilidade)** – Sistema claro e fácil de entender, permitindo que o usuário saiba exatamente o que fazer.  
+- <a id="rnf021"></a>**RNF021 (Compatibilidade/Acessibilidade)** – Acessível em múltiplas plataformas (mobile e desktop), com prioridade para mobile.  
+- <a id="rnf022"></a>**RNF022 (Integração)** – Permite integração com clínicas, ONGs e pet shops.  
+- <a id="rnf023"></a>**RNF023 (Utilidade)** – Prático e substitui o uso de documentos e agendas físicas.  
 
 ##### ❌ Requisitos Não Implementados
-- **RF010** – Sistema de Adoção.  
-- **RF011** – Alertas e Notificações Automáticas.  
-- **RNF008** – Integração direta com parceiros.  
+- <a id="rfni001"></a>**RFNI001** – Sistema de Adoção.  
+- <a id="rfni002"></a>**RFNI002** – Alertas e Notificações Automáticas.  
+- <a id="rnfni003"></a>**RNFNI003** – Integração direta com parceiros.  
 
 ---
 
@@ -204,36 +168,36 @@ As próximas seções apresentam detalhadamente: metodologias aplicadas, cronogr
 📺 [Vídeo da Entrevista (YouTube)](https://www.youtube.com/watch?v=ybGDZRGtCIc)
 
 ##### ✅ Requisitos Funcionais
-- **RF013** – Área de instruções integradas (manual digital).  
-- **RF014** – Upload de foto do animal.  
-- **RF015** – Cadastro e atualização de endereço do tutor.  
-- **RF016** – Módulo de registro e visualização de exames do animal.  
-- **RF017** – Consulta via celular fora da clínica.  
-- **RF018** – Acesso remoto aos dados do animal.  
-- **RF019** – Integração entre clínicas veterinárias, permitindo visualização do prontuário por outros veterinários.  
-- **RF020** – Cadastro de ONGs e associações para controle de animais resgatados e adotados.  
-- **RF021** – Rastreamento de doações e adoções, registrando doadores, adotantes e datas.  
-- **RF022** – Transferência oficial de tutor, preservando histórico do animal.  
-- **RF023** – Emissão de alertas de acesso suspeito ou tentativas de violação.  
-- **RF024** – Notificação periódica de atualização de dados e fotos do animal.  
-- **RF025** – Vinculação de foto do tutor ao registro de adoção.  
+- <a id="rf033"></a>**RF033** – Área de instruções integradas (manual digital).  
+- <a id="rf034"></a>**RF034** – Upload de foto do animal.  
+- <a id="rf035"></a>**RF035** – Cadastro e atualização de endereço do tutor.  
+- <a id="rf036"></a>**RF036** – Módulo de registro e visualização de exames do animal.  
+- <a id="rf037"></a>**RF037** – Consulta via celular fora da clínica.  
+- <a id="rf038"></a>**RF038** – Acesso remoto aos dados do animal.  
+- <a id="rf039"></a>**RF039** – Integração entre clínicas veterinárias, permitindo visualização do prontuário por outros veterinários.  
+- <a id="rf040"></a>**RF040** – Cadastro de ONGs e associações para controle de animais resgatados e adotados.  
+- <a id="rf041"></a>**RF041** – Rastreamento de doações e adoções, registrando doadores, adotantes e datas.  
+- <a id="rf042"></a>**RF042** – Transferência oficial de tutor, preservando histórico do animal.  
+- <a id="rf043"></a>**RF043** – Emissão de alertas de acesso suspeito ou tentativas de violação.  
+- <a id="rf044"></a>**RF044** – Notificação periódica de atualização de dados e fotos do animal.  
+- <a id="rf045"></a>**RF045** – Vinculação de foto do tutor ao registro de adoção.  
 
 ##### ⚙️ Requisitos Não Funcionais
-- **RNF010 (Usabilidade)** – Fácil de aprender e operar por profissionais com pouca afinidade tecnológica.  
-- **RNF011 (Segurança)** – Alertas sobre tentativas de acesso não autorizado.  
-- **RNF012 (Confiabilidade)** – Evita perda de dados e garante backups automáticos.  
-- **RNF013 (Integração)** – Permite integração entre clínicas, ONGs e Sinpatinhas.  
-- **RNF014 (Acessibilidade)** – Acesso via dispositivos móveis e desktops.  
-- **RNF015 (Desempenho)** – Respostas rápidas (até 2 segundos), mesmo em conexões móveis.  
-- **RNF016 (Disponibilidade)** – Acesso remoto contínuo 24/7.  
-- **RNF017 (Privacidade)** – Controle de acesso aos dados clínicos, visualização restrita.  
-- **RNF018 (Auditabilidade)** – Registro de logs de acesso e modificações.  
+- <a id="rnf024"></a>**RNF024 (Usabilidade)** – Fácil de aprender e operar por profissionais com pouca afinidade tecnológica.  
+- <a id="rnf025"></a>**RNF025 (Segurança)** – Alertas sobre tentativas de acesso não autorizado.  
+- <a id="rnf026"></a>**RNF026 (Confiabilidade)** – Evita perda de dados e garante backups automáticos.  
+- <a id="rnf027"></a>**RNF027 (Integração)** – Permite integração entre clínicas, ONGs e Sinpatinhas.  
+- <a id="rnf028"></a>**RNF028 (Acessibilidade)** – Acesso via dispositivos móveis e desktops.  
+- <a id="rnf029"></a>**RNF029 (Desempenho)** – Respostas rápidas (até 2 segundos), mesmo em conexões móveis.  
+- <a id="rnf030"></a>**RNF030 (Disponibilidade)** – Acesso remoto contínuo 24/7.  
+- <a id="rnf031"></a>**RNF031 (Privacidade)** – Controle de acesso aos dados clínicos, visualização restrita.  
+- <a id="rnf032"></a>**RNF032 (Auditabilidade)** – Registro de logs de acesso e modificações.  
 
 ##### ❌ Requisitos Não Implementados
-- **RF013** – Área de instruções integradas (manual digital).  
-- **RF023** – Alertas de acesso suspeito ou tentativas de violação.  
-- **RF024** – Notificação periódica de atualização de dados e fotos do animal.  
-- **RF025** – Vinculação de foto do tutor ao registro de adoção.
+- <a id="rfni003"></a>**RFNI003** – Área de instruções integradas (manual digital).  
+- <a id="rfni004"></a>**RFNI004** – Alertas de acesso suspeito ou tentativas de violação.  
+- <a id="rfni005"></a>**RFNI005** – Notificação periódica de atualização de dados e fotos do animal.  
+- <a id="rfni006"></a>**RFNI006** – Vinculação de foto do tutor ao registro de adoção.
 
 ### 3. **Análise de sistemas concorrentes**
 
@@ -245,21 +209,21 @@ Essas observações permitiram identificar boas práticas e oportunidades de mel
 
 ##### ❌ Requisitos Não Implementados
 
-- **RF001** – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados no sistema. (Petlove)
-- **RF002** – Implementar filtro por distância, permitindo ao usuário localizar clínicas próximas à sua posição atual. (Petlove)
-- **RF003** – Disponibilizar listagem de tratamentos e serviços oferecidos pelas clínicas e hospitais cadastrados. (Petlove)
-- **RF004** – Implementar filtro por especialidade veterinária, facilitando a busca por profissionais ou estabelecimentos específicos. (Petlove)
-- **RF005** – Incluir informações sobre horários de funcionamento de clínicas e hospitais veterinários. (Dog Life)
-- **RF006** – Adicionar indicadores visuais no mapa e nos perfis para mostrar se a clínica ou hospital está aberto ou fechado. (Petlove)
-- **RF007** – Permitir pesquisa de clínicas e hospitais por médico veterinário vinculado. (Dog Life)
-- **RF008** – Incluir campo para que clínicas e hospitais informem os preços dos principais procedimentos. (Dog Life)
-- **RF009** – Adicionar opção para que médicos veterinários indiquem se realizam atendimentos domiciliares. (Dog Life)
-- **RF010** – Implementar sistema de avaliação numérica para os estabelecimentos prestadores de serviço. (Dog Life)
-- **RF011** – Implementar sistema de avaliação numérica para os médicos veterinários que realizarem atendimentos. (Dog Life)
-- **RF012** – Permitir o envio de comentários e feedbacks sobre o atendimento recebido nos estabelecimentos. (Dog Life)
-- **RF013** – Permitir o envio de comentários e feedbacks sobre o atendimento prestado por médicos veterinários. (Dog Life)
-- **RF014** – Exibir indicador visual da média de avaliações no perfil de clínicas e hospitais veterinários. (Dog Life)
-- **RF015** – Exibir indicador visual da média de avaliações no perfil de médicos veterinários. (Dog Life)
+- <a id="rfni007"></a>**RFNI007** – Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados no sistema. (Petlove)
+- <a id="rfni008"></a>**RFNI008** – Implementar filtro por distância, permitindo ao usuário localizar clínicas próximas à sua posição atual. (Petlove)
+- <a id="rfni009"></a>**RFNI009** – Disponibilizar listagem de tratamentos e serviços oferecidos pelas clínicas e hospitais cadastrados. (Petlove)
+- <a id="rfni010"></a>**RFNI010** – Implementar filtro por especialidade veterinária, facilitando a busca por profissionais ou estabelecimentos específicos. (Petlove)
+- <a id="rfni011"></a>**RFNI011** – Incluir informações sobre horários de funcionamento de clínicas e hospitais veterinários. (Dog Life)
+- <a id="rfni012"></a>**RFNI012** – Adicionar indicadores visuais no mapa e nos perfis para mostrar se a clínica ou hospital está aberto ou fechado. (Petlove)
+- <a id="rfni013"></a>**RFNI013** – Permitir pesquisa de clínicas e hospitais por médico veterinário vinculado. (Dog Life)
+- <a id="rfni014"></a>**RFNI014** – Incluir campo para que clínicas e hospitais informem os preços dos principais procedimentos. (Dog Life)
+- <a id="rfni015"></a>**RFNI015** – Adicionar opção para que médicos veterinários indiquem se realizam atendimentos domiciliares. (Dog Life)
+- <a id="rfni016"></a>**RFNI016** – Implementar sistema de avaliação numérica para os estabelecimentos prestadores de serviço. (Dog Life)
+- <a id="rfni017"></a>**RFNI017** – Implementar sistema de avaliação numérica para os médicos veterinários que realizarem atendimentos. (Dog Life)
+- <a id="rfni018"></a>**RFNI018** – Permitir o envio de comentários e feedbacks sobre o atendimento recebido nos estabelecimentos. (Dog Life)
+- <a id="rfni019"></a>**RFNI019** – Permitir o envio de comentários e feedbacks sobre o atendimento prestado por médicos veterinários. (Dog Life)
+- <a id="rfni020"></a>**RFNI020** – Exibir indicador visual da média de avaliações no perfil de clínicas e hospitais veterinários. (Dog Life)
+- <a id="rfni021"></a>**RFNI021** – Exibir indicador visual da média de avaliações no perfil de médicos veterinários. (Dog Life)
 
 
 ## 📜 Histórico de Versão
@@ -275,6 +239,8 @@ Essas observações permitiram identificar boas práticas e oportunidades de mel
 | 1.5    | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus | Heloisa     |
 | 1.6    | 07/10/2025 | Adição da técnica de análise de sistemas concorrentes  | Heloisa   |  Antonio   |
 | 1.7    | 11/10/2025 | Edição de rotas  | Antonio   |  --   |
+| 1.8    | 21/10/2025 | Padronização de IDs com formato HTML anchor; correção da numeração para que cada tipo de requisito (RF, RNF, RFNI, RNFNI) possua numeração independente e sequencial; remoção de duplicidades entre seções | Pedro Gomes | -- |
+
 
 ---
 
