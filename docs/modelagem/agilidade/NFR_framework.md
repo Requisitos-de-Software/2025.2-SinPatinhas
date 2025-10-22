@@ -31,7 +31,7 @@ O uso do NFR Framework permite que cada decisão de desenvolvimento seja documen
 |                         | [#CNFR06](../../modelagem/gravacoes/pedro/nfr_frame.md) | Acesso Offline à Ficha do Próprio Animal |
 | **Mateus Negrini**      | [#CNFR07](../../modelagem/gravacoes/mateus/nfr_frame_1.md) | Desempenho |
 |                         | [#CNFR08](../../modelagem/gravacoes/mateus/nfr_frame_2.md) | Confiabilidade |
-
+| **Letícia Paiva**    | [#CNFR09](../../modelagem/gravacoes/leticia/nfr_frame.md) | Integração entre Clínicas, ONGs e Sistema SinPatinhas  |
 ---
 
 ## Softgoal Interdependency Graph (SIG)
