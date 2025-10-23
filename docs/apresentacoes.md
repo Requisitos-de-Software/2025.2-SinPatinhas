@@ -9,6 +9,7 @@
     <span class="chip">Etapa 1</span>
     <span class="chip">Etapa 2</span>
     <span class="chip">Etapa 3</span>
+    <span class="chip">Etapa 4</span>
   </div>
 </div>
 
@@ -35,11 +36,19 @@
 
 ---
 
+## Etapa 4 – Modelagem de Requisitos Ágil
+> Apresentação da modelagem de requisitos sob a ótica ágil, incluindo a elaboração de **Histórias de Usuário**, **Backlogs de Produto e Sprint**, além da aplicação do **NFR Framework** para requisitos não funcionais.
+
+🎥 **[Assistir no YouTube – Modelagem de Requisitos Ágil (Histórias de Usuário, Backlogs, NFR Framework)](https://youtu.be/roH_CwgKQZY)**
+
+---
+
 ##  Histórico de Versão
 
 | Versão | Data       | Descrição                                         | Autores        | Revisores |
 |:------:|------------|--------------------------------------------------|----------------|------------|
 | 1.0    | 12/10/2025 | Criação da página de Apresentações por Etapa    | Letícia Paiva  | -          |
+| 1.1    | 21/10/2025 | Inclusão da Etapa 4 – Modelagem de Requisitos Ágil | Letícia Paiva | - |
 
 ---
 
