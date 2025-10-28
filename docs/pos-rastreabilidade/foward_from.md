@@ -89,7 +89,7 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | [RF029](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf029) | Prontuário digital centralizando histórico de saúde e vacinação. |  |  |  |  |  |  |  
 | [RF030](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030) | Notificações automáticas para vacinas e lembretes de medicação. |  |  |  |  |  |   |
 | [RF031](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf031) | Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie, endereço do tutor). |  |  |  |  |  |  |  
-| [RF032](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf032) | Área de instruções integradas (manual digital). |  |  |  |  |  |  |  
+| [RF032](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf032) | Área de instruções integradas (manual digital). |[UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | [HU019](../../modelagem/gravacoes/mateus/historias.md) | - | - | [CEN07](/modelagem/gravacoes/mateus/cenarios.md) | - | [] |
 | [RF033](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Upload de foto do animal. |  |  |  |  |  |  |  
 | [RF034](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf034) | Cadastro/atualização de endereço do tutor. |  |  |  |  |  |  |  
 | [RF035](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf035) | Módulo para registro/visualização de exames do animal. |  |  |  |  |  |  |  
@@ -120,14 +120,14 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | [RFNI012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) | Envio de comentários/feedbacks sobre estabelecimentos. |  |  |  |  |  |  |  |
 | [RFNI013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni019) | Envio de comentários/feedbacks sobre médicos veterinários. |  |  |  |  |  |  |  |
 | [RFNI014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni020) | Indicador visual da média de avaliações no perfil de clínicas/hospitais. |  |  |  |  |  |  |  |
-| [RFNI015](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Indicador visual da média de avaliações no perfil de médicos veterinários. |  |  |  |  |  |  |  |
+| [RFNI015](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Indicador visual da média de avaliações no perfil de médicos veterinários. | - | [HU021](../../modelagem/gravacoes/mateus/historias.md) | - | - | - | - | [] |
 | [RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030) | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais). |  |  |  |  |  |  |  |
-| [RFNI017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf031) | Alertas e notificações automáticas para vacinas e lembretes de medicação. |  |  |  |  |  |  |  |
+| [RFNI017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf031) | Alertas e notificações automáticas para vacinas e lembretes de medicação. | - | [HU006](../../modelagem/gravacoes/mateus/historias.md) | - | - | - | - | [] |
 | [RFNI018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) | Integração direta com parceiros (clínicas, ONGs, pet shops). |  |  |  |  |  |  |  |
-| [RFNI019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Área de instruções integradas (manual digital). |  |  |  |  |  |  |  |
-| [RFNI020](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf043) | Emissão de alertas de acesso suspeito ou tentativas de violação. |  |  |  |  |  |  |  |
-| [RFNI021](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf044) | Notificação periódica para atualização de dados e fotos do animal. |  |  |  |  |  |  |  |
-| [RFNI022](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf045) | Vincular foto do tutor ao registro de adoção. |  |  |  |  |  |  |  |
+| [RFNI019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Área de instruções integradas (manual digital). | [UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | [HU019](../../modelagem/gravacoes/mateus/historias.md) | - | - | [CEN07](/modelagem/gravacoes/mateus/cenarios.md) | - | [] |
+| [RFNI020](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf043) | Emissão de alertas de acesso suspeito ou tentativas de violação. | - | [HU023](../../modelagem/gravacoes/mateus/historias.md) | - | - | - | - | [] |
+| [RFNI021](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf044) | Notificação periódica para atualização de dados e fotos do animal. | [UC008](/modelagem/gravacoes/mateus/caso_de_uso.md) | [HU020](../../modelagem/gravacoes/mateus/historias.md) | - | - | [CEN08](/modelagem/gravacoes/mateus/cenarios.md) | [LX013](/modelagem/gravacoes/mateus/lexicos.md) | [] |
+| [RFNI022](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf045) | Vincular foto do tutor ao registro de adoção. | - | [HU024](../../modelagem/gravacoes/mateus/historias.md) | - | - | - | - | [] |
 
 ---
 
@@ -165,9 +165,9 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | [RNF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf018) | Confiabilidade: cópias de segurança automáticas. |  |  |  |  |  |  |  |
 | [RNF019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf019) | Segurança: Integração entre clínicas, ONGs e Sinpatinhas. |  |  |  |  |  |  |  |
 | [RNF020](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf020) | Acessibilidade: compatibilidade entre dispositivos móveis e desktops. |  |  |  |  |  |  |  |
-| [RNF021](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) | Desempenho: respostas rápidas (até 2 segundos). |  |  |  |  |  |  |  |
+| [RNF021](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) | Desempenho: respostas rápidas (até 2 segundos). | - | - | [CNFR07](../../modelagem/gravacoes/mateus/nfr_frame_1.md) | [ES007](/modelagem/gravacoes/mateus/especificacao.md) | - | - | [] |
 | [RNF022](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf022) | Disponibilidade: acesso remoto contínuo. |  |  |  |  |  |  |  |
-| [RNF023](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023) | Privacidade: restrição de acesso a dados clínicos e pessoais sensíveis. |  |  |  |  |  |  |  |
+| [RNF023](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023) | Privacidade: restrição de acesso a dados clínicos e pessoais sensíveis. | - | - | [CNFR08](../../modelagem/gravacoes/mateus/nfr_frame_2.md) | [ES008](/modelagem/gravacoes/mateus/especificacao.md) | - | - | [] |
 | [RNF024](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | Auditabilidade: logs de acesso e registro de modificações. |  |  |  |  |  |  |  |
 
 **Autor: Antonio Carvalho**
@@ -192,3 +192,4 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 27/10/2025 |  1.0   |  Criação da documentação da matriz de rastreabilidade forward-from| Pedro Gomes   | Antonio Carvalho  |
 | 28/10/2025 |  1.1   |  Criação da matriz de rastreabilidade forward-from | Antonio Carvalho   |   |
+| 28/10/2025 |  1.2   |  Adição dos Requisitos RF032, RFNI015, RFNI017, RFNI019, RFNI020, RFNI021, RFNI022, RNF021 e RNF023  | Antonio Carvalho   |   |

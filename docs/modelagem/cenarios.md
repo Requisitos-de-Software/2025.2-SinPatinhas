@@ -55,7 +55,7 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Isaac Menezes**   | [Cenário 09](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos na clínica/hospital - [**RFNI014**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |    | [Cenário 10](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos por médico - [**RFNI015**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Luciano Machado** | —           | — |
-| **Matheus Negrini** | [Cenário 11](/modelagem/gravacoes/mateus/cenarios.md)  | Acesso à Área de Instruções Integradas - [**RF033**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Mateus Negrini** | [Cenário 11](/modelagem/gravacoes/mateus/cenarios.md)  | Acesso à Área de Instruções Integradas - [**RF033**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |  | [Cenário 12](/modelagem/gravacoes/mateus/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
 ---
