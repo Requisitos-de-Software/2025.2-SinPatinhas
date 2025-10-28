@@ -40,7 +40,7 @@ Essa estrutura permite a rastreabilidade direta entre os requisitos e seus artef
 | HUXX   | Histórias de Usuário |
 | CNFRXX | NFR Framework |
 | ESXX | Especificação Suplementar |
-| CENXX | Cenário |
+| CNXX | Cenário |
 | LXXX | Léxico |
 | ELXXX | Elo de Toranzo |
 
@@ -55,7 +55,7 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 
 ## Requisitos Funcionais Implementados
 
-| ID | Descrição | UC | HU | CNFR | ES | CN | L |
+| ID | Descrição | UC | HU | CNFR | ES | CN | LX | EL |
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | [RF001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001) | Cadastro de tutores com dados pessoais. |  |  |  |  |  |  |
 | [RF002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002) | Cadastro de animais vinculados ao tutor. |  |  |  |  |  |  |
