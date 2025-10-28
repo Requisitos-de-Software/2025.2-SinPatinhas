@@ -2,77 +2,86 @@
 
 ## Introdução
 
-A **Matriz de Rastreabilidade** é um instrumento essencial da **Engenharia de Requisitos**, que permite **identificar, relacionar e controlar a consistência** entre os diversos artefatos gerados ao longo do ciclo de desenvolvimento de software <a id="anchor_1" href="#REF1">[1]</a>.  
+A rastreabilidade de requisitos é uma prática essencial no gerenciamento de projetos de software, permitindo o acompanhamento do ciclo de vida de cada requisito — desde sua origem até a implementação e validação.  
 
-Ela garante que **cada requisito seja atendido** e **implementado**, promovendo a **transparência** e a **verificabilidade** do processo <a id="anchor_2" href="#REF2">[2]</a>.  
+No contexto do **Projeto SinPatinhas**, a matriz de rastreabilidade foi elaborada com o propósito de garantir que todos os requisitos definidos sejam devidamente atendidos, testados e validados, assegurando a consistência e a qualidade do produto final.  
 
-Por meio dessa matriz, é possível **rastrear o impacto de mudanças**, **validar implementações** e **garantir cobertura de testes**. A estrutura é construída a partir dos **elos de rastreabilidade de Toranzo (2012)**, que definem o tipo de relação entre os elementos do projeto.
-
-![matriz_1](../../assets/PDFs/rastreabilidade/matriz_1.png)
-![matriz_2](../../assets/PDFs/rastreabilidade/matriz_2.png)
-
-*TORANZO, Raquel S. (2012). Gestão da Rastreabilidade de Requisitos de Software: uma abordagem baseada em ontologias.*
-
+De acordo com Sayão e Leite (2005) [1], a rastreabilidade auxilia tanto em aspectos técnicos quanto gerenciais, oferecendo suporte à análise de impacto, controle de mudanças, validação e verificação de requisitos.
 
 ---
 
-## Conceito de Rastreabilidade
+## Conceito e Classificação da Rastreabilidade
 
-A **rastreabilidade de requisitos** é a capacidade de **seguir a vida de um requisito** desde sua origem até a sua implementação e validação final <a id="anchor_3" href="#REF1">[1]</a>.  
-Ela assegura que todos os elementos do sistema mantenham **coerência lógica**, possibilitando a **análise de impacto** de mudanças e o **gerenciamento de versões**.
+A rastreabilidade é definida como a **capacidade de estabelecer e seguir o vínculo entre os requisitos e seus artefatos associados**, como documentos, modelos, código e casos de teste.  
 
-A matriz é construída de forma bidirecional:
-- **Rastreabilidade para frente:** acompanha o requisito até o código e os testes.
-- **Rastreabilidade para trás:** permite retornar à origem do requisito (por exemplo, uma necessidade do usuário ou requisito do cliente).
+Ela permite compreender as relações de dependência entre os elementos do sistema, garantindo que modificações sejam devidamente propagadas.  
+
+Segundo Sayão e Leite (2005) [1], a rastreabilidade se divide em duas grandes categorias:
+
+- **Pré-rastreabilidade**: documenta o contexto e as fontes das quais os requisitos emergem (como atas, entrevistas, normas).  
+- **Pós-rastreabilidade**: vincula os requisitos à arquitetura, código e casos de teste, permitindo a verificação de sua implementação.  
+
+Essas relações podem ser classificadas ainda como:
+- **Forward-to / Backward-from** (antes da implementação): ligação entre fontes e requisitos.  
+- **Forward-from / Backward-to** (depois da implementação): ligação entre requisitos e artefatos de projeto, código e testes.  
+
+---
+
+### Níveis de Informação de Toranzo
+
+O modelo de **Toranzo (2002)**, conforme interpretado por Sayão e Leite (2005) [1], organiza as informações rastreadas em quatro **níveis de informação**:
+
+1. **Ambiental** – envolve o contexto externo (leis, normas, fatores socioambientais) que influencia o projeto.  
+2. **Organizacional** – abrange a missão, metas e padrões da organização, que impactam os requisitos do sistema.  
+3. **Gerencial** – relaciona tarefas, papéis e responsabilidades dentro do projeto, facilitando o acompanhamento de atividades.  
+4. **Desenvolvimento** – engloba os artefatos técnicos do ciclo de vida (documentos, diagramas, código, casos de teste, etc.).  
+
+Essa estrutura hierárquica permite ao Projeto SinPatinhas estabelecer uma rastreabilidade completa — desde as condições externas até os elementos técnicos internos.
 
 ---
 
 ## Elos de Rastreabilidade de Toranzo
 
-Os **elos de rastreabilidade de Toranzo** representam **relações semânticas** entre artefatos de software. Eles descrevem **como e por que um artefato se conecta a outro**, garantindo uma rastreabilidade rica e interpretável.  
+Toranzo propõe um **meta-modelo** que define os principais **tipos de elos** de rastreabilidade, também descritos por Sayão e Leite (2005) [1]. São eles:
 
-**Tabela 1 – Tipos de Elos de Toranzo**
+- **Satisfação** – indica que um requisito é atendido por determinado componente do sistema.  
+- **Recurso** – expressa dependências entre elementos que compartilham recursos (tempo, hardware, etc.).  
+- **Responsabilidade** – associa artefatos e tarefas a pessoas ou papéis específicos.  
+- **Representação** – vincula diferentes formas de modelar um mesmo requisito (por exemplo, texto ↔ diagrama UML).  
+- **Alocado** – mostra a distribuição de requisitos em subsistemas ou módulos.  
+- **Agregação** – indica composição entre elementos.  
 
-| **Tipo de Elo** | **Descrição** | **Exemplo Prático no SinPatinhas** |
-|------------------|----------------|------------------------------------|
-| **Dependência** | Um artefato depende de outro para existir ou ser válido. | Um requisito funcional depende de um requisito não funcional de segurança. |
-| **Satisfação** | Um artefato satisfaz ou implementa outro. | O código do módulo de notificações satisfaz o requisito RF044. |
-| **Verificação** | Um artefato é verificado ou validado por outro. | O caso de teste CT044 verifica o requisito RF044. |
-| **Derivação** | Um artefato foi derivado a partir de outro. | A história de usuário HU020 foi derivada do requisito RNF021. |
-| **Racionalidade (ou Justificativa)** | Representa a motivação ou decisão por trás de uma modificação. | Uma decisão de design justifica a alteração de RF012. |
-| **Evolução** | Indica versões sucessivas ou refinamentos de um mesmo artefato. | RF004 v1.0 → RF004 v2.0 após refinamento. |
-| **Refinamento** | Mostra o detalhamento progressivo de um requisito mais abstrato. | O requisito geral de "Adoção de Animais" é refinado em subrequisitos sobre cadastro, notificação e controle. |
-
-Esses elos são aplicados dentro da matriz de rastreabilidade para explicitar **as conexões e a lógica do projeto**.
+Esses elos permitem traçar com clareza as relações entre requisitos, seus responsáveis e os artefatos derivados, oferecendo transparência e controle durante o desenvolvimento do SinPatinhas.
 
 ---
 
 ## Estrutura da Matriz de Rastreabilidade
 
-A **Matriz de Rastreabilidade** é organizada para relacionar os artefatos em diferentes níveis:  
-**Requisitos → Casos de Uso → Histórias de Usuário → Código → Testes.**
+A matriz de rastreabilidade do Projeto SinPatinhas foi construída com base nas recomendações de Sayão e Leite (2005), servindo como um **instrumento de referência cruzada** entre os artefatos do sistema.
 
-**Tabela 2 – Exemplo de Matriz de Rastreabilidade**
+| Requisito | Fonte | Caso de Uso | Componente | Caso de Teste | Responsável |
+|------------|--------|-------------|-------------|----------------|--------------|
+| RF0XX | Entrevistas com tutores | UCXX – Cadastrar Tutor | Módulo Cadastro | CTXX | - |
+| RF0XX | Documento de visão | UCXX – Registrar Animal | Módulo Animal | CTXX | - |
+| RNF0XX | Norma de usabilidade | - | Interface Web | CTXX | - |
 
-| **Requisito** | **História de Usuário** | **Caso de Uso**  | **Tipo de Elo** | **Status** |
-|---------------|-------------------------|------------------|-----------------|------------|
-| RF001 – Nome do requisito | HU001 – Historia de usuário | UC001 – caso de uso | Satisfação / Verificação  | Implementado |
-| RF002 – Nome do requisito | HU002 – Historia de usuário | UC002 – caso de uso | Dependência / Verificação | Em validação |
-| RF003 – Nome do requisito | HU003 – Historia de usuário | UC003 – caso de uso | Satisfação / Refinamento  | Concluído |
+Essa estrutura permite verificar a cobertura e a consistência entre os requisitos e os artefatos de desenvolvimento, além de apoiar auditorias, revisões e validações do sistema.
 
 ---
 
 ## Metodologia de Construção
 
-A criação da matriz foi baseada nas etapas propostas por **Pressman & Maxim (2021)** <a id="anchor_4" href="#REF2">[2]</a> e na **abordagem de rastreabilidade ontológica de Toranzo (2012)** <a id="anchor_5" href="#REF3">[3]</a>:
+A construção da matriz seguiu um processo em quatro etapas, conforme o **modelo de rastreabilidade descrito por Sayão e Leite (2005) [1]**:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. **Definição** – identificação das entidades e tipos de elos a rastrear, com base nas necessidades do projeto.  
+2. **Registro dos Elos** – documentação dos vínculos entre requisitos, artefatos e responsáveis.  
+3. **Recuperação** – análise dos relacionamentos para fins de validação, impacto e cobertura.  
+4. **Evolução** – atualização contínua da matriz conforme o sistema evolui e novos requisitos são adicionados.  
+
+O uso de planilhas e ferramentas de controle de versão complementa o processo, garantindo rastreabilidade entre requisitos e código-fonte, além de facilitar auditorias e revisões internas.
 
 ---
+
 
 ## Artefatos e Gravações Unitários
 
@@ -119,27 +128,35 @@ A criação da matriz foi baseada nas etapas propostas por **Pressman & Maxim (2
 
 ## Benefícios da Matriz e dos Elos
 
-- **aaaaaaa:** 
+**Verificação da Alocação:** A avaliação dos elos de rastreabilidade para artefatos de desenho e implementação ajuda a identificar requisitos que ainda não foram alocados ou implementados.
+**Correção de Defeitos:** A análise dos elos pode indicar que a origem de um defeito não está no código, mas em outro artefato que deve ser revisto, e orienta a verificação/correção dos casos de teste.
+**Análise de Impacto:** Os elos facilitam a identificação dos componentes e requisitos relacionados afetados por mudanças em um requisito ou por inclusão de novos requisitos.
+**Gerenciamento de Riscos:** A rastreabilidade apoia a identificação dos artefatos atingidos por cada fator de risco, auxiliando na elaboração de estratégias de mitigação.
 
 ---
 
 ## Agradecimentos
 
-Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.  
-A base conceitual foi desenvolvida com base nos fundamentos de **Toranzo (2012)**, **Pressman & Maxim (2021)** e **Serrano & Serrano (2025)**.
+Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
+A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite (2005) [1]** e **Toranzo (2002) [2]**.
 
 ---
 
 ## Tabela de Versionamento
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
-|-------------|------------|----------------|-------------|--------------|
-| 1.0 | 27/10/2025 | Criação da página de matriz de rastreabilidade | Mateus Santos Negrini | — |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 27/10/2025 | Criação da página de matriz de rastreabilidade | Mateus Santos Negrini | Antonio Carvalho |
+| 1.0 | 27/10/2025 | Edição da página com referências e estruturação | Antonio Carvalho | — |
 
 ---
 
 ## Referências Bibliográficas
 
-<a id="REF1"></a>[1] SERRANO, Milene; SERRANO, Maurício. *Engenharia de Requisitos – Aula 10*. Material de aula, Universidade de Brasília (UnB), 2025.  
-<a id="REF2"></a>[2] PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
-<a id="REF3"></a>[3] TORANZO, Raquel S. *Gestão da Rastreabilidade de Requisitos de Software: uma abordagem baseada em ontologias.* Tese (Doutorado em Engenharia de Software) — COPPE/UFRJ, 2012.  
+<a id="REF1"></a>
+
+> [1] SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. **Rastreabilidade de Requisitos**. *Monografias em Ciência da Computação n° 20/05*. Departamento de Informática – PUC-Rio, Rio de Janeiro, 2005. ISSN 0103-9741.
+
+<a id="REF2"></a>
+
+> [2] Toranzo, M.; Castro, J. & Mello, E. **Uma proposta para melhorar o rastreamento de requisito**. In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002. Anais. pp. 194-209.
