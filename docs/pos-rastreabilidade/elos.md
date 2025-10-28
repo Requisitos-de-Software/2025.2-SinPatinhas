@@ -66,6 +66,18 @@ A construção da matriz seguiu um processo em quatro etapas, conforme o **model
 
 O uso de planilhas e ferramentas de controle de versão complementa o processo, garantindo rastreabilidade entre requisitos e código-fonte, além de facilitar auditorias e revisões internas.
 
+
+<font><p style="text-align: center">- Estrutura do cartão utilizado para elaboração dos elos.</p></font>
+
+| Requisito Analisado | Classificação do Artefato Analisado |
+|---------------------|--------------------------------------|
+| **Tipo de Elo**     | **Artefato Relacionado**             |
+| Satisfação          |                                      |
+| Recurso             |                                      |
+| Representação       |                                      |
+| Alocado             |                                      |
+| Agregação           |                                      |
+
 ---
 
 ## Artefatos Unitários
