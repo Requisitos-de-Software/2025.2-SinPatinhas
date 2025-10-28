@@ -192,4 +192,4 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 27/10/2025 |  1.0   |  Criação da documentação da matriz de rastreabilidade forward-from| Pedro Gomes   | Antonio Carvalho  |
 | 28/10/2025 |  1.1   |  Criação da matriz de rastreabilidade forward-from | Antonio Carvalho   |   |
-| 28/10/2025 |  1.2   |  Adição dos Requisitos RF032, RFNI015, RFNI017, RFNI019, RFNI020, RFNI021, RFNI022, RNF021 e RNF023  | Antonio Carvalho   |   |
+| 28/10/2025 |  1.2   |  Adição dos Requisitos RF032, RFNI015, RFNI017, RFNI019, RFNI020, RFNI021, RFNI022, RNF021 e RNF023  | Mateus Santos Negrini   |   |
