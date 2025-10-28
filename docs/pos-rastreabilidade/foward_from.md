@@ -169,21 +169,26 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | [RNF023](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023) | Privacidade: restrição de acesso a dados clínicos e pessoais sensíveis. |  |  |  |  |  |  |
 | [RNF024](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | Auditabilidade: logs de acesso e registro de modificações. |  |  |  |  |  |  |
 
-
-
 **Autor: Antonio Carvalho**
 
 ---
-
-# Referência Bibliográfica
-
-> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em
-Ciência da Computação, Rio de Janeiro, n. 20/05, p. 1-22, maio 2005.
-
-> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro : Brasport, 2016.
 
 # Histórico de Versões
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 27/10/2025 |  1.0   |  Criação da documentação da matriz de rastreabilidade forward-from| Pedro Gomes   |   |
+| 27/10/2025 |  1.0   |  Criação da documentação da matriz de rastreabilidade forward-from| Pedro Gomes   | Antonio Carvalho  |
+| 28/10/2025 |  1.1   |  Criação da matriz de rastreabilidade forward-from | Antonio Carvalho   |   |
+
+
+---
+
+## Referências Bibliográficas
+
+<a id="REF1"></a>
+
+> [1] SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. **Rastreabilidade de Requisitos**. *Monografias em Ciência da Computação n° 20/05*. Departamento de Informática – PUC-Rio, Rio de Janeiro, 2005. ISSN 0103-9741.
+
+<a id="REF2"></a>
+
+> [2] Toranzo, M.; Castro, J. & Mello, E. **Uma proposta para melhorar o rastreamento de requisito**. In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002. Anais. pp. 194-209.
