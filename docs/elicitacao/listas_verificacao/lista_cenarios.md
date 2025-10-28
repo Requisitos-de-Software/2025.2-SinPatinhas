@@ -1,4 +1,4 @@
-# Cenários
+# Lista de verificação - Cenários
 
 > Esta seção apresenta a **lista de verificação consolidada dos Cenários** para o projeto **SinPatinhas**.  
 > A lista foi elaborada a partir da análise e integração das listas individuais produzidas pelos membros da equipe.

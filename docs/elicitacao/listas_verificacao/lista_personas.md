@@ -1,4 +1,4 @@
-# Persona
+# Lista de Verificação - Persona
 
 > Esta seção apresenta a **lista de verificação consolidada sobre persona** para o projeto **SinPatinhas**. A lista foi elaborada a partir da análise e integração das listas individuais produzidas pelos membros da equipe, a partir delas foi consolidada uma [lista de verificação do grupo](https://docs.google.com/document/d/1gryAin2AkApRdECKAeyrSctm6YuW2Erll1GGgFMVRXI/edit?tab=t.0).
 
