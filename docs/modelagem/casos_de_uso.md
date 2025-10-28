@@ -15,8 +15,14 @@ Com base nos requisitos elicitados anteriormente para o projeto SinPatinhas, **f
 O diagrama contempla **funcionalidades como cadastro de usuários e animais**, recebimento de tutelas, visualização e edição de registros, além de histórico de transferências e confirmação de alterações. Também **há interação com o servidor do SinPatinhas, responsável pelo processamento das operações e pela comunicação entre os módulos do sistema**.
 
 Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação aos usuários e demais entidades envolvidas, servindo como base para a modelagem e implementação das funcionalidades descritas nos requisitos**.
-
+<br>
+*Figura 1: Diagrama de casos de uso*
+<br>
 ![Casos-de-uso](../assets/images/casos_de_uso-SinPatinhas.png)
+<br>*Figura 2: Legenda do diagrama de casos de uso*
+<br>
+![Legenda](../assets/images/legenda_casos_de_uso.png)
+
 
 * [Link para o diagrama de casos de uso](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=v2_caso_de_uso_sinpatinhas.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1JOocwPjoZbvNTRfiIlNnfZpdQCFAApOf%26export%3Ddownload)
 
