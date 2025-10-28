@@ -1,4 +1,4 @@
-# Técnicas de Priorização
+# Lista de Verificação - Técnicas de Priorização
 
 > Esta seção apresenta a **lista de verificação consolidada** para as técnicas de priorização utilizadas no projeto **SinPatinhas**.
 

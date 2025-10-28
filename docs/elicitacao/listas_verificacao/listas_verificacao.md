@@ -1,4 +1,4 @@
-# Listas de Verificação
+# Lista de Verificação
 
 > Esta seção centraliza os **artefatos de verificação** utilizados no projeto **SinPatinhas**.  
 > Elas servem como guias de apoio para Técnicas de Priorização, Cenários, Perfil do Usuário e Personas.
@@ -18,6 +18,24 @@
 
 <div class="plan-grid">
 
+<a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="card">
+  <div class="card__icon">👤</div>
+  <div class="card__title">Perfil do Usuário</div>
+  <div class="card__desc">Avaliação de clareza, consistência e utilidade do perfil.</div>
+</a>
+
+<a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="card">
+  <div class="card__icon">🔍</div>
+  <div class="card__title">Elicitação</div>
+  <div class="card__desc">Processo de coleta e análise inicial de informações para identificar requisitos do sistema.</div>
+</a>
+
+<a href="#/elicitacao/listas_verificacao/lista_personas.md" class="card">
+  <div class="card__icon">🧩</div>
+  <div class="card__title">Personas</div>
+  <div class="card__desc">Verificação de completude, realismo e representatividade.</div>
+</a>
+
 <a href="#/elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md" class="card">
   <div class="card__icon">📊</div>
   <div class="card__title">Técnicas de Priorização</div>
@@ -30,23 +48,6 @@
   <div class="card__desc">Checklist de objetivo, fluxo, pré/pós-condições e exceções.</div>
 </a>
 
-<a href="#/elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md" class="card">
-  <div class="card__icon">👤</div>
-  <div class="card__title">Perfil do Usuário</div>
-  <div class="card__desc">Avaliação de clareza, consistência e utilidade do perfil.</div>
-</a>
-
-<a href="#/elicitacao/listas_verificacao/lista_personas.md" class="card">
-  <div class="card__icon">🧩</div>
-  <div class="card__title">Personas</div>
-  <div class="card__desc">Verificação de completude, realismo e representatividade.</div>
-</a>
-
-<a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="card">
-  <div class="card__icon">🔍</div>
-  <div class="card__title">Elicitação</div>
-  <div class="card__desc">Processo de coleta e análise inicial de informações para identificar requisitos do sistema.</div>
-</a>
 
 </div>
 
