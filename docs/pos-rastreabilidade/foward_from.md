@@ -173,16 +173,6 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 
 ---
 
-# Histórico de Versões
-
-| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
-| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 27/10/2025 |  1.0   |  Criação da documentação da matriz de rastreabilidade forward-from| Pedro Gomes   | Antonio Carvalho  |
-| 28/10/2025 |  1.1   |  Criação da matriz de rastreabilidade forward-from | Antonio Carvalho   |   |
-
-
----
-
 ## Referências Bibliográficas
 
 <a id="REF1"></a>
@@ -192,3 +182,12 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 <a id="REF2"></a>
 
 > [2] Toranzo, M.; Castro, J. & Mello, E. **Uma proposta para melhorar o rastreamento de requisito**. In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002. Anais. pp. 194-209.
+
+---
+
+# Histórico de Versões
+
+| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
+| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
+| 27/10/2025 |  1.0   |  Criação da documentação da matriz de rastreabilidade forward-from| Pedro Gomes   | Antonio Carvalho  |
+| 28/10/2025 |  1.1   |  Criação da matriz de rastreabilidade forward-from | Antonio Carvalho   |   |
