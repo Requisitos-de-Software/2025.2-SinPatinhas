@@ -1,22 +1,21 @@
 # Introdução
 
-A rastreabilidade é um dos aspectos fundamentais da engenharia de requisitos, pois permite acompanhar a origem e o impacto de cada requisito ao longo do projeto. De acordo com Vazquez e Simões (2016, sȩc. 9.6.1), “a rastreabilidade dos requisitos é o processo de identificar e documentar os elos (ou vínculos) que envolvem um determinado requisito, para que seja possível rastrear sua origem, os artefatos derivados e os demais requisitos relacionados”
-<br>![Rastreabilidade](../assets/images/rastreabilidade/rastreabilidade.png)
+A rastreabilidade é um dos aspectos fundamentais da engenharia de requisitos, pois permite acompanhar a origem e o impacto de cada requisito ao longo do projeto. De acordo com Vazquez e Simões (2016, sȩc. 9.6.1), “a rastreabilidade dos requisitos é o processo de identificar e documentar os elos (ou vínculos) que envolvem um determinado requisito, para que seja possível rastrear sua origem, os artefatos derivados e os demais requisitos relacionados”. <a href="assets/images/rastreabilidade/rastreabilidade.png" target="_blank">1</a>
 
-Segundo Serrano e Serrano a rastreabilidade pode ser dividida nos tipos: backward-from, forward-from, backward-to, forward-to.
+Segundo Sayão e Leite (2005) a rastreabilidade pode ser dividida nos tipos: backward-from, forward-from, backward-to e forward-to onde: <a href="assets/images/rastreabilidade/rast_tipos.png" target="_blank">2</a>
 
-- Rastreabilidade forward-from: liga os requisitos aos artefatos de desenho e implementação.
+- Rastreabilidade forward-from: liga os requisitos aos artefatos gerados a partir desse requisito.
 - Rastreabilidade backward-from: liga os requisitos às suas fontes.
 - Rastreabilidade forward-to: liga os documentos do plano de negócio aos requisitos.
 - Rastreabilidade backward-to: liga os artefatos de desenho e implementação aos requisitos.
 
 # Objetivos
 
-Realizar a análise da rastreabilidade backward-from, com o propósito de identificar e documentar a origem de cada requisito. Por meio da matriz de rastreabilidade, pretende-se fornecer aos stakeholders uma compreensão clara sobre as justificativas e motivações que embasaram a elicitação de cada requisito, promovendo maior transparência, coerência e rastreabilidade no processo de engenharia de requisitos.
+Realizar a análise da rastreabilidade backward-from, com o propósito de identificar e documentar a origem de cada requisito. Por meio da matriz de rastreabilidade, pretende-se fornecer uma compreensão clara sobre as origens de cada requisito.
 
 # Metodologia
 
-Para a execução da rastreabilidade backward-from, foi desenvolvida uma matriz de rastreabilidade em que as duas primeiras colunas identificam o requisito, a terceira coluna especifica a fonte de origem do requisito e a última coluna registra o status de implementação (implementado ou não implementado).
+Para a execução da rastreabilidade backward-from, foi desenvolvida uma matriz de rastreabilidade em que as duas primeiras colunas identificam o requisito, a terceira coluna especifica a fonte de origem do requisito e a última coluna registra o status de implementação (sim para implementado e não para não implementado).
 
 # Rastreabilidade Backward-from
 
@@ -127,13 +126,16 @@ Para a execução da rastreabilidade backward-from, foi desenvolvida uma matriz 
 | RNF023 | Privacidade: restrição de acesso a dados clínicos. | Análise de Documentos — [RNF015](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#rnf015) e [RNF031](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#rnf031) | Sim |
 | RNF024 | Auditabilidade: logs de acesso e modificações. | Análise de Documentos — [RNF016](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#rnf016) e [RNF032](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#rnf032) | Sim |
 
-Autor: Pedro 
+Autor: Pedro Gomes
 
 ---
 
 # Referência Bibliográfica
 
-> <a id="Serrano"></a>SERRANO, Milene; SERRANO, Maurício. **Requisitos – Aula 26**. UnB, 2025. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096178/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf>. Acesso em: 22 jun. 2025. [`Foto da referência`](../images/tipos-rastreabilidade/backward-from.png)
+> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em
+Ciência da Computação, Rio de Janeiro, n. 20/05, p. 1-22, maio 2005.
+
+> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro : Brasport, 2016.
 
 # Histórico de Versões
 
