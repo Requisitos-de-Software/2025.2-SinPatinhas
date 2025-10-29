@@ -85,7 +85,7 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Critérios de Aceitação** | - O sistema deve possibilitar integração via API REST. <br> - Deve permitir autenticação segura (token). <br> - As atualizações de dados devem ocorrer em tempo real. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RFNI018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) / [RNF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) |
+| **Rastreabilidade** | [RNF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) |
 
 ---
 

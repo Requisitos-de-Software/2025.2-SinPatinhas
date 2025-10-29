@@ -41,7 +41,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 | **Pós-condições** | O sistema registra a solicitação e atualiza o status do animal para “Em processo de adoção”. |
 | **Data de Criação** | 11/10/2025 |
 | **Rastreabilidade** | [RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) — Sistema de Adoção de Animais |
-| **Cenário relacionado** | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#crn003) |
+| **Cenário relacionado** | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#cnr003) |
 | **Léxico relacionado** | [LX001](../../../modelagem/gravacoes/antonio/lexicos.md#lx001) |
 | **Origem** | Entrevista 2 |
 

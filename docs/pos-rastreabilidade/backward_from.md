@@ -1,6 +1,6 @@
 # Introdução
 
-A rastreabilidade é um dos aspectos fundamentais da engenharia de requisitos, pois permite acompanhar a origem e o impacto de cada requisito ao longo do projeto. De acordo com Vazquez e Simões (2016, sȩc. 9.6.1), “a rastreabilidade dos requisitos é o processo de identificar e documentar os elos (ou vínculos) que envolvem um determinado requisito, para que seja possível rastrear sua origem, os artefatos derivados e os demais requisitos relacionados”. <a href="assets/images/rastreabilidade/rastreabilidade.png" target="_blank">1</a>
+A rastreabilidade é um dos aspectos fundamentais da engenharia de requisitos, pois permite acompanhar a origem e o impacto de cada requisito ao longo do projeto. De acordo com Vazquez e Simões (2016, sȩcão 9.6.1), “a rastreabilidade dos requisitos é o processo de identificar e documentar os elos (ou vínculos) que envolvem um determinado requisito, para que seja possível rastrear sua origem, os artefatos derivados e os demais requisitos relacionados”. <a href="assets/images/rastreabilidade/rastreabilidade.png" target="_blank">1</a>
 
 Segundo Sayão e Leite (2005) a rastreabilidade pode ser dividida nos tipos: backward-from, forward-from, backward-to e forward-to onde: <a href="assets/images/rastreabilidade/rast_tipos.png" target="_blank">2</a>
 
@@ -127,6 +127,15 @@ Para a execução da rastreabilidade backward-from, foi desenvolvida uma matriz 
 | RNF024 | Auditabilidade: logs de acesso e modificações. | Análise de Documentos — [RNF016](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#rnf016) e [RNF032](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#rnf032) | Sim |
 
 Autor: Pedro Gomes
+
+---
+
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
+A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite (2005)** e **Vazquez (2016)**.
+ 
+---
 
 ---
 
