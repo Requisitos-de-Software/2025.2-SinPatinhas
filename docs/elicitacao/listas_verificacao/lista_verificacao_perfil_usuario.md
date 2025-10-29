@@ -1,4 +1,4 @@
-# Perfil de usuário
+# Lista de Verificação - Perfil de usuário
 
 > Esta seção apresenta a **lista de verificação consolidada do Perfil de Usuário** para o projeto **SinPatinhas**. A lista foi elaborada a partir da análise e integração das listas individuais produzidas pelos membros da equipe. Dessa forma foi elaborada uma [lista de verificação consolidada](https://docs.google.com/document/d/1DF43VVh7T7nysOwq6M_kkJGDv69z0JjEipR-LwJIa4k/edit?usp=sharing) dos itens elaborados por cada integrantes do grupo.
 

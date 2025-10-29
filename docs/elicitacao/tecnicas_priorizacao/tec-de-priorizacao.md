@@ -18,7 +18,7 @@
 
 <div class="plan-grid">
 
-<a class="card">
+<a class="card" href="../../elicitacao/tecnicas_priorizacao/MoSCoW.md">
   <div class="card__icon">📌</div>
   <div class="card__title">MoSCoW</div>
   <div class="card__desc">Classificação em categorias <em>Must Have</em>, <em>Should Have</em>, <em>Could Have</em> e <em>Won’t Have</em>. Permite alinhar expectativas entre equipe e stakeholders.</div>
@@ -64,6 +64,7 @@ O uso combinado oferece equilíbrio entre **clareza qualitativa**, **distribuiç
 |-------:|------------|---------------------------------------------------|----------|-----------|
 | 1.0    | 27/09/2025 | Criação da página de Técnicas de Priorização      | Antonio  | -         |
 | 1.1    | 30/09/2025 | Inclusão da técnica **In or Out**                 | Antonio  | -         |
+| 1.2    | 28/10/2025 | Rota para aplicação do MoSCoW                | Antonio  | -         |
 
 ---
 

@@ -1,4 +1,4 @@
-# Lista de Elicitação
+# Lista de Verificação -  Elicitação
 
 > Esta seção apresenta a **lista de verificação consolidada** para as técnicas de elicitação utilizadas no projeto **SinPatinhas**.
 

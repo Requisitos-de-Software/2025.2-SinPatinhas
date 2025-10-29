@@ -23,9 +23,9 @@
 ---
 
 ##  Etapa 2 – Elicitação de Requisitos e Priorização
-> Demonstração das técnicas de elicitação utilizadas, como entrevistas, brainstorming e questionários, além do processo de priorização de requisitos conforme critérios definidos.
+> Nesta etapa, fizemos um checklist das técnicas de elicitação utilizadas, como entrevistas, brainstorming e questionários, além do processo de priorização de requisitos conforme critérios definidos.
 
-🎥 **[Assistir no YouTube – Elicitação de Requisitos: Técnicas e Priorização](https://www.youtube.com/watch?v=uA_s73D0w3o)**
+🎥 **[Assistir no YouTube – Elicitação de Requisitos: Técnicas e Priorização](https://www.youtube.com/watch?v=6AU4eSPIpaE)**
 
 ---
 

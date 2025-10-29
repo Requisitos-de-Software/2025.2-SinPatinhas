@@ -1,21 +1,5 @@
 # Backlog do Produto - Mateus Santos Negrini
 
----
-
-## Validação com tutora de animal
-
-A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ClPEkjUv-jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
-
----
-
-## Participantes da validação
-
-| **Participante** | **Papel** |
-|------------------|-----------|
-| **Mateus Santos Negrini** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato backlog. |
 
 ---
 

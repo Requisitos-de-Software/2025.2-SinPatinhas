@@ -130,8 +130,9 @@
 
 | **Nome**           | **Contribuição (%)** | **Função**                                      |
 |---------------------|----------------------|-------------------------------------------------|
-| Heloisa      | 50%                  | Criação da página de requisitos elicitados     |
-| Pedro Gomes           | 50%                   | Revisão e correção dos links para garantir a rastreabilidade |
+| Heloisa      | 33%                  | Criação da página de requisitos elicitados     |
+| Antonio          | 33%                   | Estruturação e rotas para rastreabilidade |
+| Pedro Gomes           | 33%                   | Revisão e correção dos links para garantir a rastreabilidade |
 ---
 
 ## 📜 Histórico de Versão
@@ -139,8 +140,9 @@
 | Versão | Data       | Descrição                                         | Autores           | Revisores |
 |-------:|------------|---------------------------------------------------|-------------------|-----------|
 | 1.0    | 07/10/2025 | Criação da página de consolidação de requisitos     | Heloisa     | Letícia  |
-| 1.1    | 21/10/2025 | Padronização com IDs e links para fontes dos requisitos | Pedro Gomes | -- |
-| 1.2    | 21/10/2025 | Adição de RF041 e referências completas aos requisitos do documento fonte | Pedro Gomes | -- |
+| 1.1    | 12/10/2025 | Criação de estruturação e das rotas para os que foram consolidados  | Antonio     | --  |
+| 1.2    | 21/10/2025 | Padronização com IDs e links para fontes dos requisitos | Pedro Gomes | -- |
+| 1.3    | 21/10/2025 | Adição de RF041 e referências completas aos requisitos do documento fonte | Pedro Gomes | -- |
 
 
 ---
