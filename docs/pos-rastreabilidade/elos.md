@@ -83,12 +83,12 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 |                      | [#EL016](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        |
 |                      | [#EL017](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL018](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-| **Mateus Negrini**   | [#EL019](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | DESCRICAO        |
-|                      | [#EL020](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | DESCRICAO        |
-|                      | [#EL021](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL022](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL023](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL024](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
+| **Mateus Negrini**   | [#EL019](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | EL019	Satisfação	CNFR07	RNF021   |
+|                      | [#EL020](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | EL020	Recurso	BL008	RFNI021      |
+|                      | [#EL021](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | EL021	Representação	CEN07	UC007|
+|                      | [#EL022](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | EL022	Alocado	HU019	BL007        |
+|                      | [#EL023](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | EL023	Agregação	RFNI020	RFNI021  |
+|                      | [#EL024](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | EL024	Satisfação	CNFR08	RNF023   |
 | **Isaac Menezes**    | [#EL025](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | DESCRICAO        |
 |                      | [#EL026](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | DESCRICAO        |
 |                      | [#EL027](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
