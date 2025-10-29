@@ -1,19 +1,21 @@
-# Elos de Rastreabilidade de Toranzo - Antonio Carvalho
+# Elos de Rastreabilidade de Toranzo - Letícia Paiva  
 
-<a id="rf017"></a>
+---
 
-### **EL001**: #RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos)
+<a id="rfni016"></a>
 
-<font><p style="text-align: center">**Tabela 1** - Elos para o requisito #RF017.</p></font>
+### **EL001**: #RFNI016 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais)
 
-|                  **RF017**              | **Classificação do Artefato Analisado** |
-| ---------------------------------------------------- | --------------------------------------- |
-|                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [ES001](../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | - |
-|                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU003 – Cadastro e Gerenciamento de Perfis Ampliados](#hu003) |
+<font><p style="text-align: center">**Tabela 1** - Elos para o requisito #RFNI016.</p></font>
+
+| **RFNI016** | **Classificação do Artefato Analisado** |
+|--------------|------------------------------------------|
+| **Tipos de Elo** | **Artefatos Relacionados** |
+| **Satisfação** | [ES001](../modelagem/gravacoes/leticia/especificacao.md) |
+| **Recurso** | [CNR003](../modelagem/gravacoes/leticia/cenarios.md) |
+| **Representação** | - |
+| **Alocado** | - |
+| **Agregação** | [#HU001 – Sistema de Adoção](#hu001) |
 
 ---
 
@@ -23,105 +25,101 @@
 
 <font><p style="text-align: center">**Tabela 2** - Elos para o requisito #RF018.</p></font>
 
-|                  **RF018**              | **Classificação do Artefato Analisado** |
-| ---------------------------------------------------- | --------------------------------------- |
-|                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [ES002](../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | - |
-|                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU004 – Publicação de Campanhas e Materiais Educativos](#hu004) |
+| **RF018** | **Classificação do Artefato Analisado** |
+|------------|------------------------------------------|
+| **Tipos de Elo** | **Artefatos Relacionados** |
+| **Satisfação** | [ES002](../modelagem/gravacoes/leticia/especificacao.md) |
+| **Recurso** | - |
+| **Representação** | - |
+| **Alocado** | - |
+| **Agregação** | [#HU002 – Alertas e Notificações Automáticas](#hu002) |
 
 ---
 
-<a id="rfni005"></a>
+<a id="rf025"></a>
 
-### **EL003**: #RFNI005 - Informações sobre horários de funcionamento de clínicas/hospitais
+### **EL003**: #RF025 - Compartilhamento de informações com familiares
 
-<font><p style="text-align: center">**Tabela 3** - Elos para o requisito #RFNI005.</p></font>
+<font><p style="text-align: center">**Tabela 3** - Elos para o requisito #RF025.</p></font>
 
-|                  **RFNI005**              | **Classificação do Artefato Analisado** |
-| ---------------------------------------------------- | --------------------------------------- |
-|                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      |[ES002](../modelagem/gravacoes/antonio/especificacao.md)  |
-|                       Recurso                        | - |
-|                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU005 – Exibição de Horários de Clínicas Parceiras](#hu005) |
-
----
-
-<a id="rnf014"></a>
-
-### **EL004**: #RNF014 - Integração com clínicas, ONGs e pet shops
-
-<font><p style="text-align: center">**Tabela 4** - Elos para o requisito #RNF014.</p></font>
-
-|                  **RNF014**              | **Classificação do Artefato Analisado** |
-| ---------------------------------------------------- | --------------------------------------- |
-|                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      |[ES002](../modelagem/gravacoes/antonio/especificacao.md)  |
-|                       Recurso                        | - |
-|                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU006 – Integração Direta com Parceiros](#hu006) |
+| **RF025** | **Classificação do Artefato Analisado** |
+|------------|------------------------------------------|
+| **Tipos de Elo** | **Artefatos Relacionados** |
+| **Satisfação** | [ES003](../modelagem/gravacoes/leticia/especificacao.md) |
+| **Recurso** | - |
+| **Representação** | - |
+| **Alocado** | - |
+| **Agregação** | [#HU003 – Compartilhamento de Informações com Familiares](#hu003) |
 
 ---
 
-<a id="rfni016"></a>
+<a id="rf026"></a>
 
-### **EL005**: #RFNI016 - Sistema de adoção de animais (facilitar a adoção de animais)
+### **EL004**: #RF026 - Notificações de vacinas futuras/atrasadas
 
-<font><p style="text-align: center">**Tabela 5** - Elos para o requisito #RFNI016.</p></font>
+<font><p style="text-align: center">**Tabela 4** - Elos para o requisito #RF026.</p></font>
 
-|                  **RFNI016**              | **Classificação do Artefato Analisado** |
-| ---------------------------------------------------- | --------------------------------------- |
-|                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [ES001](../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | [CNR003](../modelagem/gravacoes/antonio/cenarios.md) |
-|                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU007 – Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica](#hu007) |
-
----
-
-<a id="rfni018"></a>
-
-### **EL006**: #RFNI018 - Integração direta com parceiros (clínicas, ONGs, pet shops)
-
-<font><p style="text-align: center">**Tabela 6** - Elos para o requisito #RFNI018.</p></font>
-
-|                  **RFNI018**              | **Classificação do Artefato Analisado** |
-| ---------------------------------------------------- | --------------------------------------- |
-|                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [ES003](../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | - |
-|                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU008 – Sincronização de Dados entre ONGs e Clínicas](../modelagem/gravacoes/antonio/historias.md) |
-
-
-## Agradecimentos
-
-Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
-A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite (2005)** e **Toranzo (2002)**.
- 
----
-
-## Referências Bibliográficas
-
-<a id="REF1"></a>
-
-> [1] SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. **Rastreabilidade de Requisitos**. *Monografias em Ciência da Computação n° 20/05*. Departamento de Informática – PUC-Rio, Rio de Janeiro, 2005. ISSN 0103-9741.
-
-<a id="REF2"></a>
-
-> [2] Toranzo, M.; Castro, J. & Mello, E. **Uma proposta para melhorar o rastreamento de requisito**. In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002. Anais. pp. 194-209.
+| **RF026** | **Classificação do Artefato Analisado** |
+|------------|------------------------------------------|
+| **Tipos de Elo** | **Artefatos Relacionados** |
+| **Satisfação** | [ES004](../modelagem/gravacoes/leticia/especificacao.md) |
+| **Recurso** | - |
+| **Representação** | - |
+| **Alocado** | - |
+| **Agregação** | [#HU004 – Notificações de Vacinas Futuras/Atrasadas](#hu004) |
 
 ---
 
-# Histórico de Versões
+<a id="rf027"></a>
 
-| Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
-| :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 28/10/2025 |  1.0   |  Criação da documentação e estruturação da matriz de rastreabilidade geral  | Antonio Carvalho   |   |
+### **EL005**: #RF027 - Registro da localização do animal ou tutor
+
+<font><p style="text-align: center">**Tabela 5** - Elos para o requisito #RF027.</p></font>
+
+| **RF027** | **Classificação do Artefato Analisado** |
+|------------|------------------------------------------|
+| **Tipos de Elo** | **Artefatos Relacionados** |
+| **Satisfação** | [ES005](../modelagem/gravacoes/leticia/especificacao.md) |
+| **Recurso** | - |
+| **Representação** | - |
+| **Alocado** | - |
+| **Agregação** | [#HU005 – Registro da Localização do Animal ou Tutor](#hu005) |
+
+---
+
+<a id="rf031"></a>
+
+### **EL006**: #RF031 - Registro de informações detalhadas do animal
+
+<font><p style="text-align: center">**Tabela 6** - Elos para o requisito #RF031.</p></font>
+
+| **RF031** | **Classificação do Artefato Analisado** |
+|------------|------------------------------------------|
+| **Tipos de Elo** | **Artefatos Relacionados** |
+| **Satisfação** | [ES006](../modelagem/gravacoes/leticia/especificacao.md) |
+| **Recurso** | - |
+| **Representação** | - |
+| **Alocado** | - |
+| **Agregação** | [#HU006 – Registro Detalhado de Informações do Animal](#hu006) |
+
+---
+
+## Agradecimentos  
+
+Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.  
+A base conceitual segue os fundamentos de **Sayão e Leite (2005)** e **Toranzo (2002)**.  
+
+---
+
+## Referências Bibliográficas  
+
+> [1] SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação nº 20/05. PUC-Rio, 2005.  
+> [2] TORANZO, M.; CASTRO, J.; MELLO, E. *Uma proposta para melhorar o rastreamento de requisito.* WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, 2002.  
+
+---
+
+## Histórico de Versões  
+
+| Data       | Versão | Descrição | Autor | Revisor |
+|-------------|:------:|------------|:------:|:--------:|
+| 28/10/2025 | 1.0 | Criação da matriz geral de rastreabilidade das HUs (HU001–HU006) | **Letícia Paiva** | — |
