@@ -71,12 +71,12 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 |                      | [#EL004](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL004**: #RNF014 - Integração com clínicas, ONGs e pet shops        |
 |                      | [#EL005](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL005**: #RFNI016 - Sistema de adoção de animais (facilitar a adoção de animais)        |
 |                      | [#EL006](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL006**: #RFNI018 - Integração direta com parceiros (clínicas, ONGs, pet shops)        |
-| **Leticia**          | [#EL007](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL008](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL009](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL010](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL011](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL012](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
+| **Letícia Paiva**    | [#EL007](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | **EL007**: #RFNI016 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) – *Relacionado à HU001 (Sistema de Adoção)* |
+|                      | [#EL008](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | **EL008**: #RF018 - Envio de notificações/campanhas e publicação de materiais educativos – *Relacionado à HU002 (Alertas e Notificações Automáticas)* |
+|                      | [#EL009](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | **EL009**: #RF025 - Compartilhamento de informações com familiares – *Relacionado à HU003 (Compartilhamento de Informações com Familiares)* |
+|                      | [#EL010](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | **EL010**: #RF026 - Notificações de vacinas futuras/atrasadas – *Relacionado à HU004 (Notificações de Vacinas Futuras/Atrasadas)* |
+|                      | [#EL011](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | **EL011**: #RF027 - Registro da localização do animal ou tutor – *Relacionado à HU005 (Registro da Localização do Animal ou Tutor)* |
+|                      | [#EL012](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | **EL012**: #RF031 - Registro de informações detalhadas do animal – *Relacionado à HU006 (Registro Detalhado de Informações do Animal)* |
 | **Pedro Gomes**      | [#EL013](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        |
 |                      | [#EL014](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        |
 |                      | [#EL015](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        |
