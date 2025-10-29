@@ -1,4 +1,4 @@
-# Elos – Projeto SinPatinhas
+# Elos de Rastreabilidade de Toranzo – Projeto SinPatinhas
 
 ## Introdução
 
@@ -65,12 +65,12 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 
 | **Participantes**    | **Página Específica**                                 | **Descrição**    |
 |----------------------|-------------------------------------------------------|------------------|
-| **Antonio Carvalho** | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
-|                      | [#EL002](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
-|                      | [#EL003](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
-|                      | [#EL004](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
-|                      | [#EL005](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
-|                      | [#EL006](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
+| **Antonio Carvalho** | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL001**: #RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos)        |
+|                      | [#EL002](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL002**: #RF018 - Envio de notificações/campanhas e publicação de materiais educativos        |
+|                      | [#EL003](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL003**: #RFNI005 - Informações sobre horários de funcionamento de clínicas/hospitais        |
+|                      | [#EL004](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL004**: #RNF014 - Integração com clínicas, ONGs e pet shops        |
+|                      | [#EL005](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL005**: #RFNI016 - Sistema de adoção de animais (facilitar a adoção de animais)        |
+|                      | [#EL006](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL006**: #RFNI018 - Integração direta com parceiros (clínicas, ONGs, pet shops)        |
 | **Leticia**          | [#EL007](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL008](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL009](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |

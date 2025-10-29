@@ -26,7 +26,7 @@ A validação com o usuário foi feita de forma presencial, no dia 10 de outubro
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 Os requisitos de **Usabilidade** definem a facilidade com que o usuário final (cidadão, tutor ou profissional) consegue interagir com o sistema, sendo crucial para a adoção de um sistema de utilidade pública como o **SinPatinhas**.  
-Esses requisitos focam na **intuitividade**, **clareza** e **eficiência da interface**.
+Foco em **intuitividade**, **clareza** e **eficiência da interface**.
 
 <p align="center"><b>Tabela 1 - Requisitos de Usabilidade.</b></p>
 
@@ -41,25 +41,39 @@ Esses requisitos focam na **intuitividade**, **clareza** e **eficiência da inte
 
 ---
 
-<a id="es002"></a>
-
-## #ES002 - Segurança e Confiabilidade (R)
+## #ES002 - Segurança (S)
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
-A **Segurança e Confiabilidade (Reliability)** são essenciais para um sistema que lida com **dados pessoais (LGPD)** e **informações de saúde animal**.  
-Esta seção detalha as exigências para **proteção de dados**, **integridade do sistema** e **prevenção de falhas**.
+A **Segurança** trata da proteção dos dados do sistema e prevenção de acessos não autorizados, garantindo **conformidade com a LGPD** e proteção da privacidade de tutores e animais.
 
-<p align="center"><b>Tabela 2 - Requisitos de Segurança e Confiabilidade.</b></p>
+<p align="center"><b>Tabela 2 - Requisitos de Segurança.</b></p>
 
 | **ID** | **Descrição** | **Rastreamento** |
 |:-------|:---------------|:-----------------|
 | [RNF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | O sistema deve estar em total conformidade com a Lei Geral de Proteção de Dados (LGPD). | Análise Doc |
+| [RNF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) (E3) | O sistema deve alertar o usuário sobre tentativas de acesso não autorizado. | Entrevista 03 |
+| [RNF017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf017) | O sistema deve gerar alertas de acesso não autorizado e tentativas de violação. | Entrevista 03 |
+| [RNF019](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf019) | Segurança na integração entre clínicas, ONGs e SinPatinhas. | Análise Doc |
+
+---
+
+## #ES003 - Confiabilidade (R)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+A **Confiabilidade** garante que o sistema funcione de forma **estável e contínua**, evitando perda de dados e mantendo integridade das informações, mesmo em falhas ou interrupções.
+
+<p align="center"><b>Tabela 3 - Requisitos de Confiabilidade.</b></p>
+
+| **ID** | **Descrição** | **Rastreamento** |
+|:-------|:---------------|:-----------------|
 | [RNF003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) (E1) | O sistema deve garantir a fidelidade contra perda de dados. | Entrevista 01 |
 | [RNF003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) (E3) | O sistema deve evitar perda de dados e garantir cópias de segurança automáticas. | Entrevista 03 |
-| [RNF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) (E3) | O sistema deve alertar o usuário sobre tentativas de acesso não autorizado, similar a sistemas bancários. | Entrevista 03 |
 | [RNF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | O sistema deve registrar logs detalhados de acesso e modificações nos prontuários e cadastros. | Entrevista 03 |
-| [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | O acesso à consulta pública via RGA ou microchip deve ser restrito, exibindo apenas dados não sensíveis do animal (ex.: status e contato de recuperação). | Análise Doc |
+| [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | O acesso à consulta pública via RGA ou microchip deve ser restrito, exibindo apenas dados não sensíveis do animal. | Análise Doc |
+
+---
 
 ---
 
