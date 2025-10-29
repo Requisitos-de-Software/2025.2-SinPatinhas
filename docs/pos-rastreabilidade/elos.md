@@ -63,46 +63,6 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 
 ## Artefatos Unitários
 
-<<<<<<< HEAD
-| **Participantes**    | **Página Específica**                                 | **Descrição**    | **Rastreabilidade**
-|----------------------|-------------------------------------------------------|------------------|---------------------|
-| **Antonio Carvalho** | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL001**: #RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos)        | [RF017](#rf017)  |
-|                      | [#EL002](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL002**: #RF018 - Envio de notificações/campanhas e publicação de materiais educativos        |[RF018](#rf018) |
-|                      | [#EL003](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL003**: #RFNI005 - Informações sobre horários de funcionamento de clínicas/hospitais        |[RFNI005](#rfni005) |
-|                      | [#EL004](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL004**: #RNF014 - Integração com clínicas, ONGs e pet shops        |[RNF014](#rnf014) |
-|                      | [#EL005](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL005**: #RFNI016 - Sistema de adoção de animais (facilitar a adoção de animais)        | [RFNI016](#rfni016)|
-|                      | [#EL006](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL006**: #RFNI018 - Integração direta com parceiros (clínicas, ONGs, pet shops)        |[RFNI018](#rfni018) |
-| **Leticia**          | [#EL007](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL008](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL009](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL010](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL011](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL012](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-| **Pedro Gomes**      | [#EL013](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        | |
-|                      | [#EL014](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        | |
-|                      | [#EL015](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        | |
-|                      | [#EL016](../pos-rastreabilidade/unitarios/pedro/matriz_geral.md)   | DESCRICAO        | |
-|                      | [#EL017](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL018](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-| **Mateus Negrini**   | [#EL019](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | DESCRICAO        | |
-|                      | [#EL020](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | DESCRICAO        | |
-|                      | [#EL021](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL022](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL023](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL024](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-| **Isaac Menezes**    | [#EL025](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | DESCRICAO        | |
-|                      | [#EL026](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | DESCRICAO        | |
-|                      | [#EL027](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL028](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL029](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL030](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-| **Heloisa Silva**    | [#EL031](../pos-rastreabilidade/unitarios/heloisa/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL032](../pos-rastreabilidade/unitarios/heloisa/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL033](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL034](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL035](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-|                      | [#EL036](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        | |
-=======
 | **Participantes**    | **Página Específica**                                 | **Descrição**    |
 |----------------------|-------------------------------------------------------|------------------|
 | **Antonio Carvalho** | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | **EL001**: #RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos)        |
@@ -141,7 +101,6 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 |                      | [#EL034](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL035](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL036](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
->>>>>>> 149929eeab209298507059ffd7108ff057106928
 
 ---
 
