@@ -66,6 +66,18 @@ A construção da matriz seguiu um processo em quatro etapas, conforme o **model
 
 O uso de planilhas e ferramentas de controle de versão complementa o processo, garantindo rastreabilidade entre requisitos e código-fonte, além de facilitar auditorias e revisões internas.
 
+
+<font><p style="text-align: center">- Estrutura do cartão utilizado para elaboração dos elos.</p></font>
+
+| Requisito Analisado | Classificação do Artefato Analisado |
+|---------------------|--------------------------------------|
+| **Tipo de Elo**     | **Artefato Relacionado**             |
+| Satisfação          |                 -                     |
+| Recurso             |                  -                    |
+| Representação       |                   -                   |
+| Alocado             |                    -                  |
+| Agregação           |                    -                  |
+
 ---
 
 ## Artefatos Unitários
@@ -144,6 +156,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 27/10/2025 | Criação da página de matriz de rastreabilidade | Mateus Santos Negrini | Antonio Carvalho |
-| 1.0 | 27/10/2025 | Edição da página com referências e estruturação | Antonio Carvalho | — |
+| 1.1 | 27/10/2025 | Edição da página com referências e estruturação | Antonio Carvalho | Heloisa |
+| 1.2 | 27/10/2025 | Adição do modelo de cartão | Heloisa | — |
 
 ---

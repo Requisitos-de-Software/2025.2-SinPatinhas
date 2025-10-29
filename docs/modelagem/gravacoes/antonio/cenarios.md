@@ -19,7 +19,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 ---
 
-<a id="crn003"></a>
+<a id="cnr003"></a>
 
 ## Cenário 03 — Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
@@ -69,7 +69,7 @@ Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem 
 
 ---
 
-<a id="crn004"></a>
+<a id="cnr004"></a>
 
 ## Cenário 04 — Notificação Periódica para Atualização de Dados e Fotos do Animal ([RFNI021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021))
 
