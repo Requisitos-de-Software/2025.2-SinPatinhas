@@ -113,6 +113,122 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 
 ---
 
+## Artefatos
+
+<a id="rf017"></a>
+
+### **EL001**: #RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos)
+
+<font><p style="text-align: center">**Tabela 1** - Elos para o requisito #RF017.</p></font>
+
+|                  **RF017**              | **Classificação do Artefato Analisado** |
+| ---------------------------------------------------- | --------------------------------------- |
+|                     Tipos de Elo                     |       Artefatos Relacionados            |
+|                      Satisfação                      | [ES001](../../../modelagem/gravacoes/antonio/especificacao.md) |
+|                       Recurso                        | - |
+|                    Representação                     | - |
+|                       Alocado                        | - |
+|                      Agregação                       | [#HU003 – Cadastro e Gerenciamento de Perfis Ampliados](#hu003) |
+
+**Autor**: Antonio Carvalho
+
+---
+
+<a id="rf018"></a>
+
+### **EL002**: #RF018 - Envio de notificações/campanhas e publicação de materiais educativos
+
+<font><p style="text-align: center">**Tabela 2** - Elos para o requisito #RF018.</p></font>
+
+|                  **RF018**              | **Classificação do Artefato Analisado** |
+| ---------------------------------------------------- | --------------------------------------- |
+|                     Tipos de Elo                     |       Artefatos Relacionados            |
+|                      Satisfação                      | [ES002](../../../modelagem/gravacoes/antonio/especificacao.md) |
+|                       Recurso                        | - |
+|                    Representação                     | - |
+|                       Alocado                        | - |
+|                      Agregação                       | [#HU004 – Publicação de Campanhas e Materiais Educativos](#hu004) |
+
+**Autor**: Antonio Carvalho
+
+---
+
+<a id="rfni005"></a>
+
+### **EL003**: #RFNI005 - Informações sobre horários de funcionamento de clínicas/hospitais
+
+<font><p style="text-align: center">**Tabela 3** - Elos para o requisito #RFNI005.</p></font>
+
+|                  **RFNI005**              | **Classificação do Artefato Analisado** |
+| ---------------------------------------------------- | --------------------------------------- |
+|                     Tipos de Elo                     |       Artefatos Relacionados            |
+|                      Satisfação                      |[ES002](../../../modelagem/gravacoes/antonio/especificacao.md)  |
+|                       Recurso                        | - |
+|                    Representação                     | - |
+|                       Alocado                        | - |
+|                      Agregação                       | [#HU005 – Exibição de Horários de Clínicas Parceiras](#hu005) |
+
+**Autor**: Antonio Carvalho
+
+---
+
+<a id="rnf014"></a>
+
+### **EL004**: #RNF014 - Integração com clínicas, ONGs e pet shops
+
+<font><p style="text-align: center">**Tabela 4** - Elos para o requisito #RNF014.</p></font>
+
+|                  **RNF014**              | **Classificação do Artefato Analisado** |
+| ---------------------------------------------------- | --------------------------------------- |
+|                     Tipos de Elo                     |       Artefatos Relacionados            |
+|                      Satisfação                      |[ES002](../../../modelagem/gravacoes/antonio/especificacao.md)  |
+|                       Recurso                        | - |
+|                    Representação                     | - |
+|                       Alocado                        | - |
+|                      Agregação                       | [#HU006 – Integração Direta com Parceiros](#hu006) |
+
+**Autor**: Antonio Carvalho
+
+---
+
+<a id="rfni016"></a>
+
+### **EL005**: #RFNI016 - Sistema de adoção de animais (facilitar a adoção de animais)
+
+<font><p style="text-align: center">**Tabela 5** - Elos para o requisito #RFNI016.</p></font>
+
+|                  **RFNI016**              | **Classificação do Artefato Analisado** |
+| ---------------------------------------------------- | --------------------------------------- |
+|                     Tipos de Elo                     |       Artefatos Relacionados            |
+|                      Satisfação                      | [ES001](../../../modelagem/gravacoes/antonio/especificacao.md) |
+|                       Recurso                        | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md) |
+|                    Representação                     | - |
+|                       Alocado                        | - |
+|                      Agregação                       | [#HU007 – Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica](#hu007) |
+
+**Autor**: Antonio Carvalho
+
+---
+
+<a id="rfni018"></a>
+
+### **EL006**: #RFNI018 - Integração direta com parceiros (clínicas, ONGs, pet shops)
+
+<font><p style="text-align: center">**Tabela 6** - Elos para o requisito #RFNI018.</p></font>
+
+|                  **RFNI018**              | **Classificação do Artefato Analisado** |
+| ---------------------------------------------------- | --------------------------------------- |
+|                     Tipos de Elo                     |       Artefatos Relacionados            |
+|                      Satisfação                      | [ES003](../../../modelagem/gravacoes/antonio/especificacao.md) |
+|                       Recurso                        | - |
+|                    Representação                     | - |
+|                       Alocado                        | - |
+|                      Agregação                       | [#HU008 – Sincronização de Dados entre ONGs e Clínicas](../../../modelagem/gravacoes/antonio/historias.md) |
+
+**Autor**: Antonio Carvalho
+
+---
+
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
