@@ -9,7 +9,7 @@
 |                  **RF017**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      |  |
+|                      Satisfação                      | [ES001](../modelagem/gravacoes/antonio/especificacao.md) |
 |                       Recurso                        | - |
 |                    Representação                     | - |
 |                       Alocado                        | - |
@@ -26,7 +26,7 @@
 |                  **RF018**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      |  |
+|                      Satisfação                      | [ES002](../modelagem/gravacoes/antonio/especificacao.md) |
 |                       Recurso                        | - |
 |                    Representação                     | - |
 |                       Alocado                        | - |
@@ -43,7 +43,7 @@
 |                  **RFNI005**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      |  |
+|                      Satisfação                      |[ES002](../modelagem/gravacoes/antonio/especificacao.md)  |
 |                       Recurso                        | - |
 |                    Representação                     | - |
 |                       Alocado                        | - |
@@ -60,7 +60,7 @@
 |                  **RNF014**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      |  |
+|                      Satisfação                      |[ES002](../modelagem/gravacoes/antonio/especificacao.md)  |
 |                       Recurso                        | - |
 |                    Representação                     | - |
 |                       Alocado                        | - |
@@ -77,11 +77,11 @@
 |                  **RFNI016**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [#HU007 – Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica](#hu007) |
-|                       Recurso                        | - |
+|                      Satisfação                      | [ES001](../modelagem/gravacoes/antonio/especificacao.md) |
+|                       Recurso                        | [CNR003](../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
 |                       Alocado                        | - |
-|                      Agregação                       | - |
+|                      Agregação                       | [#HU007 – Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica](#hu007) |
 
 ---
 
@@ -94,11 +94,11 @@
 |                  **RFNI018**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [#HU008 – Sincronização de Dados entre ONGs e Clínicas](#hu008) |
+|                      Satisfação                      | [ES003](../modelagem/gravacoes/antonio/especificacao.md) |
 |                       Recurso                        | - |
 |                    Representação                     | - |
 |                       Alocado                        | - |
-|                      Agregação                       | - |
+|                      Agregação                       | [#HU008 – Sincronização de Dados entre ONGs e Clínicas](../modelagem/gravacoes/antonio/historias.md) |
 
 
 ## Agradecimentos
