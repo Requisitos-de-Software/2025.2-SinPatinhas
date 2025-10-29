@@ -41,18 +41,18 @@
 |<a id="rf027"></a>**RF027**| Registro da localização do animal ou tutor. | [RF027](metodologias/tec_elicitacao.md#rf027) |
 |<a id="rf028"></a>**RF028**| Permitir busca e recuperação de animais perdidos ou abandonados. | [RF028](metodologias/tec_elicitacao.md#rf028) |
 |<a id="rf029"></a>**RF029**| Prontuário digital centralizando histórico de saúde e vacinação. | [RF029](metodologias/tec_elicitacao.md#rf029) |
-|<a id="rf030"></a>**RF030**| Notificações automáticas para vacinas e lembretes de medicação. | [RF031](metodologias/tec_elicitacao.md#rf031) |
-|<a id="rf031"></a>**RF031**| Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie, endereço do tutor). | [RF032](metodologias/tec_elicitacao.md#rf032) |
-|<a id="rf032"></a>**RF032**| Área de instruções integradas (manual digital). | [RF033](metodologias/tec_elicitacao.md#rf033) |
-|<a id="rf033"></a>**RF033**| Upload de foto do animal. | [RF034](metodologias/tec_elicitacao.md#rf034) |
-|<a id="rf034"></a>**RF034**| Cadastro/atualização de endereço do tutor. | [RF035](metodologias/tec_elicitacao.md#rf035) |
-|<a id="rf035"></a>**RF035**| Módulo para registro/visualização de exames do animal. | [RF036](metodologias/tec_elicitacao.md#rf036) |
-|<a id="rf036"></a>**RF036**| Acesso via celular para consulta fora da clínica. | [RF037](metodologias/tec_elicitacao.md#rf037) |
-|<a id="rf037"></a>**RF037**| Acesso remoto aos dados do animal. | [RF038](metodologias/tec_elicitacao.md#rf038) |
-|<a id="rf038"></a>**RF038**| Cadastro de ONGs/associações para controle de animais resgatados/adotados. | [RF040](metodologias/tec_elicitacao.md#rf040) |
-|<a id="rf039"></a>**RF039**| Rastreamento de doações/adoções. | [RF041](metodologias/tec_elicitacao.md#rf041) |
-|<a id="rf040"></a>**RF040**| Transferência de tutor preservando histórico. | [RF009](metodologias/tec_elicitacao.md#rf009) e [RF042](metodologias/tec_elicitacao.md#rf042) |
-|<a id="rf041"></a>**RF041**| Integração entre clínicas veterinárias permitindo visualização do prontuário. | [RF039](metodologias/tec_elicitacao.md#rf039) |
+|<a id="rf030"></a>**RF030**| Funcionalidade para facilitar a adoção de animais. | [RF030](metodologias/tec_elicitacao.md#rf030) |
+|<a id="rf031"></a>**RF031**| Notificações automáticas para vacinas e lembretes de medicação. | [RF031](metodologias/tec_elicitacao.md#rf031) |
+|<a id="rf032"></a>**RF032**| Registro de informações detalhadas do animal (nome, idade, tipo sanguíneo, peso, altura, raça, espécie e endereço do tutor). | [RF032](metodologias/tec_elicitacao.md#rf032) |
+|<a id="rf033"></a>**RF033**| Área de instruções integradas (manual digital). | [RF033](metodologias/tec_elicitacao.md#rf033) |
+|<a id="rf034"></a>**RF034**| Upload de foto do animal. | [RF034](metodologias/tec_elicitacao.md#rf034) |
+|<a id="rf035"></a>**RF035**| Cadastro/atualização de endereço do tutor. | [RF035](metodologias/tec_elicitacao.md#rf035) |
+|<a id="rf036"></a>**RF036**| Módulo para registro/visualização de exames do animal. | [RF036](metodologias/tec_elicitacao.md#rf036) |
+|<a id="rf037"></a>**RF037**| Acesso via celular para consulta fora da clínica. | [RF037](metodologias/tec_elicitacao.md#rf037) |
+|<a id="rf038"></a>**RF038**| Acesso remoto aos dados do animal. | [RF038](metodologias/tec_elicitacao.md#rf038) |
+|<a id="rf039"></a>**RF039**| Integração entre clínicas veterinárias, permitindo visualização do prontuário por outros veterinários. | [RF039](metodologias/tec_elicitacao.md#rf039) |
+|<a id="rf040"></a>**RF040**| Cadastro de ONGs e associações para controle de animais resgatados e adotados. | [RF040](metodologias/tec_elicitacao.md#rf040) |
+|<a id="rf041"></a>**RF041**| Rastreamento de doações e adoções, registrando doadores, adotantes e datas. | [RF041](metodologias/tec_elicitacao.md#rf041) |
 
 
 ### Requisitos Funcionais Não Implementados
