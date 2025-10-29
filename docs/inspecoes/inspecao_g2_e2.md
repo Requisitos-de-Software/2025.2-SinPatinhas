@@ -19,4 +19,4 @@ A 2ª inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizad
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 01/10/2025 | Criação da página da inspeção grupo +1   | Heloisa  | -         |
+| 1.0    | 01/10/2025 | Criação da página da inspeção grupo +1   | Heloisa  | Letícia     |

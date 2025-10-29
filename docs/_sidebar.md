@@ -136,10 +136,10 @@ details a:hover {
 <details>
   <summary><strong>Pós-Rastreabilidade</strong></summary>
 
-  - [Forward-From](pos-rastreabilidade/foward_from.md)
-  - [Backward-From](pos-rastreabilidade/backward_from.md)
-  - [Matriz Geral](pos-rastreabilidade/matriz_geral.md)
-  - [Elos](pos-rastreabilidade/elos.md)
+  - [Forward-From](/pos-rastreabilidade/foward_from.md)
+  - [Backward-From](/pos-rastreabilidade/backward_from.md)
+  - [Matriz Geral](/pos-rastreabilidade/matriz_geral.md)
+  - [Elos](/pos-rastreabilidade/elos.md)
 </details>
 
 <details>
