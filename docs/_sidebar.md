@@ -134,17 +134,17 @@ details a:hover {
 </details>
 
 <details>
+  <summary><strong>Pós-Rastreabilidade</strong></summary>
+
+  - [Forward-From](pos-rastreabilidade/foward_from.md)
+  - [Backward-From](pos-rastreabilidade/backward_from.md)
+  - [Matriz Geral](pos-rastreabilidade/matriz_geral.md)
+  - [Elos](pos-rastreabilidade/elos.md)
+</details>
+
+<details>
   <summary><strong>Análise</strong></summary>
 
   - [Verificação](analise/verif_principal.md)
   - [Validação](analise/valid_principal.md)
-</details>
-
-<details>
-  <summary><strong>Pós-Rastreabilidade</strong></summary>
-
-  - [Forward-From](/rastreabilidade/forward-from.md)
-  - [Backward-From](/rastreabilidade/backward-from.md)
-  - [Matriz Geral](/rastreabilidade/matriz-geral.md)
-  - [Toranzo](/rastreabilidade/pos-rastreabilidade.md)
 </details>
