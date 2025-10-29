@@ -58,24 +58,24 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 
 | ID | Descrição | UC | HU | CNFR | ES | CNR | LX | EL |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| [RF001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001) | Cadastro de tutores com dados pessoais. |  |  |  |  |  | 
-| [RF002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002) | Cadastro de animais vinculados ao tutor. |  |  |  |  |  |  
+| [RF001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001) | Cadastro de tutores com dados pessoais. |  |  |  |  |  |  [LX001](../modelagem/gravacoes/antonio/lexicos.md#lx001), [LX006](../../../modelagem/gravacoes/antonio/lexicos.md#lx006), [LX007](../../../modelagem/gravacoes/antonio/lexicos.md#lx007) |
+| [RF002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002) | Cadastro de animais vinculados ao tutor. |  |  |  |  |  |  [LX001](../modelagem/gravacoes/antonio/lexicos.md#lx001), [LX006](../../../modelagem/gravacoes/antonio/lexicos.md#lx006), [LX007](../../../modelagem/gravacoes/antonio/lexicos.md#lx007) |
 | [RF003](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf003) | Geração de número de Registro Geral do Animal (RGA). |  |  |  |  |  |  
-| [RF004](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf004) | Associação de microchip ao cadastro. |  |  |  |  |  |  
+| [RF004](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf004) | Associação de microchip ao cadastro. |  |  |  |  |  | [LX002](../../../modelagem/gravacoes/antonio/lexicos.md#lx002) | |
 | [RF005](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf005) | Emissão de documento oficial de identificação (RG Pet). |  |  |  |  |  |  
-| [RF006](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | Consulta pública via RGA ou microchip. |  |  |  |  |  |  
-| [RF007](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007) | Atualização do status do animal (perdido, encontrado, óbito, transferência). |  |  |  |  |  |  
-| [RF008](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf008) | Registro do histórico de saúde por veterinários. |  |  |  |  |  |  
-| [RF009](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009) | Transferência de titularidade do animal. |  |  |  |  |  |  
+| [RF006](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | Consulta pública via RGA ou microchip. |  |  |  |  [ES002](../modelagem/gravacoes/antonio/especificacao.md) |  |[LX002](../../../modelagem/gravacoes/antonio/lexicos.md#lx002), [LX006](../../../modelagem/gravacoes/antonio/lexicos.md#lx006)   | |
+| [RF007](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007) | Atualização do status do animal (perdido, encontrado, óbito, transferência). |  |  |  |  |  | [LX005](../../../modelagem/gravacoes/antonio/lexicos.md#lx005) | 
+| [RF008](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf008) | Registro do histórico de saúde por veterinários. |  |  |  |  |  |[LX004](../../../modelagem/gravacoes/antonio/lexicos.md#lx004), [LX007](../../../modelagem/gravacoes/antonio/lexicos.md#lx007)  |
+| [RF009](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009) | Transferência de titularidade do animal. |  |  |  |  |  |  [LX003](../../../modelagem/gravacoes/antonio/lexicos.md#lx003), [LX005](../../../modelagem/gravacoes/antonio/lexicos.md#lx005), [LX007](../../../modelagem/gravacoes/antonio/lexicos.md#lx007) |
 | [RF010](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf010) | Perfis de acesso distintos (Tutor e Veterinário). |  |  |  |  |  |  
 | [RF011](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf011) | Relatórios e estatísticas para órgãos públicos. |  |  |  |  |  |  
-| [RF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012) | Permitir login integrado via Gov.br para tutores e profissionais. |  |  |  |  |  |  
-| [RF013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013) | Preenchimento automático de dados pessoais do tutor via Gov.br. |  |  |  |  |  |  |
-| [RF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014) | Emissão de carteirinha digital com QR Code. |  |  |  |  |  |  
+| [RF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012) | Permitir login integrado via Gov.br para tutores e profissionais. |  |  |  | [ES001](../modelagem/gravacoes/antonio/especificacao.md) |  |  
+| [RF013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013) | Preenchimento automático de dados pessoais do tutor via Gov.br. |  |  |  | [ES001](../modelagem/gravacoes/antonio/especificacao.md) |  |  |
+| [RF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014) | Emissão de carteirinha digital com QR Code. |  |  |  |  |  |  [LX004](../../../modelagem/gravacoes/antonio/lexicos.md#lx004) |
 | [RF015](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf015) | Registro opcional do número de microchip e exibição na carteirinha digital. |  |  |  |  |  |  
-| [RF016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016) | Registro oficial de procedimentos veterinários (castração, vacinas, microchipagem). |  |  |  |  |  |  
+| [RF016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016) | Registro oficial de procedimentos veterinários (castração, vacinas, microchipagem). |  |  |  |  |  | [LX004](../../../modelagem/gravacoes/antonio/lexicos.md#lx004), [LX007](../../../modelagem/gravacoes/antonio/lexicos.md#lx007) | 
 | [RF017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017) | Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos). |  | [HU003](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  
-| [RF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) | Envio de notificações/campanhas e publicação de materiais educativos. |  | [HU004](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  
+| [RF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) | Envio de notificações/campanhas e publicação de materiais educativos. |  | [HU004](../modelagem/gravacoes/antonio/historias.md) |  |  |  | [LX005](../../../modelagem/gravacoes/antonio/lexicos.md#lx005) |  
 | [RF019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf019) | Integração com políticas públicas e relatórios para programas sociais. |  |  |  |  |  |  
 | [RF020](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf020) | Garantir acesso nacional via internet, com escalabilidade. |  |  |  |  |  |  
 | [RF021](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf021) | Cadastro de perfil do animal. |  |  |  |  |  |  
@@ -123,7 +123,7 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | [RFNI013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni019) | Envio de comentários/feedbacks sobre médicos veterinários. |  |  |  |  |  |  
 | [RFNI014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni020) | Indicador visual da média de avaliações no perfil de clínicas/hospitais. |  | [HU006](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  |
 | [RFNI015](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni015) | Indicador visual da média de avaliações no perfil de médicos veterinários. | - | [HU021](../../modelagem/gravacoes/mateus/historias.md) |  | - | - | - | [] |
-| [RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030) | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais). | [UC001](../modelagem/gravacoes/antonio/caso_de_uso.md) | [HU007](../modelagem/gravacoes/antonio/historias.md) |  |  | [CNR004](../modelagem/gravacoes/antonio/cenarios.md#cn004) |  |  |
+| [RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030) | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais). | [UC001](../modelagem/gravacoes/antonio/caso_de_uso.md) | [HU007](../modelagem/gravacoes/antonio/historias.md) |  |  | [CNR003](../modelagem/gravacoes/antonio/cenarios.md#cn003) |  |  |
 | [RFNI017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf031) | Alertas e notificações automáticas para vacinas e lembretes de medicação. | - | - | - | - | - | - | [] |
 | [RFNI018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) | Integração direta com parceiros (clínicas, ONGs, pet shops). |  | [HU008](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  |
 | [RFNI019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Área de instruções integradas (manual digital). | [UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | [HU019](../../modelagem/gravacoes/mateus/historias.md) | - | - | [CEN07](/modelagem/gravacoes/mateus/cenarios.md) | - | [] |
@@ -151,32 +151,32 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 
 | ID | Descrição | UC | HU | CNFR | ES | CNR | LX | EL |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| [RNF001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | Segurança: Conformidade com a LGPD. | | | | | | | 
-| [RNF002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) | Disponibilidade: 99,8% de uptime (24/7). | | | | | | | 
-| [RNF003](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | Usabilidade: interface intuitiva para cidadãos. | | | | | | | 
+| [RNF001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | Segurança: Conformidade com a LGPD. | | | | [ES001](../modelagem/gravacoes/antonio/especificacao.md), [ES002](../modelagem/gravacoes/antonio/especificacao.md) | | | 
+| [RNF002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) | Disponibilidade: 99,8% de uptime (24/7). | | | | [ES001](../modelagem/gravacoes/antonio/especificacao.md), [ES002](../modelagem/gravacoes/antonio/especificacao.md) | | | 
+| [RNF003](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | Usabilidade: interface intuitiva para cidadãos. | | | | [ES001](../modelagem/gravacoes/antonio/especificacao.md), [ES002](../modelagem/gravacoes/antonio/especificacao.md) | | | 
 | [RNF004](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf013) | Desempenho: resposta em consultas públicas < 2s. | | | | | | | 
-| [RNF005](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) | Compatibilidade: suporte a navegadores principais e responsividade mobile. | | | | | | | 
+| [RNF005](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) | Compatibilidade: suporte a navegadores principais e responsividade mobile. | | | | [ES001](../modelagem/gravacoes/antonio/especificacao.md) | | | 
 | [RNF006](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf007) | Integração: APIs para integração futura com clínicas e órgãos públicos. | | | | | | | 
 | [RNF007](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | Acessibilidade: Sistema fácil e intuitivo. | | | | | | | 
 | [RNF008](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) | Usabilidade: Design de interface limpo e organizado. | | | | | | | 
-| [RNF009](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) | Confiabilidade: garantia contra perda de dados. | | | | | | | 
+| [RNF009](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) | Confiabilidade: garantia contra perda de dados. | | | | [ES002](../modelagem/gravacoes/antonio/especificacao.md)| | | 
 | [RNF010](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) | Acessibilidade: acesso via web e mobile. | | | | | | | 
 | [RNF011](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf005) | Funcionalidades offline. | | | | | | | 
-| [RNF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | Usabilidade: sistema claro e fácil de entender. | | | | | | | 
+| [RNF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | Usabilidade: sistema claro e fácil de entender. | | |[CNFR01](../modelagem/gravacoes/antonio/nfr_frame.md) | | | | 
 | [RNF013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf006) | Compatibilidade/acessibilidade: multiplataforma, prioridade mobile. | | | | | | | 
-| [RNF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf007) | Integração com clínicas, ONGs e pet shops. | | | | | | | 
+| [RNF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf007) | Integração com clínicas, ONGs e pet shops. | | | [CNFR01](../modelagem/gravacoes/antonio/nfr_frame.md)| | | | 
 | [RNF015](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf008) | Usabilidade: substituir documentos/agendas físicas. | | | | | | | 
 | [RNF016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | Usabilidade para profissionais com pouca afinidade tecnológica. | | | | | | | 
-| [RNF017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf017) | Segurança: alertas de acesso não autorizado. | | | | | | | 
+| [RNF017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf017) | Segurança: alertas de acesso não autorizado. | | |[CNFR01](../modelagem/gravacoes/antonio/nfr_frame.md) | | | |  |
 | [RNF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf018) | Confiabilidade: cópias de segurança automáticas. | | | | | | | 
 | [RNF019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf019) | Segurança: Integração entre clínicas, ONGs e Sinpatinhas. | | | | | | | 
 | [RNF020](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf020) | Acessibilidade: compatibilidade entre dispositivos móveis e desktops. | | | | | | | 
 | [RNF021](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) | Desempenho: respostas rápidas (até 2 segundos). | - | - | [CNFR07](../../modelagem/gravacoes/mateus/nfr_frame_1.md) | [ES007](/modelagem/gravacoes/mateus/especificacao.md) | - | - | [] |
 | [RNF022](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf022) | Disponibilidade: acesso remoto contínuo. | | | | | | | 
 | [RNF023](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023) | Privacidade: restrição de acesso a dados clínicos e pessoais sensíveis. | - | - | [CNFR08](../../modelagem/gravacoes/mateus/nfr_frame_2.md) | [ES008](/modelagem/gravacoes/mateus/especificacao.md) | - | - | [] |
-| [RNF024](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | Auditabilidade: logs de acesso e registro de modificações. | | | | | | | 
+| [RNF024](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | Auditabilidade: logs de acesso e registro de modificações. | | | [CNFR01](../modelagem/gravacoes/antonio/nfr_frame.md) | | | | 
 
-**Autor: Antonio Carvalho**
+**Autor:** Antonio Carvalho
 
 ---
 
