@@ -72,11 +72,11 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 | Requisito Analisado | Classificação do Artefato Analisado |
 |---------------------|--------------------------------------|
 | **Tipo de Elo**     | **Artefato Relacionado**             |
-| Satisfação          |                                      |
-| Recurso             |                                      |
-| Representação       |                                      |
-| Alocado             |                                      |
-| Agregação           |                                      |
+| Satisfação          |                 -                     |
+| Recurso             |                  -                    |
+| Representação       |                   -                   |
+| Alocado             |                    -                  |
+| Agregação           |                    -                  |
 
 ---
 
@@ -156,6 +156,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 27/10/2025 | Criação da página de matriz de rastreabilidade | Mateus Santos Negrini | Antonio Carvalho |
-| 1.0 | 27/10/2025 | Edição da página com referências e estruturação | Antonio Carvalho | — |
+| 1.1 | 27/10/2025 | Edição da página com referências e estruturação | Antonio Carvalho | Heloisa |
+| 1.2 | 27/10/2025 | Adição do modelo de cartão | Heloisa | — |
 
 ---
