@@ -2,28 +2,9 @@
 
 ## Introdução
 
-A **rastreabilidade de requisitos é uma prática essencial no gerenciamento de projetos de software**, permitindo o acompanhamento do ciclo de vida de cada requisito — desde sua origem até a implementação e validação.  
+Este artefato tem como objetivo **demonstrar a ligação entre os requisitos levantados para o sistema SinPatinhas e as funcionalidades que foram implementadas na aplicação**. 
 
-No contexto do **Projeto SinPatinhas**, a matriz de rastreabilidade foi elaborada com o propósito de garantir que todos os requisitos definidos sejam devidamente atendidos, testados e validados, assegurando a consistência e a qualidade do produto final.  
-
-De acordo com Sayão e Leite <a id="anchor_1" href="#REF1">[1]</a>, a rastreabilidade auxilia tanto em aspectos técnicos quanto gerenciais, oferecendo suporte à análise de impacto, controle de mudanças, validação e verificação de requisitos.
-
----
-
-## Conceito e Classificação da Rastreabilidade
-
-A rastreabilidade é definida como a **capacidade de estabelecer e seguir o vínculo entre os requisitos e seus artefatos associados**, como documentos, modelos, código e casos de teste.  
-
-Ela permite compreender as relações de dependência entre os elementos do sistema, garantindo que modificações sejam devidamente propagadas.  
-
-Segundo Sayão e Leite <a id="anchor_1" href="#REF1">[1]</a>, a rastreabilidade se divide em duas grandes categorias:
-
-- **Pré-rastreabilidade**: documenta o contexto e as fontes das quais os requisitos emergem (como atas, entrevistas, normas).  
-- **Pós-rastreabilidade**: vincula os requisitos à arquitetura, código e casos de teste, permitindo a verificação de sua implementação.  
-
-Essas relações podem ser classificadas ainda como:
-- **Forward-to / Backward-from** (antes da implementação): ligação entre fontes e requisitos.  
-- **Forward-from / Backward-to** (depois da implementação): ligação entre requisitos e artefatos de projeto, código e testes.  
+Além disso, ele **evidencia como cada requisito serviu de base para a criação dos artefatos desenvolvidos ao longo do projeto, como diagramas, protótipos e documentos de validação**. A matriz de rastreabilidade apresenta essas conexões, permitindo visualizar de forma clara a relação entre os requisitos, suas implementações e os demais componentes do sistema.
 
 ---
 
@@ -84,12 +65,12 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 
 | **Participantes**    | **Página Específica**                                 | **Descrição**    |
 |----------------------|-------------------------------------------------------|------------------|
-| **Antonio Carvalho** | [#EL001](../pos-rastreabilidade/unitarios/antonio/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL002](../pos-rastreabilidade/unitarios/antonio/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL003](../pos-rastreabilidade/unitarios/antonio/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL004](../pos-rastreabilidade/unitarios/antonio/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL005](../pos-rastreabilidade/unitarios/antonio/matriz_geral.md) | DESCRICAO        |
-|                      | [#EL006](../pos-rastreabilidade/unitarios/antonio/matriz_geral.md) | DESCRICAO        |
+| **Antonio Carvalho** | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
+|                      | [#EL002](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
+|                      | [#EL003](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
+|                      | [#EL004](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
+|                      | [#EL005](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
+|                      | [#EL006](../pos-rastreabilidade/unitarios/antonio/elos.md) | DESCRICAO        |
 | **Leticia**          | [#EL007](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL008](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
 |                      | [#EL009](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
@@ -155,8 +136,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 27/10/2025 | Criação da página de matriz de rastreabilidade | Mateus Santos Negrini | Antonio Carvalho |
-| 1.1 | 27/10/2025 | Edição da página com referências e estruturação | Antonio Carvalho | Heloisa |
-| 1.2 | 27/10/2025 | Adição do modelo de cartão | Heloisa | — |
+| 1.0 | 28/10/2025 | Criação da página de elo | Antonio Carvalho |  |
+| 1.1 | 28/10/2025 | Adição do modelo de cartão | Heloisa |  |
 
 ---

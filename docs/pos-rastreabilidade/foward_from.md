@@ -180,6 +180,13 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 
 ---
 
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
+A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite (2005)** e **Toranzo (2002)**.
+ 
+---
+
 ## Referências Bibliográficas
 
 <a id="REF1"></a>
