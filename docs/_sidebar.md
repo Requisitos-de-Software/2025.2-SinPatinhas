@@ -79,7 +79,8 @@ details a:hover {
   - [Inspeção do Grupo 02 - Entrega 2](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
   - [Inspeção do Grupo 02 - Entrega 4](/inspecoes/inspecao_g2_e4.md)
-  
+  - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
+
 </details>
 <details>
   <summary><strong>Pré-rastreabilidade</strong></summary>
