@@ -110,7 +110,7 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 
 | ID | Descrição | UC | HU | CNFR | ES | CNR | LX | EL |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| [RFNI001](../../../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni007) | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. |  |  |  |  |  |  
+| [RFNI001](../../../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados. | - | [HU005](../modelagem/gravacoes/leticia/historias.md) | - | - | - | - | [EL011](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) |  
 | [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni008) | Implementar filtro por distância para localizar clínicas próximas. |  |  |  |  |  |  
 | [RFNI003](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni009) | Listagem de tratamentos e serviços oferecidos por clínicas/hospitais. |  |  |  |  |  |  
 | [RFNI004](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni010) | Filtro por especialidade veterinária. |  |  |  |  |  |  
@@ -126,7 +126,7 @@ Os links nas colunas **ID** direcionam para os requisitos originais.
 | [RFNI014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni020) | Indicador visual da média de avaliações no perfil de clínicas/hospitais. |  | [HU006](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  |
 | [RFNI015](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni015) | Indicador visual da média de avaliações no perfil de médicos veterinários. | - | [HU021](../../modelagem/gravacoes/mateus/historias.md) |  | - | - | - | [] |
 | [RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030) | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais). | [UC001](../modelagem/gravacoes/antonio/caso_de_uso.md) | [HU007](../modelagem/gravacoes/antonio/historias.md) |  |  | [CNR003](../modelagem/gravacoes/antonio/cenarios.md#cn003) |  |  |
-| [RFNI017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf031) | Alertas e notificações automáticas para vacinas e lembretes de medicação. | - | - | - | - | - | - | [] |
+| [RFNI017](../../../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017) | Alertas e notificações automáticas para vacinas e lembretes de medicação. | - | [HU002](../modelagem/gravacoes/leticia/historias.md) | - | - | - | - | [EL008](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) |
 | [RFNI018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) | Integração direta com parceiros (clínicas, ONGs, pet shops). |  | [HU008](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  |
 | [RFNI019](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Área de instruções integradas (manual digital). | [UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | [HU019](../../modelagem/gravacoes/mateus/historias.md) | - | - | [CEN07](/modelagem/gravacoes/mateus/cenarios.md) | - | [EL022](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md) |
 | [RFNI020](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf043) | Emissão de alertas de acesso suspeito ou tentativas de violação. | - | [HU023](../../modelagem/gravacoes/mateus/historias.md) | - | - | - | - | [EL023](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md) |
