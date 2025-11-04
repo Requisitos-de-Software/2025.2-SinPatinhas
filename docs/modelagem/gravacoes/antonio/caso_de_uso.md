@@ -21,7 +21,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 <a id="uc001"></a>
 
-## UC001 – Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
+## #UC001 – Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
@@ -76,7 +76,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 <a id="uc013"></a>
 
-## UC013 – Acesso via Web e Mobile ([RNFNI001](#rnfni001))
+## #UC013 – Acesso via Web e Mobile ([RNFNI001](#rnfni001))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
@@ -103,7 +103,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 <a id="uc014"></a>
 
-## UC014 – Funcionalidades Offline ([RNFNI002](#rnfni002))
+## #UC014 – Funcionalidades Offline ([RNFNI002](#rnfni002))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
@@ -130,7 +130,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 <a id="uc015"></a>
 
-## UC015 – Integração Direta com Parceiros ([RNFNI003](#rnfni003))
+## #UC015 – Integração Direta com Parceiros ([RNFNI003](#rnfni003))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
@@ -167,6 +167,13 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 |-----------|----------------------|-------------|
 | Antonio Carvalho | 100% | Autor desta página |
 
+
+---
+
+## Referências  
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos.* Brasília: Universidade de Brasília, 2025.  
+
 ---
 
 ## Tabela de Versionamento
@@ -175,9 +182,3 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 |-------------|-----------|----------------|--------------|----------------|
 | 1.0 | 11/10/2025 | Adição dos casos de uso referentes aos requisitos funcionais não implementados RFNI016 e RFNI021 | Antonio | - |
 | 1.1 | 04/11/2025 | Adição dos casos de uso referentes aos requisitos não funcionais não implementados RNFNI001, RNFNI002 e RNFNI003 | Antonio | - |
-
----
-
-## Referências  
-
-SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e Casos de Uso em Requisitos.* Brasília: Universidade de Brasília, 2025.  

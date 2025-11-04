@@ -279,6 +279,12 @@ A tabela a seguir apresenta os componentes utilizados.
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de casos de uso e criador dos artefatos UC001, UC002, UC013, UC014, UC015 |
  
+---
+
+## Referências
+
+Pressman, R. S. *Engenharia de Software: uma abordagem profissional*. 8ª Ed. AMGH, 2016.  
+Sommerville, I. *Engenharia de Software*. 10ª Ed. Pearson, 2019.
 
 ---
 
@@ -291,8 +297,3 @@ A tabela a seguir apresenta os componentes utilizados.
 | 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
 
 ---
-
-## Referências
-
-Pressman, R. S. *Engenharia de Software: uma abordagem profissional*. 8ª Ed. AMGH, 2016.  
-Sommerville, I. *Engenharia de Software*. 10ª Ed. Pearson, 2019.

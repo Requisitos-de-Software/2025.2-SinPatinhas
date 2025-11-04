@@ -17,6 +17,8 @@ No **projeto SinPatinhas**, o léxico foi construído com base no modelo do **L�
 - **Objeto:** define os elementos manipulados ou gerados pelo sistema, como **Animal**, **Carteirinha**, **Registro Geral do Animal (RGA)**.  
 - **Estado:** indica situações específicas do sistema, como **Animal Adotado**, **Animal Perdido** ou **Cadastro Pendente**.
 
+---
+
 ## Estrutura para Criação de um Léxico
 
 A criação de um léxico tem como objetivo **padronizar e esclarecer os termos utilizados no sistema**, garantindo um entendimento comum entre os participantes do projeto.  
@@ -36,6 +38,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX000-03   | [Termo 3]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
 | LX000-04   | [Termo 4]  | [Descrição do impacto ou efeito do termo no contexto do sistema]        | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
 | LX000-05   | [Termo 5]  | [Descrição literal do termo no sistema]                                 | [Categoria]   | [Sinônimos]        | [RF/UC/CEN]  |
+
+---
 
 ## Artefatos e Gravações Unitários
 
@@ -360,6 +364,10 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 ---
 
+## Referências
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.
+
 ## Tabela de Versionamento
 
 | Versão | Data       | Descrição                                 | Autores | Revisores |
@@ -368,9 +376,4 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 | 1.1 | 19/10/2025 | Refatoração da tabela de artefatos | Isaac | Antonio |
 | 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
 
-
 ---
-
-## Referências
-
-SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.

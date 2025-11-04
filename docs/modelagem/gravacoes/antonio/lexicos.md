@@ -221,14 +221,14 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 ---
 
+## Referências
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.
+
+---
+
 ## Tabela de Versionamento
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
 | 1.0 | 11/10/2025 | Página de **Léxicos** própria | Antonio | - |
-
----
-
-## Referências
-
-SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.* Brasília: Universidade de Brasília, 2025.
