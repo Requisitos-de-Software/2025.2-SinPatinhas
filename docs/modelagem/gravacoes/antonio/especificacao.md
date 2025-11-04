@@ -33,7 +33,7 @@ Foco em **intuitividade**, **clareza** e **eficiência da interface**.
 | **ID** | **Descrição** | **Rastreamento** |
 |:-------|:---------------|:-----------------|
 | [RNF003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) | A interface deve ser intuitiva para cidadãos, facilitando o uso por pessoas de diferentes níveis de afinidade tecnológica. | Análise Doc |
-| [RNF005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf005) | O sistema deve suportar os navegadores principais e ser responsivo em dispositivos móveis (prioridade no mobile). | Análise Doc |
+| [RNF13](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf13) | O sistema deve suportar os navegadores principais e ser responsivo em dispositivos móveis (prioridade no mobile). | Análise Doc |
 | [RNF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) (E1) | O sistema deve ser fácil e intuitivo de operar. | Entrevista 01 |
 | [RNF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) (E1) | O layout deve ser limpo e organizado. | Entrevista 01 |
 | [RF012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012) | O sistema deve permitir login integrado via Gov.br, possibilitando autenticação única e segura para tutores e profissionais. | Análise Doc |
@@ -41,7 +41,9 @@ Foco em **intuitividade**, **clareza** e **eficiência da interface**.
 
 ---
 
-## #ES002 - Segurança (S)
+<a id="es002"></a>
+
+## #ES002 - Confiabilidade (R)
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
@@ -58,7 +60,9 @@ A **Segurança** trata da proteção dos dados do sistema e prevenção de acess
 
 ---
 
-## #ES003 - Confiabilidade (R)
+<a id="es011"></a>
+
+## #ES011 - Confiabilidade (R)
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
@@ -74,6 +78,75 @@ A **Confiabilidade** garante que o sistema funcione de forma **estável e contí
 | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | O acesso à consulta pública via RGA ou microchip deve ser restrito, exibindo apenas dados não sensíveis do animal. | Análise Doc |
 
 ---
+
+<a id="es012"></a>
+
+## #ES012 - Performance (P) – Celeridade
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+Os requisitos de **Performance (Celeridade)** garantem que o sistema **SinPatinhas** opere de forma **rápida, responsiva e estável**, mesmo sob alto volume de acessos.  
+Tais requisitos asseguram **respostas em tempo hábil**, **otimização de consultas** e **eficiência no processamento**, fatores essenciais para a satisfação do usuário e confiabilidade do serviço.
+
+<p align="center"><b>Tabela 12 - Requisitos de Performance (Celeridade).</b></p>
+
+| **ID** | **Descrição** | **Rastreamento** |
+|:-------|:---------------|:-----------------|
+| [RNF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) | O sistema deve responder a consultas públicas em menos de 2 segundos. | Análise Doc |
+| [RNF021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) | O sistema deve garantir respostas rápidas (até 2s) em todas as interfaces. | Entrevista / Benchmark |
+| [RF020](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf020) | Garantir acesso nacional via internet com escalabilidade. | Análise Doc |
+| [RF037](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf037) | Acesso via celular para consulta fora da clínica, com resposta imediata. | Protótipo |
+| [RNF011](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf011) | O sistema deve possuir funcionalidades offline para garantir desempenho contínuo. | Entrevista |
+| [RNF022](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf022) | O sistema deve manter disponibilidade de 99,8% (uptime). | Análise Técnica |
+
+---
+
+<a id="es013"></a>
+
+## #ES013 - Supportability (S) – Apoio / Manutenibilidade
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+Os requisitos de **Supportability (Apoio e Manutenibilidade)** estabelecem práticas que permitem a **manutenção eficiente, evolução contínua e suporte técnico simplificado** do sistema **SinPatinhas**, assegurando sua longevidade e qualidade em operação.
+
+<p align="center"><b>Tabela 13 - Requisitos de Supportability (Apoio / Manutenibilidade).</b></p>
+
+| **ID** | **Descrição** | **Rastreamento** |
+|:-------|:---------------|:-----------------|
+| [RNF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf006) | O sistema deve possuir APIs abertas para integração com clínicas e órgãos públicos. | Análise Doc |
+| [RNF019](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf019) | O sistema deve garantir integração contínua entre clínicas, ONGs e SinPatinhas. | Entrevista / Doc |
+| [RNF024](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | O sistema deve registrar logs de acesso e modificações para auditoria. | Análise Doc |
+| [RF033](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Disponibilizar área de instruções integradas (manual digital) para suporte ao usuário. | Protótipo |
+| [RNF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) | O sistema deve manter documentação técnica atualizada e padronizada. | Engenharia de Software |
+| [RNF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf018) | Implementar cópias de segurança automáticas e testes regulares de restauração. | Análise Técnica |
+
+---
+
+<a id="es014"></a>
+
+## #ES014 - Funcionalidade (F)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+Os requisitos de **Funcionalidade (F)** definem o **conjunto de serviços, comportamentos e operações essenciais** que o sistema **SinPatinhas** deve realizar para cumprir seus objetivos.  
+Eles abrangem desde o **cadastro e gerenciamento de tutores e animais** até a **emissão de documentos oficiais e integração com plataformas externas**, assegurando o correto funcionamento do sistema em todos os níveis de uso.
+
+<p align="center"><b>Tabela 14 - Requisitos de Funcionalidade.</b></p>
+
+| **ID** | **Descrição** | **Rastreamento** |
+|:-------|:---------------|:-----------------|
+| [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001) | Cadastro de tutores com dados pessoais. | Entrevista / Análise Doc |
+| [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002) | Cadastro de animais vinculados ao tutor. | Entrevista / Análise Doc |
+| [RF003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf003) | Geração de número de Registro Geral do Animal (RGA). | Análise Doc |
+| [RF005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf005) | Emissão de documento oficial de identificação (RG Pet). | Análise Doc |
+| [RF007](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007) | Atualização do status do animal (perdido, encontrado, óbito, transferência). | Entrevista / Protótipo |
+| [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009) | Transferência de titularidade do animal. | Entrevista |
+| [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) | Envio de notificações/campanhas e publicação de materiais educativos. | Entrevista |
+| [RF020](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf020) | Garantir acesso nacional via internet, com escalabilidade. | Análise Doc |
+| [RF028](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf028) | Permitir busca e recuperação de animais perdidos ou abandonados. | Entrevista |
+| [RF029](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf029) | Prontuário digital centralizando histórico de saúde e vacinação. | Entrevista / Análise Doc |
+| [RF039](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf039) | Integração entre clínicas veterinárias, permitindo visualização do prontuário. | Análise Doc |
+| [RF041](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf041) | Rastreamento de doações e adoções, registrando doadores, adotantes e datas. | Análise Doc |
 
 ---
 
@@ -98,14 +171,15 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 
 ---
 
+## Referências  
+
+SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos.* Brasília: Universidade de Brasília, 2025.
+
+---
+
 ## Tabela de Versionamento
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
 | 1.0 | 11/10/2025 | Página de **Especificações Suplementares** própria | Antonio | - |
-
----
-
-## Referências  
-
-SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 11: Especificação e casos de uso em Requisitos.* Brasília: Universidade de Brasília, 2025.
+| 1.1 | 04/11/2025 | Criação das Especificações Suplementares de Performance e Supportability | Antonio | - |
