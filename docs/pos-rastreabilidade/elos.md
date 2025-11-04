@@ -125,10 +125,10 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
 |                      Satisfação                      | [ES001](../../../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | - |
+|                       Recurso                        | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU003 – Cadastro e Gerenciamento de Perfis Ampliados](#hu003) |
+|                       Alocado                        | [UC001](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [LX004](../../../modelagem/gravacoes/antonio/lexicos.md)  |
+|                      Agregação                       | [HU003](../../../modelagem/gravacoes/antonio/historias.md) |
 
 **Autor**: Antonio Carvalho
 
@@ -143,11 +143,11 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 |                  **RF018**              | **Classificação do Artefato Analisado** |
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
-|                      Satisfação                      | [ES002](../../../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | - |
+|                      Satisfação                      | [ES002](../../../modelagem/gravacoes/antonio/especificacao.md), [LX007](../../../modelagem/gravacoes/antonio/lexicos.md)  |
+|                       Recurso                        | [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU004 – Publicação de Campanhas e Materiais Educativos](#hu004) |
+|                       Alocado                        | [UC002](../../../modelagem/gravacoes/antonio/caso_de_uso.md) |
+|                      Agregação                       | [HU004](../../../modelagem/gravacoes/antonio/historias.md) |
 
 **Autor**: Antonio Carvalho
 
@@ -163,10 +163,10 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
 |                      Satisfação                      |[ES002](../../../modelagem/gravacoes/antonio/especificacao.md)  |
-|                       Recurso                        | - |
+|                       Recurso                        | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU005 – Exibição de Horários de Clínicas Parceiras](#hu005) |
+|                       Alocado                        | [UC001](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [LX002](../../../modelagem/gravacoes/antonio/lexicos.md)  |
+|                      Agregação                       | [HU005](../../../modelagem/gravacoes/antonio/historias.md) |
 
 **Autor**: Antonio Carvalho
 
@@ -182,10 +182,10 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
 |                      Satisfação                      |[ES002](../../../modelagem/gravacoes/antonio/especificacao.md)  |
-|                       Recurso                        | - |
+|                       Recurso                        |[CNR003](../../../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU006 – Integração Direta com Parceiros](#hu006) |
+|                       Alocado                        | [UC001](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [LX006](../../../modelagem/gravacoes/antonio/lexicos.md)  |
+|                      Agregação                       | [HU006](../../../modelagem/gravacoes/antonio/historias.md) |
 
 **Autor**: Antonio Carvalho
 
@@ -203,8 +203,8 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 |                      Satisfação                      | [ES001](../../../modelagem/gravacoes/antonio/especificacao.md) |
 |                       Recurso                        | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU007 – Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica](#hu007) |
+|                       Alocado                        | [UC001](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [LX003](../../../modelagem/gravacoes/antonio/lexicos.md)  |
+|                      Agregação                       | [HU007](../../../modelagem/gravacoes/antonio/historias.md) |
 
 **Autor**: Antonio Carvalho
 
@@ -220,10 +220,10 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 | ---------------------------------------------------- | --------------------------------------- |
 |                     Tipos de Elo                     |       Artefatos Relacionados            |
 |                      Satisfação                      | [ES003](../../../modelagem/gravacoes/antonio/especificacao.md) |
-|                       Recurso                        | - |
+|                       Recurso                        | [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md) |
 |                    Representação                     | - |
-|                       Alocado                        | - |
-|                      Agregação                       | [#HU008 – Sincronização de Dados entre ONGs e Clínicas](../../../modelagem/gravacoes/antonio/historias.md) |
+|                       Alocado                        | [UC001](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [LX001](../../../modelagem/gravacoes/antonio/lexicos.md) |
+|                      Agregação                       | [HU008](../../../modelagem/gravacoes/antonio/historias.md) |
 
 **Autor**: Antonio Carvalho
 
