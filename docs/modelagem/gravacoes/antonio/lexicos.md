@@ -109,6 +109,95 @@ A validação com o usuário foi feita de forma presencial, no dia 10 de outubro
 | LX007-01   | Tutor           | Pessoa responsável por acompanhar o animal cadastrado ou adotado.        | Sujeito       | Dono, Responsável       | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 | LX007-02   | Veterinário     | Profissional que fornece dados de acompanhamento e histórico médico.     | Sujeito       | Médico Veterinário      | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 
+<a id="lx023"></a>
+
+## #LX023 – Léxico para #UC03 e #CNR005 (Carteirinha Digital com QR Code)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção              | Impacto                                                                 | Classificação | Dicionário             | Rastreamento |
+| ---------- | ----------------- | ------------------------------------------------------------------------ | ------------- | ---------------------- | ------------- |
+| LX023-01   | Carteirinha Digital | Documento eletrônico com dados do animal, tutor e QR Code identificador. | Objeto        | Identificação Digital  | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC03](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc003), [CNR005](../../../modelagem/gravacoes/antonio/cenarios.md#cnr005) |
+| LX023-02   | QR Code            | Código bidimensional que redireciona para o prontuário digital do animal. | Objeto        | Código Digital         | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC03](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc003), [CNR005](../../../modelagem/gravacoes/antonio/cenarios.md#cnr005) |
+
+---
+
+<a id="lx024"></a>
+
+## #LX024 – Léxico para #UC04 e #CNR006 (Registro de Microchip)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção        | Impacto                                                                | Classificação | Dicionário      | Rastreamento |
+| ---------- | ------------ | ----------------------------------------------------------------------- | ------------- | --------------- | ------------- |
+| LX024-01   | Microchip    | Dispositivo eletrônico implantado no animal que permite sua identificação. | Objeto        | Chip, Identificador | [RF015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf015), [UC04](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc004), [CNR006](../../../modelagem/gravacoes/antonio/cenarios.md#cnr006) |
+| LX024-02   | Identificação | Processo de vincular o microchip ao registro do animal.                | Verbo         | Registrar, Associar | [RF015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf015), [UC04](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc004), [CNR006](../../../modelagem/gravacoes/antonio/cenarios.md#cnr006) |
+
+---
+
+<a id="lx025"></a>
+
+## #LX025 – Léxico para #UC05 e #CNR007 (Registro Veterinário)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção             | Impacto                                                                 | Classificação | Dicionário             | Rastreamento |
+| ---------- | ---------------- | ------------------------------------------------------------------------ | ------------- | ---------------------- | ------------- |
+| LX025-01   | Procedimento Veterinário | Ação médica aplicada ao animal, como castração, vacinação ou exames.   | Objeto        | Atendimento, Tratamento | [RF016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC05](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc005), [CNR007](../../../modelagem/gravacoes/antonio/cenarios.md#cnr007) |
+| LX025-02   | Registro Clínico  | Histórico médico do animal armazenado no sistema.                       | Objeto        | Prontuário, Histórico | [RF029](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf029), [UC05](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc005), [CNR007](../../../modelagem/gravacoes/antonio/cenarios.md#cnr007) |
+
+---
+
+<a id="lx026"></a>
+
+## #LX026 – Léxico para #UC06 e #CNR008 (Notificações e Campanhas)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção           | Impacto                                                               | Classificação | Dicionário             | Rastreamento |
+| ---------- | ---------------- | ---------------------------------------------------------------------- | ------------- | ---------------------- | ------------- |
+| LX026-01   | Notificação      | Mensagem automática enviada para lembrar ou informar o usuário.       | Objeto        | Alerta, Aviso          | [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [RF026](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf026), [UC06](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc006), [CNR008](../../../modelagem/gravacoes/antonio/cenarios.md#cnr008) |
+| LX026-02   | Campanha Educativa | Conteúdo digital voltado à conscientização sobre cuidado animal.     | Objeto        | Material Informativo   | [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [UC06](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc006), [CNR008](../../../modelagem/gravacoes/antonio/cenarios.md#cnr008) |
+
+---
+
+<a id="lx027"></a>
+
+## #LX027 – Léxico para #UC07 e #CNR009 (Busca de Animais Perdidos)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX027-01   | Animal Perdido  | Animal cadastrado que foi reportado como desaparecido.                  | Estado        | Desaparecido, Extraviado | [RF028](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf028), [UC07](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc007), [CNR009](../../../modelagem/gravacoes/antonio/cenarios.md#cnr009) |
+| LX027-02   | Localização     | Posição geográfica informada para facilitar busca do animal.            | Objeto        | Endereço, Ponto de Referência | [RF027](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf027), [UC07](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc007), [CNR009](../../../modelagem/gravacoes/antonio/cenarios.md#cnr009) |
+
+---
+
+<a id="lx028"></a>
+
+## #LX028 – Léxico para #UC08 e #CNR010 (Gerenciamento de ONGs e Associações)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção        | Impacto                                                                | Classificação | Dicionário         | Rastreamento |
+| ---------- | ------------ | ----------------------------------------------------------------------- | ------------- | ------------------ | ------------- |
+| LX028-01   | ONG          | Organização que atua no resgate e adoção de animais.                    | Sujeito       | Associação, Entidade | [RF040](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf040), [UC08](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc008), [CNR010](../../../modelagem/gravacoes/antonio/cenarios.md#cnr010) |
+| LX028-02   | Animal Resgatado | Animal que foi retirado de situação de risco por uma ONG ou protetor. | Estado        | Recuperado, Recolhido | [RF040](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf040), [UC08](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc008), [CNR010](../../../modelagem/gravacoes/antonio/cenarios.md#cnr010) |
+
+---
+
+<a id="lx029"></a>
+
+## #LX029 – Léxico para #UC09 e #CNR011 (Rastreamento de Doações e Adoções)
+
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
+
+| ID        | Noção        | Impacto                                                                 | Classificação | Dicionário             | Rastreamento |
+| ---------- | ------------ | ------------------------------------------------------------------------ | ------------- | ---------------------- | ------------- |
+| LX029-01   | Doação       | Transferência voluntária de recursos ou bens para apoiar ações da ONG.  | Verbo         | Contribuir, Oferecer  | [RF041](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf041), [UC09](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc009), [CNR011](../../../modelagem/gravacoes/antonio/cenarios.md#cnr011) |
+| LX029-02   | Adoção       | Processo de vincular permanentemente um animal a um tutor.              | Verbo         | Adquirir, Assumir Cuidado | [RF030](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030), [RF041](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf041), [UC09](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc009), [CNR011](../../../modelagem/gravacoes/antonio/cenarios.md#cnr011) |
+
 ---
 
 ## Referência para elaboração desses artefatos em específico: Requisitos de Software – Aula 10: Cenários e Léxicos de Requisitos.
