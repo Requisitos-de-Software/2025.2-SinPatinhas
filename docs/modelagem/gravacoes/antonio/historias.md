@@ -123,6 +123,74 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 
 ---
 
+<a id="hu041"></a>
+
+### **HU041 – Desempenho em Consultas Públicas**  
+*Autoria: Antonio Carvalho*  
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU041 |
+| **Tema** | Performance |
+| **Descrição** | Como **usuário do sistema**, quero **acessar consultas públicas em menos de 2 segundos**, para **obter informações de forma ágil e eficiente**. |
+| **Critérios de Aceitação** | - As consultas públicas devem ter tempo de resposta inferior a 2 segundos. <br> - O sistema deve exibir mensagem informativa em caso de lentidão. <br> - Os testes de desempenho devem validar a velocidade mínima exigida. |
+| **Prioridade** | Alta |
+| **Status** | Não validada |
+| **Rastreabilidade** | [RNF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) |
+
+---
+
+<a id="hu042"></a>
+
+### **HU042 – Acesso via Web e Mobile**  
+*Autoria: Antonio Carvalho*  
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU042 |
+| **Tema** | Portabilidade |
+| **Descrição** | Como **usuário tutor ou voluntário**, quero **acessar o sistema tanto via web quanto pelo aplicativo móvel**, para **poder utilizá-lo em qualquer lugar, priorizando o uso no celular**. |
+| **Critérios de Aceitação** | - O sistema deve ser responsivo e compatível com navegadores modernos. <br> - O aplicativo móvel deve possuir as mesmas funcionalidades principais do sistema web. <br> - O design deve priorizar a usabilidade em dispositivos móveis. |
+| **Prioridade** | Alta |
+| **Status** | Não validada |
+| **Rastreabilidade** | [RNFNI001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
+
+---
+
+<a id="hu043"></a>
+
+### **HU043 – Funcionalidades Offline para o Aplicativo**  
+*Autoria: Antonio Carvalho*  
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU043 |
+| **Tema** | Usabilidade e Disponibilidade |
+| **Descrição** | Como **usuário do aplicativo móvel**, quero **acessar determinadas funcionalidades mesmo sem conexão com a internet**, para **registrar dados e consultas quando estiver em campo**. |
+| **Critérios de Aceitação** | - O sistema deve permitir o uso offline de funcionalidades básicas (cadastro e consulta). <br> - As informações devem ser sincronizadas automaticamente quando a conexão for restabelecida. <br> - O aplicativo deve indicar claramente quando está operando em modo offline. |
+| **Prioridade** | Média |
+| **Status** | Não validada |
+| **Rastreabilidade** | [RNFNI002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+
+---
+
+<a id="hu044"></a>
+
+### **HU044 – Integração Direta com Parceiros (Clínicas, ONGs e Pet Shops)**  
+*Autoria: Antonio Carvalho*  
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU044 |
+| **Tema** | Integração |
+| **Descrição** | Como **administrador do sistema**, quero **integrar o SinPatinhas diretamente com sistemas de parceiros (clínicas, ONGs e pet shops)**, para **melhorar o fluxo de informações e reduzir redundâncias de dados**. |
+| **Critérios de Aceitação** | - O sistema deve permitir integração via APIs seguras (REST). <br> - A autenticação deve ser feita com tokens ou chaves privadas. <br> - As informações trocadas devem seguir padrões definidos (JSON ou XML). |
+| **Prioridade** | Alta |
+| **Status** | Não validada |
+| **Rastreabilidade** | [RNFNI003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) |
+
+---
+
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, padronização técnica e formatação textual**.  

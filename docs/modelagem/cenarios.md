@@ -389,7 +389,7 @@ Serrano, M., Serrano, M. *Requisitos – Aula 10*, Material de aula, Universidad
 
 ---
 
-## Histórico de Versão  
+## Tabela de Versionamento
 
 | **Versão** | **Data**   | **Descrição**                                                        | **Autores** | **Revisores** |
 |-----------:|------------|--------------------------------------------------------------------|--------------|---------------|
