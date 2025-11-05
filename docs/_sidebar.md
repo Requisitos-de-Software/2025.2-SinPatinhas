@@ -65,15 +65,14 @@ details a:hover {
 }
 </style>
 
-
 - [Sobre](/README.md)
 
 <details>
   <summary><strong>Apresentações</strong></summary>
 
   - [Entregas](/apresentacoes.md)
-
 </details>
+
 <details>
   <summary><strong>Inspeções e Listas de Verificação</strong></summary>
   
@@ -83,6 +82,7 @@ details a:hover {
   - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
   - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
 </details>
+
 <details>
   <summary><strong>Pré-rastreabilidade</strong></summary>
     
