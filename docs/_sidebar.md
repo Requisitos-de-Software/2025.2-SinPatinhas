@@ -72,14 +72,16 @@ details a:hover {
   <summary><strong>Apresentações</strong></summary>
 
   - [Entregas](/apresentacoes.md)
+
 </details>
 <details>
-  <summary><strong>Inspeções</strong></summary>
+  <summary><strong>Inspeções e Listas de Verificação</strong></summary>
   
   - [Inspeção do Grupo 02 - Entrega 2](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
   - [Inspeção do Grupo 02 - Entrega 4](/inspecoes/inspecao_g2_e4.md)
   - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
+  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
 
 </details>
 <details>
@@ -105,14 +107,13 @@ details a:hover {
   <summary><strong>Elicitação</strong></summary>
 
   - [Visão Geral](/elicitacao/README.md)
-  - [Perfis de Usuário](/elicitacao/perfis_usuarios/perfis-de-usuario)
   - [Técnicas de Elicitação](/elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao)
-  - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
-  - [Técnica MoSCoW](/elicitacao/tecnicas_priorizacao/MoSCoW.md)
-  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
-  - [Inspeção grupo+1](/elicitacao/elicitacao_grupo_2/elicitacao_grupo_2)
+  - [Perfis de Usuário](/elicitacao/perfis_usuarios/perfis-de-usuario)
   - [Experimentação com LLMs](/elicitacao/tecnicas_elicitacao/experimentacaoLLMs.md)
   - [Requisitos Elicitados](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+  - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
+  - [Técnica MoSCoW](/elicitacao/tecnicas_priorizacao/MoSCoW.md)
+
 </details>
 
 <details>

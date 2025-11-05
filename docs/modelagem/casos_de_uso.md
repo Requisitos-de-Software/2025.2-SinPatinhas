@@ -23,7 +23,6 @@ Assim, **o diagrama sintetiza o comportamento esperado do sistema em relação a
 <br>
 ![Legenda](../assets/images/legenda_casos_de_uso.png)
 
-
 * [Link para o diagrama de casos de uso](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=v2_caso_de_uso_sinpatinhas.drawio&dark=0#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1JOocwPjoZbvNTRfiIlNnfZpdQCFAApOf%26export%3Ddownload)
 
 ## Estrutura para Criação de um Caso de Uso
@@ -81,7 +80,6 @@ A tabela a seguir apresenta os componentes utilizados.
 ### #UC001 – Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
-
 
 <font><p style="text-align: center">**Tabela 01** – Caso de Uso 01 – Sistema de Adoção de Animais ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))</p></font>
 
@@ -295,5 +293,3 @@ Sommerville, I. *Engenharia de Software*. 10ª Ed. Pearson, 2019.
 | 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio |  |
 | 1.1 | 19/10/2025 | Refatoração da tabela de artefatos | Isaac | Antonio |
 | 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
-
----
