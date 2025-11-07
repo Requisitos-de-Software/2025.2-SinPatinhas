@@ -74,17 +74,18 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **A
 
 ---
 
+## Referências  
+
+<a id="REF1"></a>[1] SERRANO, Milene; SERRANO, Maurício. *Product Backlog e User Stories – Aula 15*. Universidade de Brasília (UnB), 2025.  
+<a id="REF2"></a>[3] PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
+
+---
+
 ## Tabela de Versionamento  
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
 | **1.0** | 20/10/2025 | Criação dos itens de backlog | Antonio Carvalho | Letícia Paiva |
-
----
-
-## Referências  
-
-<a id="REF1"></a>[1] SERRANO, Milene; SERRANO, Maurício. *Product Backlog e User Stories – Aula 15*. Universidade de Brasília (UnB), 2025.  
-<a id="REF2"></a>[3] PRESSMAN, Roger S.; MAXIM, Bruce R. *Engenharia de Software: uma abordagem profissional.* 9ª ed. AMGH, 2021.  
+| **1.1** | 04/11/2025 | Criação dos itens de backlog de n° 15 e 16 | Antonio Carvalho | Letícia Paiva |
 
 ---

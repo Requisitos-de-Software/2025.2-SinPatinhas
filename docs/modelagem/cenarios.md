@@ -35,7 +35,8 @@ A metodologia para a criação de um cenário consiste em estruturar uma narrati
 
 ---
 
-## Artefatos e Gravações Unitários
+<a id="tabela_artefatos"></a>
+## Artefatos e gravações unitários 
 
 A **Tabela 2** apresenta todos os integrantes da equipe que participaram da construção dos Cenários, juntamente com uma descrição do cenário que cada um desenvolveu no projeto.
 
@@ -125,6 +126,8 @@ O ator confirma se conseguiu visualizar e solicitar a adoção com sucesso.
 **Exceção**  
 Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem informando indisponibilidade.
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="cnr004"></a>
@@ -173,6 +176,8 @@ O ator verifica se a atualização foi concluída e se as novas informações es
 
 **Exceção**  
 Caso o tutor ignore a notificação por um longo período, o sistema envia novo lembrete ou alerta visual no perfil.
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -270,6 +275,8 @@ O ator confirma que conseguiu acessar todas as funcionalidades tanto pelo navega
 **Exceção**  
 Caso o dispositivo móvel não seja compatível, o sistema exibe instruções para instalação de versão alternativa (PWA ou web responsiva).
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="cnr014"></a>
@@ -318,6 +325,8 @@ O ator confirma que conseguiu consultar os dados mesmo sem internet e que tudo f
 **Exceção**  
 Caso o usuário nunca tenha sincronizado antes, o sistema exibe mensagem indicando que o acesso offline não está disponível.
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="cnr015"></a>
@@ -365,6 +374,8 @@ O parceiro confirma que as informações foram integradas corretamente e exibida
 
 **Exceção**  
 Em caso de falha na autenticação ou envio de dados incorretos, o sistema rejeita a atualização e envia notificação de erro.
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 

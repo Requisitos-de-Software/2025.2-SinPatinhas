@@ -63,7 +63,8 @@ O processo seguiu as seguintes etapas:
 
 ---
 
-## Artefatos e Gravações Unitários
+<a id="tabela_artefatos"></a>
+## Artefatos e gravações unitários 
 
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|-----------------------|------------------|------------------|
@@ -140,7 +141,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve permitir o cadastro de perfis com informações institucionais (CNPJ, missão, contatos, endereço). <br> - Deve permitir atualização e edição de dados. <br> - Perfis devem ser vinculados a campanhas e adoções. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** |  [RF017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017) |
+| **Rastreabilidade** |  [RF017](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -157,7 +160,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve permitir o envio de campanhas com imagens e textos. <br> - Deve permitir categorizar o tipo de campanha (adoção, vacinação, eventos). <br> - O conteúdo deve ser validado antes da publicação. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) |
+| **Rastreabilidade** | [RF018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -174,7 +179,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve exibir os horários de abertura e fechamento das clínicas cadastradas. <br> - Deve indicar feriados e horários de plantão. <br> - A informação deve ser atualizada automaticamente a partir das integrações. |
 | **Prioridade** | Média |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RFNI005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) |
+| **Rastreabilidade** | [RFNI005](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -191,7 +198,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve possibilitar integração via API REST. <br> - Deve permitir autenticação segura (token). <br> - As atualizações de dados devem ocorrer em tempo real. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) |
+| **Rastreabilidade** | [RNF014](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -208,7 +217,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - A interface deve ter ícones descritivos e botões visíveis. <br> - Deve haver tutoriais curtos em vídeo ou texto. <br> - O sistema deve suportar acessibilidade (tamanho de fonte e contraste). |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+| **Rastreabilidade** | [RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -225,7 +236,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve integrar registros de atendimento veterinário ao perfil do animal. <br> - Deve haver sincronização automática semanal. <br> - Em caso de falha, o sistema deve registrar o erro e notificar o administrador. |
 | **Prioridade** | Média |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RFNI018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
+| **Rastreabilidade** | [RFNI018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -428,7 +441,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - As consultas públicas devem ter tempo de resposta inferior a 2 segundos. <br> - O sistema deve exibir mensagem informativa em caso de lentidão. <br> - Os testes de desempenho devem validar a velocidade mínima exigida. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) |
+| **Rastreabilidade** | [RNF004](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -445,7 +460,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve ser responsivo e compatível com navegadores modernos. <br> - O aplicativo móvel deve possuir as mesmas funcionalidades principais do sistema web. <br> - O design deve priorizar a usabilidade em dispositivos móveis. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNFNI001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
+| **Rastreabilidade** | [RNFNI001](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -462,7 +479,9 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve permitir o uso offline de funcionalidades básicas (cadastro e consulta). <br> - As informações devem ser sincronizadas automaticamente quando a conexão for restabelecida. <br> - O aplicativo deve indicar claramente quando está operando em modo offline. |
 | **Prioridade** | Média |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNFNI002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+| **Rastreabilidade** | [RNFNI002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -479,7 +498,7 @@ O processo seguiu as seguintes etapas:
 | **Critérios de Aceitação** | - O sistema deve permitir integração via APIs seguras (REST). <br> - A autenticação deve ser feita com tokens ou chaves privadas. <br> - As informações trocadas devem seguir padrões definidos (JSON ou XML). |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNFNI003](../../../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) |
+| **Rastreabilidade** | [RNFNI003](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) |
 
 ---
 

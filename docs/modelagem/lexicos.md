@@ -41,7 +41,8 @@ A tabela a seguir apresenta os componentes utilizados.
 
 ---
 
-## Artefatos e Gravações Unitários
+<a id="tabela_artefatos"></a>
+## Artefatos e gravações unitários 
 
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|--------------|------------------|------------------|
@@ -90,6 +91,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX001-01   | Tutor    | Pessoa responsável pelo cadastro e cuidado do animal.                   | Sujeito       | Dono, Responsável  | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#CNR003) |
 | LX001-02   | Cadastrar | Ação de inserir novas informações no sistema.                          | Verbo         | Registrar, Inserir | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf001), [RF002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf002), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#CNR003) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx002"></a>
@@ -102,6 +105,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | ---------- | ---------- | ------------------------------------------------------------------------ | ------------- | ---------------------- | ------------- |
 | LX002-01   | Consultar  | Ação de buscar informações já registradas.                              | Verbo         | Pesquisar, Visualizar  | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc001), [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#CNR003) |
 | LX002-02   | Carteirinha Digital | Documento eletrônico com informações e QR Code do animal.      | Objeto        | Identificação Digital  | [RF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc001), [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#CNR003) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -116,6 +121,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX003-01   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado          | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 | LX003-02   | Tutor           | Pessoa responsável pelo cuidado do animal adotado.                      | Sujeito       | Dono, Responsável    | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx004"></a>
@@ -128,6 +135,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | ---------- | -------------- | ------------------------------------------------------------------------ | ------------- | --------------------- | ------------- |
 | LX004-01   | Veterinário    | Profissional autorizado a emitir laudos e atualizar histórico.           | Sujeito       | Médico Veterinário    | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf008), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 | LX004-02   | Carteirinha Digital | Documento com histórico de vacinação e QR Code do animal.           | Objeto        | Identificação Digital | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [RF016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -142,6 +151,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX005-01   | Animal Perdido  | Situação em que o animal está desaparecido.                              | Estado        | Desaparecido       | [RF007](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf007), [RF018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 | LX005-02   | Animal Adotado  | Situação em que o animal foi vinculado a um novo tutor.                  | Estado        | Pet Adotado        | [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf009), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx006"></a>
@@ -155,6 +166,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX006-01   | Cadastrar  | Ação de inserir novas informações no sistema.                           | Verbo         | Registrar, Inserir | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc00), [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#CNR003) |
 | LX006-02   | Consultar  | Ação de buscar informações já registradas.                               | Verbo         | Pesquisar, Visualizar | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006), [UC01](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc00), [CNR003](../../../modelagem/gravacoes/antonio/cenarios.md#CNR003) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx007"></a>
@@ -167,6 +180,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX007-01   | Tutor           | Pessoa responsável por acompanhar o animal cadastrado ou adotado.        | Sujeito       | Dono, Responsável       | [RF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
 | LX007-02   | Veterinário     | Profissional que fornece dados de acompanhamento e histórico médico.     | Sujeito       | Médico Veterinário      | [RF008](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RF016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [UC02](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc002), [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#CNR004) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -271,6 +286,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX023-01   | Carteirinha Digital | Documento eletrônico com dados do animal, tutor e QR Code identificador. | Objeto        | Identificação Digital  | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC03](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR005](../../../modelagem/gravacoes/antonio/cenarios.md#cnr005) |
 | LX023-02   | QR Code            | Código bidimensional que redireciona para o prontuário digital do animal. | Objeto        | Código Digital         | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014), [UC03](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR005](../../../modelagem/gravacoes/antonio/cenarios.md#cnr005) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx024"></a>
@@ -283,6 +300,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | ---------- | ------------ | ----------------------------------------------------------------------- | ------------- | --------------- | ------------- |
 | LX024-01   | Microchip    | Dispositivo eletrônico implantado no animal que permite sua identificação. | Objeto        | Chip, Identificador | [RF015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf015), [UC13](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR006](../../../modelagem/gravacoes/antonio/cenarios.md#cnr006) |
 | LX024-02   | Identificação | Processo de vincular o microchip ao registro do animal.                | Verbo         | Registrar, Associar | [RF015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf015), [UC13](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR006](../../../modelagem/gravacoes/antonio/cenarios.md#cnr006) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -297,6 +316,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX025-01   | Procedimento Veterinário | Ação médica aplicada ao animal, como castração, vacinação ou exames.   | Objeto        | Atendimento, Tratamento | [RF016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf016), [UC13](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR007](../../../modelagem/gravacoes/antonio/cenarios.md#cnr007) |
 | LX025-02   | Registro Clínico  | Histórico médico do animal armazenado no sistema.                       | Objeto        | Prontuário, Histórico | [RF029](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf029), [UC13](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR007](../../../modelagem/gravacoes/antonio/cenarios.md#cnr007) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx026"></a>
@@ -309,6 +330,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | ---------- | ---------------- | ---------------------------------------------------------------------- | ------------- | ---------------------- | ------------- |
 | LX026-01   | Notificação      | Mensagem automática enviada para lembrar ou informar o usuário.       | Objeto        | Alerta, Aviso          | [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [RF026](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf026), [UC14](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR008](../../../modelagem/gravacoes/antonio/cenarios.md#cnr008) |
 | LX026-02   | Campanha Educativa | Conteúdo digital voltado à conscientização sobre cuidado animal.     | Objeto        | Material Informativo   | [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018), [UC14](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR008](../../../modelagem/gravacoes/antonio/cenarios.md#cnr008) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -323,6 +346,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | LX027-01   | Animal Perdido  | Animal cadastrado que foi reportado como desaparecido.                  | Estado        | Desaparecido, Extraviado | [RF028](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf028), [UC14](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR009](../../../modelagem/gravacoes/antonio/cenarios.md#cnr009) |
 | LX027-02   | Localização     | Posição geográfica informada para facilitar busca do animal.            | Objeto        | Endereço, Ponto de Referência | [RF027](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf027), [UC14](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR009](../../../modelagem/gravacoes/antonio/cenarios.md#cnr009) |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="lx028"></a>
@@ -335,6 +360,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | ---------- | ------------ | ----------------------------------------------------------------------- | ------------- | ------------------ | ------------- |
 | LX028-01   | ONG          | Organização que atua no resgate e adoção de animais.                    | Sujeito       | Associação, Entidade | [RF040](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf040), [UC15](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR010](../../../modelagem/gravacoes/antonio/cenarios.md#cnr010) |
 | LX028-02   | Animal Resgatado | Animal que foi retirado de situação de risco por uma ONG ou protetor. | Estado        | Recuperado, Recolhido | [RF040](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf040), [UC15](../../../modelagem/gravacoes/antonio/caso_de_uso.md), [CNR010](../../../modelagem/gravacoes/antonio/cenarios.md#cnr010) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
