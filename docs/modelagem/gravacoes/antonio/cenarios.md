@@ -294,3 +294,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |-------------|-----------|----------------|--------------|----------------|
 | 1.0 | 11/10/2025 | Adição dos cenários referentes aos requisitos não implementados [RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) e [RFNI021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Antonio | - |
+| 1.1 | 04/11/2025 | Adição dos cenários referentes aos requisitos não implementados [RNFNI001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001), [RNFNI002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) e [RNFNI003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) | Antonio | - |

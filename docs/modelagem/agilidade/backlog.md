@@ -77,7 +77,8 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 
 ---
 
-## Artefatos e Gravações Unitários
+<a id="tabela_artefatos"></a>
+## Artefatos e gravações unitários 
 
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|-----------------------|------------------|------------------|
@@ -117,10 +118,14 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 
 | **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
 |--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
-| #BL001  | Exibição de horários de funcionamento | Exibir automaticamente os horários de funcionamento das clínicas e hospitais parceiros, integrando dados de disponibilidade. | Should have | Não iniciado | Antonio Carvalho | [RFNI005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) / [HU005](../../../modelagem/gravacoes/antonio/historias.md#hu005--exibição-de-horários-de-clínicas-parceiras) | 
-| #BL002 | Integração com ONGs, clínicas e pet shops | Implementar integração via API entre o SinPatinhas e os sistemas externos de parceiros para sincronização de dados de animais, adoções e atendimentos. | Must have | Não iniciado | Antonio Carvalho | [RFNI018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) / [HU006](../../../modelagem/gravacoes/antonio/historias.md#hu006--integração-direta-com-parceiros) / [HU008](../../../modelagem/gravacoes/antonio/historias.md#hu008--sincronização-de-dados-entre-ongs-e-clínicas) |
-| #BL015 | Desempenho em Consultas Públicas | Garantir que consultas públicas do sistema retornem resultados em até 2 segundos, exibindo mensagens informativas em casos de lentidão, conforme requisitos de desempenho. | Must have | Não iniciado | Antonio Carvalho | [RNF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) / [HU041](../../../modelagem/gravacoes/antonio/historias.md#hu041--desempenho-em-consultas-públicas) |
-| #BL016 | Integração Direta com Parceiros | Implementar integração via APIs seguras (REST) com sistemas de parceiros como clínicas, ONGs e pet shops, utilizando autenticação por tokens e padrões JSON/XML. | Must have | Não iniciado | Antonio Carvalho | [RNFNI003](../../../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) / [HU044](../../../modelagem/gravacoes/antonio/historias.md#hu044--integração-direta-com-parceiros-clínicas-ongs-e-pet-shops) |
+| #BL001  | Exibição de horários de funcionamento | Exibir automaticamente os horários de funcionamento das clínicas e hospitais parceiros, integrando dados de disponibilidade. | Should have | Não iniciado | Antonio Carvalho | [RFNI005](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) / [HU005](../../modelagem/gravacoes/antonio/historias.md#hu005--exibição-de-horários-de-clínicas-parceiras) | 
+| #BL002 | Integração com ONGs, clínicas e pet shops | Implementar integração via API entre o SinPatinhas e os sistemas externos de parceiros para sincronização de dados de animais, adoções e atendimentos. | Must have | Não iniciado | Antonio Carvalho | [RFNI018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) / [HU006](../../modelagem/gravacoes/antonio/historias.md#hu006--integração-direta-com-parceiros) / [HU008](../../modelagem/gravacoes/antonio/historias.md#hu008--sincronização-de-dados-entre-ongs-e-clínicas) |
+| #BL015 | Desempenho em Consultas Públicas | Garantir que consultas públicas do sistema retornem resultados em até 2 segundos, exibindo mensagens informativas em casos de lentidão, conforme requisitos de desempenho. | Must have | Não iniciado | Antonio Carvalho | [RNF004](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) / [HU041](../../modelagem/gravacoes/antonio/historias.md#hu041--desempenho-em-consultas-públicas) |
+| #BL016 | Integração Direta com Parceiros | Implementar integração via APIs seguras (REST) com sistemas de parceiros como clínicas, ONGs e pet shops, utilizando autenticação por tokens e padrões JSON/XML. | Must have | Não iniciado | Antonio Carvalho | [RNFNI003](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) / [HU044](../../modelagem/gravacoes/antonio/historias.md#hu044--integração-direta-com-parceiros-clínicas-ongs-e-pet-shops) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
 
 ## Agradecimentos
 

@@ -65,25 +65,24 @@ details a:hover {
 }
 </style>
 
-
 - [Sobre](/README.md)
 
 <details>
   <summary><strong>Apresentações</strong></summary>
 
   - [Entregas](/apresentacoes.md)
-
 </details>
+
 <details>
-  <summary><strong>Inspeções e Listas de Verificação</strong></summary>
+  <summary><strong>Inspeções e Verificações</strong></summary>
   
   - [Inspeção do Grupo 02 - Entrega 2](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
   - [Inspeção do Grupo 02 - Entrega 4](/inspecoes/inspecao_g2_e4.md)
   - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
-  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao)
-
+  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao.md)
 </details>
+
 <details>
   <summary><strong>Pré-rastreabilidade</strong></summary>
     

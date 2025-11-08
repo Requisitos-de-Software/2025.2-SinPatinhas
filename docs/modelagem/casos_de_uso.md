@@ -51,7 +51,8 @@ A tabela a seguir apresenta os componentes utilizados.
 
 ---
 
-## Artefatos e Gravações Unitários
+<a id="tabela_artefatos"></a>
+## Artefatos e gravações unitários 
 
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|--------------|------------------|------------------|
@@ -70,6 +71,7 @@ A tabela a seguir apresenta os componentes utilizados.
 |                           | | [#UC010](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Sistema de avaliação numérica para estabelecimentos (RFNI010) |
 | **Isaac Menezes**         | | [#UC011](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas da clínica/hospital (RNFI014) |
 |                           | | [#UC012](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas do profissional (RNFI015) |
+
 
 ---
 
@@ -100,6 +102,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Léxico relacionado** | [LX001](../../../modelagem/gravacoes/antonio/lexicos.md#lx001) |
 | **Origem** | Entrevista 2 |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="uc002"></a>
@@ -126,6 +130,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Cenário relacionado** | [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#cn004) |
 | **Léxico relacionado** | [LX002](../../../modelagem/gravacoes/antonio/lexicos.md#lx002) |
 | **Origem** | Entrevista 3 |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -215,6 +221,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Léxico relacionado** | [LX003](../../../modelagem/gravacoes/antonio/lexicos.md#lx003) |
 | **Origem** | Entrevista com usuários sobre acessibilidade e dispositivos utilizados |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="uc014"></a>
@@ -242,6 +250,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Léxico relacionado** | [LX004](../../../modelagem/gravacoes/antonio/lexicos.md#lx004) |
 | **Origem** | Discussão técnica sobre usabilidade e acesso remoto em áreas sem internet |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="uc015"></a>
@@ -268,6 +278,8 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Cenário relacionado** | [CNR007](../../../modelagem/gravacoes/antonio/cenarios.md#cnr007) |
 | **Léxico relacionado** | [LX005](../../../modelagem/gravacoes/antonio/lexicos.md#lx005) |
 | **Origem** | Reunião de definição de integrações externas com parceiros potenciais |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 

@@ -232,3 +232,4 @@ SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenár
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
 | 1.0 | 11/10/2025 | Página de **Léxicos** própria | Antonio | - |
+| 1.1 | 04/11/2025 | Criação dos **Léxicos** de n° 23 ao 29 | Antonio | - |

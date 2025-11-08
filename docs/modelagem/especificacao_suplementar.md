@@ -63,9 +63,11 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 |  | | |
 |  | | |
 
+
 ---
 
-## Artefatos e Gravações Unitários
+<a id="tabela_artefatos"></a>
+## Artefatos e gravações unitários 
 
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|--------------|------------------|------------------|
@@ -108,6 +110,8 @@ Foco em **intuitividade**, **clareza** e **eficiência da interface**.
 | [RF012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012) | O sistema deve permitir login integrado via Gov.br, possibilitando autenticação única e segura para tutores e profissionais. | Análise Doc |
 | [RF013](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013) | O sistema deve habilitar preenchimento automático de dados pessoais do tutor (quando autorizado via Gov.br), reduzindo a duplicidade e agilizando a entrada de dados. | Análise Doc |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="es002"></a>
@@ -126,6 +130,8 @@ A **Segurança** trata da proteção dos dados do sistema e prevenção de acess
 | [RNF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) (E3) | O sistema deve alertar o usuário sobre tentativas de acesso não autorizado. | Entrevista 03 |
 | [RNF017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf017) | O sistema deve gerar alertas de acesso não autorizado e tentativas de violação. | Entrevista 03 |
 | [RNF019](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf019) | Segurança na integração entre clínicas, ONGs e SinPatinhas. | Análise Doc |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -194,6 +200,8 @@ A **Confiabilidade** garante que o sistema funcione de forma **estável e contí
 | [RNF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | O sistema deve registrar logs detalhados de acesso e modificações nos prontuários e cadastros. | Entrevista 03 |
 | [RF006](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf006) | O acesso à consulta pública via RGA ou microchip deve ser restrito, exibindo apenas dados não sensíveis do animal. | Análise Doc |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="es012"></a>
@@ -216,6 +224,8 @@ Tais requisitos asseguram **respostas em tempo hábil**, **otimização de consu
 | [RNF011](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf011) | O sistema deve possuir funcionalidades offline para garantir desempenho contínuo. | Entrevista |
 | [RNF022](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf022) | O sistema deve manter disponibilidade de 99,8% (uptime). | Análise Técnica |
 
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 <a id="es013"></a>
@@ -236,6 +246,8 @@ Os requisitos de **Supportability (Apoio e Manutenibilidade)** estabelecem prát
 | [RF033](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf033) | Disponibilizar área de instruções integradas (manual digital) para suporte ao usuário. | Protótipo |
 | [RNF002](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf002) | O sistema deve manter documentação técnica atualizada e padronizada. | Engenharia de Software |
 | [RNF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf018) | Implementar cópias de segurança automáticas e testes regulares de restauração. | Análise Técnica |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -264,6 +276,8 @@ Eles abrangem desde o **cadastro e gerenciamento de tutores e animais** até a *
 | [RF029](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf029) | Prontuário digital centralizando histórico de saúde e vacinação. | Entrevista / Análise Doc |
 | [RF039](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf039) | Integração entre clínicas veterinárias, permitindo visualização do prontuário. | Análise Doc |
 | [RF041](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf041) | Rastreamento de doações e adoções, registrando doadores, adotantes e datas. | Análise Doc |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -303,5 +317,7 @@ Pressman, R. S. *Engenharia de Software: uma abordagem profissional.* 8ª ediç�
 |:----------:|:---------:|:---------------|:-------------|:---------------|
 | 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
 | 2.0 | 12/10/2025 | Adição das especificações do sistema | Heloisa | -- |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---

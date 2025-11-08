@@ -3,7 +3,7 @@
 
 ---
 
-## 1° Cartão de Especificação NFR – Segurança e Auditabilidade  
+## 1° Cartão de Especificação NFR – Segurança  
  
 | **Campo** | **Detalhamento** |
 |------------|------------------|
@@ -168,6 +168,117 @@
 
 ---
 
+## 2° Cartão de Especificação NFR – Confiabilidade e Continuidade Operacional  
+
+| **Campo** | **Detalhamento** |
+|------------|------------------|
+| **Nr Requisito** | CNFR02 |
+| **Cartão de Especificação** | Confiabilidade e Disponibilidade do Sistema |
+| **Descrição** | O sistema deve garantir **execução estável e contínua das operações**, com **mínima indisponibilidade**, **recuperação automática de falhas** e **preservação dos dados em caso de erro ou queda inesperada**. |
+| **Justificativa** | A confiabilidade assegura que o SinPatinhas possa manter suas funcionalidades mesmo diante de falhas, preservando informações críticas sobre animais, tutores e atendimentos, e garantindo **continuidade de serviço para parceiros e usuários**. |
+| **Origem** | [RNF020](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf020) / Entrevista 2 / Logs de incidentes do sistema |
+| **Critério de Ajuste** | Disponibilidade ≥ **99,5%** mensal.<br>Tempo médio de recuperação após falha (MTTR) ≤ **30 segundos**.<br>Taxa máxima de falhas críticas ≤ **0,5%** por mês.<br>Integridade de dados preservada em **100%** dos eventos críticos. |
+| **Dependências** | Servidores redundantes; backups automáticos; monitoramento de uptime; planos de contingência e replicação de banco de dados. |
+| **Prioridade** | Alta (9/10) |
+| **Conflitos** | Mecanismos de redundância podem aumentar o **custo computacional** ([RNF012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf012)); auditorias constantes podem afetar o **desempenho** ([RNF024](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024)). |
+| **Histórias Relacionadas** | [HU042](../../../modelagem/gravacoes/antonio/historias.md#hu042--recuperação-automática-em-caso-de-falha) |
+| **Softgoals Relacionados** | Confiabilidade (MAKE ++), Disponibilidade (HELP +), Desempenho (HURT -), Segurança (HELP +) |
+| **Propagação de Impactos** | O aumento da confiabilidade **melhora a experiência dos usuários** e a **continuidade das operações**, mas pode exigir **infraestrutura mais robusta** e processos de **monitoramento contínuo**. |
+
+---
+
+## Tema: **Confiabilidade e Disponibilidade Operacional do Sistema SinPatinhas**
+
+---
+
+## Requisito Não Funcional – RNF020  
+
+### **Identificação**
+| **Código** | **Descrição** | **Fonte** |
+|-------------|---------------|------------|
+| **RNF020** | **Confiabilidade: o sistema deve manter funcionamento contínuo, mesmo em caso de falhas pontuais.** | Entrevista 2 |
+
+---
+
+### **1. Categoria (Softgoal Type)**  
+**Confiabilidade (Reliability)**  
+> Garante que o sistema **opere de maneira previsível e consistente**, reduzindo o número e a gravidade das falhas, com **recuperação rápida** e **preservação da integridade dos dados**.
+
+---
+
+### **2. Softgoal Refinements (Refinamentos do Softgoal)**  
+
+| **Tipo de Refinamento** | **Softgoal Derivado** | **Descrição** |
+|--------------------------|-----------------------|----------------|
+| **Operationalization** | *Alta Disponibilidade (High Availability)* | Implementar arquitetura com servidores redundantes e failover automático. |
+| **Operationalization** | *Tolerância a Falhas (Fault Tolerance)* | O sistema deve continuar operando mesmo que um componente falhe. |
+| **Operationalization** | *Recuperação Automática (Self-Healing)* | Reinício automático de serviços em caso de falha. |
+| **Operationalization** | *Integridade de Dados (Data Integrity)* | Garantir que dados críticos não sejam corrompidos durante falhas. |
+
+---
+
+### **3. Operationalizations (Mecanismos de Implementação)**  
+
+| **Operacionalização** | **Descrição Técnica** | **Ferramenta/Solução Potencial** |
+|------------------------|------------------------|----------------------------------|
+| **O1. Replicação de Banco de Dados** | Utilização de instâncias secundárias para failover automático em caso de indisponibilidade. | SQL Server Always On / PostgreSQL Streaming Replication |
+| **O2. Backup Incremental Automático** | Agendamento de cópias de segurança diárias e restauração validada. | Azure Backup / AWS S3 Glacier |
+| **O3. Monitoramento de Saúde de Serviços** | Detecção automática de falhas e reinício de containers ou processos. | Prometheus + Grafana + Docker Healthcheck |
+| **O4. Balanceamento de Carga** | Distribuição de requisições entre múltiplos servidores ativos. | Nginx / HAProxy / AWS Load Balancer |
+
+---
+
+### **4. Mecanismos de Avaliação (Claims e Métricas)**  
+
+| **Claim** | **Métrica de Avaliação** | **Meta** |
+|------------|--------------------------|-----------|
+| "O sistema mantém disponibilidade contínua" | Percentual de uptime mensal | ≥ 99,5% |
+| "As falhas são rapidamente recuperadas" | Tempo médio de recuperação (MTTR) | ≤ 30 segundos |
+| "Os dados permanecem íntegros após falha" | Percentual de operações críticas com consistência preservada | 100% |
+| "As falhas não comprometem o uso geral" | Número de incidentes críticos por mês | ≤ 2 |
+
+---
+
+### **5. Interdependências (Softgoal Interactions)**  
+
+| **Relacionamento** | **Softgoal Associado** | **Tipo de Influência** |
+|---------------------|-------------------------|-------------------------|
+| RNF020 ↔ RNF017 | Segurança | **+** (Backups e redundâncias reforçam a proteção dos dados) |
+| RNF020 ↔ RNF012 | Desempenho | **-** (Camadas redundantes aumentam latência) |
+| RNF020 ↔ RNF024 | Auditabilidade | **+** (Logs de incidentes permitem análise e prevenção de falhas futuras) |
+
+---
+
+### **6. Rastreabilidade**  
+| **Relação** | **Elemento Relacionado** |
+|--------------|---------------------------|
+| **Requisito Funcional Relacionado** | RF030 – Recuperação de Sessões e Continuidade Operacional |
+| **História Relacionada** | HU042 – Recuperação Automática em Caso de Falha |
+| **Fonte** | Entrevista 2 |
+
+---
+
+## Conclusão  
+
+| **Aspecto Avaliado** | **RNF020 (Confiabilidade e Continuidade Operacional)** |
+|-----------------------|--------------------------------------|
+| **Softgoal Type** | Reliability |
+| **Objetivo** | Garantir disponibilidade contínua e recuperação imediata após falhas |
+| **Mecanismo Principal** | Arquitetura redundante com replicação e monitoramento de serviços |
+| **Métrica-chave** | Disponibilidade ≥ 99,5% / MTTR ≤ 30s |
+| **Interdependências Relevantes** | Segurança (RNF017), Desempenho (RNF012), Auditabilidade (RNF024) |
+| **Benefício Esperado** | Maior estabilidade do sistema e confiança dos usuários e parceiros no funcionamento da plataforma |
+
+---
+
+## Tabela de Contribuição
+
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| Antonio Carvalho | 100% | Autor desta página |
+
+---
+
 ## Referências  
 
 | **Código** | **Referência Completa** |
@@ -180,4 +291,13 @@
 | [REF1_3] | [Ebrary] Chemuturi, Murali. Mastering Software Quality Assurance : Best Practices, Tools and Technique for Software Developers. Ft. Lauderdale, US: J. Ross Publishing Inc., 2010. |
 | [REF1_4] | Software & Systems Requirements Engineering: In Practice - Brian Berenbach, Daniel Paulish, Juergen Kazmeier, Arnold Rudorfer (Livro bem completo mas, não tem exemplar físico na biblioteca, nem mesmo consta na Ebrary) |
 | [REF1_5] | Requirements Engineering and Management for Software Development Projects - Murali Chemuturi (Livro bem completo mas, não tem exemplar físico na biblioteca, nem mesmo consta na Ebrary) |
+
+---
+
+## Tabela de Versionamento
+
+| **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
+|-------------|------------|----------------|-------------|--------------|
+| 1.0 | 20/10/2025 | Criação de toda esta página | Antonio |  |
+| 1.1 | 06/11/2025 | Criação do cartão de n° 2 | Antonio |  |
 
