@@ -80,7 +80,7 @@ details a:hover {
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
   - [Inspeção do Grupo 02 - Entrega 4](/inspecoes/inspecao_g2_e4.md)
   - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
-  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao.md)
+  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao.md) 
 </details>
 
 <details>
