@@ -43,12 +43,12 @@
 </a>
 
 <a href="#/elicitacao/listas_verificacao/lista_cenarios.md" class="card">
-  <div class="card__icon">🗺️</div>
+  <div class="card__icon">🌅</div>
   <div class="card__title">Cenários</div>
   <div class="card__desc">Checklist de objetivo, fluxo, pré/pós-condições e exceções.</div>
 </a>
 
-<a href="#/elicitacao/listas_verificacao/lista_de_verificacao_rastrabilidade.md" class="card">
+<a href="#/elicitacao/listas_verificacao/lista_de_verificacao_rastreabilidade.md" class="card">
   <div class="card__icon">🗺️</div>
   <div class="card__title">Rastreabilidade</div>
   <div class="card__desc">Checklist de verificação de elos e matrizes de rastreabilidade</div>

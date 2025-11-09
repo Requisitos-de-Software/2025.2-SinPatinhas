@@ -84,12 +84,6 @@ details a:hover {
 </details>
 
 <details>
-  <summary><strong>Pré-rastreabilidade</strong></summary>
-    
-  - [Rich Picture](/planejamento/rich-picture/README.md)
-</details>
-
-<details>
   <summary><strong>Planejamento</strong></summary>
 
   - [Visão Geral](/planejamento/README.md)
@@ -100,6 +94,12 @@ details a:hover {
   - [Aplicativo Analisado](/planejamento/aplicativo/README.md)
   - [Atas de Reuniões](/planejamento/atas/README.md)
   - [Referências](/planejamento/referencias/README.md)
+</details>
+
+<details>
+  <summary><strong>Pré-rastreabilidade</strong></summary>
+    
+  - [Rich-Picture](/planejamento/rich-picture/README.md)
 </details>
 
 <details>
