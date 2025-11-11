@@ -232,8 +232,7 @@
 | [Letícia Paiva](https://docs.google.com/document/d/15TeVYaZZEhAD8WG7p2geeBq_Ll-SYVKswjFH6oi7Z8I/edit?tab=t.0) |
 | [Luciano Machado](https://docs.google.com/document/d/1yvkl6bOKOz1APucwxJpZKTQfSNJJ3Y_c67WCc4M1xB4/edit?pli=1&tab=t.0) |
 | [Mateus Negrini]() |
-| [Pedro Gomes Oliveira]() |
-
+| [Pedro Gomes](../assets/PDFs/ListVerif/Pedro100Dolares.pdf)" |
 ---
 
 ## Histórico de Versão

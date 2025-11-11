@@ -149,3 +149,9 @@ details a:hover {
   - [Verificação](analise/verif_principal.md)
   - [Validação](analise/valid_principal.md)
 </details>
+
+<details>
+  <summary><strong>Inspeções Monitor</strong></summary>
+
+  - [Inspeção](/rev_monitor/inspecao.md)
+</details>
