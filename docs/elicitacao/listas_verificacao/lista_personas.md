@@ -19,6 +19,7 @@
     <a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="chip">
           Lista de Elicitação
     </a>
+    <a href="#/elicitacao/listas_verificacao/lv_hu.md" class="chip">Histórias de Usuário</a>
 
   </div>
 </div>

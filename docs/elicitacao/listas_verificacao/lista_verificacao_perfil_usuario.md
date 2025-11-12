@@ -15,6 +15,7 @@
     <a href="#/elicitacao/listas_verificacao/lista_elicitacao.md" class="chip">
         Personas
     </a>
+    <a href="#/elicitacao/listas_verificacao/lv_hu.md" class="chip">Histórias de Usuário</a>
   </div>
 </div>
 
