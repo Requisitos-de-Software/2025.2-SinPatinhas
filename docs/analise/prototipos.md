@@ -1,4 +1,6 @@
-# Introdução
+# Validação com Portótipos
+
+## Introdução
 
 A prototipação é uma técnica essencial dentro da Engenharia de Requisitos e do processo de desenvolvimento de software, pois permite representar de forma tangível e interativa os requisitos de um sistema antes de sua implementação definitiva. Segundo Vazquez e Simões (2016), a prototipação é uma técnica que busca simular para o usuário o funcionamento dos seus requisitos antes que o produto final esteja pronto <a href="assets/images/analise/prototip.png" target="_blank">1</a>. Essa abordagem iterativa possibilita a verificação antecipada da adequação dos requisitos, bem como o descobrimento de novas necessidades por parte dos usuários.
 
@@ -6,7 +8,7 @@ O *Guide to the Software Engineering Body of Knowledge* – SWEBOK v4.0 (2025) c
 
 Dessa forma, a prototipação desempenha um papel estratégico na comunicação entre usuários e desenvolvedores, fortalecendo a compreensão mútua e aumentando a qualidade do produto final.
 
-# Objetivos
+## Objetivos
 
 O objetivo desta seção é apresentar o processo de prototipação realizado no contexto da Engenharia de Requisitos, utilizando o Figma como ferramenta de apoio à modelagem visual e à validação dos requisitos junto aos stakeholders.
 
@@ -22,7 +24,7 @@ Os objetivos específicos são:
 
 - Fornecer uma base sólida para o desenvolvimento do produto final.
 
-# Metodologia (Figma)
+## Metodologia (Figma)
 
 A prototipação foi desenvolvida utilizando o Figma, uma ferramenta online de design colaborativo que permite criar interfaces interativas e de fácil compartilhamento. O processo metodológico adotado seguiu as seguintes etapas:
 
@@ -35,6 +37,10 @@ Construção do protótipo interativo: Os wireframes foram refinados e conectado
 Validação com usuários: O protótipo foi apresentado aos stakeholders para análise e coleta de feedback, permitindo ajustes e melhorias antes do desenvolvimento definitivo.
 
 Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuário analisar se os seus requisitos estão sendo atendidos e até mesmo descobrir novos requisitos”, reforçando seu papel essencial na validação e evolução contínua do projeto.
+
+| **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
+|---------------|--------------|------------------|------------------|
+| **Antonio Carvalho** | [EL001](#el001) | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | #**EL001**: RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos) – *Relacionado à HU003 (Gestão de Perfis de Usuário)* |
 
 | **Participantes** | **Protótipo** | **Descrição** |
 |--------------------|---------------|----------------|
@@ -53,7 +59,7 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 ---
 <a id="prototipo01"></a>
-# Protótipo 01 - Aplicativo Móvel "SINPatinhas Agente" e Acesso Offline aos Dados dos Pets
+## Protótipo 01 - Aplicativo Móvel "SINPatinhas Agente" e Acesso Offline aos Dados dos Pets
 
 <iframe width="560" height="500" src="https://www.youtube.com/embed/GNzpGv44cuQ"
  title="Vídeo" frameborder="0" allowfullscreen></iframe>
@@ -65,7 +71,7 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 ---
 
-# Referências
+## Referências
 
 1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.
 
