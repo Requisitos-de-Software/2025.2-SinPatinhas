@@ -42,11 +42,11 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 |--------------------|---------------|----------------|--------------|
 | **Pedro Gomes** | [Protótipo 01](#prototipo01)|  |Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
 |  | [Protótipo 01](#prototipo01) |  | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
-| **Letícia Paiva** |  | — | — |
-|  |  | — | — |
 | **Antonio Carvalho** | [Protótipo 02](#prototipo02) |  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
 |  | [Protótipo 02](#prototipo02) |  | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
 | **Heloisa Santos** |  | — | — |
+| **Letícia Paiva** |  | — | — |
+|  |  | — | — |
 |  | — |  | — |
 | **Isaac Menezes** | — | — |
 |  | — |  | — |
@@ -62,7 +62,15 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 <iframe width="560" height="500" src="https://www.youtube.com/embed/GNzpGv44cuQ"
  title="Vídeo" frameborder="0" allowfullscreen></iframe>
 
-**Validação do Protótipo com Dono de Pet**
+---
+<a id="prototipo02"></a>
+# Protótipo 02 - Acesso Offline aos Dados dos Pets
+
+<iframe width="560" height="500" src="https://www.youtube.com/embed/HWXnLrvC-zA"
+ title="Vídeo" frameborder="0" allowfullscreen></iframe>
+
+
+**Validação dos Protótipos 01 e 02 com Dono de Pet**
 
 <iframe width="560" height="500" src="https://www.youtube.com/embed/lc6ecCUG4oo"
  title="Vídeo" frameborder="0" allowfullscreen></iframe>
