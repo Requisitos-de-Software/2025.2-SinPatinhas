@@ -146,5 +146,5 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Barbosa (2005)*
 | Versão | Data       | Descrição                                        | Autores       | Revisores               |
 |-------:|------------|--------------------------------------------------|---------------|-------------------------|
 | 1.0    | 12/11/2025 | Criação da página da lista de verificação geral, sua estruturação e criação das tabelas de Rich-Picture e Prefil de Usuário | Antonio Carvalho |    |
-
+| 1.1   | 12/11/2025 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |    |
 ---
