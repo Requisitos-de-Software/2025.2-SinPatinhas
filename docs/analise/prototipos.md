@@ -38,10 +38,6 @@ Validação com usuários: O protótipo foi apresentado aos stakeholders para an
 
 Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuário analisar se os seus requisitos estão sendo atendidos e até mesmo descobrir novos requisitos”, reforçando seu papel essencial na validação e evolução contínua do projeto.
 
-| **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
-|---------------|--------------|------------------|------------------|
-| **Antonio Carvalho** | [EL001](#el001) | [#EL001](../pos-rastreabilidade/unitarios/antonio/elos.md) | #**EL001**: RF017 - Suporte a perfis ampliados de atores (ONGs, protetores, gestores públicos) – *Relacionado à HU003 (Gestão de Perfis de Usuário)* |
-
 | **Participantes** | **Protótipo** | **Descrição** |
 |--------------------|---------------|----------------|
 | **Pedro Gomes** | [Protótipo 01](#prototipo01)|Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
@@ -58,7 +54,9 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 |  | — | — |
 
 ---
+
 <a id="prototipo01"></a>
+
 ## Protótipo 01 - Aplicativo Móvel "SINPatinhas Agente" e Acesso Offline aos Dados dos Pets
 
 <iframe width="560" height="500" src="https://www.youtube.com/embed/GNzpGv44cuQ"
@@ -70,6 +68,11 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
  title="Vídeo" frameborder="0" allowfullscreen></iframe>
 
 ---
+
+<a id="prototipo02"></a>
+
+## Protótipo 02 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) e Integração direta com parceiros (clínicas, ONGs, pet shops)
+
 
 ## Referências
 
