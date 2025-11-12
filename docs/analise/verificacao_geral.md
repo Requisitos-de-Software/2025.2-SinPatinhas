@@ -69,25 +69,25 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID        | Categoria      | Item | Artefato está conforme? | Responsável |
 |-----------|----------------|------|--------------|------------|
-| #V001 | Rich Picture   | [Os atores que interagem com o sistema foram identificados?]() | | Antonio |
-| #V002 | Rich Picture   | [Cada ator está representado graficamente por um boneco (homem palito)?]() | | Antonio |
-| #V003 | Rich Picture   | [Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?]() | | Antonio |
-| #V004 | Rich Picture   | [Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?]() | | Antonio |
-| #V005 | Rich Picture   | [Cada ator tem pelo menos uma operação associada?]() | | Antonio |
-| #V006 | Rich Picture   | [As operações (processos/funções) que o sistema executa foram listadas?]() | | Antonio |
-| #V007 | Rich Picture   | [Cada operação está representada graficamente por um círculo ou oval?]() | | Antonio |
-| #V008 | Rich Picture   | [Cada operação tem um rótulo descritivo dentro do oval?]() | | Antonio |
-| #V009 | Rich Picture   | [Todas as operações estão corretamente associadas a um ou mais atores?]() | | Antonio |
-| #V010 | Rich Picture   | [Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?]() | | Antonio |
-| #V011 | Rich Picture   | [Cada data store está representado graficamente por um retângulo?]() | | Antonio |
-| #V012 | Rich Picture   | [Cada data store possui indicação do tipo de dado que armazena?]() | | Antonio |
-| #V013 | Rich Picture   | [Apenas operações estão conectadas a data stores (leitura/escrita)?]() | | Antonio |
-| #V014 | Rich Picture   | [Todos os fluxos de informação entre atores, operações e data stores estãorepresentados?]() | | Antonio |
-| #V015 | Rich Picture   | [Cada seta possui apenas uma direção clara (entrada ou saída)?]() | | Antonio |
-| #V016 | Rich Picture   | [Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?]() | | Antonio |
-| #V017 | Rich Picture   | [Foi traçada a fronteira do sistema (círculo/linha sólida ou tracejada) delimitando a área de responsabilidade?]() | | Antonio |
-| #V018 | Rich Picture   | [Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?]() | | Antonio |
-| #V019 | Rich Picture   | [Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?]() | | Antonio |
+| #V001 | Rich Picture   | [Os atores que interagem com o sistema foram identificados?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V002 | Rich Picture   | [Cada ator está representado graficamente por um boneco (homem palito)?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V003 | Rich Picture   | [Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V004 | Rich Picture   | [Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V005 | Rich Picture   | [Cada ator tem pelo menos uma operação associada?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V006 | Rich Picture   | [As operações (processos/funções) que o sistema executa foram listadas?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V007 | Rich Picture   | [Cada operação está representada graficamente por um círculo ou oval?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V008 | Rich Picture   | [Cada operação tem um rótulo descritivo dentro do oval?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V009 | Rich Picture   | [Todas as operações estão corretamente associadas a um ou mais atores?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V010 | Rich Picture   | [Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V011 | Rich Picture   | [Cada data store está representado graficamente por um retângulo?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V012 | Rich Picture   | [Cada data store possui indicação do tipo de dado que armazena?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V013 | Rich Picture   | [Apenas operações estão conectadas a data stores (leitura/escrita)?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V014 | Rich Picture   | [Todos os fluxos de informação entre atores, operações e data stores estãorepresentados?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V015 | Rich Picture   | [Cada seta possui apenas uma direção clara (entrada ou saída)?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V016 | Rich Picture   | [Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V017 | Rich Picture   | [Foi traçada a fronteira do sistema (círculo/linha sólida ou tracejada) delimitando a área de responsabilidade?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V018 | Rich Picture   | [Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
+| #V019 | Rich Picture   | [Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?](../planejamento/rich-picture/lista_de_verificao.md) | | Antonio |
 
 
 
@@ -97,24 +97,24 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID        | Categoria      | Item | Artefato está conforme? | Responsável |
 |-----------|----------------|------|--------------|------------|
-| #V020 | Perfil de Usuário | [O perfil de usuário possui registro dos objetivos dos usuários?]() | | Leticia, Mateus, Pedro |
-| #V021 | Perfil de Usuário | [O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?]() | | Heloisa, Pedro, Leticia, Mateus |
-| #V022 | Perfil de Usuário | [As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?]() | | Heloisa |
-| #V023 | Perfil de Usuário | [Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)]() | | Heloisa |
-| #V024 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados?]() (faixa etária 10-15 anos) |  | Mateus, Heloisa |
-| #V025 | Perfil de Usuário | [Foram traçados perfis de usuário considerando as faixas de dados agregados?]() | | Heloisa |
-| #V026 | Perfil de Usuário | [Foi calculada a proporção de usuários que se encaixam em cada perfil?]() | | Heloisa, Mateus |
-| #V027 | Perfil de Usuário | [O perfil de usuário foi elaborado dentro de um processo iterativo?]() | | Heloisa |
-| #V028 | Perfil de Usuário | [As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)]() | | Heloisa |
-| #V029 | Perfil de Usuário | [Os usuários foram categorizados em grupos?]() | | Mateus, Heloisa |
-| #V030 | Perfil de Usuário | [Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?]() | | Heloisa |
-| #V031 | Perfil de Usuário | [O perfil de usuário possui nível de experiência do usuário?]() | | Leticia, Pedro, Mateus |
-| #V032 | Perfil de Usuário | [O perfil de usuário possui tarefas que deverão ser realizadas no sistema?]() | | Leticia, Pedro, Mateus |
-| #V033 | Perfil de Usuário | [O conhecimento do usuário sobre o domínio do produto está especificado?]() | | Pedro, Mateus, Leticia |
-| #V034 | Perfil de Usuário | [A experiência profissional e o cargo do usuário estão detalhados?]() | | Pedro, Leticia |
-| #V035 | Perfil de Usuário | [As atitudes e valores do usuário em relação à tecnologia foram considerados?]() | | Pedro, Mateus |
-| #V036 | Perfil de Usuário | [A experiência prévia do usuário com computadores e outros sistemas está documentada?]() | | Leticia, Pedro, Mateus |
-| #V037 | Perfil de Usuário | [O perfil detalha a experiência do usuário com produtos similares ou concorrentes?]() | | Pedro |
+| #V020 | Perfil de Usuário | [O perfil de usuário possui registro dos objetivos dos usuários?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Leticia, Mateus, Pedro |
+| #V021 | Perfil de Usuário | [O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa, Pedro, Leticia, Mateus |
+| #V022 | Perfil de Usuário | [As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa |
+| #V023 | Perfil de Usuário | [Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa |
+| #V024 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) (faixa etária 10-15 anos) |  | Mateus, Heloisa |
+| #V025 | Perfil de Usuário | [Foram traçados perfis de usuário considerando as faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa |
+| #V026 | Perfil de Usuário | [Foi calculada a proporção de usuários que se encaixam em cada perfil?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa, Mateus |
+| #V027 | Perfil de Usuário | [O perfil de usuário foi elaborado dentro de um processo iterativo?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa |
+| #V028 | Perfil de Usuário | [As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa |
+| #V029 | Perfil de Usuário | [Os usuários foram categorizados em grupos?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Mateus, Heloisa |
+| #V030 | Perfil de Usuário | [Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Heloisa |
+| #V031 | Perfil de Usuário | [O perfil de usuário possui nível de experiência do usuário?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Leticia, Pedro, Mateus |
+| #V032 | Perfil de Usuário | [O perfil de usuário possui tarefas que deverão ser realizadas no sistema?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Leticia, Pedro, Mateus |
+| #V033 | Perfil de Usuário | [O conhecimento do usuário sobre o domínio do produto está especificado?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Pedro, Mateus, Leticia |
+| #V034 | Perfil de Usuário | [A experiência profissional e o cargo do usuário estão detalhados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Pedro, Leticia |
+| #V035 | Perfil de Usuário | [As atitudes e valores do usuário em relação à tecnologia foram considerados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Pedro, Mateus |
+| #V036 | Perfil de Usuário | [A experiência prévia do usuário com computadores e outros sistemas está documentada?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Leticia, Pedro, Mateus |
+| #V037 | Perfil de Usuário | [O perfil detalha a experiência do usuário com produtos similares ou concorrentes?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | | Pedro |
 
 ---
 
