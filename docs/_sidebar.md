@@ -148,8 +148,7 @@ details a:hover {
   <summary><strong>Análise</strong></summary>
 
   - [Verificação](/analise/verificacao_geral.md)
-  - [Validação](/analise/valid_principal.md)
-  - [Protótipos](/analise/prototipos.md)
+  - [Validação](/analise/prototipos.md)
 </details>
 
 <details>

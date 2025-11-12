@@ -38,20 +38,19 @@ Validação com usuários: O protótipo foi apresentado aos stakeholders para an
 
 Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuário analisar se os seus requisitos estão sendo atendidos e até mesmo descobrir novos requisitos”, reforçando seu papel essencial na validação e evolução contínua do projeto.
 
-| **Participantes** | **Protótipo** | **Página Unitária** |**Descrição** |
-|--------------------|---------------|----------------|--------------|
-| **Pedro Gomes** | [Protótipo 01](#prototipo01)|  |Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
-|  | [Protótipo 01](#prototipo01) |  | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
-| **Antonio Carvalho** | [Protótipo 02](#prototipo02) |  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
-|  | [Protótipo 02](#prototipo02) |  | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
-| **Heloisa Santos** |  | — | — |
-| **Letícia Paiva** |  | — | — |
-|  |  | — | — |
-|  | — |  | — |
+| **Participantes** | **Protótipo** | **Descrição** |
+|--------------------|---------------|--------------|
+| **Pedro Gomes** | [Protótipo 01](#prototipo01)  |Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
+|  | [Protótipo 02](#prototipo01)  | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+| **Antonio Carvalho** | [Protótipo 03](#prototipo03)  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+|  | [Protótipo 04](#prototipo04) | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+| **Heloisa Santos** |   — | — |
+| **Letícia Paiva** | — | — |
+| | — | — |
 | **Isaac Menezes** | — | — |
-|  | — |  | — |
+| — |  | — |
 | **Mateus Negrini** | — | — |
-|  | — |  | — |
+| — |  | — |
 
 ---
 
@@ -77,12 +76,26 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 ---
 
-<a id="prototipo02"></a>
+<a id="prototipo03"></a>
 
-## Protótipo 02 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) e Integração direta com parceiros (clínicas, ONGs, pet shops)
+## Protótipo 03 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) 7
 
+---
 
-## Referências
+<a id="prototipo04"></a>
+
+## Protótipo 04 - Integração direta com parceiros (clínicas, ONGs, pet shops)
+
+---
+
+## Agradecimentos
+
+Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
+A base conceitual foi desenvolvida com base nos fundamentos de **Barbosa (2005)** e **CTEC2402**.
+ 
+---
+
+## Referências Bibliográficas
 
 1. VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro: Brasport, 2016.
 
@@ -91,3 +104,5 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 11/11/2025 |  1.0   |  Criação da página de prototipação  | Pedro Gomes |   |
+| 12/11/2025   | 1.1 | Edição da página de protótipos com confirguração geral de estrutura e adição dos protótipos unitários | Antonio Carvalho |    |
+---
