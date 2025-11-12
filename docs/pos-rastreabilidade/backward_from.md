@@ -141,8 +141,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 
 # Referência Bibliográfica
 
-> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em
-Ciência da Computação, Rio de Janeiro, n. 20/05, p. 1-22, maio 2005.
+> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. Monografias em Ciência da Computação, Rio de Janeiro, n. 20/05, p. 1-22, maio 2005.
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio. Rio de Janeiro : Brasport, 2016.
 
