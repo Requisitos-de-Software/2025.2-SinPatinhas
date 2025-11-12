@@ -38,20 +38,20 @@ Validação com usuários: O protótipo foi apresentado aos stakeholders para an
 
 Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuário analisar se os seus requisitos estão sendo atendidos e até mesmo descobrir novos requisitos”, reforçando seu papel essencial na validação e evolução contínua do projeto.
 
-| **Participantes** | **Protótipo** | **Descrição** |
-|--------------------|---------------|----------------|
-| **Pedro Gomes** | [Protótipo 01](#prototipo01)|Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
-|  | [Protótipo 01](#prototipo01) | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
-| **Letícia Paiva** | — | — |
-|  | — | — |
-| **Antonio Carvalho** | [Protótipo 02](#prototipo02) | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
-|  | [Protótipo 02](#prototipo02) | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
-| **Heloisa Santos** | — | — |
-|  | — | — |
+| **Participantes** | **Protótipo** | **Página Unitária** |**Descrição** |
+|--------------------|---------------|----------------|--------------|
+| **Pedro Gomes** | [Protótipo 01](#prototipo01)|  |Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
+|  | [Protótipo 01](#prototipo01) |  | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+| **Letícia Paiva** |  | — | — |
+|  |  | — | — |
+| **Antonio Carvalho** | [Protótipo 02](#prototipo02) |  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+|  | [Protótipo 02](#prototipo02) |  | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+| **Heloisa Santos** |  | — | — |
+|  | — |  | — |
 | **Isaac Menezes** | — | — |
-|  | — | — |
+|  | — |  | — |
 | **Mateus Negrini** | — | — |
-|  | — | — |
+|  | — |  | — |
 
 ---
 
