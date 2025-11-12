@@ -48,6 +48,12 @@
   <div class="card__desc">Checklist de objetivo, fluxo, pré/pós-condições e exceções.</div>
 </a>
 
+<a href="#/elicitacao/listas_verificacao/lv_hu.md" class="card">
+  <div class="card__icon">📝</div>
+  <div class="card__title">Histórias de Usuário</div>
+  <div class="card__desc">Checklist de verificação das histórias de usuário</div>
+</a>
+
 <a href="#/elicitacao/listas_verificacao/lista_de_verificacao_rastreabilidade.md" class="card">
   <div class="card__icon">🗺️</div>
   <div class="card__title">Rastreabilidade</div>

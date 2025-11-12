@@ -13,6 +13,8 @@
     <a href="#/elicitacao/listas_verificacao/lista_personas.md" class="chip">
         Personas
     </a>
+    <a href="#/elicitacao/listas_verificacao/lv_hu.md" class="chip">Histórias de Usuário</a>
+    <a href="#/elicitacao/listas_verificacao/lista_de_verificacao_rastreabilidade.md" class="chip">Rastreabilidade</a>
   </div>
 </div>
 
