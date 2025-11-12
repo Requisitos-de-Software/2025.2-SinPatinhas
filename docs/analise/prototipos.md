@@ -39,7 +39,7 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 | **Participantes** | **Protótipo** | **Descrição** |
 |--------------------|---------------|----------------|
 | **Pedro Gomes** | [Protótipo 01](#prototipo01)|Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
-|  | [Protótipo 01](#prototipo01) | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+|  | [Protótipo 02](#prototipo02) | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
 | **Letícia Paiva** | — | — |
 |  | — | — |
 | **Antonio Carvalho** | — | — |
