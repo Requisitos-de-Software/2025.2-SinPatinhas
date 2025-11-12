@@ -5,7 +5,7 @@ Neste documento será realizada a **análise de verificação do Projeto SinPati
 O propósito é garantir que os artefatos produzidos — como *Rich Picture*, *Perfil de Usuários*, *Entrevistas*, *MoSKoW*, *Léxicos*, *Histórias de Usuário*, *Casos de Uso*, entre outros — atendam aos critérios de **qualidade, consistência, completude e rastreabilidade** estabelecidos pela metodologia da disciplina.
 
 Durante a **fase de inspeção cruzada (grupo +1)**, os artefatos do grupo SinPatinhas foram avaliados por outro grupo, utilizando **listas de verificação específicas** para cada entrega.  
-Abaixo estão os links para as páginas unitárias de inspeção correspondentes às entregas do grupo +1:
+Abaixo estão os links para as **páginas unitárias** de inspeção correspondentes às entregas do grupo +1:
 
 - [Inspeção Grupo +1 - Entrega 2](../inspecoes/inspecao_g2_e2.md)
 - [Inspeção Grupo +1 - Entrega 3](../inspecoes/inspecao_g2_e3.md)
@@ -13,8 +13,9 @@ Abaixo estão os links para as páginas unitárias de inspeção correspondentes
 - [Inspeção Grupo +1 - Entrega 5](../inspecoes/inspecao_g2_e5.md)
 
 Também foram criadas listas de verificação **ao longo do processo de desenvolvimento** para análise e geração de consistência com o que as estruturas requerem.
-Abaixo estão os links para as páginas unitárias de lista de verificação correspondentes às entregas do nosso grupo, nº 1, o qual analisa o SinPatinhas:
+Abaixo estão os links para as **páginas unitárias** de lista de verificação correspondentes às entregas do nosso grupo, nº 1, o qual analisa o SinPatinhas:
 
+- [Lista de Verificação de Rich-Picture](../planejamento/rich-picture/lista_de_verificao.md)  
 - [Lista de Verificação de Cenários](../elicitacao/listas_verificacao/lista_cenarios.md)  
 - [Lista de Verificação de Elicitação](../elicitacao/listas_verificacao/lista_elicitacao.md)  
 - [Lista de Verificação de Personas](../elicitacao/listas_verificacao/lista_personas.md)  
@@ -100,7 +101,7 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V021 | Perfil de Usuário | [O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?]() | | Heloisa, Pedro, Leticia, Mateus |
 | #V022 | Perfil de Usuário | [As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?]() | | Heloisa |
 | #V023 | Perfil de Usuário | [Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)]() | | Heloisa |
-| #V024 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados?]() (faixa etária 10-15 anos) | Mateus, Heloisa |
+| #V024 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados?]() (faixa etária 10-15 anos) |  | Mateus, Heloisa |
 | #V025 | Perfil de Usuário | [Foram traçados perfis de usuário considerando as faixas de dados agregados?]() | | Heloisa |
 | #V026 | Perfil de Usuário | [Foi calculada a proporção de usuários que se encaixam em cada perfil?]() | | Heloisa, Mateus |
 | #V027 | Perfil de Usuário | [O perfil de usuário foi elaborado dentro de um processo iterativo?]() | | Heloisa |
