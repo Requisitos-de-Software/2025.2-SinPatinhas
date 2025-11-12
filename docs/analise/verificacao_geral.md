@@ -65,7 +65,7 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 #### Tabela de Rich Picture
 
-***Autor:** Antonio Carvalho*
+**Autor:** Antonio Carvalho
 
 | ID        | Categoria      | Item | Artefato está conforme? | Responsável |
 |-----------|----------------|------|--------------|------------|
@@ -93,7 +93,7 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 #### Tabela de Rich Picture
 
-***Autor:** Antonio Carvalho*
+**Autor:** Antonio Carvalho
 
 | ID        | Categoria      | Item | Artefato está conforme? | Responsável |
 |-----------|----------------|------|--------------|------------|
