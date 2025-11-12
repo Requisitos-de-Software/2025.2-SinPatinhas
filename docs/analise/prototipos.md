@@ -78,13 +78,41 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 <a id="prototipo03"></a>
 
-## Protótipo 03 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) 7
+## Protótipo 03 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais)
+
+### 1. Fluxo RFNI016: Adoção de Animais
+
+#### 1.1. Tela: Animais para Adoção (Visão Geral)
+
+| Elemento            | Nome no Esboço                                            | Detalhe da Prototipagem                                                                                                |
+| :------------------ | :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| **Sub-Aba Ativa** | `Animais para Adoção`                                     | Permanece na mesma tela (Conteúdo da listagem de animais).                                                            |
+| Sub-Aba Inativa     | `Rede de Integração com Parceiros`                        | **CLICÁVEL (Trigger: On Click) $\rightarrow$ Navegar para:** `Tela: Rede de Integração com Parceiros` |
+| **Filtros** | `Localização Próxima`, `Espécie`, `Porte`, `Idade`, `Sexo`, `Vacinado?` | (Elementos de filtro para visualização, não clicáveis no protótipo básico de navegação).                             |
+
+![Sistema de adoção de animais](../assets/images/prototipos/antonio/antonio-p5.png)
+
+## Vídeo de Validação com Tutora de Animal
 
 ---
 
 <a id="prototipo04"></a>
 
 ## Protótipo 04 - Integração direta com parceiros (clínicas, ONGs, pet shops)
+
+### 2. Fluxo RFNI018: Rede de Integração com Parceiros
+
+#### 2.1. Tela: Rede de Integração com Parceiros (Visão Geral)
+
+| Elemento            | Nome no Esboço                                            | Detalhe da Prototipagem                                                                                                |
+| :------------------ | :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| Sub-Aba Inativa     | `Animais para Adoção`                                     | **CLICÁVEL (Trigger: On Click) $\rightarrow$ Navegar para:** `Tela: Animais para Adoção` (Esboço 2)                   |
+| **Sub-Aba Ativa** | `Rede de Integração com Parceiros`                        | Permanece na mesma tela (Conteúdo da listagem de parceiros).                                                          |
+| **Filtros** | `Localização Parceiro`, `Espécie`, `Serviço`, `Ordenar por: Melhor Avaliação / Mais Próximo / Melhor Preço` | (Elementos de filtro para visualização, e o "Ordenar por" pode ter simulação de clique para mudar a ordem da lista). |
+
+![Integração direta com parceiros](../assets/images/prototipos/antonio/antonio-p6.png)
+
+## Vídeo de Validação com Tutora de Animal
 
 ---
 
