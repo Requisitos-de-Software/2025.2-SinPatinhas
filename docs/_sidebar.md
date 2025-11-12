@@ -100,6 +100,7 @@ details a:hover {
   <summary><strong>Pré-rastreabilidade</strong></summary>
     
   - [Rich-Picture](/planejamento/rich-picture/README.md)
+  - [Lista de Verificação](/planejamento/rich-picture/lista_de_verificao.md)
 </details>
 
 <details>
@@ -146,7 +147,7 @@ details a:hover {
 <details>
   <summary><strong>Análise</strong></summary>
 
-  - [Verificação](/analise/verif_principal.md)
+  - [Verificação](/analise/verificacao_geral.md)
   - [Validação](/analise/valid_principal.md)
   - [Protótipos](/analise/prototipos.md)
 </details>
