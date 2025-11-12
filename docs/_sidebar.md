@@ -84,12 +84,6 @@ details a:hover {
 </details>
 
 <details>
-  <summary><strong>Pré-rastreabilidade</strong></summary>
-    
-  - [Rich Picture](/planejamento/rich-picture/README.md)
-</details>
-
-<details>
   <summary><strong>Planejamento</strong></summary>
 
   - [Visão Geral](/planejamento/README.md)
@@ -100,6 +94,12 @@ details a:hover {
   - [Aplicativo Analisado](/planejamento/aplicativo/README.md)
   - [Atas de Reuniões](/planejamento/atas/README.md)
   - [Referências](/planejamento/referencias/README.md)
+</details>
+
+<details>
+  <summary><strong>Pré-rastreabilidade</strong></summary>
+    
+  - [Rich-Picture](/planejamento/rich-picture/README.md)
 </details>
 
 <details>
@@ -146,6 +146,13 @@ details a:hover {
 <details>
   <summary><strong>Análise</strong></summary>
 
-  - [Verificação](analise/verif_principal.md)
-  - [Validação](analise/valid_principal.md)
+  - [Verificação](/analise/verif_principal.md)
+  - [Validação](/analise/valid_principal.md)
+  - [Protótipos](/analise/prototipos.md)
+</details>
+
+<details>
+  <summary><strong>Inspeções Monitor</strong></summary>
+
+  - [Inspeção](/rev_monitor/inspecao.md)
 </details>
