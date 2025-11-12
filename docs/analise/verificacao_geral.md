@@ -132,26 +132,26 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID     | Categoria                     | Item | Artefato está conforme? |
 |--------|--------------------------------|------|---------------------------|
-| #V040 | Estrutura e Limites do Sistema | [O sistema é representado por um retângulo no diagrama?](../modelagem/casos_de_uso.md) | Conforme |
-| #V041 | Estrutura e Limites do Sistema | [O nome do sistema está inserido no topo do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V042 | Estrutura e Limites do Sistema | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V043 | Estrutura e Limites do Sistema | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V044 | Atores | [Os atores são representados por bonecos palito?](../modelagem/casos_de_uso.md) | Conforme |
-| #V045 | Atores | [Os atores representam classes/categorias de usuários, e não indivíduos?](../modelagem/casos_de_uso.md) | Conforme |
-| #V046 | Atores | [Atores primários estão posicionados à esquerda do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V047 | Atores | [Atores secundários estão posicionados à direita do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V048 | Atores | [Cada ator está associado a pelo menos um caso de uso?](../modelagem/casos_de_uso.md) | Conforme |
+| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](../modelagem/casos_de_uso.md) | Conforme |
+| #V041 | Casos de Uso  | [O nome do sistema está inserido no topo do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
+| #V042 | Casos de Uso  | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
+| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
+| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](../modelagem/casos_de_uso.md) | Conforme |
+| #V045 | Casos de Uso  | [Os atores representam classes/categorias de usuários, e não indivíduos?](../modelagem/casos_de_uso.md) | Conforme |
+| #V046 | Casos de Uso  | [Atores primários estão posicionados à esquerda do sistema?](../modelagem/casos_de_uso.md) | Conforme |
+| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](../modelagem/casos_de_uso.md) | Conforme |
+| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](../modelagem/casos_de_uso.md) | Conforme |
 | #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](../modelagem/casos_de_uso.md) | Conforme |
 | #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](../modelagem/casos_de_uso.md) | Conforme |
 | #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](../modelagem/casos_de_uso.md) | Conforme |
 | #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](../modelagem/casos_de_uso.md) | Conforme |
-| #V053 | Relacionamentos | [Relacionamentos de associação são representados por linhas sólidas?](../modelagem/casos_de_uso.md) | Conforme |
-| #V054 | Relacionamentos | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](../modelagem/casos_de_uso.md) | Conforme |
-| #V055 | Relacionamentos | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](../modelagem/casos_de_uso.md) | Conforme |
-| #V056 | Relacionamentos | [Relacionamentos de generalização (herança entre atores ou casos) estão corretos?](../modelagem/casos_de_uso.md) | Conforme |
-| #V057 | Propósito do Diagrama | [O diagrama oferece visão geral simples e compreensível do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V058 | Propósito do Diagrama | [O diagrama demonstra o fluxo básico funcional do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V059 | Propósito do Diagrama | [As funcionalidades representadas foram validadas com o cliente?](../modelagem/casos_de_uso.md) | Conforme |
+| #V053 | Casos de Uso  | [Relacionamentos de associação são representados por linhas sólidas?](../modelagem/casos_de_uso.md) | Conforme |
+| #V054 | Casos de Uso  | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](../modelagem/casos_de_uso.md) | Conforme |
+| #V055 | Casos de Uso  | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](../modelagem/casos_de_uso.md) | Conforme |
+| #V056 | Casos de Uso  | [Relacionamentos de generalização (herança entre atores ou casos) estão corretos?](../modelagem/casos_de_uso.md) | Conforme |
+| #V057 | Casos de Uso  | [O diagrama oferece visão geral simples e compreensível do sistema?](../modelagem/casos_de_uso.md) | Conforme |
+| #V058 | Casos de Uso  | [O diagrama demonstra o fluxo básico funcional do sistema?](../modelagem/casos_de_uso.md) | Conforme |
+| #V059 | Casos de Uso a | [As funcionalidades representadas foram validadas com o cliente?](../modelagem/casos_de_uso.md) | Conforme |
 
 
 <a id="tb004"></a>
