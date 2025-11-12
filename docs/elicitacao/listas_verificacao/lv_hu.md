@@ -137,18 +137,16 @@
   </tbody>
 </table>
 
-## Lista de verificação elaborada por cada integrante do grupo
+## Referências
 
-| Integrante |
-|------------|
-| [Letícia Paiva](https://docs.google.com/document/d/1CRgojOkMi6vhk4ZZKfFdrQXARHefyQiQhZ_S4qiLc70/edit?usp=sharing) |
-| [Pedro Gomes Oliveira]() |
+
+<a href="assets/PDFs/ListVerf/lv_hu.png" target="_blank">Documento com as referências</a>
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                              | Autores | Revisores |
 |------:|------------|----------------------------------------------------------|---------|-----------|
-| 1.0   | 30/09/2025 | Criação da página da lista de verificação de elicitação | Leticia |    |
+| 1.0   | 12/11/2025 | Criação da página da lista de histórias de usuário | Pedro |    |
 
 <style>
 :root{

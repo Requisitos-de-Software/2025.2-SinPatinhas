@@ -125,7 +125,11 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V037 | Perfil de Usuário | [O perfil detalha a experiência do usuário com produtos similares ou concorrentes?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |
 
 ---
+<a id="tb002"></a>
 
+#### Tabela de Verificação Perfil de Usuário
+
+---
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
