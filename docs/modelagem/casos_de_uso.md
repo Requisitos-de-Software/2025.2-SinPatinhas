@@ -139,11 +139,55 @@ A tabela a seguir apresenta os componentes utilizados.
 
 ### #UC003 – Sistema de Adoção (RNFI016)
 
+## #UC003 – Sistema de Adoção ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
+
+**Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
+
+<font><p style="text-align: center">**Tabela 01** – Caso de Uso 03 – Sistema de Adoção (RFNI016)</p></font>
+
+| **Item** | **Informações** |
+|-----------|----------------|
+| **Código** | `#UC003` |
+| **Descrição** | O sistema deve permitir que um candidato a adotante busque animais disponíveis e manifeste interesse por um deles utilizando filtros de busca. |
+| **Ator** | Candidato a Adotante |
+| **Pré-condições** | O candidato deve ter acesso à internet, ao endereço do site e o sistema deve estar em funcionamento. |
+| **Ação** | Manifestar interesse em adotar um animal. |
+| **Fluxo principal** | <ul><li>O adotante acessa a página principal do site.</li><li>Navega até o módulo “Adoção”.</li><li>Utiliza filtros como espécie, idade e porte.</li><li>O sistema lista animais compatíveis.</li><li>O ator seleciona um animal.</li><li>Visualiza o perfil completo.</li><li>Clica em “Tenho Interesse”.</li><li>O sistema registra o interesse e notifica a entidade responsável.</li></ul> |
+| **Fluxo alternativo** | <ul><li>A busca não retorna resultados.</li><li>O sistema sugere alterar os filtros utilizados.</li></ul> |
+| **Fluxo de exceção** | <ul><li>O animal já foi adotado antes do envio da solicitação.</li><li>O sistema emite mensagem de indisponibilidade e indica animais semelhantes.</li></ul> |
+| **Pós-condições** | O registro de manifestação de interesse é salvo e associado ao perfil do animal no sistema. |
+| **Data de Criação** | 11/10/2025 |
+| **Rastreabilidade** | `RFNI016` |
+| **Cenário relacionado** | [`#CEN01`](../../../modelagem/cenarios.md#cen001) |
+| **Léxico relacionado** | `#LX008` |
+
 ---
 
 <a id="uc004"></a>
 
 ### #UC004 – Alertas e Notificações Automáticas (RNFI017)
+
+### #UC004 – Alertas e Notificações Automáticas ([RFNI017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017))
+
+**Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
+
+<font><p style="text-align: center">**Tabela 02** – Caso de Uso 04 – Alertas e Notificações Automáticas (RFNI017)</p></font>
+
+| **Item** | **Informações** |
+|-----------|----------------|
+| **Código** | `#UC004` |
+| **Descrição** | O sistema deve permitir que tutores de animais agendem lembretes de saúde e recebam notificações automáticas por e-mail na data programada. |
+| **Ator** | Tutor do Animal |
+| **Pré-condições** | <ul><li>O tutor deve estar autenticado no site.</li><li>O animal deve estar cadastrado no perfil do tutor.</li></ul> |
+| **Ação** | Agendar lembrete de saúde. |
+| **Fluxo principal** | <ul><li>O tutor acessa sua área pessoal.</li><li>Seleciona o perfil do animal.</li><li>Navega até “Lembretes de Saúde”.</li><li>Clica em “Novo Agendamento”.</li><li>Preenche tipo do lembrete, nome, data e hora.</li><li>Confirma o agendamento.</li><li>O sistema salva e exibe mensagem de sucesso.</li><li>Na data programada, o sistema envia o e-mail automático.</li></ul> |
+| **Fluxo alternativo** | <ul><li>O tutor cancela a operação antes de confirmar o agendamento.</li></ul> |
+| **Fluxo de exceção** | <ul><li>O tutor insere uma data inválida (ex.: data no passado).</li><li>O sistema exibe erro e impede o registro.</li><li>O sistema falha ao salvar o lembrete.</li><li>O sistema exibe uma mensagem de erro e orienta tentar novamente.</li></ul> |
+| **Pós-condições** | O lembrete é registrado e vinculado ao perfil do animal. |
+| **Data de Criação** | 11/10/2025 |
+| **Rastreabilidade** | `RFNI017` |
+| **Cenário relacionado** | [`#CEN02`](../../../modelagem/cenarios.md#cen002) |
+| **Léxico relacionado** | `#LX004` |
 
 ---
 

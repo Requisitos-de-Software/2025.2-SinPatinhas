@@ -66,15 +66,106 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 ## Artefatos
 
-<a id="cnr001"></a>
+<a id="cen001"></a>
 
-### #CNR001 – Sistema de Adoção – [RNFI016](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CEN001 – Cenário 01 — Sistema de Adoção ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
+
+**Autora:** Letícia Paiva  
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Título** | Busca por Animal no Site de Adoção |
+| **Código** | CEN001 |
+| **Caso de uso trabalhado** | [UC003](../../../modelagem/casos_de_uso.md#uc003) |
+
+### **Ambiente/Contexto**
+Local: Site de adoção acessado via navegador web em computador ou smartphone.  
+Tempo: Indeterminado.  
+Pré-condição: Usuário com acesso à internet e conhecimento do endereço do site.
+
+### **Atores**
+Candidato a Adotante.
+
+### **Objetivos**
+Permitir que um candidato busque um animal com características específicas e manifeste interesse pela adoção.
+
+### **Planejamento**
+O adotante deseja encontrar um animal adequado ao seu perfil usando filtros detalhados.
+
+### **Ações**
+1. O adotante acessa o site e navega até **“Adoção”**.  
+2. Utiliza filtros como espécie, porte e idade.  
+3. O sistema exibe os animais compatíveis.  
+4. O adotante abre o perfil de um animal.  
+5. Clica em **“Tenho Interesse em Adotar”**.  
+6. O sistema processa e envia a solicitação para a ONG responsável.  
+7. Mensagem de confirmação é exibida.
+
+### **Eventos**
+- Exibição de perfis filtrados.  
+- Visualização de detalhes.  
+- Envio de notificação à ONG.  
+- Registro da intenção de adoção.
+
+### **Avaliação**
+O ator confirma se conseguiu buscar, visualizar e enviar solicitação por um animal.
+
+### **Exceção**
+Se o animal já tiver sido adotado, o sistema informa indisponibilidade e sugere animais similares.
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
-<a id="cnr002"></a>
+---
 
-### #CNR002 – Alertas e Notificações Automáticas – [RNFI017](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+<a id="cen002"></a>
+
+### #CEN002 – Cenário 02 — Alertas e Notificações Automáticas ([RFNI017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017))
+
+**Autora:** Letícia Paiva  
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Título** | Tutor Agenda Notificação de Saúde no Site |
+| **Código** | CEN002 |
+| **Caso de uso trabalhado** | [UC004](../../../modelagem/casos_de_uso.md#uc004) |
+
+### **Ambiente/Contexto**
+Local: Casa do tutor, usando um computador.  
+Tempo: Após consulta veterinária.  
+Pré-condição: Tutor autenticado e pet cadastrado.
+
+### **Atores**
+Tutor do Animal.
+
+### **Objetivos**
+Agendar lembretes de saúde e receber notificações automáticas por e-mail.
+
+### **Planejamento**
+O ator deseja organizar compromissos de saúde do pet de forma segura e automatizada.
+
+### **Ações**
+1. O tutor acessa o site e faz login.  
+2. Seleciona o perfil do pet.  
+3. Acessa **“Lembretes de Saúde”** e clica em **“Novo Agendamento”**.  
+4. Escolhe o tipo de lembrete (ex.: vacina).  
+5. Preenche nome, data e hora.  
+6. O sistema salva e confirma o agendamento.  
+7. Na data definida, o sistema envia e-mail ao tutor.
+
+### **Eventos**
+- Criação do agendamento.  
+- Programação da notificação.  
+- Envio automático do lembrete.
+
+### **Avaliação**
+O tutor confirma se recebeu a notificação e se o lembrete foi registrado corretamente.
+
+### **Exceção**
+Se a **data** não for preenchida, o sistema destaca o campo obrigatório e bloqueia o salvamento.
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
