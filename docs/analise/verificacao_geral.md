@@ -191,6 +191,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 #### Tabela de Verificação Histórias de Usuário
 
+**Autor:** Pedro Gomes
+
 | ID | Categoria | Item | Artefato está conforme? |
 |---|---|---|---|
 | #V075 | História de Usuário | [A história de usuário é uma breve declaração?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
@@ -213,6 +215,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 <a id="tb006"></a>
 
 #### Tabela de Verificação Técnica de Elicitação - Entrevista
+
+**Autor:** Pedro Gomes
 
 | ID | Categoria | Item | Artefato está conforme? |
 |---|---|---|---|
