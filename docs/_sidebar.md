@@ -98,9 +98,9 @@ details a:hover {
 
 <details>
   <summary><strong>Pré-rastreabilidade</strong></summary>
-    
-  - [Rich-Picture](/planejamento/rich-picture/README.md)
-  - [Lista de Verificação](/planejamento/rich-picture/lista_de_verificao.md)
+
+- [Rich-Picture](/planejamento/rich-picture/README.md)
+- [Lista de Verificação](/planejamento/rich-picture/lista_de_verificao.md)
 </details>
 
 <details>

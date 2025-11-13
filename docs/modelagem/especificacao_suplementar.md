@@ -406,7 +406,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de especificação suplementar e criador dos artefatos ES001, ES002, ES011, ES012, ES013, ES014 |
-| Letícia Paiva | 16,6% | Autor da página de apresentação de especificação suplementar e criador dos artefatos ES003 e ES004 |
+| Letícia Paiva | 16,6% | Criador dos artefatos ES003 e ES004 |
 
 
 ---
