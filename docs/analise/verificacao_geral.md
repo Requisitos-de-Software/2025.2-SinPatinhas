@@ -191,6 +191,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 #### Tabela de Verificação Histórias de Usuário
 
+**Autor:** Pedro Gomes
+
 | ID | Categoria | Item | Artefato está conforme? |
 |---|---|---|---|
 | #V075 | História de Usuário | [A história de usuário é uma breve declaração?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
@@ -214,6 +216,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 #### Tabela de Verificação Técnica de Elicitação - Entrevista
 
+**Autor:** Pedro Gomes
+
 | ID | Categoria | Item | Artefato está conforme? |
 |---|---|---|---|
 | #V090 | Entrevista | [A agenda das pessoas a serem entrevistadas foi confirmada?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
@@ -236,16 +240,16 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 **Autor:** Isaac Menezes Pereira
 | ID | Categoria | Item | Artefato está conforme? |
 |----|-----------|------|-------------------------|
-| #V102 | MoSCoW | [Os requisitos foram classificados em Must, Should, Could e Won't?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V103 | MoSCoW | [Os Must são os mais críticos (maior valor em relação ao tempo de implementação?)](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V104 | MoSCoW | [Os Must são imprescindíveis para o sucesso do projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V105 | MoSCoW | [Evita-se marcar todos os requisitos como "Must", garantindo priorização real?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V106 | MoSCoW | [Os Should não comprometem o sucesso caso não sejam implementados nesta entrega?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V107 | MoSCoW | [Os Could são desejáveis?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V108 | MoSCoW | [Stakeholders cientes de que Could entram apenas se houver recursos?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V109 | MoSCoW | [Os Won't estão documentados como fora do escopo desta release/projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V110 | MoSCoW | [O conceito de Won't (nunca ou apenas não nesta release) está claro para equipe/stakeholders?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
-| #V111 | MoSCoW | [Equipe e stakeholders possuem entendimento comum de M/S/C/W?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | Conforme |
+| #V102 | MoSCoW | [Os requisitos foram classificados em Must, Should, Could e Won't?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) |
+| #V103 | MoSCoW | [Os Must são os mais críticos (maior valor em relação ao tempo de implementação?)](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V104 | MoSCoW | [Os Must são imprescindíveis para o sucesso do projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V105 | MoSCoW | [Evita-se marcar todos os requisitos como "Must", garantindo priorização real?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V106 | MoSCoW | [Os Should não comprometem o sucesso caso não sejam implementados nesta entrega?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V107 | MoSCoW | [Os Could são desejáveis?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V108 | MoSCoW | [Stakeholders cientes de que Could entram apenas se houver recursos?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V109 | MoSCoW | [Os Won't estão documentados como fora do escopo desta release/projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V110 | MoSCoW | [O conceito de Won't (nunca ou apenas não nesta release) está claro para equipe/stakeholders?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V111 | MoSCoW | [Equipe e stakeholders possuem entendimento comum de M/S/C/W?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
 
 ---
 
@@ -253,20 +257,20 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 **Autor:** Isaac Menezes
 | ID | Categoria | Item | Artefato está conforme? |
 |----|-----------|------|-------------------------|
-| #V112 | Especificação Suplementar | [Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V113 | Especificação Suplementar | [	Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V114 | Especificação Suplementar | [	Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V115 | Especificação Suplementar | [	Foram definidos os requisitos de acessibilidade para usuários com deficiências?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V116 | Especificação Suplementar | [Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V117 | Especificação Suplementar | [Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V118 | Especificação Suplementar | [Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V119 | Especificação Suplementar | [Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V120 | Especificação Suplementar | [Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V121 | Especificação Suplementar | [Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V122 | Especificação Suplementar | [Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V123 | Especificação Suplementar | [Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V124 | Especificação Suplementar | [Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
-| #V125 | Especificação Suplementar | [Foram definidos os requisitos legais, regulatórios e de licenciamento de software?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | Conforme |
+| #V112 | Especificação Suplementar | [Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V113 | Especificação Suplementar | [	Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V114 | Especificação Suplementar | [	Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V115 | Especificação Suplementar | [	Foram definidos os requisitos de acessibilidade para usuários com deficiências?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V116 | Especificação Suplementar | [Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V117 | Especificação Suplementar | [Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V118 | Especificação Suplementar | [Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V119 | Especificação Suplementar | [Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V120 | Especificação Suplementar | [Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V121 | Especificação Suplementar | [Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V122 | Especificação Suplementar | [Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V123 | Especificação Suplementar | [Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V124 | Especificação Suplementar | [Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| #V125 | Especificação Suplementar | [Foram definidos os requisitos legais, regulatórios e de licenciamento de software?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
 
 
 ## Agradecimentos
