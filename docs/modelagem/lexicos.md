@@ -187,13 +187,30 @@ A tabela a seguir apresenta os componentes utilizados.
 
 <a id="lx008"></a>
 
-### #LX008 – Léxico para Cenário 05
+## #LX008 - Léxico para #UC03 e #CEN01 — Sistema de Adoção (RFNI016)  
+
+**Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
+
+| **ID** | **Noção** | **Impacto** | **Classificação** | **Dicionário** | **Rastreamento** |
+|---------|------------|-------------|-------------------|----------------|------------------|
+| `LX008-01` | Candidato a Adotante | Pessoa que busca ativamente por um animal para adoção no site.| Sujeito | Interessado, Adotante |  UC03, CEN01 |
+| `LX008-02` | Perfil do Animal | Página no site com as informações de um animal disponível para adoção. | Objeto | Cadastro do Pet, Página do Animal | UC03, CEN01 |
+| `LX008-03` | Manifestar Interesse | Ação realizada pelo candidato para iniciar formalmente o processo de adoção. | Verbo | Aplicar, Candidatar-se | RFNI016, UC03, CEN01 |
 
 ---
 
 <a id="lx009"></a>
 
-### #LX009 – Léxico para Cenário 06
+## #LX002 - Léxico para #UC04 e #CEN02 — Alertas e Notificações Automáticas (RFNI017)
+
+**Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
+
+| **ID** | **Noção** | **Impacto** | **Classificação** | **Dicionário** | **Rastreamento** |
+|---------|------------|-------------|-------------------|----------------|------------------|
+| `LX009-01` | Tutor do Animal | Pessoa que já possui um animal e utiliza as funcionalidades de gerenciamento do site | RF04, UC04, CEN02 |
+| `LX009-02` | Lembrete de Saúde | Registro de um evento de saúde futuro (vacina, medicação) de um pet. | Objeto | Alerta, Agendamento | RF04, UC04, CEN02 |
+| `LX009-03` | Agendar | Ação de criar um novo lembrete de saúde, definindo o tipo, a data e o motivo. | Verbo | Programar, Marcar | RFNI017, UC04, CEN02 |
+
 
 ---
 
@@ -388,6 +405,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de léxicos e criador dos artefatos LX001, LX002, LX003, LX004, LX005, LX006, LX007, LX023, LX024, LX025, LX026, LX027, LX028, LX029 |
+| Letícia Paiva| 16,6% | Criador dos artefatos LX008 e LX009 |
 
 ---
 
