@@ -238,6 +238,7 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 ### Tabela de Verificação - MoSCoW
 
 **Autor:** Isaac Menezes Pereira
+
 | ID | Categoria | Item | Artefato está conforme? |
 |----|-----------|------|-------------------------|
 | #V102 | MoSCoW | [Os requisitos foram classificados em Must, Should, Could e Won't?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) |
@@ -254,7 +255,9 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 ---
 
 ### Tabela de Verificação - Especificação Suplementar
+
 **Autor:** Isaac Menezes
+
 | ID | Categoria | Item | Artefato está conforme? |
 |----|-----------|------|-------------------------|
 | #V112 | Especificação Suplementar | [Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
