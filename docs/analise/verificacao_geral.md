@@ -181,6 +181,7 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
 
 
+---
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
