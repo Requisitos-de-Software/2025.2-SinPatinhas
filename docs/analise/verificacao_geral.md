@@ -21,7 +21,8 @@ Abaixo estão os links para as **páginas unitárias** de lista de verificação
 - [Lista de Verificação de Personas](../elicitacao/listas_verificacao/lista_personas.md)  
 - [Lista de Verificação de Técnicas de Priorização](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md)  
 - [Lista de Verificação de Perfil de Usuário](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md)  
-- [Lista de Verificação – Histórias de Usuário e NFRs](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md)  
+- [Lista de Verificação – Histórias de Usuário](../elicitacao/listas_verificacao/lv_hu.md)
+- [Lista de Verificação – NFRs](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md)  
 - [Lista de Verificação – Casos de Uso](../modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md)  
 - [Lista de Verificação – Especificações Suplementares](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md)
 - [Lista de Verificação de Rastreabilidade](../elicitacao/listas_verificacao/lista_de_verificacao_rastreabilidade.md)  
@@ -67,6 +68,10 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 |---------------|--------------|------------------|
 | **Antonio Carvalho** | [Rich-Picture](#tb001) | Tabela de Verificação da Rich-Picture |
 |                      | [Perfil_de_Usuários](#tb002) | Tabela de Verificação do Perfil de Usuário |
+| **Leticia Paiva**    | [Casos_de_Uso](#tb003) | Tabela de Verificação dos Casos de Uso |
+|                      | [Cenários](#tb004) | Tabela de Verificação dos Cenários |
+| **Pedro Gomes**      | [Histórias do Usuário](#tb005) | Tabela de Verificação das Histórias do Usuário |
+|                      | [Técnica de Elicitação - Entrevista](#tb006) | Tabela de Verificação da Técnica de Elicitação - Entrevista |
 
 <a id="tb001"></a>
 
@@ -180,6 +185,51 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V073 | Cenários | [As personas, se usadas, foram elaboradas previamente?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) |
 | #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
 
+
+---
+<a id="tb005"></a>
+
+#### Tabela de Verificação Histórias de Usuário
+
+| ID | Categoria | Item | Artefato está conforme? |
+|---|---|---|---|
+| #V075 | História de Usuário | [A história de usuário é uma breve declaração?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V076 | História de Usuário | [A história de usuário descreve algo que o sistema deve fazer para o usuário?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V077 | História de Usuário | [Restringe-se a definir o escopo?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V078 | História de Usuário | [Evita detalhar o passo-a-passo ou regras de negócio?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V079 | História de Usuário | [Força a colaboração entre os membros da equipe?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V080 | História de Usuário | [Exige pouco esforço para manutenção?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V081 | História de Usuário | [É compreensível na perspectiva dos clientes?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V082 | História de Usuário | [É passível de testes pelos desenvolvedores?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V083 | História de Usuário | [É pequena, detalhada e específica?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V084 | História de Usuário | [Responde "Quem se beneficia?" (ator)?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V085 | História de Usuário | [Responde "O que se quer?" (descrição da funcionalidade)?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V086 | História de Usuário | [Responde "Qual é o benefício?" (valor de negócio)?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V087 | História de Usuário | [É clara, objetiva e curta o suficiente para caber em um cartão?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V088 | História de Usuário | [Segue o formato: "Como [ator], eu quero [ação] para [benefício]"?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V089 | História de Usuário | [A equipe de desenvolvimento estima o esforço?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+
+---
+<a id="tb006"></a>
+
+#### Tabela de Verificação Técnica de Elicitação - Entrevista
+
+| ID | Categoria | Item | Artefato está conforme? |
+|---|---|---|---|
+| #V090 | Entrevista | [A agenda das pessoas a serem entrevistadas foi confirmada?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V091 | Entrevista | [As salas ou ferramentas de reunião para a entrevista foram reservadas?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V092 | Entrevista | [O objetivo da entrevista foi claramente definido?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V093 | Entrevista | [O assunto a ser abordado foi estudado previamente pelo entrevistador?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V094 | Entrevista | [A duração da entrevista foi planejada para não exceder duas horas?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V095 | Entrevista | [Um roteiro com perguntas simples e diretas foi preparado para guiar a entrevista?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V096 | Entrevista | [O entrevistado foi informado com antecedência sobre o objetivo e os assuntos da entrevista?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V097 | Entrevista | [A abertura da entrevista incluirá a apresentação do entrevistador, o objetivo, a duração e a finalidade da coleta de informações?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V098 | Entrevista | [O entrevistador está preparado para conduzir a entrevista com a mente aberta e sem preconceitos?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V099 | Entrevista | [Haverá espaço para coletar tanto fatos quanto opiniões, valorizando as ideias do entrevistado?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V100 | Entrevista | [As informações coletadas na entrevista foram registradas em uma "memória de levantamento" (ata, notas, etc.)?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+| #V101 | Entrevista | [As dúvidas e questões que não foram resolvidas durante a sessão foram registradas para acompanhamento futuro?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
+
+---
 
 ## Agradecimentos
 
