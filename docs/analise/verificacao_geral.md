@@ -67,6 +67,10 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 |---------------|--------------|------------------|
 | **Antonio Carvalho** | [Rich-Picture](#tb001) | Tabela de Verificação da Rich-Picture |
 |                      | [Perfil_de_Usuários](#tb002) | Tabela de Verificação do Perfil de Usuário |
+| **Leticia Paiva**    | [Casos_de_Uso](#tb003) | Tabela de Verificação dos Casos de Uso |
+|                      | [Cenários](#tb004) | Tabela de Verificação dos Cenários |
+| **Pedro Gomes**      | [Histórias do Usuário](#tb005) | Tabela de Verificação das Histórias do Usuário |
+|                      | [Técnica de Elicitação - Entrevista](#tb006) | Tabela de Verificação da Técnica de Elicitação - Entrevista |
 
 <a id="tb001"></a>
 
