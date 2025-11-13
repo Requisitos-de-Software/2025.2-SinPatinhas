@@ -4,30 +4,34 @@
 
 <a id="es003"></a>
 
-## #ES003 -
+# #ES003 - Sistema de Adoção (F, P, U) 
 
-**Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
+Autor: Letícia Paiva  
 
-| Requisito (Código) | Classificação FURPS+ | Especificação Detalhada | Rastreabilidade |
-| :--- | :--- | :--- | :--- |
-| **RFNI016** | Funcionalidade (F), Desempenho (P), Usabilidade (U) | **Título:** Sistema de Adoção.<br>**Descrição:** Disponibilizar no site uma seção dedicada à adoção de animais, permitindo que usuários busquem, filtrem e visualizem perfis de animais e manifestem interesse formalmente.<br>**Justificativa:** Centralizar e facilitar o processo inicial de adoção, aumentando a visibilidade dos animais disponíveis e conectando potenciais adotantes a ONGs e protetores de forma eficiente.<br>**Desempenho:** Buscas filtradas devem retornar em até **3 segundos**; carregamento da página de perfil do animal em até **2 segundos**.<br>**Usabilidade:** Interface intuitiva, filtros claros, design responsivo, imagens de alta qualidade com carregamento rápido.<br>**Regras:** Apenas animais “Disponíveis” podem receber manifestações; status atualizado em tempo real; conformidade com LGPD.<br>**Tratamento de Erros:** Mensagens amigáveis para busca sem resultados, animal já adotado ou falha de conexão. | RFNI016, #UC001, #LX008 |
+Os requisitos abaixo tratam do **Sistema de Adoção**, combinando aspectos de **Funcionalidade (F)**, **Desempenho (P)** e **Usabilidade (U)**.  
+Eles visam garantir que o processo de adoção seja centralizado, rápido, intuitivo e aderente às regras de negócio e à LGPD.
 
+# #Tabela 1 - Requisito de Sistema de Adoção.
+
+| ID      | Descrição | Rastreamento |
+|---------|-----------|--------------|
+| RFNI016 | Título: **Sistema de Adoção**. O sistema deve disponibilizar no site uma seção dedicada à adoção de animais, permitindo que usuários busquem, filtrem e visualizem perfis de animais, além de manifestarem interesse formalmente. A solução deve centralizar e facilitar o processo inicial de adoção, aumentando a visibilidade dos animais disponíveis e conectando potenciais adotantes a ONGs e protetores. As buscas filtradas devem retornar em até **3 segundos** e a página de perfil do animal deve carregar em até **2 segundos**. A interface deve ser intuitiva, com filtros claros, design responsivo e imagens de alta qualidade com carregamento rápido. Apenas animais com status **“Disponível”** podem receber manifestações, e o status deve ser atualizado em tempo real, garantindo conformidade com a **LGPD**. Em caso de erro (busca sem resultados, animal já adotado ou falha de conexão), o sistema deve apresentar mensagens claras e amigáveis ao usuário. | RFNI016, #UC001, #LX008 |
 
 ---
 
 <a id="es004"></a>
 
-## #ES004 - 
+# #ES004 - Alertas e Notificações Automáticas (F, P, U, R)  
 
-#  Especificação Suplementar – RNF04
+Autor: Letícia Paiva  
 
-**Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
+Os requisitos abaixo descrevem o mecanismo de **Alertas e Notificações Automáticas por E-mail**, contemplando **Funcionalidade (F)**, **Desempenho (P)**, **Usabilidade (U)** e **Confiabilidade (R)**, de forma a apoiar o tutor na gestão da saúde do animal e garantir um serviço confiável e rastreável.
 
+# #Tabela 2 - Requisito de Alertas e Notificações Automáticas.
 
-
-| Requisito (Código) | Classificação FURPS+ | Especificação Detalhada | Rastreabilidade |
-| :--- | :--- | :--- | :--- |
-| **RFNI017** | Funcionalidade (F), Desempenho (P), Usabilidade (U), Confiabilidade (R) | **Título:** Alertas e Notificações Automáticas por E-mail.<br>**Descrição:** Permitir que o tutor, após login, agende lembretes para eventos de saúde de seus animais (vacinas, medicações) e receba notificações automáticas por e-mail na data programada.<br>**Justificativa:** Ajudar tutores no gerenciamento da saúde dos animais, aumentar engajamento e oferecer ferramenta de valor.<br>**Desempenho:** Salvar lembrete em até **2 segundos**; envio de e-mail com no máximo **1 hora de atraso**.<br>**Usabilidade:** Formulário simples; e-mail claro, objetivo e responsivo.<br>**Confiabilidade:** Registrar falhas no serviço de e-mail e tentar reenviar até **3 vezes**; registrar erro de entrega (bounce).<br>**Regras:** Envio na data especificada; tutor pode visualizar/editar/excluir lembretes; não agendar para datas passadas.<br>**Tratamento de Erros:** Mensagem para data inválida no formulário. | RFNI017, #UC002, #LX009 |
+| ID      | Descrição | Rastreamento |
+|---------|-----------|--------------|
+| RFNI017 | Título: **Alertas e Notificações Automáticas por E-mail**. O sistema deve permitir que o tutor, após realizar login, agende lembretes para eventos de saúde de seus animais (como vacinas e medicações) e receba notificações automáticas por e-mail na data programada. O objetivo é auxiliar o tutor no gerenciamento da saúde do animal, aumentar o engajamento e oferecer uma funcionalidade de valor agregado. O sistema deve salvar o lembrete em até **2 segundos** e o e-mail deve ser enviado com, no máximo, **1 hora de atraso** em relação ao horário configurado. A interface de agendamento deve ser simples, com formulário objetivo, e o e-mail enviado deve ser claro, direto e responsivo. Em termos de confiabilidade, o sistema deve registrar falhas no serviço de e-mail, tentar reenviar a notificação até **3 vezes** e registrar erros de entrega (*bounce*). O envio deve ocorrer exatamente na data especificada, permitindo que o tutor visualize, edite ou exclua lembretes e impedindo o agendamento para datas passadas. Em caso de data inválida, o sistema deve exibir mensagem de erro no formulário, orientando a correção. | RFNI017, #UC002, #LX009 |
 
 ---
 
