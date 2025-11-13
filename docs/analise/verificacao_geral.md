@@ -72,6 +72,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 |                      | [Cenários](#tb004) | Tabela de Verificação dos Cenários |
 | **Pedro Gomes**      | [Histórias do Usuário](#tb005) | Tabela de Verificação das Histórias do Usuário |
 |                      | [Técnica de Elicitação - Entrevista](#tb006) | Tabela de Verificação da Técnica de Elicitação - Entrevista |
+| **Isaac Menezes** | [Técnica de Priorização - MoSCoW](#tb007) | Tabela de Verificação da Técnica de MoSCoW |
+| **Isaac Menezes** | [Modelagem - Especificação Suplementar](#tb008) | Tabela de Verificação da Especificação Suplementar |
 
 <a id="tb001"></a>
 
