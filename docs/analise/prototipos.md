@@ -105,7 +105,7 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 | **Participante** | **Papel** |
 |------------------|-----------|
 | **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato backlog. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o protótipo 3. |
 
 ---
 
@@ -138,7 +138,7 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 | **Participante** | **Papel** |
 |------------------|-----------|
 | **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
-| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato backlog. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o protótipo 4. |
 
 ---
 
