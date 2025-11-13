@@ -1,37 +1,111 @@
 # Especificações Suplementares - Letícia Paiva
 
----
+# <a id="es003"></a> **#ES003 – Sistema de Adoção (Funcionalidade, Usabilidade, Desempenho, Confiabilidade)**  
+**Autor:** Letícia Paiva  
 
-<a id="es003"></a>
-
-# #ES003 - Sistema de Adoção (F, P, U) 
-
-Autor: Letícia Paiva  
-
-Os requisitos abaixo tratam do **Sistema de Adoção**, combinando aspectos de **Funcionalidade (F)**, **Desempenho (P)** e **Usabilidade (U)**.  
-Eles visam garantir que o processo de adoção seja centralizado, rápido, intuitivo e aderente às regras de negócio e à LGPD.
-
-# #Tabela 1 - Requisito de Sistema de Adoção.
-
-| ID      | Descrição | Rastreamento |
-|---------|-----------|--------------|
-| RFNI016 | Título: **Sistema de Adoção**. O sistema deve disponibilizar no site uma seção dedicada à adoção de animais, permitindo que usuários busquem, filtrem e visualizem perfis de animais, além de manifestarem interesse formalmente. A solução deve centralizar e facilitar o processo inicial de adoção, aumentando a visibilidade dos animais disponíveis e conectando potenciais adotantes a ONGs e protetores. As buscas filtradas devem retornar em até **3 segundos** e a página de perfil do animal deve carregar em até **2 segundos**. A interface deve ser intuitiva, com filtros claros, design responsivo e imagens de alta qualidade com carregamento rápido. Apenas animais com status **“Disponível”** podem receber manifestações, e o status deve ser atualizado em tempo real, garantindo conformidade com a **LGPD**. Em caso de erro (busca sem resultados, animal já adotado ou falha de conexão), o sistema deve apresentar mensagens claras e amigáveis ao usuário. | RFNI016, #UC001, #LX008 |
+Os requisitos abaixo descrevem o Sistema de Adoção, separados por categoria conforme o modelo oficial.
 
 ---
 
-<a id="es004"></a>
+## **Funcionalidade (Funcionalidade – F)**  
 
-# #ES004 - Alertas e Notificações Automáticas (F, P, U, R)  
+### **Tabela F – Funcionalidades do Sistema de Adoção**
 
-Autor: Letícia Paiva  
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RF030** | O sistema deve disponibilizar uma seção dedicada à adoção, permitindo visualizar animais disponíveis e manifestar interesse formalmente. | Entrevista |
+| **RF028** | O sistema deve permitir buscas e filtros para localizar animais disponíveis para adoção. | Entrevista |
+| **RF021** | O sistema deve exibir perfis completos dos animais, contendo informações relevantes para decisão de adoção. | Entrevista |
+| **RF041** | O sistema deve registrar e atualizar o status do animal (ex: disponível/adotado) em tempo real. | Entrevista |
 
-Os requisitos abaixo descrevem o mecanismo de **Alertas e Notificações Automáticas por E-mail**, contemplando **Funcionalidade (F)**, **Desempenho (P)**, **Usabilidade (U)** e **Confiabilidade (R)**, de forma a apoiar o tutor na gestão da saúde do animal e garantir um serviço confiável e rastreável.
+---
 
-# #Tabela 2 - Requisito de Alertas e Notificações Automáticas.
+## **Usabilidade (Usabilidade – U)**  
 
-| ID      | Descrição | Rastreamento |
-|---------|-----------|--------------|
-| RFNI017 | Título: **Alertas e Notificações Automáticas por E-mail**. O sistema deve permitir que o tutor, após realizar login, agende lembretes para eventos de saúde de seus animais (como vacinas e medicações) e receba notificações automáticas por e-mail na data programada. O objetivo é auxiliar o tutor no gerenciamento da saúde do animal, aumentar o engajamento e oferecer uma funcionalidade de valor agregado. O sistema deve salvar o lembrete em até **2 segundos** e o e-mail deve ser enviado com, no máximo, **1 hora de atraso** em relação ao horário configurado. A interface de agendamento deve ser simples, com formulário objetivo, e o e-mail enviado deve ser claro, direto e responsivo. Em termos de confiabilidade, o sistema deve registrar falhas no serviço de e-mail, tentar reenviar a notificação até **3 vezes** e registrar erros de entrega (*bounce*). O envio deve ocorrer exatamente na data especificada, permitindo que o tutor visualize, edite ou exclua lembretes e impedindo o agendamento para datas passadas. Em caso de data inválida, o sistema deve exibir mensagem de erro no formulário, orientando a correção. | RFNI017, #UC002, #LX009 |
+### **Tabela U – Usabilidade do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RNF003** | A interface deve ser intuitiva, com filtros claros e experiência simples para usuários de diferentes níveis tecnológicos. | Entrevista |
+| **RNF005** | O sistema deve ser responsivo e compatível com navegadores principais e dispositivos móveis. | Entrevista |
+
+---
+
+## **Desempenho (Performance – P)**  
+
+### **Tabela P – Desempenho do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RNF004** | As buscas filtradas devem retornar resultados em até 3 segundos e carregar perfis em até 2 segundos. | Entrevista |
+| **RNF021** | O sistema deve garantir respostas rápidas (tempo máximo de 2s em páginas principais). | Entrevista |
+
+---
+
+## **Confiabilidade (Reliability – R)**  
+
+### **Tabela R – Confiabilidade do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RNF001** | O sistema deve garantir conformidade com a LGPD no tratamento de dados durante o processo de adoção. | Entrevista |
+| **RNF009** | O sistema deve evitar perda de dados, garantindo cópias de segurança automáticas. | Entrevista |
+
+---
+
+---
+
+# <a id="es004"></a> **#ES004 – Alertas e Notificações Automáticas (Funcionalidade, Usabilidade, Desempenho, Confiabilidade)**  
+**Autor:** Letícia Paiva  
+
+Requisitos separados por categoria conforme modelo.
+
+---
+
+## **Funcionalidade (Funcionalidade – F)**  
+
+### **Tabela F – Funcionalidades de Alertas e Notificações Automáticas**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RF031** | O sistema deve permitir que o tutor agende lembretes de vacinas e medicações. | Entrevista |
+| **RF018** | O sistema deve enviar notificações automáticas por e-mail na data configurada. | Entrevista |
+| **RF024** | O sistema deve permitir que o tutor visualize, edite e exclua lembretes. | Entrevista |
+
+---
+
+## **Usabilidade (Usabilidade – U)**  
+
+### **Tabela U – Usabilidade do Módulo de Notificações**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RNF003** | O formulário de agendamento deve ser simples, claro e rápido de preencher. | Entrevista |
+| **RNF012** | As mensagens enviadas por e-mail devem ser claras, objetivas e responsivas. | Entrevista |
+
+---
+
+## **Desempenho (Performance – P)**  
+
+### **Tabela P – Desempenho do Módulo de Notificações**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RNF004** | O sistema deve salvar lembretes em até 2 segundos. | Entrevista |
+| **RNF021** | O e-mail deve ser enviado com no máximo 1 hora de atraso em relação ao horário programado. | Entrevista |
+
+---
+
+## **Confiabilidade (Reliability – R)**  
+
+### **Tabela R – Confiabilidade nas Notificações Automáticas**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| **RNF018** | O sistema deve registrar falhas e tentar reenviar e-mails até 3 vezes. | Entrevista |
+| **RNF024** | O sistema deve registrar logs de entrega e erros (bounce). | Entrevista |
+| **RNF009** | O sistema deve garantir que os dados dos lembretes não sejam perdidos. | Entrevista |
+
 
 ---
 

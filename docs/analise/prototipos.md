@@ -43,7 +43,7 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 | **Pedro Gomes** | [Protótipo 01](#prototipo01)  |Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RNFNI001**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
 |  | [Protótipo 02](#prototipo01)  | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
 | **Antonio Carvalho** | [Protótipo 03](#prototipo03)  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
-|  | [Protótipo 04](#prototipo04) | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
+|  | [Protótipo 04](#prototipo04) | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
 | **Heloisa Santos** |   — | — |
 | **Letícia Paiva** | — | — |
 | | — | — |
@@ -92,7 +92,20 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 ![Sistema de adoção de animais](../assets/images/prototipos/antonio/antonio-p5.png)
 
+* [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
+
 ## Vídeo de Validação com Tutora de Animal
+
+A validação com o usuário foi feita de forma presencial, no dia **12 de novembro de 2025**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1DKhPI8m0YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+## Participantes da validação
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o protótipo 3. |
 
 ---
 
@@ -112,7 +125,20 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 ![Integração direta com parceiros](../assets/images/prototipos/antonio/antonio-p6.png)
 
+* [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
+
 ## Vídeo de Validação com Tutora de Animal
+
+A validação com o usuário foi feita de forma presencial, no dia **12 de novembro de 2025**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pf19UmVtw-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+## Participantes da validação
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o protótipo 4. |
 
 ---
 

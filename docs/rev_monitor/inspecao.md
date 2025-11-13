@@ -20,4 +20,4 @@ Cada revisão está documentada em um documento pdf fornecido pelo monitor, orga
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 09/11/2025 | Criação da página entregas monitor   | Pedro  |      |
+| 1.0    | 09/11/2025 | Criação da página entregas monitor   | Pedro  |  Letícia    |
