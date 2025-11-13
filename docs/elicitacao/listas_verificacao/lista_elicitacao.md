@@ -149,8 +149,8 @@
 
 | Integrante |
 |------------|
-| [Letícia Paiva](https://docs.google.com/document/d/1CRgojOkMi6vhk4ZZKfFdrQXARHefyQiQhZ_S4qiLc70/edit?usp=sharing) |
-| [Pedro Gomes Oliveira]() |
+|<a href="assets/PDFs/ListVerf/leticiapaiva_tecelic.pdf" target="_blank">Letícia Paiva</a>|
+| <a href="assets/PDFs/ListVerf/pedrogomesoliveira_tecelic.pdf" target="_blank">Pedro Gomes Oliveira</a> |
 
 ## Histórico de Versão
 
