@@ -119,7 +119,7 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 
 | Elemento            | Nome no Esboço                                            | Detalhe da Prototipagem                                                                                                |
 | :------------------ | :-------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| Sub-Aba Inativa     | `Animais para Adoção`                                     | **CLICÁVEL (Trigger: On Click) $\rightarrow$ Navegar para:** `Tela: Animais para Adoção` (Esboço 2)                   |
+| Sub-Aba Inativa     | `Animais para Adoção`                                     | Permanece na mesma tela (Conteúdo da listagem de parceiros)                   |
 | **Sub-Aba Ativa** | `Rede de Integração com Parceiros`                        | Permanece na mesma tela (Conteúdo da listagem de parceiros).                                                          |
 | **Filtros** | `Localização Parceiro`, `Espécie`, `Serviço`, `Ordenar por: Melhor Avaliação / Mais Próximo / Melhor Preço` | (Elementos de filtro para visualização, e o "Ordenar por" pode ter simulação de clique para mudar a ordem da lista). |
 
