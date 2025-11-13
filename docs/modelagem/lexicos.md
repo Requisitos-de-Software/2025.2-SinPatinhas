@@ -421,6 +421,6 @@ SERRANO, Milene; SERRANO, Maurício. *Requisitos de Software – Aula 10: Cenár
 |:------:|:-----------|:------------------------------------------|:--------|:-----------|
 | 1.0    | 10/10/2025 | Criação da página de léxicos  | Antonio |  |
 | 1.1 | 19/10/2025 | Refatoração da tabela de artefatos | Isaac | Antonio |
-| 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
+| 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio | Letícia |
 
 ---
