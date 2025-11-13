@@ -130,29 +130,31 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Leticia Paiva  
 
-| ID     | Categoria                     | Item | Artefato está conforme? |
-|--------|--------------------------------|------|---------------------------|
-| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](../modelagem/casos_de_uso.md) | Conforme |
-| #V041 | Casos de Uso  | [O nome do sistema está inserido no topo do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V042 | Casos de Uso  | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](../modelagem/casos_de_uso.md) | Conforme |
-| #V045 | Casos de Uso  | [Os atores representam classes/categorias de usuários, e não indivíduos?](../modelagem/casos_de_uso.md) | Conforme |
-| #V046 | Casos de Uso  | [Atores primários estão posicionados à esquerda do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](../modelagem/casos_de_uso.md) | Conforme |
-| #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](../modelagem/casos_de_uso.md) | Conforme |
-| #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](../modelagem/casos_de_uso.md) | Conforme |
-| #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](../modelagem/casos_de_uso.md) | Conforme |
-| #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](../modelagem/casos_de_uso.md) | Conforme |
-| #V053 | Casos de Uso  | [Relacionamentos de associação são representados por linhas sólidas?](../modelagem/casos_de_uso.md) | Conforme |
-| #V054 | Casos de Uso  | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](../modelagem/casos_de_uso.md) | Conforme |
-| #V055 | Casos de Uso  | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](../modelagem/casos_de_uso.md) | Conforme |
-| #V056 | Casos de Uso  | [Relacionamentos de generalização (herança entre atores ou casos) estão corretos?](../modelagem/casos_de_uso.md) | Conforme |
-| #V057 | Casos de Uso  | [O diagrama oferece visão geral simples e compreensível do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V058 | Casos de Uso  | [O diagrama demonstra o fluxo básico funcional do sistema?](../modelagem/casos_de_uso.md) | Conforme |
-| #V059 | Casos de Uso a | [As funcionalidades representadas foram validadas com o cliente?](../modelagem/casos_de_uso.md) | Conforme |
+| ID     | Categoria | Item | Artefato está conforme? |
+|--------|-----------|------|---------------------------|
+| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V041 | Casos de Uso | [O nome do sistema está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V042 | Casos de Uso | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V045 | Casos de Uso | [Os atores representam classes/categorias de usuários, e não indivíduos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V046 | Casos de Uso | [Atores primários estão posicionados à esquerda do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V053 | Casos de Uso | [Relacionamentos de associação são representados por linhas sólidas?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V054 | Casos de Uso | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V055 | Casos de Uso | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V056 | Casos de Uso | [Relacionamentos de generalização estão corretos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V057 | Casos de Uso | [O diagrama oferece visão geral simples e compreensível?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V058 | Casos de Uso | [O diagrama demonstra o fluxo funcional básico do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
+| #V059 | Casos de Uso | [As funcionalidades foram validadas com o cliente?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
 
+
+---
 
 <a id="tb004"></a>
 
@@ -162,23 +164,22 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID   | Categoria | Item | Artefato está conforme? |
 |------|-----------|------|---------------------------|
-| #V060 | Cenários | [O cenário é apresentado como uma narrativa concreta, rica em detalhes contextuais, seja em formato textual ou pictórico?](../modelagem/cenarios.md) | Conforme |
-| #V061 | Cenários | [O cenário possui um título que resume a situação?](../modelagem/cenarios.md) | Conforme |
-| #V062 | Cenários | [O cenário define claramente um ator principal e um objetivo principal a ser alcançado?](../modelagem/cenarios.md) | Conforme |
-| #V063 | Cenários | [A situação inicial do ator é descrita de forma clara?](../modelagem/cenarios.md) | Conforme |
-| #V064 | Cenários | [O enredo apresenta uma sequência lógica de ações e eventos?](../modelagem/cenarios.md) | Conforme |
-| #V065 | Cenários | [O ambiente e o contexto (quando, onde, por quê) estão bem descritos?](../modelagem/cenarios.md) | Conforme |
-| #V066 | Cenários | [Os atores são descritos com suas características pessoais relevantes?](../modelagem/cenarios.md) | Conforme |
-| #V067 | Cenários | [Os objetivos do ator são explícitos e motivam suas ações?](../modelagem/cenarios.md) | Conforme |
-| #V068 | Cenários | [O planejamento mental do ator (estratégias e decisões) é descrito quando relevante?](../modelagem/cenarios.md) | Não Conforme |
-| #V069 | Cenários | [O cenário explora situações de exceção ou eventos raros?](../modelagem/cenarios.md) | Conforme |
-| #V070 | Cenários | [O cenário descreve um único fluxo específico de eventos (não múltiplos como em um caso de uso)?](../modelagem/cenarios.md) | Conforme |
-| #V071 | Cenários | [O cenário demonstra que o sistema resolve um problema real do usuário?](../modelagem/cenarios.md) | Conforme |
-| #V072 | Cenários | [O cenário deixa claro como os serviços do sistema ajudam o ator a atingir seus objetivos?](../modelagem/cenarios.md) | Conforme |
-| #V073 | Cenários | [Se utiliza personas, foi verificado se elas foram elaboradas previamente?](../modelagem/cenarios.md) | Não Conforme |
-| #V074 | Cenários | [O conjunto de cenários criados é abrangente (cobre diferentes usuários, funções e variações)?](../modelagem/cenarios.md) | Conforme |
+| #V060 | Cenários | [O cenário é apresentado como narrativa concreta e contextualizada?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V061 | Cenários | [O cenário possui um título claro e representativo?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V062 | Cenários | [O cenário define claramente um ator principal e um objetivo?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V063 | Cenários | [A situação inicial do ator está descrita de forma clara?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V064 | Cenários | [O enredo segue sequência lógica de ações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V065 | Cenários | [O ambiente e o contexto estão bem descritos?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V066 | Cenários | [Os atores possuem características pessoais relevantes descritas?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V067 | Cenários | [Os objetivos do ator são explícitos?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V068 | Cenários | [O planejamento mental do ator foi descrito quando necessário?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) |
+| #V069 | Cenários | [Há exploração de situações de exceção?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V070 | Cenários | [O cenário descreve apenas um fluxo específico de eventos?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V071 | Cenários | [O cenário demonstra que o sistema resolve um problema real?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V072 | Cenários | [Os serviços do sistema são claros no apoio ao objetivo do ator?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| #V073 | Cenários | [As personas, se usadas, foram elaboradas previamente?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) |
+| #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
 
----
 
 ## Agradecimentos
 
