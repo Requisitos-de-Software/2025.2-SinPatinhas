@@ -149,4 +149,4 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 26/10/2025 |  1.0   | Documentação da matriz de rastreabilidade backward-from| Pedro Gomes |  |
+| 26/10/2025 |  1.0   | Documentação da matriz de rastreabilidade backward-from| Pedro Gomes | Antonio |

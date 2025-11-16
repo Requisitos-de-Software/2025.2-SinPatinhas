@@ -423,7 +423,7 @@ Pressman, R. S. *Engenharia de Software: uma abordagem profissional.* 8ª ediç�
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:---------:|:---------------|:-------------|:---------------|
 | 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
-| 2.0 | 12/10/2025 | Adição das especificações do sistema | Heloisa | -- |
+| 2.0 | 12/10/2025 | Adição das especificações do sistema | Heloisa | Antonio |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 

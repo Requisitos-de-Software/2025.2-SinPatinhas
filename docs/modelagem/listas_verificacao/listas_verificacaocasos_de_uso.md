@@ -45,7 +45,7 @@ Os arquivos individuais foram consolidados em um único documento em formato PDF
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 12/10/2025 | Elaboração da lista consolidada de Casos de Uso | Letícia Paiva | - |
+| 1.0    | 12/10/2025 | Elaboração da lista consolidada de Casos de Uso | Letícia Paiva | Antonio |
 
 ---
 

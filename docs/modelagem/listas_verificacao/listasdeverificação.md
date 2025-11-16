@@ -32,7 +32,7 @@
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:--:|:--:|:--|:--|:--|
-| 1.0 | 12/10/2025 | Criação da página principal de navegação das listas de verificação | Letícia Paiva | - |
+| 1.0 | 12/10/2025 | Criação da página principal de navegação das listas de verificação | Letícia Paiva | Antonio |
 
 ---
 

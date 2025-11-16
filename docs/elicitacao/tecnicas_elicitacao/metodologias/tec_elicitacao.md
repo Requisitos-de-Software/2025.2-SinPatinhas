@@ -239,7 +239,7 @@ Essas observações permitiram identificar boas práticas e oportunidades de mel
 | 1.5    | 05/10/2025 | Movido a entrevista e analise de documentos de outras partes para aqui  | Mateus | Heloisa     |
 | 1.6    | 07/10/2025 | Adição da técnica de análise de sistemas concorrentes  | Heloisa   |  Antonio   |
 | 1.7    | 11/10/2025 | Edição de rotas  | Antonio   |  --   |
-| 1.8    | 21/10/2025 | Padronização de IDs com formato HTML anchor; correção da numeração para que cada tipo de requisito (RF, RNF, RFNI, RNFNI) possua numeração independente e sequencial; remoção de duplicidades entre seções | Pedro Gomes | -- |
+| 1.8    | 21/10/2025 | Padronização de IDs com formato HTML anchor; correção da numeração para que cada tipo de requisito (RF, RNF, RFNI, RNFNI) possua numeração independente e sequencial; remoção de duplicidades entre seções | Pedro Gomes | Antonio |
 
 
 ---

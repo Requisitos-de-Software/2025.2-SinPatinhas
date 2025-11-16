@@ -61,4 +61,4 @@ PDF com itens e referências: [Lista NFR (PDF)](https://github.com/Requisitos-de
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 21/10/2025 |  1.0   | Criação da página das listas de verificação com as listas de verificação.| Heloisa | - |
+| 21/10/2025 |  1.0   | Criação da página das listas de verificação com as listas de verificação.| Heloisa | Antonio |

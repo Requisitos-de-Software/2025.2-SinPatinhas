@@ -114,4 +114,4 @@ WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond, WA: Microso
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:------:|:------------|:------------|:-----------|
 | 1.0 | 18/10/2025 | Criação da página de priorização MoSCoW | Antonio Carvalho | --- |
-| 1.1 | 21/10/2025 | Remoção da coluna "Fonte" e adição de links para a lista consolidada de requisitos | Pedro Gomes | --- |
+| 1.1 | 21/10/2025 | Remoção da coluna "Fonte" e adição de links para a lista consolidada de requisitos | Pedro Gomes | Antonio |
