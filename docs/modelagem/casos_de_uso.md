@@ -69,8 +69,8 @@ A tabela a seguir apresenta os componentes utilizados.
 |                           | | [#UC008](/modelagem/gravacoes/mateus/caso_de_uso.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal (RF44) |
 | **Heloisa Silva**         | | [#UC009](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados (RFNI001) |
 |                           | | [#UC010](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Sistema de avaliação numérica para estabelecimentos (RFNI010) |
-| **Isaac Menezes**         | | [#UC011](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas da clínica/hospital (RNFI014) |
-|                           | | [#UC012](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas do profissional (RNFI015) |
+| **Isaac Menezes**         | [UC011](#uc011) | [#UC011](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas da clínica/hospital (RNFI014) |
+|                           | [UC012](#uc012) | [#UC012](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas do profissional (RNFI015) |
 
 
 ---
@@ -143,7 +143,7 @@ A tabela a seguir apresenta os componentes utilizados.
 
 **Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
 
-<font><p style="text-align: center">**Tabela 01** – Caso de Uso 03 – Sistema de Adoção (RFNI016)</p></font>
+<font><p style="text-align: center">**Tabela 03** – Caso de Uso 03 – Sistema de Adoção (RFNI016)</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
@@ -171,7 +171,7 @@ A tabela a seguir apresenta os componentes utilizados.
 
 **Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
 
-<font><p style="text-align: center">**Tabela 02** – Caso de Uso 04 – Alertas e Notificações Automáticas (RFNI017)</p></font>
+<font><p style="text-align: center">**Tabela 04** – Caso de Uso 04 – Alertas e Notificações Automáticas (RFNI017)</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
@@ -230,12 +230,50 @@ A tabela a seguir apresenta os componentes utilizados.
 <a id="uc011"></a>
 
 ### #UC011 – Exibir média de consultas da clínica/hospital (RNFI014)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+<font><p style="text-align: center">**Tabela 05** – Caso de Uso 11 – Exibir para o usuário a média de consultas da clínica/hospital em questão ([RFNI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni014))</p></font>
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | `#UC011` |
+| **Descrição** | Exibir para o usuário a média de consultas da clínica/hospital em questão |
+| **Ator(es)** | Usuário do sistema |
+| **Pré-condições** | - O usuário deve estar no aplicativo <br> - O usuário deve estar na página da clínica/hospital correspondente |
+| **Ação** | Visualizar a média ponderada |
+| **Fluxo Principal** | 1. O ator abre o aplicativo SinPatinhas <br> 2. Ele procura a página de interesse <br> 3. O sistema calcula a média ponderada das consultas da clínica/hospital <br> 4. O valor é exibido |
+| **Fluxos Alternativos** | - Sistema exibe "ainda não foram feitas consultas" <br> - A página em questão não existe |
+| **Fluxos de Exceção** | - Falha de conexão de internet: aplicativo exibe mensagem de erro |
+| **Pós-condições** | A página da clínica existe |
+| **Data de Criação** | 12/10/2025 |
+| **Rastreabilidade** | `RNFI014` |
+| **Cenário Relacionado** | [#CNR009](/modelagem/gravacoes/isaac/cenarios.md) |
+| **Léxico Relacionado** | [#LX014, #LX015, #LX016, #LX017, #LX018, #LX019, #LX020](/modelagem/gravacoes/isaac/lexicos.md) |
 
 ---
 
 <a id="uc012"></a>
 
 ### #UC012 – Exibir média de consultas do profissional (RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+<font><p style="text-align: center">**Tabela 06** – Caso de Uso 12 – Exibir para o usuário a média de consultas do profissional ([RFNI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni015))</p></font>
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | `#UC011` |
+| **Descrição** | Exibir para o usuário a média de consultas do profissional |
+| **Ator(es)** | Usuário do sistema |
+| **Pré-condições** | - O usuário deve ter o aplicativo SinPatinhas instalado <br> - Deve ter acesso à internet <br> - Deve procurar o perfil do profissional em questão |
+| **Ação** | Visualizar a média ponderada do total das consultas do profissional |
+| **Fluxo Principal** | 1. O usuário acessa o aplicativo <br> 2. Procura o perfil de interesse <br> 3. O sistema calcula a média ponderada <br> 4. O sistema exibe para o usuário |
+| **Fluxos Alternativos** | - O aplicativo exibe mensagem informando que o profissional ainda não fez consultas <br> - O sistema informa que o perfil não existe |
+| **Fluxos de Exceção** | - Falha na conexão de internet: o sistema exibe mensagem de erro |
+| **Pós-condições** | O perfil existe |
+| **Data de Criação** | 12/10/2025 |
+| **Rastreabilidade** | `RNFI014` |
+| **Cenário Relacionado** | [#CNR009](/modelagem/gravacoes/isaac/cenarios.md) |
+| **Léxico Relacionado** | [#LX014, #LX015, #LX016, #LX017, #LX018, #LX019, #LX020](/modelagem/gravacoes/isaac/lexicos.md) |
 
 ---
 
@@ -246,7 +284,7 @@ A tabela a seguir apresenta os componentes utilizados.
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
-<font><p style="text-align: center">**Tabela 03** – Caso de Uso 13 – Acesso via Web e Mobile ([RNFNI001](#rnfni001))</p></font>
+<font><p style="text-align: center">**Tabela 07** – Caso de Uso 13 – Acesso via Web e Mobile ([RNFNI001](#rnfni001))</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
@@ -275,7 +313,7 @@ A tabela a seguir apresenta os componentes utilizados.
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
-<font><p style="text-align: center">**Tabela 04** – Caso de Uso 14 – Funcionalidades Offline ([RNFNI002](#rnfni002))</p></font>
+<font><p style="text-align: center">**Tabela 08** – Caso de Uso 14 – Funcionalidades Offline ([RNFNI002](#rnfni002))</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|
@@ -304,7 +342,7 @@ A tabela a seguir apresenta os componentes utilizados.
 
 **Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
-<font><p style="text-align: center">**Tabela 05** – Caso de Uso 15 – Integração Direta com Parceiros ([RNFNI003](#rnfni003))</p></font>
+<font><p style="text-align: center">**Tabela 09** – Caso de Uso 15 – Integração Direta com Parceiros ([RNFNI003](#rnfni003))</p></font>
 
 | **Item** | **Informações** |
 |-----------|----------------|

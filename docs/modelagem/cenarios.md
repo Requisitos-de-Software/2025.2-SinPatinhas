@@ -46,21 +46,21 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|--------------|------------------|------------------|
 | **Letícia Paiva**   |  | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|    |  | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RNFI017**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     |  | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RNFI017**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Antonio Carvalho**| [CNR003](#cnr003) | [Cenário 03](/modelagem/gravacoes/antonio/cenarios.md)  | Sistema de Adoção de Animais - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| | [CNR004](#cnr004) | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Notificação Periódica para Atualização de Dados e Fotos do Animal - [**RNFI021**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| | [CNR013](#cnr013) | [Cenário 13](/modelagem/gravacoes/antonio/cenarios.md)  | Acesso via Web e Mobile - [**RNFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| | [CNR014](#cnr014) | [Cenário 14](/modelagem/gravacoes/antonio/cenarios.md)  | Funcionalidades Offline - [**RNFNI002**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| | [CNR015](#cnr015) | [Cenário 15](/modelagem/gravacoes/antonio/cenarios.md)  | Integração Direta com Parceiros - [**RNFNI003**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR004](#cnr004) | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Notificação Periódica para Atualização de Dados e Fotos do Animal - [**RNFI021**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR013](#cnr013) | [Cenário 13](/modelagem/gravacoes/antonio/cenarios.md)  | Acesso via Web e Mobile - [**RNFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR014](#cnr014) | [Cenário 14](/modelagem/gravacoes/antonio/cenarios.md)  | Funcionalidades Offline - [**RNFNI002**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR015](#cnr015) | [Cenário 15](/modelagem/gravacoes/antonio/cenarios.md)  | Integração Direta com Parceiros - [**RNFNI003**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Heloisa Santos**  |  | [Cenário 05](/modelagem/gravacoes/heloisa/cenarios.md)  | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - [**RFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|   |  | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     |  | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Pedro Gomes**     |  | [Cenário 07](/modelagem/gravacoes/pedro/cenarios.md)  | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RF05**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|      |  | [Cenário 08](/modelagem/gravacoes/pedro/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Isaac Menezes**   |  | [Cenário 09](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos na clínica/hospital - [**RFNI014**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|    |  | [Cenário 10](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos por médico - [**RFNI015**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     |  | [Cenário 08](/modelagem/gravacoes/pedro/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Isaac Menezes**   | [CNR009](#cnr009) | [Cenário 09](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos na clínica/hospital - [**RFNI014**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     |  | [Cenário 10](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos por médico - [**RFNI015**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Luciano Machado** | —           | — |
-| **Mateus Negrini** |  | [Cenário 11](/modelagem/gravacoes/mateus/cenarios.md)  | Acesso à Área de Instruções Integradas - [**RF033**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|  |  | [Cenário 12](/modelagem/gravacoes/mateus/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Mateus Negrini**  |  | [Cenário 11](/modelagem/gravacoes/mateus/cenarios.md)  | Acesso à Área de Instruções Integradas - [**RF033**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     |  | [Cenário 12](/modelagem/gravacoes/mateus/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
 ---
 
@@ -298,13 +298,97 @@ Caso o tutor ignore a notificação por um longo período, o sistema envia novo 
 
 <a id="cnr009"></a>
 
-### #CNR009 – Sistema de Avaliação Numérica para Estabelecimentos – [RFNI010](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CNR009 – Indicador visual da média de atendimentos na clínica/hospital – [RFNI014](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+**Autor:** Isaac Menezes
+
+
+**Tabela 3 – Cenário 09: Sistema de Avaliação Numérica para Estabelecimentos ([RFNI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni014))**
+
+| **Componente** | **Descrição** |
+|-----------------|----------------|
+| **Título** | Sistema de Avaliações Numérica para Estabelecimentos |
+| **Código** | CNR009 |
+| **Caso de uso trabalhado** | [UC011](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc011) |
+
+**Ambiente/Contexto**  
+Local: Portal do tutor ou aplicativo SinPatinhas.  
+Tempo: A qualquer momento.  
+Pré-condição: Tutor possui o aplicativo e acessou um perfil de clínica que existe.
+
+**Atores**  
+Dono de pet.
+
+**Objetivos**  
+Informar ao usuário as avaliações oriundas de outros clientes sobre a clínica em questão.
+
+**Planejamento**  
+O ator deseja visualizar as avaliações da clínica feitas por outros clientes.
+
+**Ações**  
+1. O ator baixa o aplicativo.  
+2. O ator se cadastra na sua conta.  
+3. O ator pesquisa uma clínica que possua conta no aplicativo.  
+4. O ator visualiza as avaliações.  
+
+**Eventos**  
+- Visualização de avaliações.  
+- Apresentação da média de avaliações.  
+
+**Avaliação**  
+O ator visualiza as avaliações e suas médias.
+
+**Exceção**  
+Caso a clínica não possua perfil no aplicativo, uma mensagem com a informação é exibida.
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="cnr010"></a>
 
-### #CNR010 – Indicador Visual da Média de Atendimentos (Clínica/Hospital) – [RFNI014](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CNR010 – Indicador visual da média de atendimentos por médico (Clínica/Hospital) – [RFNI015](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+**Autor:** Isaac Menezes
+
+
+**Tabela 4 – Cenário 10:  ([RFNI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni015))**
+
+| **Componente** | **Descrição** |
+|-----------------|----------------|
+| **Título** | Indicador visual da média de atendimentos por médico |
+| **Código** | CNR010 |
+| **Caso de uso trabalhado** | [UC011](../../../modelagem/gravacoes/antonio/caso_de_uso.md#uc011) |
+
+**Ambiente/Contexto**  
+Local: Perfil do médico cadastrado no aplicativo SinPatinhas.  
+Tempo: A qualquer momento.  
+Pré-condição: Tutor possui o aplicativo e acessou um perfil de médico existente.
+
+**Atores**  
+Dono de pet.
+
+**Objetivos**  
+Informar ao usuário as avaliações oriundas de outros clientes sobre o médico em questão.
+
+**Planejamento**  
+O ator deseja visualizar as avaliações do médico feitas por outros clientes.
+
+**Ações**  
+1. O ator baixa o aplicativo.  
+2. O ator se cadastra na sua conta.  
+3. O ator pesquisa um médico que possua conta no aplicativo.  
+4. O ator visualiza as avaliações.  
+
+**Eventos**  
+- Visualização de avaliações.  
+- Apresentação da média de avaliações.  
+
+**Avaliação**  
+O ator visualiza as avaliações e suas médias.
+
+**Exceção**  
+Caso o médico não possua perfil no aplicativo, uma mensagem com a informação é exibida.
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 

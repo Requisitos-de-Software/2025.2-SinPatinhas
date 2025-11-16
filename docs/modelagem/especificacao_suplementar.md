@@ -83,8 +83,8 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 |                      |  | [#ES006](/modelagem/gravacoes/pedro/especificacao.md)   |  |
 | **Mateus Santos Negrini** |  | [#ES007](/modelagem/gravacoes/mateus/especificacao.md) |  |
 |                           |  | [#ES008](/modelagem/gravacoes/mateus/especificacao.md) |  |
-| **Isaac Menezes**         |  | [#ES009](/modelagem/gravacoes/isaac/especificacao.md) |  |
-|                           |  | [#ES010](/modelagem/gravacoes/isaac/especificacao.md) |  |
+| **Isaac Menezes**         | [ES009](#es009) | [#ES009](/modelagem/gravacoes/isaac/especificacao.md) |  |
+|                           | [ES010](#es010) | [#ES010](/modelagem/gravacoes/isaac/especificacao.md) |  |
 
 ---
 
@@ -175,11 +175,63 @@ A **Segurança** trata da proteção dos dados do sistema e prevenção de acess
 
 <a id="es009"></a>
 
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | RNFI014 |
+| **Título** | Exibição da média de atendimentos por clínica |
+| **Descrição** | Exibir para o usuário a média de consultas por cada clínica |
+| **Justificativa/Objetivo** | Conceder ao usuário uma informação útil que pode comunicar experiência e boa imagem da clínica |
+| **Ator(es)** | Dono de pet, Administrador, Interessado na clínica, Profissional da área |
+| **Pré-condições** | - O usuário deve ter acesso à internet <br> - O usuário deve estar com o aplicativo SinPatinhas instalado <br> - O usuário deve estar na página correspondente da clínica |
+| **Entradas** | - Pesquisa do usuário <br> - Clicar no botão "pesquisar" <br> - Selecionar o perfil desejado |
+| **Saídas** | - O sistema calcula a média ponderada <br> - Exibição do resultado do cálculo para o usuário |
+| **Regras de Negócio** | 1. Apenas clínicas que já fizeram consultas exibirão resultado do cálculo <br> 2. Para clínicas que não possuem consultas, será exibido uma mensagem com essa informação |
+| **Requisitos de Desempenho** | - Tempo máximo de resposta de 3 segundos <br> - Tempo máximo de carregamento da página de 2 segundos |
+| **Requisitos de Usabilidade** | - Resultado do cálculo com duas casas decimais <br> - Resultado do cálculo exibido juntamente com as demais informações da clínica |
+| **Requisitos de Portabilidade** | - Compatível com as versões mais recentes dos principais navegadores (Chrome, Firefox, Safari, Edge) |
+| **Requisitos de Segurança** | - Conexão do tipo HTTPS |
+| **Tratamento de Erros / Exceções** | - Clínica sem consultas: exibir mensagem informando que não foram feitas consultas <br> - Clínica inexistente: exibir mensagem informando que a clínica não existe |
+| **Dependências** | - Informação no banco de dados de quantas consultas ocorreram <br> - Função simples capaz de calcular a média ponderada |
+| **Critérios de Aceitação** | 1. O usuário consegue ver o resultado do cálculo <br> 2. O cálculo tem apenas duas casas decimais |
+| **Rastreabilidade** | RNFI014, #UC009, LX014, LX015, LX016, LX017, LX018, LX019, LX020 |
+| **Data de Criação** | 12/10/2025 |
+| **Observações / Comentários** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 ### #ES010
 
 <a id="es010"></a>
+
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | RNFI015 |
+| **Título** | Exibição da média de atendimentos por profissional |
+| **Descrição** | Exibir para o usuário a média de consultas do médico |
+| **Justificativa/Objetivo** | Informar ao usuário um dado útil que comunique experiência e transparência |
+| **Ator(es)** | Dono de pet, Administrador, Interessado na clínica, Profissional da área |
+| **Pré-condições** | - O usuário deve ter acesso à internet <br> - O usuário deve estar com o aplicativo SinPatinhas instalado <br> - O usuário deve estar na página correspondente da clínica |
+| **Entradas** | - Pesquisa do usuário <br> - Clicar no botão "pesquisar" <br> - Selecionar o perfil desejado |
+| **Saídas** | - O sistema calcula a média ponderada <br> - Exibição do resultado do cálculo para o usuário |
+| **Regras de Negócio** | 1. Apenas profissionais que já fizeram consultas exibirão resultado do cálculo <br> 2. Para profissionais que não possuem consultas, será exibido uma mensagem com essa informação |
+| **Requisitos de Desempenho** | - Tempo máximo de resposta de 3 segundos <br> - Tempo máximo de carregamento da página de 2 segundos |
+| **Requisitos de Usabilidade** | - Resultado do cálculo com duas casas decimais <br> - Resultado do cálculo exibido juntamente com as demais informações da clínica |
+| **Requisitos de Portabilidade** | - Compatível com as versões mais recentes dos principais navegadores (Chrome, Firefox, Safari, Edge) |
+| **Requisitos de Segurança** | - Conexão do tipo HTTPS |
+| **Tratamento de Erros / Exceções** | - Profissionais sem consultas: exibir mensagem informando que não foram feitas consultas <br> - Profissional inexistente: exibir mensagem informando que o profissional não existe |
+| **Dependências** | - Informação no banco de dados de quantas consultas ocorreram <br> - Função simples capaz de calcular a média ponderada |
+| **Critérios de Aceitação** | 1. O usuário consegue ver o resultado do cálculo <br> 2. O cálculo tem apenas duas casas decimais |
+| **Rastreabilidade** | RNFI015, #UC010, LX014, LX015, LX016, LX017, LX018, LX019, LX020 |
+| **Data de Criação** | 12/10/2025 |
+| **Observações / Comentários** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
