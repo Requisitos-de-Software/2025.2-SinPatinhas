@@ -141,8 +141,8 @@
 |-------:|------------|---------------------------------------------------|-------------------|-----------|
 | 1.0    | 07/10/2025 | Criação da página de consolidação de requisitos     | Heloisa     | Letícia  |
 | 1.1    | 12/10/2025 | Criação de estruturação e das rotas para os que foram consolidados  | Antonio     | --  |
-| 1.2    | 21/10/2025 | Padronização com IDs e links para fontes dos requisitos | Pedro Gomes | -- |
-| 1.3    | 21/10/2025 | Adição de RF041 e referências completas aos requisitos do documento fonte | Pedro Gomes | -- |
+| 1.2    | 21/10/2025 | Padronização com IDs e links para fontes dos requisitos | Pedro Gomes | Antonio |
+| 1.3    | 21/10/2025 | Adição de RF041 e referências completas aos requisitos do documento fonte | Pedro Gomes | Antonio |
 
 
 ---

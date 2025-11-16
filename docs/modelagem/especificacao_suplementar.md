@@ -77,8 +77,8 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 |                      | [ES012](#es012) | [#ES012](/modelagem/gravacoes/antonio/especificacao.md) | Performance (P) |
 |                      | [ES013](#es013) | [#ES013](/modelagem/gravacoes/antonio/especificacao.md) | Supportability (S) |
 |                      | [ES014](#es014) | [#ES014](/modelagem/gravacoes/antonio/especificacao.md) | Funcionalidade (F) |
-| **Letícia Paiva**    |  | [#ES003](/modelagem/gravacoes/leticia/especificacao.md) | |
-|                      |  | [#ES004](/modelagem/gravacoes/leticia/especificacao.md) | |
+| **Letícia Paiva**    | [ES003](#es003) | [#ES003](/modelagem/gravacoes/leticia/especificacao.md) | |
+|                      | [ES004](#es004)  | [#ES004](/modelagem/gravacoes/leticia/especificacao.md) | |
 | **Pedro Gomes**      |  | [#ES005](/modelagem/gravacoes/pedro/especificacao.md)   |  |
 |                      |  | [#ES006](/modelagem/gravacoes/pedro/especificacao.md)   |  |
 | **Mateus Santos Negrini** |  | [#ES007](/modelagem/gravacoes/mateus/especificacao.md) |  |
@@ -139,11 +139,117 @@ A **Segurança** trata da proteção dos dados do sistema e prevenção de acess
 
 <a id="es003"></a>
 
+## **Funcionalidade (Funcionalidade – F)**  
+
+### **Tabela F – Funcionalidades do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RF030](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf030) | O sistema deve disponibilizar uma seção dedicada à adoção, permitindo visualizar animais disponíveis e manifestar interesse formalmente. | Entrevista |
+| [RF028](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf028) | O sistema deve permitir buscas e filtros para localizar animais disponíveis para adoção. | Entrevista |
+| [RF021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf021) | O sistema deve exibir perfis completos dos animais, contendo informações relevantes para decisão de adoção. | Entrevista |
+| [RF041](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf041) | O sistema deve registrar e atualizar o status do animal (ex: disponível/adotado) em tempo real. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+## **Usabilidade (Usabilidade – U)**  
+
+### **Tabela U – Usabilidade do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RNF003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) | A interface deve ser intuitiva, com filtros claros e experiência simples para usuários de diferentes níveis tecnológicos. | Entrevista |
+| [RNF005](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf005) | O sistema deve ser responsivo e compatível com navegadores principais e dispositivos móveis. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+## **Desempenho (Performance – P)**  
+
+### **Tabela P – Desempenho do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RNF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) | As buscas filtradas devem retornar resultados em até 3 segundos e carregar perfis em até 2 segundos. | Entrevista |
+| [RNF021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) | O sistema deve garantir respostas rápidas (tempo máximo de 2s em páginas principais). | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+## **Confiabilidade (Reliability – R)**  
+
+### **Tabela R – Confiabilidade do Sistema de Adoção**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RNF001](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf001) | O sistema deve garantir conformidade com a LGPD no tratamento de dados durante o processo de adoção. | Entrevista |
+| [RNF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | O sistema deve evitar perda de dados, garantindo cópias de segurança automáticas. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
 ---
 
 ### #ES004
 
 <a id="es004"></a>
+
+---
+
+## **Funcionalidade (Funcionalidade – F)**  
+
+### **Tabela F – Funcionalidades de Alertas e Notificações Automáticas**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RF031](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf031) | O sistema deve permitir que o tutor agende lembretes de vacinas e medicações. | Entrevista |
+| [RF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) | O sistema deve enviar notificações automáticas por e-mail na data configurada. | Entrevista |
+| [RF024](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf024) | O sistema deve permitir que o tutor visualize, edite e exclua lembretes. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+## **Usabilidade (Usabilidade – U)**  
+
+### **Tabela U – Usabilidade do Módulo de Notificações**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RNF003](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf003) | O formulário de agendamento deve ser simples, claro e rápido de preencher. | Entrevista |
+| [RNF012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf012) | As mensagens enviadas por e-mail devem ser claras, objetivas e responsivas. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+## **Desempenho (Performance – P)**  
+
+### **Tabela P – Desempenho do Módulo de Notificações**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RNF004](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) | O sistema deve salvar lembretes em até 2 segundos. | Entrevista |
+| [RNF021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) | O e-mail deve ser enviado com no máximo 1 hora de atraso em relação ao horário programado. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+## **Confiabilidade (Reliability – R)**  
+
+### **Tabela R – Confiabilidade nas Notificações Automáticas**
+
+| **ID** | **Descrição** | **Rastreamento** |
+|--------|---------------|------------------|
+| [RNF018](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf018) | O sistema deve registrar falhas e tentar reenviar e-mails até 3 vezes. | Entrevista |
+| [RNF024](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | O sistema deve registrar logs de entrega e erros (bounce). | Entrevista |
+| [RNF009](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | O sistema deve garantir que os dados dos lembretes não sejam perdidos. | Entrevista |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
@@ -352,6 +458,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de especificação suplementar e criador dos artefatos ES001, ES002, ES011, ES012, ES013, ES014 |
+| Letícia Paiva | 16,6% | Criador dos artefatos ES003 e ES004 |
 
 
 ---
@@ -368,7 +475,7 @@ Pressman, R. S. *Engenharia de Software: uma abordagem profissional.* 8ª ediç�
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:---------:|:---------------|:-------------|:---------------|
 | 1.0 | 10/10/2025 | Criação do documento de Especificação Suplementar | Antonio | Letícia |
-| 2.0 | 12/10/2025 | Adição das especificações do sistema | Heloisa | -- |
+| 2.0 | 12/10/2025 | Adição das especificações do sistema | Heloisa | Antonio |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 

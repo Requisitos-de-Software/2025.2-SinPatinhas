@@ -566,7 +566,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Editor da página de apresentação de cenários e criador dos artefatos CNR003, CNR004, CNR013, CNR014, CNR015 |
- 
+| Letícia Paiva | 16,6% | Editora da página de apresentação de cenários e criador dos artefatos CNR001 e CNR002 |
 ---
 
 ## Referências  

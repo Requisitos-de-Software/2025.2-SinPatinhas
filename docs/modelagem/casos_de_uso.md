@@ -370,6 +370,7 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Nome**              | **Contribuição (%)** | **Função**                  |
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de casos de uso e criador dos artefatos UC001, UC002, UC013, UC014, UC015 |
+| Léticia Paiva | 16,6% | Criador dos artefatos UC003 e UC004 |
  
 ---
 

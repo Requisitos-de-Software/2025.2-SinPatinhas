@@ -186,7 +186,7 @@
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
 | 1.0    | 29/09/2025 | Criação da página da lista de verificação do perfil de usuário   | Heloisa  | Antonio         |
-| 1.0    | 30/09/2025 | Adição da coluna de autores   | Heloisa  | -         |
+| 1.0    | 30/09/2025 | Adição da coluna de autores   | Heloisa  | Antonio         |
 
 ---
 

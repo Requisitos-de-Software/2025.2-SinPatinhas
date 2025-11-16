@@ -146,7 +146,7 @@
 
 | Versão | Data       | Descrição                                              | Autores | Revisores |
 |------:|------------|----------------------------------------------------------|---------|-----------|
-| 1.0   | 12/11/2025 | Criação da página da lista de histórias de usuário | Pedro |    |
+| 1.0   | 12/11/2025 | Criação da página da lista de histórias de usuário | Pedro |  Antonio  |
 
 <style>
 :root{
