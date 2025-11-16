@@ -45,8 +45,7 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 | **Antonio Carvalho** | [Protótipo 03](#prototipo03)  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
 |  | [Protótipo 04](#prototipo04) | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
 | **Heloisa Santos** |   — | — |
-| **Letícia Paiva** | — | — |
-| | — | — |
+| **Letícia Paiva** | [Protótipo 05](#prototipo05)  | Alertas e Notificações Automáticas - [**RFNI017**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017) |
 | **Isaac Menezes** | — | — |
 | — |  | — |
 | **Mateus Negrini** | — | — |
@@ -141,6 +140,15 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 | **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o protótipo 4. |
 
 ---
+
+<a id="prototipo05"></a>
+# Protótipo 05 - Alertas e Notificações Automáticas (RFNI017)
+
+<iframe width="560" height="500" src="https://youtube.com/shorts/LeT-ddXzhvU"
+ title="Vídeo" frameborder="0" allowfullscreen></iframe>
+
+---
+
 
 ## Agradecimentos
 
