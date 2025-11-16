@@ -6,56 +6,108 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
 
 ## Lista de Verificação
 
+<h3>Tabela 1 - Verificação do Backlog</h3>
 
+<div class="plan-grid"></div>
 
-### Tabela 1 - Verificação das histórias de usuário
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Item</th>
+      <th>Conforme</th>
+      <th>Não Conforme</th>
+      <th>Autores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>001</td>
+      <td>Os requisitos presentes no backlog estão priorizados?</td>
+      <td><input type="checkbox" name="conforme1"></td>
+      <td><input type="checkbox" name="nao_conforme1"></td>
+      <td>Antonio</td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>As funcionalidades listadas no backlog fornecem valor comercial ao cliente?</td>
+      <td><input type="checkbox" name="conforme2"></td>
+      <td><input type="checkbox" name="nao_conforme2"></td>
+      <td>Heloisa</td>
+    </tr>
+    <tr>
+      <td>003</td>
+      <td>O backlog possui funcionalidades que o produto deve ter?</td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Matheus</td>
+    </tr>
+  </tbody>
+</table>
 
-<font><p style="text-align: center">**Tabela 1** - Lista de verificação para o artefato histórias de usuário.</p></font>
+<p align="center"><strong>PDF com itens e referências:</strong> 
+<a href="https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/development/docs/pdfs/Lista%20backlog.pdf" target="_blank">Lista Backlog (PDF)</a></p>
+<p align="center"><strong>Autor:</strong> Heloisa</p>
 
-| Nº  | Descrição                          | Autor                  |
-|-----|------------------------------------|------------------------|
-| 01  | As histórias de usuário são pequenas, detalhadas e específicas? | Heloisa  |
-| 02  | As histórias de usuário começam explicitando qual o perfil de usuário interessado naquela história? (Como usuário X...) | Heloisa  |
-| 03  | As histórias de usuário possuem o que o usuário deseja daquele item? (Desejo Z funcionalidade) | Pedro  |
-| 04  | Há em cada história de usuário a finalidade da funcionalidade desejada? (Desejo Z funcionalidade para Y finalidade) | Pedro  |
-| 05  | A história é compreensível na perspectiva dos clientes? | Isaac  |
-| 06  | A história evita detalhar o passo a passo ou as regras de negócio? |  Matheus |
-| 07  | Cada história está devidamente relacionada a uma funcionalidade registrada no Product Backlog? | Leticia  |
-| 08  | Cada história possui critérios de aceitação claros, objetivos e verificáveis? |  Isaac |
+<hr>
 
-PDF com itens e referências: [Lista História de Usuário (PDF)](https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/development/docs/pdfs/Lista%20Historia%20de%20Usuario.pdf)
+<!-- Tabela 2 - Verificação do NFR Framework -->
+<h3>Tabela 2 - Verificação do NFR Framework</h3>
 
-<font><p style="text-align: center">**Autor:** Heloisa  </p></font>
+<div class="plan-grid"></div>
 
-### Tabela 2 - Verificação do backlog
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Item</th>
+      <th>Conforme</th>
+      <th>Não Conforme</th>
+      <th>Autores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>001</td>
+      <td>Foram definidos requisitos de Confiabilidade para garantir que o sistema execute sua função sob limites especificados?</td>
+      <td><input type="checkbox" name="conforme1"></td>
+      <td><input type="checkbox" name="nao_conforme1"></td>
+      <td>Leticia</td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>Foram definidos requisitos de Desempenho relacionados ao tempo de computação e ao consumo de recursos?</td>
+      <td><input type="checkbox" name="conforme2"></td>
+      <td><input type="checkbox" name="nao_conforme2"></td>
+      <td>Leticia</td>
+    </tr>
+    <tr>
+      <td>003</td>
+      <td>Os Requisitos Não-Funcionais são expressos através de softgoals?</td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+    </tr>
+    <tr>
+      <td>004</td>
+      <td>Os softgoals são divididos em três tipos: NFR, de Operacionalização e de Afirmação?</td>
+      <td><input type="checkbox" name="conforme4"></td>
+      <td><input type="checkbox" name="nao_conforme4"></td>
+      <td>Isaac</td>
+    </tr>
+    <tr>
+      <td>005</td>
+      <td>Os softgoals NFR estão representados de forma hierárquica?</td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Matheus</td>
+    </tr>
+  </tbody>
+</table>
 
-<font><p style="text-align: center">**Tabela 2** - Lista de verificação para o artefato backlog.</p></font>
-
-| Nº  | Descrição                          | Autor                  |
-|-----|------------------------------------|------------------------|
-| 01  | Os requisitos presentes no backlog estão priorizados? | Antonio  |
-| 02  | As funcionalidades listadas no backlog fornecem valor comercial ao cliente? |  Heloisa |
-| 03  | O Backlog possui funcionalidades que o produto deve ter? | Matheus  |
-
-PDF com itens e referências: [Lista Backlog (PDF)](https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/development/docs/pdfs/Lista%20backlog.pdf)
-
-<font><p style="text-align: center">**Autor:** Heloisa  </p></font>
-
-### Tabela 3 - Verificação do NFR Framework
-
-<font><p style="text-align: center">**Tabela 3** - Lista de verificação para o artefato NFR Framework.</p></font>
-
-| Nº  | Descrição                          | Autor                  |
-|-----|------------------------------------|------------------------|
-| 01  | Foram definidos requisitos de Confiabilidade para garantir que o sistema execute sua função sob limites especificados? | Leticia  |
-| 02  | Foram definidos requisitos de Desempenho relacionados ao tempo de computação e ao consumo de recursos? | Leticia  |
-| 03  | Os Requisitos Não-Funcionais são expressos através de softgoals? | Antonio  |
-| 04  | Os softgoals são divididos em três tipos: NFR, de Operacionalização e de Afirmação? | Isaac  |
-| 05  | Os softgoals NFR estão representados de forma hierarquica? | Matheus  |
-
-PDF com itens e referências: [Lista NFR (PDF)](https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/development/docs/pdfs/Lista%20NFR.pdf)
-
-<font><p style="text-align: center">**Autor:** Heloisa  </p></font>
+<p align="center"><strong>PDF com itens e referências:</strong> 
+<a href="https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/development/docs/pdfs/Lista%20NFR.pdf" target="_blank">Lista NFR (PDF)</a></p>
+<p align="center"><strong>Autor:</strong> Heloisa</p>
 
 # Histórico de versões
 
