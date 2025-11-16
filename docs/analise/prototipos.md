@@ -144,8 +144,12 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 <a id="prototipo05"></a>
 # Protótipo 05 - Alertas e Notificações Automáticas (RFNI017)
 
-<iframe width="560" height="500" src="https://youtube.com/shorts/LeT-ddXzhvU"
- title="Vídeo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="500"
+        src="https://www.youtube.com/embed/LeT-ddXzhvU"
+        title="Vídeo"
+        frameborder="0"
+        allowfullscreen>
+</iframe>
 
 ---
 
