@@ -68,13 +68,13 @@ A tabela a seguir apresenta os componentes utilizados.
 |                           | | [#LX013](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas de Notificações Automáticas (RF31) |
 | **Heloisa Silva**         | | [#LX014](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC09 e #CEN05 - Sistema de Adoção (RFNI001) |
 |                           | | [#LX015](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC010 e #CEN06 - Alertas e Notificações Automáticas (RFNI10) |
-| **Isaac Menezes**         | | [#LX016](/modelagem/gravacoes/isaac/lexicos.md) | Indicador Visual da Média (RNFI014 e RNFI015) |
-|                           | | [#LX017](/modelagem/gravacoes/isaac/lexicos.md) | Usuário (RNFI014 e RNFI015) |
-|                           | | [#LX018](/modelagem/gravacoes/isaac/lexicos.md) | Página da Clínica (RNFI014 e RNFI015) |
-|                           | | [#LX019](/modelagem/gravacoes/isaac/lexicos.md) | Profissional da área (RNFI014 e RNFI015) |
-|                           | | [#LX020](/modelagem/gravacoes/isaac/lexicos.md) | Navegar (RNFI014 e RNFI015) |
-|                           | | [#LX021](/modelagem/gravacoes/isaac/lexicos.md) | Média da clínica (RNFI014 e RNFI015) |
-|                           | | [#LX022](/modelagem/gravacoes/isaac/lexicos.md) | Média do profissional (RNFI014 e RNFI015) |
+| **Isaac Menezes**         | [LX016](#lx016) | [#LX016](/modelagem/gravacoes/isaac/lexicos.md) | Indicador Visual da Média (RNFI014 e RNFI015) |
+|                           | [LX017](#lx017) | [#LX017](/modelagem/gravacoes/isaac/lexicos.md) | Usuário (RNFI014 e RNFI015) |
+|                           | [LX018](#lx018) | [#LX018](/modelagem/gravacoes/isaac/lexicos.md) | Página da Clínica (RNFI014 e RNFI015) |
+|                           | [LX019](#lx019) | [#LX019](/modelagem/gravacoes/isaac/lexicos.md) | Profissional da área (RNFI014 e RNFI015) |
+|                           | [LX020](#lx020) | [#LX020](/modelagem/gravacoes/isaac/lexicos.md) | Navegar (RNFI014 e RNFI015) |
+|                           | [LX021](#lx021) | [#LX021](/modelagem/gravacoes/isaac/lexicos.md) | Média da clínica (RNFI014 e RNFI015) |
+|                           | [LX022](#lx022) | [#LX022](/modelagem/gravacoes/isaac/lexicos.md) | Média do profissional (RNFI014 e RNFI015) |
 
 ---
 
@@ -253,42 +253,91 @@ A tabela a seguir apresenta os componentes utilizados.
 <a id="lx016"></a>
 
 ### #LX016 – Indicador Visual da Média (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX016   | Indicação visual da média  | Resultado do cálculo da média ponderada.  | Número       | Cálculo, resultado  | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="lx017"></a>
 
 ### #LX017 – Usuário (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX017   | Usuário  | Pessoa que acessou o sistema, não necessariamente um profissional ou tutor de pet.  | Sujeito  | Indivíduo, interessado | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="lx018"></a>
 
 ### #LX018 – Página da Clínica (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX018   | Página da clínica  | A página correspondente à clínica no sistema.   | Local  | Site, aba | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="lx019"></a>
 
 ### #LX019 – Profissional da Área (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX019   | Profissional da área  | Veterinário(a) ou técnico da área.  | Sujeito  | Médico, doutor | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="lx020"></a>
 
 ### #LX020 – Navegar (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX020   | Navegar  | No sistema, localizar o perfil da clínica/hospital.  | Ação  | Procurar, localizar | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="lx021"></a>
 
 ### #LX021 – Média da Clínica (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX021   | Média da clínica  | A média ponderada das consultas totais da clínica. | Número  | Cálculo | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="lx022"></a>
 
 ### #LX022 – Média do Profissional (RNFI014 e RNFI015)
+**Autor:** [Isaac Menezes](https://github.com/ispratamena250)
+
+| ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
+| ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
+| LX02   | Média do profissional  | A média ponderada das consultas totais de cada médico. | Número  | Cálculo | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
