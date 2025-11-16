@@ -17,19 +17,21 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>04/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>07/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>–</td><td>–</td></tr>
-<tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>–</td><td>–</td></tr>
-<tr><td>06/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>05/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>04/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>07/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>06/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>05/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 1</b> – Cronograma Planejado da Etapa 1</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ### Executado
 <table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
@@ -44,14 +46,19 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>Entregue</td><td>–</td></tr>
 <tr><td>05/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>06/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>Entregue</td><td>–</td></tr>
-<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Rich Picture</td><td>Mateus</td><td>Entregue</td><td>–</td></tr>
+<tr><td>07/09/2025</td><td>Montagem do cronograma detalhado </td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>Entregue</td></tr>
-<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>Entregue</td></tr>
+<tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>-</td></tr>
+<tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>-</td></tr>
+<tr><td>17/11/2025</td><td>Inspeção do nosso grupo na 1ª etapa do projeto</td><td></td><td>-</td><td>-</td></tr>
+<tr><td>17/11/2025</td><td>Inspeção do grupo +1 - Etapa 1</td><td></td><td>-</td><td>-</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 2</b> – Cronograma Executado da Etapa 1</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ---
 
@@ -65,21 +72,23 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>20/09/2025</td><td>Definição do perfil de usuários</td><td>Mateus, Luciano</td><td>–</td><td>–</td></tr>
-<tr><td>22/09/2025</td><td>Levantamento das técnicas de elicitação usadas</td><td>Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>24/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>24/09/2025</td><td>Upload das técnicas de elicitação que serão usadas no projeto</td><td>Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>26/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>26/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>–</td><td>–</td></tr>
-<tr><td>26/09/2025</td><td>Inspeção Etapa 2</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>27/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>30/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>01/10/2025</td><td>Inspeção Etapa 2 - Grupo 2</td><td>Pedro e Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>03/10/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>20/09/2025</td><td>Definição do perfil de usuários</td><td>Mateus, Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>22/09/2025</td><td>Levantamento das técnicas de elicitação usadas</td><td>Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>24/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>24/09/2025</td><td>Upload das técnicas de elicitação que serão usadas no projeto</td><td>Heloísa</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>26/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>26/09/2025</td><td>Upload das técnicas de priorização no site</td><td>Antonio</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>27/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>30/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>01/10/2025</td><td>Inspeção Etapa 2 - Grupo 2</td><td>Pedro e Heloísa</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>03/10/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>17/11/2025</td><td>Apresentação da 2ª etapa do projeto (Correção)</td><td></td><td>-</td><td>-</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 3</b> – Cronograma Planejado da Etapa 2</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ### Executado
 <table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
@@ -94,13 +103,16 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>23/09/2025</td><td>Definição das técnicas de elicitação que serão usadas no projeto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>25/09/2025</td><td>Definição das técnicas de priorização</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr><tr><td>27/09/2025</td><td>Upload da página das técnicas de elicitação no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>27/09/2025</td><td>Upload da página das técnicas de priorização no site</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
-<tr><td>29/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>30/09/2025</td><td>Inspeção Etapa 2</td><td>Antonio e Heloisa</td><td>–</td><td>–</td></tr>
+
+<tr><td>30/09/2025</td><td>Inspeção do grupo +1 - Etapa 2</td><td>Antonio e Heloisa</td><td>Entregue</td><td>–</td></tr>
 <tr><td>18/10/2025</td><td>Elaboração de página com abordagem e aplicação da MoSCoW</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>17/11/2025</td><td>Apresentação da 2ª etapa do projeto (Correção)</td><td></td><td>-</td><td>-</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 4</b> – Cronograma Executado da Etapa 2</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ## Etapa 3 – Modelagem Tradicional
 
@@ -112,16 +124,18 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>07/10/2025</td><td>Elaboração do Diagrama de Caso de Uso</td><td>Antonio, Letícia</td><td>–</td><td>–</td></tr>
-<tr><td>09/10/2025</td><td>Especificação de Casos de Uso</td><td>Pedro, Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>11/10/2025</td><td>Elaboração do Diagrama de Classes</td><td>Mateus, Luciano</td><td>–</td><td>–</td></tr>
-<tr><td>13/10/2025</td><td>Validação dos Modelos Tradicionais</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>14/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>18/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>07/10/2025</td><td>Elaboração do Diagrama de Caso de Uso</td><td>Antonio, Letícia</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>09/10/2025</td><td>Especificação de Casos de Uso</td><td>Pedro, Heloísa</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>11/10/2025</td><td>Elaboração do Diagrama de Classes</td><td>Mateus, Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>13/10/2025</td><td>Validação dos Modelos Tradicionais</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>14/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>18/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 5</b> – Cronograma Planejado da Etapa 3</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ### Executado
 <table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
@@ -134,15 +148,18 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 <tr><td>11/10/2025</td><td>Elaboração do Diagrama de Caso de Uso</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>11/10/2025</td><td>Elaboração da página dos Modelos Tradicionais e como devem ser feitos</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>12/10/2025</td><td>Especificação dos Casos de Uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td>12/10/2025</td><td>Validação dos Modelos Tradicionais</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
+<tr><td>12/10/2025</td><td>Validação Unitária dos Modelos Tradicionais</td><td>Antonio</td><td>Entregue</td><td>–</td></tr>
 <tr><td>12/10/2025</td><td>Criação das páginas unitárias criando artefatos após validação dos Modelos Tradicionais</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td>12/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
+<tr><td>12/10/2025</td><td>Apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
 <tr><td>16/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Entregue</td><td>–</td></tr>
-<tr><td>16/10/2025</td><td>Inspeção Etapa 2</td><td>Heloisa</td><td>Entregue</td><td>–</td></tr>
+<tr><td>16/10/2025</td><td>Inspeção Grupo +1 - Etapa 3</td><td>Heloisa</td><td>Entregue</td><td>–</td></tr>
+<tr><td>17/11/2025</td><td>Inspeção do nosso grupo na 3ª etapa do projeto</td><td></td><td>-</td><td>-</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 6</b> – Cronograma Executado da Etapa 3</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ---
 
@@ -156,16 +173,21 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>21/10/2025</td><td>Definição das Histórias de Usuário</td><td>Luciano, Isaac</td><td>–</td><td>–</td></tr>
-<tr><td>23/10/2025</td><td>Construção do Backlog do Produto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>25/10/2025</td><td>Construção dos Diagramas Ágeis (User Story Mapping, etc.)</td><td>Antonio, Letícia</td><td>–</td><td>–</td></tr>
-<tr><td>27/10/2025</td><td>Revisão e validação das histórias com stakeholders</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>28/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>31/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>21/10/2025</td><td>Definição das Histórias de Usuário</td><td>Luciano, Isaac</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>23/10/2025</td><td>Construção do Backlog do Produto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>25/10/2025</td><td>Construção dos Diagramas Ágeis (User Story Mapping, etc.)</td><td>Antonio, Letícia</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>27/10/2025</td><td>Revisão e validação das histórias com stakeholders</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>28/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>31/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>17/11/2025</td><td>Inspeção do grupo +1 - Etapa 4</td><td>Antonio, Heloísa e Mateus</td><td>Entregue</td><td>-</td></tr>
+<tr><td>17/11/2025</td><td>Inspeção do nosso grupo na 4ª etapa do projeto</td><td></td><td>-</td><td>-</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 7</b> – Cronograma Planejado da Etapa 4</p>
+
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ### Executado
 <table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
@@ -175,11 +197,18 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-</tbody>
+<tr><td>14/11/2025</td><td>Definição da página modelo de Histórias de Usuário</td><td>Antonio</td><td>Entregue</td><td>-</td></tr>
+<tr><td>21/10/2025</td><td>Criação das páginas unitárias criando artefatos após validação dos Modelos Tradicionais</td><td>Luciano, Isaac</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>23/10/2025</td><td>Construção do Backlog do Produto</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>25/10/2025</td><td>Construção dos Diagramas Ágeis (User Story Mapping, etc.)</td><td>Antonio, Letícia</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>27/10/2025</td><td>Revisão e validação das histórias com stakeholders</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>28/10/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>31/10/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 </table>
 
 <p style="text-align: center;"><b>Tabela 8</b> – Cronograma Executado da Etapa 4</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ---
 
@@ -193,15 +222,17 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>04/11/2025</td><td>Aplicação das técnicas de validação (MoSCoW, SMART, INVEST)</td><td>Pedro, Heloísa</td><td>–</td><td>–</td></tr>
-<tr><td>06/11/2025</td><td>Consolidação das métricas de qualidade</td><td>Antonio, Mateus</td><td>–</td><td>–</td></tr>
-<tr><td>08/11/2025</td><td>Validação cruzada entre os artefatos</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>10/11/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>14/11/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>04/11/2025</td><td>Aplicação das técnicas de validação (MoSCoW, SMART, INVEST)</td><td>Pedro, Heloísa</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>06/11/2025</td><td>Consolidação das métricas de qualidade</td><td>Antonio, Mateus</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>08/11/2025</td><td>Validação cruzada entre os artefatos</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>10/11/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>14/11/2025</td><td>Revisão e ajustes pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 9</b> – Cronograma Planejado da Etapa 5</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ### Executado
 <table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
@@ -217,6 +248,8 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 
 <p style="text-align: center;"><b>Tabela 10</b> – Cronograma Executado da Etapa 5</p>
 
+<p style="text-align: center;">Autor: Antonio Carvalho 
+
 ---
 
 ## Projeto Final
@@ -229,14 +262,16 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>18/11/2025</td><td>Integração dos artefatos em documento final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>20/11/2025</td><td>Revisão completa do projeto</td><td>Isaac, Luciano</td><td>–</td><td>–</td></tr>
-<tr><td>22/11/2025</td><td>Gravação da apresentação final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
-<tr><td>25/11/2025</td><td>Entrega final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>–</td><td>–</td></tr>
+<tr><td>18/11/2025</td><td>Integração dos artefatos em documento final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>20/11/2025</td><td>Revisão completa do projeto</td><td>Isaac, Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>22/11/2025</td><td>Gravação da apresentação final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>25/11/2025</td><td>Entrega final</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 </tbody>
 </table>
 
 <p style="text-align: center;"><b>Tabela 11</b> – Cronograma Planejado do Projeto Final</p>
+
+<p style="text-align: center;">Autor: Antonio Carvalho 
 
 ### Executado
 <table border="1" cellspacing="0" cellpadding="4" style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial;">
@@ -252,13 +287,15 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 
 <p style="text-align: center;"><b>Tabela 12</b> – Cronograma Executado do Projeto Final</p>
 
+<p style="text-align: center;">Autor: Antonio Carvalho **Autor:** Antonio Carvalho 
+<p style="text-align: center;">
 ---
 
 ## Tabela de Contribuições
 
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
-| Antonio Carvalho | 100% | Autor da página de Especificação Suplementar |
+| Antonio Carvalho | 100% | Autor da página de cronograma |
 
 ---
 

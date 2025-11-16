@@ -68,20 +68,32 @@ details a:hover {
 - [Sobre](/README.md)
 
 <details>
-  <summary><strong>Apresentações</strong></summary>
+  <summary><strong>Entregas</strong></summary>
 
-  - [Entregas](/apresentacoes.md)
+  - [Entrega de n° 01](/entregas/entrega_1.md)
+  - [Entrega de n° 02](/entregas/entrega_2.md)
+  - [Entrega de n° 03](/entregas/entrega_3.md)
+  - [Entrega de n° 04](/entregas/entrega_4.md)
+  - [Entrega de n° 05](/entregas/entrega_5.md)
+  - [Entrega de n° 06](/entregas/entrega_6.md)
 </details>
 
 <details>
   <summary><strong>Inspeções e Verificações</strong></summary>
 
-  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao.md) 
+  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 1](/inspecoes/insp_g1_e1.md)
+  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 2](/inspecoes/insp_g1_e2.md)
+  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 3](/inspecoes/insp_g1_e3.md)
+  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 4](/inspecoes/insp_g1_e4.md)
+  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 5](/inspecoes/insp_g1_e5.md)
+  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 6](/inspecoes/insp_g4_e6.md)
+  - [Inspeção do Grupo 02 - Entrega 1](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 2](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
   - [Inspeção do Grupo 02 - Entrega 4](/inspecoes/inspecao_g2_e4.md)
   - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
   - [Inspeção do Grupo 04 - Entrega 6](/inspecoes/inspecao_g4_e6.md)
+  - [Listas de Verificação Próprias e do Professor](/elicitacao/listas_verificacao/listas_verificacao.md) 
 </details>
 
 <details>
@@ -149,7 +161,8 @@ details a:hover {
   <summary><strong>Análise</strong></summary>
 
   - [Verificação](/analise/verificacao_geral.md)
-  - [Validação](/analise/prototipos.md)
+  - [Protótipos](/analise/prototipos.md)
+  - [Comprovação Informal](/analise/comp_informal)
 </details>
 
 <details>

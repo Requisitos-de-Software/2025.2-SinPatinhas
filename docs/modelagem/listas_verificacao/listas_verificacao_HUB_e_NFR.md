@@ -113,4 +113,4 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 21/10/2025 |  1.0   | Criação da página das listas de verificação com as listas de verificação.| Heloisa | - |
+| 21/10/2025 |  1.0   | Criação da página das listas de verificação com as listas de verificação.| Heloisa | Antonio |

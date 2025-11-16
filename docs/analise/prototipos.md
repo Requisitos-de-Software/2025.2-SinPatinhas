@@ -157,6 +157,6 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Barbosa (2005)*
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 11/11/2025 |  1.0   |  Criação da página de prototipação  | Pedro Gomes |   |
+| 11/11/2025 |  1.0   |  Criação da página de prototipação  | Pedro Gomes | Antonio  |
 | 12/11/2025   | 1.1 | Edição da página de protótipos com confirguração geral de estrutura e adição dos protótipos unitários | Antonio Carvalho |    |
 ---

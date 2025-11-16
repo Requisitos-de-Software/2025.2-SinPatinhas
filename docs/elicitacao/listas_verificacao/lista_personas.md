@@ -160,8 +160,8 @@
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 29/09/2025 | Criação da página da lista de verificação de personas   | Heloisa  | -         |
-| 2.0    | 30/09/2025 | Adição da coluna de autores   | Heloisa  | -         |
+| 1.0    | 29/09/2025 | Criação da página da lista de verificação de personas   | Heloisa  | Antonio         |
+| 2.0    | 30/09/2025 | Adição da coluna de autores   | Heloisa  | Antonio         |
 
 ---
 
