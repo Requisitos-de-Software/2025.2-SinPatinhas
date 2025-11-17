@@ -1,9 +1,8 @@
 # Lista de Verificação e Operacionalização de Requisitos Não Funcionais  
-### *Baseado no NFR Framework – Letícia Paiva (2025)*  
 
 ---
 
-## 3° Cartão de Especificação NFR – Integração entre Clínicas, ONGs e Sistema SinPatinhas  
+## CNFR09 - 3° Cartão de Especificação NFR – Integração
 
 | **Campo** | **Detalhamento** |
 |------------|------------------|

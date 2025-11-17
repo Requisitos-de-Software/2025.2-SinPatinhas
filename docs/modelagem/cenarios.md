@@ -45,8 +45,8 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 | **Participantes** | **Visualizar artefato nesta página** | **Página Específica** | **Descrição** |
 |---------------|--------------|------------------|------------------|
-| **Letícia Paiva**   |  | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|                     |  | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RNFI017**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Letícia Paiva**   | [CNR001](#cnr001) | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção de Animais - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)  | [Cenário 01](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR002](#cnr002) | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Sistema de Adoção de Animais - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) | [Cenário 02](/modelagem/gravacoes/leticia/cenarios.md)  | Alertas e Notificações Automáticas - [**RNFI017**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Antonio Carvalho**| [CNR003](#cnr003) | [Cenário 03](/modelagem/gravacoes/antonio/cenarios.md)  | Sistema de Adoção de Animais - [**RNFI016**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |                     | [CNR004](#cnr004) | [Cenário 04](/modelagem/gravacoes/antonio/cenarios.md)  | Notificação Periódica para Atualização de Dados e Fotos do Animal - [**RNFI021**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |                     | [CNR013](#cnr013) | [Cenário 13](/modelagem/gravacoes/antonio/cenarios.md)  | Acesso via Web e Mobile - [**RNFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
@@ -66,9 +66,9 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 
 ## Artefatos
 
-<a id="cen001"></a>
+<a id="cnr001"></a>
 
-### #CEN001 – Cenário 01 — Sistema de Adoção ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
+### #CNR001 – Cenário 01 — Sistema de Adoção ([RFNI016](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016))
 
 **Autora:** Letícia Paiva  
 
@@ -119,9 +119,9 @@ Se o animal já tiver sido adotado, o sistema informa indisponibilidade e sugere
 
 ---
 
-<a id="cen002"></a>
+<a id="cnr002"></a>
 
-### #CEN002 – Cenário 02 — Alertas e Notificações Automáticas ([RFNI017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017))
+### #CNR002 – Cenário 02 — Alertas e Notificações Automáticas ([RFNI017](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017))
 
 **Autora:** Letícia Paiva  
 
