@@ -61,8 +61,8 @@ A tabela a seguir apresenta os componentes utilizados.
 |                    | [UC013](#uc013) | [#UC013](/modelagem/gravacoes/antonio/caso_de_uso.md) | Acesso via Web e Mobile (RNFNI001) |
 |                    | [UC014](#uc014) | [#UC014](/modelagem/gravacoes/antonio/caso_de_uso.md) | Funcionalidades Offline (RNFNI002) |
 |                    | [UC015](#uc015) | [#UC015](/modelagem/gravacoes/antonio/caso_de_uso.md) | Integração Direta com Parceiros (RNFNI003) |
-| **Letícia Paiva**    | [UC003] | [#UC003](/modelagem/gravacoes/leticia/caso_de_uso.md) | Sistema de adoção (RNFI016) |
-|                      | [UC004] | [#UC004] | [#UC004](/modelagem/gravacoes/leticia/caso_de_uso.md) | Alertas e Notificações Automáticas (RNFI017) |
+| **Letícia Paiva**    | [UC003](#uc003)  | [#UC003](/modelagem/gravacoes/leticia/caso_de_uso.md) | Sistema de adoção (RNFI016) |
+|                      | [UC004](#uc004) | [#UC004] | [#UC004](/modelagem/gravacoes/leticia/caso_de_uso.md) | Alertas e Notificações Automáticas (RNFI017) |
 | **Pedro Gomes**      | | [#UC005](/modelagem/gravacoes/pedro/caso_de_uso.md)   | Aplicativo Móvel |
 |                      | | [#UC006](/modelagem/gravacoes/pedro/caso_de_uso.md)   | Acesso Offline à Ficha do Animal |
 | **Mateus Santos Negrini** | | [#UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | Acesso à Área de Instruções Integradas (RF33) |
