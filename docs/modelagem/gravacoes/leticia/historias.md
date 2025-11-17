@@ -14,7 +14,6 @@
 | **Prioridade** | Média |
 | **Status** | Não validada |
 | **Rastreabilidade** | RFNI016 |
-| **Validação** | - |
 
 ---
 
@@ -30,7 +29,6 @@
 | **Prioridade** | Alta |
 | **Status** | Não validada |
 | **Rastreabilidade** | RFNI017 |
-| **Validação** | - |
 
 ---
 
@@ -46,7 +44,6 @@
 | **Prioridade** | Baixa |
 | **Status** | Não validada |
 | **Rastreabilidade** | RF025 |
-| **Validação** | - |
 
 ---
 
@@ -62,7 +59,6 @@
 | **Prioridade** | Alta |
 | **Status** | Não validada |
 | **Rastreabilidade** | RF026 |
-| **Validação** | - |
 
 ---
 
@@ -78,7 +74,6 @@
 | **Prioridade** | Média |
 | **Status** | Não validada |
 | **Rastreabilidade** | RF027 |
-| **Validação** | - |
 
 ---
 
@@ -94,7 +89,6 @@
 | **Prioridade** | Alta |
 | **Status** | Não validada |
 | **Rastreabilidade** | RF031 |
-| **Validação** | - |
 
 ---
 
