@@ -60,8 +60,8 @@ A tabela a seguir apresenta os componentes utilizados.
 |                      | [LX027](#lx027) | [#LX027](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC14 e #CNR009 (Busca de Animais Perdidos) |
 |                      | [LX028](#lx028) | [#LX028](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC15 e #CNR010 (Gerenciamento de ONGs e Associações) |
 |                      | [LX029](#lx029) | [#LX029](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC15 e #CNR011 (Rastreamento de Doações e Adoções) |
-| **Letícia Paiva**    | | [#LX008](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RFNI016) |
-|                      | | [#LX009](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas e Notificações Automáticas (RFNI017) |
+| **Letícia Paiva**    | [LX008](#lx008) | [#LX008](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RFNI016) |
+|                      | [LX009](#lx009)  | [#LX009](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas e Notificações Automáticas (RFNI017) |
 | **Pedro Gomes**      | | [#LX010](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 07 |
 |                      | | [#LX011](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 08 |
 | **Mateus Santos Negrini** | | [#LX012](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RF030) |
@@ -201,7 +201,7 @@ A tabela a seguir apresenta os componentes utilizados.
 
 <a id="lx009"></a>
 
-## #LX002 - Léxico para #UC04 e #CEN02 — Alertas e Notificações Automáticas (RFNI017)
+## #LX009 - Léxico para #UC04 e #CEN02 — Alertas e Notificações Automáticas (RFNI017)
 
 **Autor:** [Letícia Paiva](https://github.com/leticiakrpaiva)
 
