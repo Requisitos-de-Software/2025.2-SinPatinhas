@@ -550,12 +550,20 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 
 ---
 
+## Tabela de Contribuição
+
+| **Nome** | **Contribuição (%)** | **Função** |
+|-----------|----------------------|-------------|
+| Antonio Carvalho | 16,6% | Autor da página de apresentação do #CNFR01 e #CNFR02 |
+| Letícia Paiva | 16,6% | Criador dos artefatos CNFR09 |
+
+
 ## Tabela de Versionamento
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |-------------|-----------|----------------|--------------|---------------|
-| **1.0** | 10/10/2025 | Criação da página NFR Framework | Antonio |  |
-| **1.1** | 14/10/2025 | Edição e revisão da página | Antonio |  |
-| **1.2** | 07/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
+| **1.0** | 10/10/2025 | Criação da página NFR Framework | Antonio | Letícia |
+| **1.1** | 14/10/2025 | Edição e revisão da página | Antonio | Letícia |
+| **1.2** | 07/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio | Letícia |
 
 ---
