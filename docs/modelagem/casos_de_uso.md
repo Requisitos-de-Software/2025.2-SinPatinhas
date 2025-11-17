@@ -385,6 +385,6 @@ Sommerville, I. *Engenharia de Software*. 10ª Ed. Pearson, 2019.
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio |  |
+| 1.0 | 10/10/2025 | Criação da página de **Casos de Uso** e exemplo explicativo | Antonio | Letícia |
 | 1.1 | 19/10/2025 | Refatoração da tabela de artefatos | Isaac | Antonio |
-| 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
+| 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio | Letícia |

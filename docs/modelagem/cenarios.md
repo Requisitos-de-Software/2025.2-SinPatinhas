@@ -582,4 +582,4 @@ Serrano, M., Serrano, M. *Requisitos – Aula 10*, Material de aula, Universidad
 | **1.0**    | 09/10/2025 | Criação da página de **Cenários**.| Letícia Paiva | Antonio Carvalho |
 | **1.1**    | 11/10/2025 | Alteração da página de **Cenários**.| Antonio Carvalho | Letícia Paiva |
 | **1.2**    | 18/10/2025 | Melhoria na exibição das **tabelas**. | Isaac Menezes Pereira | Antonio Carvalho
-| **1.3** | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
+| **1.3** | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio | Letícia |

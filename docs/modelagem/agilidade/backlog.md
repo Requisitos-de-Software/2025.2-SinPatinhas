@@ -155,6 +155,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
 | **Antonio Carvalho** | 16,6% | Co-autor da página de apresentação de backlog do produto e criador dos artefatos BL001, BL002, BL015, BL016 |
+| **Letícia Paiva** | 16,6% | Co-autor da página de apresentação de backlog do produto e criador dos artefatos BL003 e BL004 |
 
 ---
 
@@ -172,4 +173,4 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 | 1.0 | 10/10/2025 | Criação da página de backlog | Antonio | Letícia |
 | 1.1 | 14/10/2025 | Edição da página de backlog | Antonio | Letícia |
 | 1.2 | 19/10/2025 | Edição e elaboração do modelo | Letícia | Antonio |
-| 1.3 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
+| 1.3 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio | Letícia |

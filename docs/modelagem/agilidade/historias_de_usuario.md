@@ -591,6 +591,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 | **Nome** | **Contribuição (%)** | **Função** |
 |-----------|----------------------|-------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de histórias de usuário e criador dos artefatos HU003, HU004, HU005, HU006, HU007, HU008, HU041, HU042, HU043, HU043 |
+| Letícia Paiva | 16,6% | Criador dos artefatos HU001, HU002, HU009, HU010, HU011, HU012 |
 
 ---
 
@@ -605,5 +606,5 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 14/10/2025 | Criação da página de **Histórias de Usuário** e exemplo explicativo | Antonio |  |
-| 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio |  |
+| 1.0 | 14/10/2025 | Criação da página de **Histórias de Usuário** e exemplo explicativo | Antonio | Letícia |
+| 1.2 | 04/11/2025 | Criando novo estilo de apresentação de artefatos | Antonio | Letícia |
