@@ -305,7 +305,6 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 
 <p style="text-align: center;">Autor: Antonio Carvalho 
 
-
 ---
 
 ## Projeto Final
