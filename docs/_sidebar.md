@@ -68,7 +68,7 @@ details a:hover {
 - [Sobre](/README.md)
 
 <details>
-  <summary><strong>Entregas</strong></summary>
+  <summary><strong>Apresentações</strong></summary>
 
   - [Entrega de n° 01](/entregas/entrega_1.md)
   - [Entrega de n° 02](/entregas/entrega_2.md)
