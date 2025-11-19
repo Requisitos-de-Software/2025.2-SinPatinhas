@@ -4,29 +4,6 @@
 Neste documento será realizada a **análise de verificação do Projeto SinPatinhas**, com base nas **listas de verificação elaboradas ao longo do desenvolvimento da disciplina de Requisitos de Software**.  
 O propósito é garantir que os artefatos produzidos — como *Rich Picture*, *Perfil de Usuários*, *Entrevistas*, *MoSKoW*, *Léxicos*, *Histórias de Usuário*, *Casos de Uso*, entre outros — atendam aos critérios de **qualidade, consistência, completude e rastreabilidade** estabelecidos pela metodologia da disciplina.
 
-Durante a **fase de inspeção cruzada (grupo +1)**, os artefatos do grupo SinPatinhas foram avaliados por outro grupo, utilizando **listas de verificação específicas** para cada entrega.  
-Abaixo estão os links para as **páginas unitárias** de inspeção correspondentes às entregas do grupo +1:
-
-- [Inspeção Grupo +1 - Entrega 2](../inspecoes/inspecao_g2_e2.md)
-- [Inspeção Grupo +1 - Entrega 3](../inspecoes/inspecao_g2_e3.md)
-- [Inspeção Grupo +1 - Entrega 4](../inspecoes/inspecao_g2_e4.md)
-- [Inspeção Grupo +1 - Entrega 5](../inspecoes/inspecao_g2_e5.md)
-
-Também foram criadas listas de verificação **ao longo do processo de desenvolvimento** para análise e geração de consistência com o que as estruturas requerem.
-Abaixo estão os links para as **páginas unitárias** de lista de verificação correspondentes às entregas do nosso grupo, nº 1, o qual analisa o SinPatinhas:
-
-- [Lista de Verificação de Rich-Picture](../planejamento/rich-picture/lista_de_verificao.md)  
-- [Lista de Verificação de Cenários](../elicitacao/listas_verificacao/lista_cenarios.md)  
-- [Lista de Verificação de Elicitação](../elicitacao/listas_verificacao/lista_elicitacao.md)  
-- [Lista de Verificação de Personas](../elicitacao/listas_verificacao/lista_personas.md)  
-- [Lista de Verificação de Técnicas de Priorização](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md)  
-- [Lista de Verificação de Perfil de Usuário](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md)  
-- [Lista de Verificação – Histórias de Usuário](../elicitacao/listas_verificacao/lv_hu.md)
-- [Lista de Verificação – NFRs](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md)  
-- [Lista de Verificação – Casos de Uso](../modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md)  
-- [Lista de Verificação – Especificações Suplementares](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md)
-- [Lista de Verificação de Rastreabilidade](../elicitacao/listas_verificacao/lista_de_verificacao_rastreabilidade.md)  
-
 ---
 
 ## Descrição
