@@ -76,24 +76,26 @@ details a:hover {
   - [Entrega de n° 04](/entregas/entrega_4.md)
   - [Entrega de n° 05](/entregas/entrega_5.md)
   - [Entrega de n° 06](/entregas/entrega_6.md)
+  - [Entrega Final](/entregas/entrega_final.md)
 </details>
 
 <details>
   <summary><strong>Inspeções e Verificações</strong></summary>
 
-  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 1](/inspecoes/insp_g1_e1.md)
-  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 2](/inspecoes/insp_g1_e2.md)
-  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 3](/inspecoes/insp_g1_e3.md)
-  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 4](/inspecoes/insp_g1_e4.md)
-  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 5](/inspecoes/insp_g1_e5.md)
-  - [Inspeção do Grupo 01 (Sinpatinhas) - Entrega 6](/inspecoes/insp_g4_e6.md)
+  - [Inspeções dos monitores](/rev_monitor/inspecao.md)
+  - [Inspeção do Grupo 01 - Entrega 1](/inspecoes/insp_g1_e1.md)
+  - [Inspeção do Grupo 01 - Entrega 2](/inspecoes/insp_g1_e2.md)
+  - [Inspeção do Grupo 01 - Entrega 3](/inspecoes/insp_g1_e3.md)
+  - [Inspeção do Grupo 01 - Entrega 4](/inspecoes/insp_g1_e4.md)
+  - [Inspeção do Grupo 01 - Entrega 5](/inspecoes/insp_g1_e5.md)
+  - [Inspeção do Grupo 01 - Entrega 6](/inspecoes/insp_g4_e6.md)
   - [Inspeção do Grupo 02 - Entrega 1](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 2](/inspecoes/inspecao_g2_e2.md)
   - [Inspeção do Grupo 02 - Entrega 3](/inspecoes/inspecao_g2_e3.md)
   - [Inspeção do Grupo 02 - Entrega 4](/inspecoes/inspecao_g2_e4.md)
   - [Inspeção do Grupo 02 - Entrega 5](/inspecoes/inspecao_g2_e5.md)
   - [Inspeção do Grupo 04 - Entrega 6](/inspecoes/inspecao_g4_e6.md)
-  - [Listas de Verificação Próprias e do Professor](/elicitacao/listas_verificacao/listas_verificacao.md) 
+  - [List. de Ver. Próp. e do Professor](/elicitacao/listas_verificacao/listas_verificacao.md) 
 </details>
 
 <details>
@@ -163,10 +165,4 @@ details a:hover {
   - [Verificação](/analise/verificacao_geral.md)
   - [Protótipos](/analise/prototipos.md)
   - [Comprovação Informal](/analise/comp_informal)
-</details>
-
-<details>
-  <summary><strong>Inspeções Monitor</strong></summary>
-
-  - [Inspeção](/rev_monitor/inspecao.md)
 </details>
