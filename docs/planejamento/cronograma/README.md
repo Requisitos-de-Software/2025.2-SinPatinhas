@@ -268,9 +268,13 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td>09/11/2025</td><td>Criação da página geral de verificação</td><td>Antonio</td><td>Entregue</td><td></td></tr>
-<tr><td>09/11/2025</td><td>Criação da página geral de protótipos</td><td>Pedro</td><td>Entregue</td><td></td></tr>
-<tr><td>08/11/2025</td><td>Validação cruzada entre os artefatos</td><td>Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro</td><td></td><td></td></tr>
+<tr><td>02/11/2025</td><td>Criação da página geral de forward e backward-from</td><td>Antonio, Letícia e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>02/11/2025</td><td>Criação da página geral de elos</td><td>Heloísa e Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>02/11/2025</td><td>Criação da página de matriz geral</td><td>Isaac e Mateus</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>03/11/2025</td><td>Criação dos artefatos unitários de elos e contribuição para matrizes</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>04/11/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>04/11/2025</td><td>Inspeções</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>06/11/2025</td><td>Revisão pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 </tbody>
 </table>
 
@@ -286,7 +290,14 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </tr>
 </thead>
 <tbody>
-<tr><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>25/11/2025</td><td>Criação da página geral de forward-from</td><td>Antonio</td><td>Entregue</td><td></td></tr>
+<tr><td>26/11/2025</td><td>Criação da página geral de backward-from</td><td>Pedro</td><td>Entregue</td><td></td></tr>
+<tr><td>26/11/2025</td><td>Criação da página geral de elos</td><td>Antonio</td><td>Entregue</td><td></td></tr>
+<tr><td>26/11/2025</td><td>Criação da página de matriz geral</td><td>Antonio</td><td>Entregue</td><td></td></tr>
+<tr><td>27/11/2025</td><td>Criação dos artefatos unitários de elos e contribuição para matrizes</td><td>Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro</td><td>Entregue</td><td></td></tr>
+<tr><td>28/11/2025</td><td>Entrega da Etapa</td><td>Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro</td><td>Entregue</td><td></td></tr>
+<tr><td>29/11/2025</td><td>Inspeções</td><td>Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro</td><td></td><td></td></tr>
+<tr><td>31/11/2025</td><td>Revisão pós-feedback</td><td>Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro</td><td>Entregue</td><td></td></tr>
 </tbody>
 </table>
 
