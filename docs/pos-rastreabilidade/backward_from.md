@@ -134,8 +134,6 @@ Autor: Pedro Gomes
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
 A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite (2005)** e **Vazquez (2016)**.
- 
----
 
 ---
 
