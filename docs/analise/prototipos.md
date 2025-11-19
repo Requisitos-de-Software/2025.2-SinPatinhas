@@ -93,11 +93,12 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 * [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
 
-## Vídeo de Validação com Tutora de Animal
+## Vídeo de Protótipo e Validação com Tutora de Animal
 
 A validação com o usuário foi feita de forma presencial, no dia **12 de novembro de 2025**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1DKhPI8m0YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWEa7YcWovY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 ## Participantes da validação
 
@@ -126,11 +127,12 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 
 * [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
 
-## Vídeo de Validação com Tutora de Animal
+## Vídeo de Protótipo e Validação com Tutora de Animal
 
 A validação com o usuário foi feita de forma presencial, no dia **12 de novembro de 2025**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pf19UmVtw-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYHVgpuw1ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Participantes da validação
 
