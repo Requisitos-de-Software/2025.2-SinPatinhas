@@ -18,11 +18,11 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 </thead>
 <tbody>
 <tr><td>04/09/2025</td><td>Definição da equipe e papéis</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
-<tr><td>07/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>04/09/2025</td><td>Levantamento de apps avaliados</td><td>Letícia</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>06/09/2025</td><td>Escolha do app para o projeto e coleta do termo de uso</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>05/09/2025</td><td>Escolha das ferramentas do projeto (GitHub, Wiki, etc.)</td><td>Heloísa</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>07/09/2025</td><td>Montagem do cronograma detalhado e Rich Picture</td><td>Antonio e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
+<tr><td>07/09/2025</td><td>Criação do heatmap de disponibilidade</td><td>Luciano</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>08/09/2025</td><td>Revisão geral e gravação da apresentação</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>09/09/2025</td><td>Entrega</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>
 <tr><td>16/09/2025</td><td>Revisão/ajustes nos artefatos devido às considerações dos monitores/professor</td><td>Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro</td><td>Não se aplica</td><td>Não se aplica</td></tr>

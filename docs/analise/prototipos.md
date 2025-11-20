@@ -44,6 +44,7 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 |  | [Protótipo 02](#prototipo01)  | Acesso Offline aos Dados dos Pets - [**RNFNI002**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
 | **Antonio Carvalho** | [Protótipo 03](#prototipo03)  | Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais) - [**RFNI016**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
 |  | [Protótipo 04](#prototipo04) | Integração direta com parceiros (clínicas, ONGs, pet shops) - [**RFNI018**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
+|  | [Protótipo 06](#prototipo06) | Notificação Periódica para Atualização de Dados - [**RFNI021**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) |
 | **Heloisa Santos** |   — | — |
 | **Letícia Paiva** | [Protótipo 05](#prototipo05)  | Alertas e Notificações Automáticas - [**RFNI017**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017) |
 | **Isaac Menezes** | — | — |
@@ -75,6 +76,8 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 
 ---
 
+## Protótipos - Antonio Carvalho
+
 <a id="prototipo03"></a>
 
 ## Protótipo 03 - Sistema de adoção de animais (funcionalidade para facilitar a adoção de animais)
@@ -92,6 +95,8 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 ![Sistema de adoção de animais](../assets/images/prototipos/antonio/antonio-p5.png)
 
 * [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
+
+*Autor: Antonio Carvalho*
 
 ## Vídeo de Protótipo e Validação com Tutora de Animal
 
@@ -127,6 +132,8 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 
 * [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
 
+*Autor: Antonio Carvalho*
+
 ## Vídeo de Protótipo e Validação com Tutora de Animal
 
 A validação com o usuário foi feita de forma presencial, no dia **12 de novembro de 2025**.
@@ -143,14 +150,49 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 
 ---
 
+<a id="prototipo06"></a>
+
+### 3. Fluxo RFNI021: Notificação Periódica para Atualização de Dados
+
+#### 3.1. Tela: Rede de Integração com Parceiros (Modal de Notificação)
+
+O Requisito Funcional **RFNI021** (Notificação periódica para atualização de dados e fotos do animal) é apresentado na tela de **"Rede de Integração com Parceiros"** como um modal sobreposto, conforme a imagem fornecida.
+
+| Elemento | Nome no Esboço | Detalhe da Prototipagem |
+| :--- | :--- | :--- |
+| **Título do Modal** | `Notificação periódica para atualização de dados e foto do animal` | Texto em destaque. |
+| **Corpo do Modal** | `Caro(a) tutor(a), os dados ou foto do seu pet podem estar desatualizados. Clique no campo abaixo para editá-los.` | Mensagem de alerta e instrução. |
+| **Botão de Ação** | `ATUALIZAR DADOS` | Botão primário para redirecionar o usuário à tela de edição de dados do animal. |
+| **Tela de Fundo** | `Rede de Integração com Parceiros` | A tela subjacente mostra a listagem de parceiros (`ONG Patas Unidas`, `Pet Shop Abria`, `Pet Shop Estilo Animal`, etc.) e o menu lateral com a opção `Meus Animais` e a sub-aba inativa `Animais para Adoção`. |
+
+![Notificação periódica para atualização de dados e fotos do animal](../assets/images/prototipos/antonio/antonio-p7.png)
+
+* [Link para o protótipo](https://www.figma.com/site/TAnLTJvdBwvF1lZ9r3rDZ0/SinPatinhas?node-id=0-3&t=ZlGFR8c1pH9uiOuQ-1)
+
+*Autor: Antonio Carvalho*
+
+## Vídeo de Protótipo e Validação com Tutora de Animal
+
+A validação com o usuário foi feita de forma presencial, no dia **20 de novembro de 2025**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Participantes da validação
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o protótipo 6. |
+
+---
+
 <a id="prototipo05"></a>
 # Protótipo 05 - Alertas e Notificações Automáticas (RFNI017)
 
 [![Vídeo do Protótipo 05](https://img.youtube.com/vi/LeT-ddXzhvU/hqdefault.jpg)](https://www.youtube.com/watch?v=LeT-ddXzhvU)
 
-
 ---
-
 
 ## Agradecimentos
 
