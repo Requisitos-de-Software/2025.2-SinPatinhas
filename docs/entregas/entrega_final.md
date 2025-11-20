@@ -71,7 +71,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 
 ---
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
