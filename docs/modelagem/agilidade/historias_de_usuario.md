@@ -105,12 +105,12 @@ O processo seguiu as seguintes etapas:
 |                      | | [#HU035](../../modelagem/gravacoes/heloisa/historias.md) | Sistema de avaliação de estabelecimentos parceiros |
 |                      | | [#HU036](../../modelagem/gravacoes/heloisa/historias.md) | Validação visual para o avaliador de estabelecimentos |
 |                      | | [#HU037](../../modelagem/gravacoes/heloisa/historias.md) | Notificação para o estabelecimento avaliado |
-| Isaac Menezes  | | [#HU026](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil da clínica/hospital |
-|                      | | [#HU027](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil do médico |
-|                      | | [#HU028](../../modelagem/gravacoes/isaac/historias.md) | Prontuário digital centralizando histórico de saúde e vacinação |
-|                      | | [#HU029](../../modelagem/gravacoes/isaac/historias.md) | Upload de foto do animal |
-|                      | | [#HU030](../../modelagem/gravacoes/isaac/historias.md) | Vincular foto do tutor ao registro de dados e fotos do animal |
-|                      | | [#HU031](../../modelagem/gravacoes/isaac/historias.md) | Permitir busca e recuperação de animais perdidos ou abandonados |
+| Isaac Menezes  | [HU026](#hu026) | [#HU026](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil da clínica/hospital |
+|                      | [HU027](#hu027) | [#HU027](../../modelagem/gravacoes/isaac/historias.md) | Indicador visual da média de avaliações no perfil do médico |
+|                      | [HU028](#hu028) | [#HU028](../../modelagem/gravacoes/isaac/historias.md) | Prontuário digital centralizando histórico de saúde e vacinação |
+|                      | [HU029](#hu029) | [#HU029](../../modelagem/gravacoes/isaac/historias.md) | Upload de foto do animal |
+|                      | [HU030](#hu030) | [#HU030](../../modelagem/gravacoes/isaac/historias.md) | Vincular foto do tutor ao registro de dados e fotos do animal |
+|                      | [HU031](#hu031) | [#HU031](../../modelagem/gravacoes/isaac/historias.md) | Permitir busca e recuperação de animais perdidos ou abandonados |
 
 ---
 
@@ -471,37 +471,127 @@ O processo seguiu as seguintes etapas:
 
 <a id="hu026"></a>
 
-### #HU026 - Indicador Visual da Média de Avaliações no Perfil da Clínica/Hospital
+### **HU026 - Indicador Visual da Média de Avaliações no Perfil da Clínica/Hospital**
+
+*Autoria: Isaac Menezes*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU026 |
+| **Tema** | Indicador visual da média de avaliações no perfil da clínica/hospital |
+| **Descrição** | Como *tutor interessado em avaliar o perfil de uma clínica ou hospital*, desejo *visualizar a média de atendimentos da clínica ou hospital em questão* para *decidir entre a clínica ou hospital com mais experiência*. |
+| **Critérios de Aceitação** | - O sistema deve exibir a média de atendimentos da clínica/hospital. <br> - Deve ser possível ver também o total de atendimentos. <br> - A informação da média deve estar localizada no topo direito da página. |
+| **Prioridade** | Média |
+| **Status** | Não validada |
+| **Rastreabilidade** | RFNI014 |
+| **Validação** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="hu027"></a>
 
-### #HU027 - Indicador Visual da Média de Avaliações no Perfil do Médico
+### **HU027 - Indicador Visual da Média de Avaliações no Perfil do Médico**
+
+*Autoria: Isaac Menezes*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU027 |
+| **Tema** | Indicador visual da média de avaliações no perfil do médico |
+| **Descrição** | Como *usuário do sistema*, desejo *saber a média de avaliações dos atendimentos de cada médico*, para *escolher o profissional mais qualificado*. |
+| **Critérios de Aceitação** | - O sistema deve exibir a média de avaliação das consultas de cada médico. <br> - Deve ser possível ver o total de avaliações. <br> - A média deve estar presente no topo direito do perfil do médico. |
+| **Prioridade** | Média |
+| **Status** | Não validada |
+| **Rastreabilidade** | RFNI015 |
+| **Validação** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="hu028"></a>
 
-### #HU028 - Prontuário Digital Centralizando Histórico de Saúde e Vacinação
+### **HU028 - Prontuário Digital Centralizando Histórico de Saúde e Vacinação**
+
+*Autoria: Isaac Menezes*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU028 |
+| **Tema** | Prontuário digital centralizando histórico de saúde e vacinação |
+| **Descrição** | Como *usuário do sistema*, desejo *visualizar o hostórico de vacinação do meu pet* para *manter-me informado e cuidar da saúde do animal*. |
+| **Critérios de Aceitação** | - O sistema deve exibir uma tabela com o nome da vacina, data de vacinação e data de próximas doses da vacian. <br> - Deve ser possível baixar a tabela como arquivo PDF. <br> - A tabela deve conter informações de identificação do animal. |
+| **Prioridade** | Alta |
+| **Status** | Não validada |
+| **Rastreabilidade** | RF029 |
+| **Validação** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="hu029"></a>
 
-### #HU029 - Upload de Foto do Animal
+### **HU029 - Upload de Foto do Animal**
+
+*Autoria: Isaac Menezes*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU029 |
+| **Tema** | Upload de foto do animal |
+| **Descrição** | Como *usuário do sistema*, desejo *atualizar a foto do meu pet*, para *manter seu perfil no aplicativo o mais identificável possível*. |
+| **Critérios de Aceitação** | - O sistema deve permitir o upload de imagem. <br> - Deve ser possível atualizar a foto quando deseado. <br> - Deve ser possível baixar a foto que já esteja no aplicativo. <br> - Após o upload, a foto deve estar visível em todos os locais do aplicativo no canto inferior direito. |
+| **Prioridade** | Média |
+| **Status** | Não validada |
+| **Rastreabilidade** | RF033 |
+| **Validação** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="hu030"></a>
 
-### #HU030 - Vincular Foto do Tutor ao Registro de Dados e Fotos do Animal
+### **HU030 - Vincular Foto do Tutor ao Registro de Dados e Fotos do Animal**
+
+*Autoria: Isaac Menezes*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU030 |
+| **Tema** | Vincular foto do tutor ao registro de dados e fotos do animal |
+| **Descrição** | Como *usuário do sistema*, desejo *vincular fotos pessoais minhas e do meu pet no aplicativo*, para *manter um registro de minha pessoa e do animal*. |
+| **Critérios de Aceitação** | - O sistema deve permitir upload de mais de uma foto. <br> - Deve ser possível baixar as imagens que já estão no aplicativo. <br> - A qualidade da imagem deve se manter mesmo após o upload. |
+| **Prioridade** | Média |
+| **Status** | Não validada |
+| **Rastreabilidade** | RFNI022 |
+| **Validação** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="hu031"></a>
 
-### #HU031 - Permitir Busca e Recuperação de Animais Perdidos ou Abandonados
+### **HU031 - Permitir Busca e Recuperação de Animais Perdidos ou Abandonados**
+
+*Autoria: Isaac Menezes*
+
+| **Campo** | **Descrição** |
+|------------|----------------|
+| **Identificação** | HU031 |
+| **Tema** | Permitir busca e recuperação de animais perdidos ou abandonados |
+| **Descrição** | Como *usuário do sistema*, desejo *buscar pelo meu animal em notificações de avisos de animais encontrados feitos por outros usuários*, para *que haja mais possibilidade de encontrar meu pet*. |
+| **Critérios de Aceitação** | - O sistema deve permitir que o usuário reporte um animal perdido. <br> O sistema deve avisar ao usuário quando um animal com características semelhantes for encontrado. <br> - O sistema deve avisar ao usuário sobre reportações por email e por notificações do próprio aplicativo. |
+| **Prioridade** | Alta |
+| **Status** | Não validada |
+| **Rastreabilidade** | RF028 |
+| **Validação** | - |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 

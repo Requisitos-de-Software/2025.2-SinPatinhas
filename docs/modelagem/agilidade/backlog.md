@@ -94,8 +94,8 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 |                      |  | [#BL012](../../modelagem/gravacoes/pedro/backlog.md) | Mensagens de aviso e confirmação offline |
 | **Mateus Negrini**   |  | [#BL007](../../modelagem/gravacoes/mateus/backlog.md) | Acesso à área de instruções integradas |
 |                      |  | [#BL008](../../modelagem/gravacoes/mateus/backlog.md) | Notificação periódica de atualização de dados e fotos |
-| **Isaac Menezes** |  | [#BL009](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliações da clínica/hospital   |
-|                   |  | [#BL010](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliação do médico |
+| **Isaac Menezes** | [BL009](#bl009) | [#BL009](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliações da clínica/hospital   |
+|                   | [BL010](#bl010) | [#BL010](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliação do médico |
 | **Heloisa Silva** |  | [#BL011](../../modelagem/gravacoes/heloisa/backlog.md) | Mapa interativo |
 |                      |  | [#BL012](../../modelagem/gravacoes/heloisa/backlog.md) | Filtro |
 
@@ -138,6 +138,22 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 | BL001 | Sistema de Adoção | Implementar módulo que permita visualizar animais disponíveis para adoção, com filtros de busca e solicitação direta via ONG cadastrada. | Must have | Não iniciado | Letícia Paiva | [RFNI016](/elicitacao/tecnicas_elicitacao/requisitos_elicitados?id=rfni016) / [HU001](/modelagem/gravacoes/leticia/historias?id=hu001) |
 | BL002 | Alertas e Notificações Automáticas | Implementar sistema de alertas automáticos para informar usuários sobre status de adoção, lembretes de vacinação e atualizações cadastrais. | Should have | Não iniciado | Letícia Paiva | [RFNI017](/elicitacao/tecnicas_elicitacao/requisitos_elicitados?id=rfni017) / [HU002](/modelagem/gravacoes/leticia/historias?id=hu002) |
 
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
+<a id="bl009"></a>
+<a id="bl010"></a>
+
+**Tabela 3 - Itens de backlog derivados de requisitos não implementados**
+
+*Autoria: Isaac Menezes*
+
+| **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
+|--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
+| BL009 | Média de avaliações da clínica/hospital | Implementar função que calcula a média de avaliação de atendimentos totais da clínica/hospital| Must have | Não iniciado | Isaac Menezes | [RFNI014](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni014) |
+| BL010 | Média de avaliação do médico | Implementar função que calcula a média de avaliações dos atendimentos totais do médico| Must have | Não iniciado | Isaac Menezes | [RFNI015](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni015) |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
