@@ -1,7 +1,52 @@
 # Entrega final do Grupo SinPatinhas
 
-## Tabela de Contribuição e Registro de Entregas por Etapa 
+## Introdução
 
+Esta página tem como propósito apresentar uma síntese estruturada e abrangente das atividades desenvolvidas pelo Grupo 1 ao longo da disciplina de Requisitos de Software.
+
+Durante o semestre, o grupo dedicou-se à investigação, modelagem e documentação do sistema SinPatinhas, com o objetivo de identificar e compreender suas necessidades, funcionalidades esperadas e a perspectiva dos usuários envolvidos. 
+
+Esse processo permitiu a elaboração de artefatos consistentes, devidamente rastreáveis e alinhados às metodologias e boas práticas da Engenharia de Requisitos, contribuindo para uma representação precisa e confiável do sistema proposto.
+
+---
+
+## Aplicativo Escolhido
+
+O **aplicativo selecionado pelo grupo e os motivos pela decisão** apresentam-se no artefato de [Aplicativo Analisado](../planejamento/aplicativo/README.md).
+
+---
+
+## Planejamento de Entregas de Artefatos
+
+O **cronograma de tarefas Planejadas x Executadas do projeto** apresenta-se no artefato de [Cronograma](../planejamento/cronograma/README.md).
+
+---
+
+## Ferramentas
+
+As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-se no artefato de [Ferramentas](../planejamento/ferramentas/README.md).
+
+---
+
+## Relação de Apresentações por Etapa
+
+
+
+---
+
+## Relação de Inspeções do Grupo +1 (Grupo 2) e a Última do Grupo 4
+
+
+
+---
+
+## Relação de Inspeções do Nosso Grupo (SinPatinhas)
+
+
+
+---
+
+## Tabela de Contribuição e Registro de Entregas por Etapa 
 
 ### Etapa 1 - Pré-Rastreabilidade
 
@@ -100,7 +145,6 @@
 
 #### Antonio Carvalho
 
-
 ---
 
 ## Agradecimentos
@@ -126,5 +170,5 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 20/11/2025 |  1.0   |  Criação da página de entrega final, estruturação da matriz de artefatos e entregas geral e organização de relatos | Antonio Carvalho   |   |
+| 20/11/2025 |  1.0   |  Criação da página de entrega final com introdução, planejamento, ferramentas, relações de apresentação e inspeção, estruturação das matrizes de entrega por etapa e organização de relatos | Antonio Carvalho   |   |
 

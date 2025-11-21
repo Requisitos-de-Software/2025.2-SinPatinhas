@@ -74,8 +74,8 @@
 
 | Versão | Data        | Descrição                         | Autores  | Revisores                                            |
 |-------:|-------------|-----------------------------------|----------|------------------------------------------------------|
-| 1.0    | 08/09/2025  | Criação da página Visão Geral   | Letícia Paiva  | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro     |
-| 1.1    | 28/09/2025 | Melhoria na navegação: inclusão de cards interativos entre as seções   | Leticia Paiva | Antonio, Heloisa, Isaac, Luciano, Mateus e Pedro    |
+| 1.0    | 08/09/2025  | Criação da página Visão Geral   | Letícia Paiva  | Antonio |
+| 1.1    | 28/09/2025 | Melhoria na navegação: inclusão de cards interativos entre as seções   | Leticia Paiva | Antonio  |
 
 ---
 
