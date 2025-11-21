@@ -2,52 +2,103 @@
 
 ## Tabela de Contribuição e Registro de Entregas por Etapa 
 
-<font><p style="text-align: center">**Tabela 1** - Entregas unitárias por etapa</p></font>
 
+### Etapa 1 - Pré-Rastreabilidade
 
-| Etapa | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
-|-------|------|----------|----------|----------|----------|----------|----------|
-| **Etapa 1** | RichPicture |   |   |   |   |   | |
-| | Validação com usuário do RichPicture (presencial e com gravação?) |   |   | | | | |
-| | **Total de documentos criados** | | |  |  |  | |
-| | **Total de documentos revisados** | |  |  |  |  | |
-| **Etapa 2** | Técnicas de elicitação sem usuário |   |   |   | | | |
-| | Técnicas com usuário sem gravação (questionário) | |   |   | | | |
-| | Técnicas com usuário remoto com gravação | | |   | |  | |
-| | Técnicas de priorização remota com gravação | | |   |   | | |
-| | Perfil de Usuário | |   |   | | | |
-| | Persona | |   |   | | | |
-| | Role Playing com gravação | | |   | | | |
-| | **Total técnicas presenciais com gravação** | | | | | | |
-| | **Total técnicas remotas com gravação** | | |  |  |  | |
-| | **Total documentos elaborados** |  |  |  |  |  |  | 
-| **Etapa 3** | Cenários |   |   |   |   |   |   | 
-| | Validação dos cenários com usuário (presencial e gravado?) | |   | | | | |
-| | Léxicos |   |   |   |   |  |   |   |
-| | Casos de Uso completos |   |   |   |   |   |   |
-| | Especificação suplementar | |  |  |  | |  |
-| | **Total documentos criados** |  |  |  |  |  |  |
-| **Etapa 4** | Histórias de Usuário ( RFs,  não implementados) |   |   |   |   |   |   | 
-| | Validação com usuário (presencial com gravação?) |  |  |  |  |  |  | 
-| | NFR Framework |   |   |   |   |   |   | 
-| | Cartões RNF |   |   |   |   |   |  | 
-| | **Documentos criados** |  |  |  |  |  |  | 
-| | **Documentos revisados** |  |  |  |  |  |  | 
-| **Etapa 5** | Protótipos com RFs não implementados | | |   |   |   |   |
-| | Validação com usuário do protótipo (presencial e gravado?) | | |   |   |   |   | 
-| | Checklists por artefato |  |
-| | **Documentos criados** |  | |  |  |  |  |
-| | **Documentos revisados** |  |  |  | |  |  | 
-| **Etapa 6** | Elos de rastreabilidade |  | |  | |  |  | 
-| | Participou da matriz com versionamento? |  |  |  |  |  |  | 
-| | **Documentos criados** |  |  |  |  |  |  | 
-| | **Documentos revisados** |  |  |  |  |  |  | 
+| Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
+|------|----------|----------|----------|----------|----------|----------|
+| RichPicture |   |   |   |   |   | |
+| Validação com usuário do RichPicture (presencial e com gravação?) |   |   | | | | |
+| **Total de documentos criados** | | |  |  |  | |
+| **Total de documentos revisados** | |  |  |  |  | |
 
-*Autor: Antonio Carvalho*
+<font><p style="text-align: center">**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
+<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+
+---
+
+### Etapa 2 - Elicitação e Priorização
+
+| Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
+|------|----------|----------|----------|----------|----------|----------|
+| Técnicas de elicitação sem usuário |   |   |   | | | |
+| Técnicas com usuário sem gravação (questionário) | |   |   | | | |
+|Técnicas com usuário remoto com gravação | | |   | |  | |
+|Técnicas de priorização remota com gravação | | |   |   | | |
+| Perfil de Usuário | |   |   | | | |
+| Persona | |   |   | | | |
+| Role Playing com gravação | | |   | | | |
+| **Total técnicas presenciais com gravação** | | | | | | |
+| **Total técnicas remotas com gravação** | | |  |  |  | |
+| **Total documentos elaborados** |  |  |  |  |  |  | 
+
+<font><p style="text-align: center">**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
+<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+
+---
+
+### Etapa 3 - Modelagem Tradicional
+
+| Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
+|------|----------|----------|----------|----------|----------|----------|
+|   |   |   |   |   |   | 
+| Validação dos cenários com usuário (presencial e gravado?) | |   | | | | |
+| Léxicos |   |   |   |   |  |   |   |
+| Casos de Uso completos |   |   |   |   |   |   |
+| Especificação suplementar | |  |  |  | |  |
+| **Total documentos criados** |  |  |  |  |  |  |
+
+<font><p style="text-align: center">**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
+<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+
+---
+
+### Etapa 4 - Modelagem Ágil
+
+| Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
+|------|----------|----------|----------|----------|----------|----------|
+| Histórias de Usuário ( RFs,  não implementados) |   |   |   |   |   |   | 
+| Validação com usuário (presencial com gravação?) |  |  |  |  |  |  | 
+| NFR Framework |   |   |   |   |   |   | 
+| Cartões RNF |   |   |   |   |   |  | 
+| **Documentos criados** |  |  |  |  |  |  | 
+| **Documentos revisados** |  |  |  |  |  |  | 
+
+<font><p style="text-align: center">**Tabela 4** - Entregas de Modelagem Ágil</p></font>
+<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+
+---
+
+### Etapa 5 - Análise de Requisitos: Verificação e Validação
+
+| Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
+|------|----------|----------|----------|----------|----------|----------|
+| Protótipos com RFs não implementados | | |   |   |   |   |
+| Validação com usuário do protótipo (presencial e gravado?) | | |   |   |   |   | 
+| Checklists por artefato |  |
+| **Documentos criados** |  | |  |  |  |  |
+| **Documentos revisados** |  |  |  | |  |  | 
+
+<font><p style="text-align: center">**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
+<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+
+### Etapa 6 - Elos de Rastreabilidade
+
+| Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
+|------|----------|----------|----------|----------|----------|----------|
+| Elos de rastreabilidade |  | |  | |  |  | 
+| Participou da matriz com versionamento? |  |  |  |  |  |  | 
+| **Documentos criados** |  |  |  |  |  |  | 
+| **Documentos revisados** |  |  |  |  |  |  | 
+
+<font><p style="text-align: center">**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
+<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
 
 ---
 
 ## Facilidades e Dificuldades do Projeto
+
+#### Antonio Carvalho
 
 
 ---
