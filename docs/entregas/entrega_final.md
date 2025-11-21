@@ -58,7 +58,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Total de documentos revisados** | |  |  |  |  | |
 
 <font><p style="text-align: center">**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
-<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+<p style="text-align: center;">Autor: Antonio Carvalho</p> 
 
 ---
 
@@ -78,7 +78,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Total documentos elaborados** |  |  |  |  |  |  | 
 
 <font><p style="text-align: center">**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
-<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+<p style="text-align: center;">Autor: Antonio Carvalho</p> 
 
 ---
 
@@ -94,7 +94,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Total documentos criados** |  |  |  |  |  |  |
 
 <font><p style="text-align: center">**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
-<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+<p style="text-align: center;">Autor: Antonio Carvalho</p> 
 
 ---
 
@@ -110,7 +110,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Documentos revisados** |  |  |  |  |  |  | 
 
 <font><p style="text-align: center">**Tabela 4** - Entregas de Modelagem Ágil</p></font>
-<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+<p style="text-align: center;">Autor: Antonio Carvalho</p> 
 
 ---
 
@@ -125,7 +125,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Documentos revisados** |  |  |  | |  |  | 
 
 <font><p style="text-align: center">**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
-<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+<p style="text-align: center;">Autor: Antonio Carvalho</p> 
 
 ### Etapa 6 - Elos de Rastreabilidade
 
@@ -137,7 +137,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Documentos revisados** |  |  |  |  |  |  | 
 
 <font><p style="text-align: center">**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
-<font><p style="text-align: center">*Autor: Antonio Carvalho*</p></font>
+<p style="text-align: center;">Autor: Antonio Carvalho</p> 
 
 ---
 
@@ -158,7 +158,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 
 <a id="REF1"></a>
 
-> Professor
+> SALES, André Barros de. Afinamento de Participações – Grupo (todas as etapas). Brasília: Universidade de Brasília – UnB, 2025. Documento da disciplina Requisitos de Software – T03 – 2/2025, disponibilizado no Moodle, seção Ambientação – Aula 1.
 
 <a id="REF2"></a>
 
