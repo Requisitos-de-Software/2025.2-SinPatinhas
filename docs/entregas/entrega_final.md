@@ -144,7 +144,6 @@ Validação com usuário do NFR com gravação presencial? |  1 (com hiperlink) 
 | Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 1 (com hiperlink) |||||
 | Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 1 (com hiperlink) |||||
 |  Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 1 (com hiperlink) |||||
-|Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 1 (com hiperlink) |||||
 | Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 1 (com hiperlink) |||||
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item |1 (com hiperlink)  |||||
 | Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 1 (com hiperlink) |||||
