@@ -217,6 +217,23 @@ O ator confirma se conseguiu visualizar e solicitar a adoção com sucesso.
 **Exceção**  
 Caso o animal seja adotado antes da solicitação, o sistema exibe uma mensagem informando indisponibilidade.
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -267,6 +284,23 @@ O ator verifica se a atualização foi concluída e se as novas informações es
 
 **Exceção**  
 Caso o tutor ignore a notificação por um longo período, o sistema envia novo lembrete ou alerta visual no perfil.
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -450,6 +484,23 @@ O ator confirma que conseguiu acessar todas as funcionalidades tanto pelo navega
 **Exceção**  
 Caso o dispositivo móvel não seja compatível, o sistema exibe instruções para instalação de versão alternativa (PWA ou web responsiva).
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -500,6 +551,23 @@ O ator confirma que conseguiu consultar os dados mesmo sem internet e que tudo f
 **Exceção**  
 Caso o usuário nunca tenha sincronizado antes, o sistema exibe mensagem indicando que o acesso offline não está disponível.
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -549,6 +617,27 @@ O parceiro confirma que as informações foram integradas corretamente e exibida
 
 **Exceção**  
 Em caso de falha na autenticação ou envio de dados incorretos, o sistema rejeita a atualização e envia notificação de erro.
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de cenários. |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 

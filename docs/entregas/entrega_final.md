@@ -52,10 +52,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| RichPicture |   |   |   |   |   | |
-| Validação com usuário do RichPicture (presencial e com gravação?) |   |   | | | | |
-| **Total de documentos criados** | | |  |  |  | |
-| **Total de documentos revisados** | |  |  |  |  | |
+| RichPicture | [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados)  |   |   |   |   | |
+| Validação com usuário do RichPicture (presencial e com gravação?) | [Validação de Rich-Picture Geral](../planejamento/rich-picture/README.md)  |   | | | | |
+| **Total de documentos criados** | 2 | |  |  |  | |
+| **Total de documentos revisados** | 2 |  |  |  |  | |
 
 <font><p style="text-align: center">**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
 <p style="text-align: center;">Autor: Antonio Carvalho</p> 
@@ -66,16 +66,19 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Técnicas de elicitação sem usuário |   |   |   | | | |
-| Técnicas com usuário sem gravação (questionário) | |   |   | | | |
-|Técnicas com usuário remoto com gravação | | |   | |  | |
-|Técnicas de priorização remota com gravação | | |   |   | | |
-| Perfil de Usuário | |   |   | | | |
-| Persona | |   |   | | | |
-| Role Playing com gravação | | |   | | | |
-| **Total técnicas presenciais com gravação** | | | | | | |
-| **Total técnicas remotas com gravação** | | |  |  |  | |
-| **Total documentos elaborados** |  |  |  |  |  |  | 
+| Técnicas de elicitação sem a participação do usuário  (analise de documentos, introspecção, etc.) | 1 (com hiperlink)  |   |   | | | |
+| Técnicas de elicitação com a participação do usuário sem gravação(Questionario) | Não se aplica |   |   | | | |
+|Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 (com hiperlink) | |   | |  | |
+|Técnicas de elicitação que necessita a participação do remota e com gravação com usuário |Não se aplica | |   | |  | |
+|Técnicas de Priorização presencial e com gravação com usuário | 1 (com hiperlink)  | |   |   | | |
+|Técnicas de Priorização presencial e sem gravação com usuário|Não se aplica | |   |   | | |
+|Técnicas de Priorização remota e com gravação com usuário|Não se aplica | |   |   | | |
+| Perfil de Usuário |1 (com hiperlink)|   |   | | | |
+| Persona |Não se aplica |   |   | | | |
+| Se utilizaram Personas, utilizaram a técnica encenação (role playing)  com gravação? |Não se aplica | |   | | | |
+| **Total técnicas presenciais com gravação** | 4 | | | | | |
+| **Total técnicas remotas com gravação** | 0 | |  |  |  | |
+| **Total documentos elaborados** | 4 |  |  |  |  |  | 
 
 <font><p style="text-align: center">**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 <p style="text-align: center;">Autor: Antonio Carvalho</p> 
@@ -86,11 +89,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-|   |   |   |   |   |   | 
-| Validação dos cenários com usuário (presencial e gravado?) | |   | | | | |
-| Léxicos |   |   |   |   |  |   |   |
-| Casos de Uso completos |   |   |   |   |   |   |
-| Especificação suplementar | |  |  |  | |  |
+| Especificação dos Cenarios  | 1 (com hiperlink)  |   |   |   |   | 
+| Validação dos cenários com usuário (presencial e gravado?) |1 (com hiperlink) |   | | | | |
+| Léxicos | 1 (com hiperlink)  |   |   |   |  |   |   |
+| Validação com usuário dos léxicos com gravação presencial? |  1 (com hiperlink) |   |   |   |  |   |   |
+| Especificação de Caso de Uso  (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)| 1 (com hiperlink)  |   |   |   |  |   |   |
+| Validação com usuário da especificação do caso de uso com gravação presencial? | 1 (com hiperlink)  |   |   |   |   |   |
+| Especificação Suplementar - O que foi especificado pelo estudante são verificáveis |  1 (com hiperlink) |   |   |   |   |   |
+| Validação com usuário da especificação suplementar com gravação presencial? |1 (com hiperlink) |  |  |  | |  |
 | **Total documentos criados** |  |  |  |  |  |  |
 
 <font><p style="text-align: center">**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
@@ -102,10 +108,12 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Histórias de Usuário ( RFs,  não implementados) |   |   |   |   |   |   | 
-| Validação com usuário (presencial com gravação?) |  |  |  |  |  |  | 
-| NFR Framework |   |   |   |   |   |   | 
-| Cartões RNF |   |   |   |   |   |  | 
+| Histórias de Usuário (Quantidade de requisitos Funcionais especificado pelo estudante?) - (o estudante deveria especificar 6 requisitos funcionais sendo que 2 são requisitos não implementados? ) | 1 (com hiperlink)  |   |   |   |   |   | 
+|  Validação com usuário da Historia do Usuário com gravação presencial? | 1 (com hiperlink) |  |  |  |  |  | 
+| NFR Framework (Pelo menos 1 por integrante) | 1 (com hiperlink)  |   |   |   |   |   | 
+| Quantidade de Cartão de especificação do RNF? | 1 (com hiperlink)  |   |   |   |   |  | 
+| Quantidade de Cartão de especificação do RNF? | 1 (com hiperlink)||||||
+Validação com usuário do NFR com gravação presencial? |  1 (com hiperlink) |   |   |   |  | 
 | **Documentos criados** |  |  |  |  |  |  | 
 | **Documentos revisados** |  |  |  |  |  |  | 
 
@@ -118,9 +126,21 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Protótipos com RFs não implementados | | |   |   |   |   |
-| Validação com usuário do protótipo (presencial e gravado?) | | |   |   |   |   | 
-| Checklists por artefato |  |
+|  Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante  |1 (com hiperlink) | |   |   |   |   |
+|  Quantidade de Validação dos Protótipos com o usuário com gravação presencial |1 (com hiperlink) | |   |   |   |   | 
+| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 1 (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 1 (com hiperlink) |||||
+|  Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 1 (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação da Priorização de Requisotos Elicitados com foto da fonte  | 1 (com hiperlink) |||||
+|Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 1 (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item |1 (com hiperlink)  |||||
+| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 1 (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 1 (com hiperlink) |||||
+|  Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 1 (com hiperlink) |||||
+|Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 1 (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 1 (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item |1 (com hiperlink)  |||||
+| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 1 (com hiperlink) |||||
 | **Documentos criados** |  | |  |  |  |  |
 | **Documentos revisados** |  |  |  | |  |  | 
 
@@ -131,8 +151,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Elos de rastreabilidade |  | |  | |  |  | 
-| Participou da matriz com versionamento? |  |  |  |  |  |  | 
+| Elos de rastreabilidade | 1 (com hiperlink) | |  | |  |  | 
+| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | 1 (com hiperlink) |  |  |  |  |  | 
 | **Documentos criados** |  |  |  |  |  |  | 
 | **Documentos revisados** |  |  |  |  |  |  | 
 

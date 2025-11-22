@@ -14,10 +14,46 @@ A seguir está o Rich Picture do projeto, acompanhado da legenda para facilitar 
   <img src="assets/images/richpicture/richpicture.png" alt="Rich Picture do Projeto SinPatinhas">
 </div>
 
+**Imagem 1 - Rich-Picture do SinPatinhas melhorado**
+
+*Autores: Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro*
+
 ### Legenda
 <div class="img-frame">
   <img src="assets/images/richpicture/richpicture_legenda_01.png" alt="Legenda do Rich Picture">
 </div>
+
+**Imagem 2 - Legenda do Rich-Picture do SinPatinhas**
+
+*Autores: Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro*
+
+---
+
+### Validação de Rich-Picture
+
+
+
+---
+
+### Rich-Pictures unitários que foram inicialmente analisados
+
+| **Participantes** | **Visualizar artefato nesta página** | **Descrição** |
+|---------------|--------------|------------------|
+| **Antonio Carvalho** | [Rich-Picture](#rp01) | Rich-Picture do News in Levels |
+
+---
+
+<a id="rp01"></a>
+
+#### Elaboração de Antonio Carvalho
+
+>Rich Picture criado com base no escopo do **aplicativo comunitário News in Levels**, o qual é destinado a auxiliar estudantes de inglês com novos materiais didáticos semanalmente os quais **descrevem textos em inglês em três níveis de dificuldade**. Os alunos podem ler materiais de acordo com seu nível. Este é gratuito.
+
+![Referência](../../assets/PDFs/Entrega_Final/antonio/RichPictureProj01.png)
+
+**Imagem 3 - Rich-Picture do News in Levels**
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 

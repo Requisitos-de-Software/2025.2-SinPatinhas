@@ -1,7 +1,7 @@
 ## Etapa 5 – Análise de Requisistos: Verificação e Validação
 > Apresentação contemplando **Itens de Verificação**, **Protótipos** e **Comprovação Informal**.
 
-🎥 **[Assistir no YouTube – Apresentação da Etapa de Análise de Requisistos: Verificação e Validação](https://www.youtube.com/watch?v=bvUwqNZr5hg)**
+🎥 **[Assistir no YouTube – Apresentação da Etapa de Análise de Requisistos: Verificação e Validação](https://youtu.be/f4Sk7YHtaVw)**
 
 ---
 
