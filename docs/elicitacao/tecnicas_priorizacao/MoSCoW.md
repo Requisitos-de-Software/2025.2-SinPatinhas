@@ -46,6 +46,8 @@ A técnica **MoSCoW** agrupa os requisitos em quatro categorias de prioridade:
 | [RF012](../tecnicas_elicitacao/requisitos_elicitados.md#rf012) | Permitir login integrado via Gov.br. | Won't |
 | [RF013](../tecnicas_elicitacao/requisitos_elicitados.md#rf013) | Preenchimento automático de dados via Gov.br. | Could |
 
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+
 ---
 
 ## Requisitos Funcionais Não Implementados
@@ -60,6 +62,8 @@ A técnica **MoSCoW** agrupa os requisitos em quatro categorias de prioridade:
 | [RFNI020](../tecnicas_elicitacao/requisitos_elicitados.md#rfni020) | Emissão de alertas de acesso suspeito. | Should |
 | [RFNI021](../tecnicas_elicitacao/requisitos_elicitados.md#rfni021) | Notificação periódica para atualização de dados e fotos do animal. | Could |
 | [RFNI022](../tecnicas_elicitacao/requisitos_elicitados.md#rfni022) | Vincular foto do tutor ao registro de adoção. | Must |
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 
@@ -78,6 +82,8 @@ A técnica **MoSCoW** agrupa os requisitos em quatro categorias de prioridade:
 | [RNF008](../tecnicas_elicitacao/requisitos_elicitados.md#rnf008) | Design de interface limpo e organizado. | Should |
 | [RNF009](../tecnicas_elicitacao/requisitos_elicitados.md#rnf009) | Confiabilidade: garantia contra perda de dados. | Must |
 | [RNF024](../tecnicas_elicitacao/requisitos_elicitados.md#rnf024) | Auditabilidade: logs de acesso e modificações. | Must |
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 

@@ -52,13 +52,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| RichPicture | [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados)  |   |   |   |   | |
-| Validação com usuário do RichPicture (presencial e com gravação?) | [Validação de Rich-Picture Geral](../planejamento/rich-picture/README.md)  |   | | | | |
+| RichPicture | 2 - [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados) e [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) |   |   |   |   | |
+| Validação com usuário do RichPicture (presencial e com gravação?) | 1 - [Validação de Rich-Picture Geral](../planejamento/rich-picture/README.md)  |   | | | | |
 | **Total de documentos criados** | 2 | |  |  |  | |
-| **Total de documentos revisados** | 2 |  |  |  |  | |
+| **Total de documentos revisados** | 1 |  |  |  |  | |
 
-<font><p style="text-align: center">**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
-<p style="text-align: center;">Autor: Antonio Carvalho</p> 
+<font>**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 
@@ -66,22 +67,23 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Técnicas de elicitação sem a participação do usuário  (analise de documentos, introspecção, etc.) | 1 (com hiperlink)  |   |   | | | |
-| Técnicas de elicitação com a participação do usuário sem gravação(Questionario) | Não se aplica |   |   | | | |
-|Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 (com hiperlink) | |   | |  | |
-|Técnicas de elicitação que necessita a participação do remota e com gravação com usuário |Não se aplica | |   | |  | |
-|Técnicas de Priorização presencial e com gravação com usuário | 1 (com hiperlink)  | |   |   | | |
-|Técnicas de Priorização presencial e sem gravação com usuário|Não se aplica | |   |   | | |
-|Técnicas de Priorização remota e com gravação com usuário|Não se aplica | |   |   | | |
-| Perfil de Usuário |1 (com hiperlink)|   |   | | | |
-| Persona |Não se aplica |   |   | | | |
-| Se utilizaram Personas, utilizaram a técnica encenação (role playing)  com gravação? |Não se aplica | |   | | | |
+| Técnicas de elicitação sem a participação do usuário  (analise de documentos, introspecção, etc.) | 1 - [Introspecção](../elicitacao/tecnicas_elicitacao/metodologias/introspeccao.md)  |   |   | | | |
+| Técnicas de elicitação com a participação do usuário sem gravação(Questionario) | 0 |   |   | | | |
+|Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | |   | |  | |
+|Técnicas de elicitação que necessita a participação do remota e com gravação com usuário |0 | |   | |  | |
+|Técnicas de Priorização presencial e com gravação com usuário | 1 - [MoSKoW](../elicitacao/tecnicas_priorizacao/MoSCoW.md)  | |   |   | | |
+|Técnicas de Priorização presencial e sem gravação com usuário|0 | |   |   | | |
+|Técnicas de Priorização remota e com gravação com usuário|0 | |   |   | | |
+| Perfil de Usuário | 2 - [Perfis de Usuário](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |   |   | | | |
+| Persona |0 |   |   | | | |
+| Se utilizaram Personas, utilizaram a técnica encenação (role playing)  com gravação? |0 | |   | | | |
 | **Total técnicas presenciais com gravação** | 4 | | | | | |
 | **Total técnicas remotas com gravação** | 0 | |  |  |  | |
 | **Total documentos elaborados** | 4 |  |  |  |  |  | 
 
-<font><p style="text-align: center">**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
-<p style="text-align: center;">Autor: Antonio Carvalho</p> 
+<font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 
@@ -89,18 +91,21 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Especificação dos Cenarios  | 1 (com hiperlink)  |   |   |   |   | 
-| Validação dos cenários com usuário (presencial e gravado?) |1 (com hiperlink) |   | | | | |
-| Léxicos | 1 (com hiperlink)  |   |   |   |  |   |   |
-| Validação com usuário dos léxicos com gravação presencial? |  1 (com hiperlink) |   |   |   |  |   |   |
-| Especificação de Caso de Uso  (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)| 1 (com hiperlink)  |   |   |   |  |   |   |
-| Validação com usuário da especificação do caso de uso com gravação presencial? | 1 (com hiperlink)  |   |   |   |   |   |
-| Especificação Suplementar - O que foi especificado pelo estudante são verificáveis |  1 (com hiperlink) |   |   |   |   |   |
-| Validação com usuário da especificação suplementar com gravação presencial? |1 (com hiperlink) |  |  |  | |  |
-| **Total documentos criados** |  |  |  |  |  |  |
+| Especificação dos Cenarios  | 5 - [CNR003](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR004](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR013](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR014](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR015](../modelagem/cenarios.md#artefatos-e-gravações-unitários)  |   |   |   |   | 
+| Validação dos cenários com usuário (presencial e gravado?) | [Sim](../modelagem/gravacoes/antonio/cenarios.md)  |   | | | | |
+| Léxicos | 14 - [LX001](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX002](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX003](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX004](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX005](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX006](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX007](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX023](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX024](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX025](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX026](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX027](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX028](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX029](../modelagem/lexicos.md#artefatos-e-gravações-unitários) |   |   |   |  |   |   |
+| Validação com usuário dos léxicos com gravação presencial? |  [Sim](../modelagem/gravacoes/antonio/lexicos.md) |   |   |   |  |   |   |
+| Especificação de Caso de Uso  (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)| 6 - [ES001](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES002](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES011](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES012](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES013](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES014](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários)  |   |   |   |  |   |   |
+| Validação com usuário da especificação do caso de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/especificacao.md)  |   |   |   |   |   |
+| Casos de Uso |  5 - [UC001](../modelagem/casos_de_uso.md#artefatos), [UC002](../modelagem/casos_de_uso.md#artefatos), [UC013](../modelagem/casos_de_uso.md#artefatos), [UC014](../modelagem/casos_de_uso.md#artefatos), [UC015](../modelagem/casos_de_uso.md#artefatos) |   |   |   |   |   |
+| Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  |  | |  |
+| **Total de Participação nos documentos Criados:** | 34 (gerais e individuais) |  |  |  |  |  |
+| **Participação de Gravação com o usuário presencial?** | 4 |  |  |  |  |  |
+| **Total documentos elaborados** | 30 |  |  |  |  |  |
 
-<font><p style="text-align: center">**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
-<p style="text-align: center;">Autor: Antonio Carvalho</p> 
+<font>**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 
@@ -117,8 +122,9 @@ Validação com usuário do NFR com gravação presencial? |  1 (com hiperlink) 
 | **Documentos criados** |  |  |  |  |  |  | 
 | **Documentos revisados** |  |  |  |  |  |  | 
 
-<font><p style="text-align: center">**Tabela 4** - Entregas de Modelagem Ágil</p></font>
-<p style="text-align: center;">Autor: Antonio Carvalho</p> 
+<font>**Tabela 4** - Entregas de Modelagem Ágil</p></font>
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 
@@ -144,8 +150,9 @@ Validação com usuário do NFR com gravação presencial? |  1 (com hiperlink) 
 | **Documentos criados** |  | |  |  |  |  |
 | **Documentos revisados** |  |  |  | |  |  | 
 
-<font><p style="text-align: center">**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
-<p style="text-align: center;">Autor: Antonio Carvalho</p> 
+<font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ### Etapa 6 - Elos de Rastreabilidade
 
@@ -156,8 +163,9 @@ Validação com usuário do NFR com gravação presencial? |  1 (com hiperlink) 
 | **Documentos criados** |  |  |  |  |  |  | 
 | **Documentos revisados** |  |  |  |  |  |  | 
 
-<font><p style="text-align: center">**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
-<p style="text-align: center;">Autor: Antonio Carvalho</p> 
+<font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 

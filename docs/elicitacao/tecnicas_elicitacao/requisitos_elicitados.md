@@ -53,6 +53,16 @@
 |<a id="rf039"></a>**RF039**| Integração entre clínicas veterinárias, permitindo visualização do prontuário por outros veterinários. | [RF039](metodologias/tec_elicitacao.md#rf039) |
 |<a id="rf040"></a>**RF040**| Cadastro de ONGs e associações para controle de animais resgatados e adotados. | [RF040](metodologias/tec_elicitacao.md#rf040) |
 |<a id="rf041"></a>**RF041**| Rastreamento de doações e adoções, registrando doadores, adotantes e datas. | [RF041](metodologias/tec_elicitacao.md#rf041) |
+| <a id="rf042"></a>**RF042** | O aplicativo permite visualizar animais disponíveis para adoção. | [IS001](metodologias/introspeccao.md#funcionais) |
+| <a id="rf043"></a>**RF043** | O aplicativo permite filtrar os animais por porte, espécie, idade e localização. | [IS002](metodologias/introspeccao.md#funcionais) |
+| <a id="rf044"></a>**RF044** | O aplicativo permite agendar uma visita presencial ao abrigo ou lar temporário. | [IS003](metodologias/introspeccao.md#funcionais) |
+| <a id="rf045"></a>**RF045** | O aplicativo oferece um mecanismo de chat com o responsável pelo animal. | [IS004](metodologias/introspeccao.md#funcionais) |
+| <a id="rf046"></a>**RF046** | O aplicativo permite cadastrar um animal adotado para acompanhamento. | [IS005](metodologias/introspeccao.md#funcionais) |
+| <a id="rf047"></a>**RF047** | O aplicativo permite registrar histórico de vacinação e consultas veterinárias. | [IS006](metodologias/introspeccao.md#funcionais) |
+| <a id="rf048"></a>**RF048** | O aplicativo notifica o tutor sobre datas de vacinação e consultas previstas. | [IS007](metodologias/introspeccao.md#funcionais) |
+| <a id="rf049"></a>**RF049** | O aplicativo permite denunciar maus-tratos ou reportar abandono com envio de evidências. | [IS008](metodologias/introspeccao.md#funcionais) |
+| <a id="rf050"></a>**RF050** | O aplicativo permite favoritar animais para posterior avaliação. | [IS009](metodologias/introspeccao.md#funcionais) |
+
 
 
 ### Requisitos Funcionais Não Implementados
@@ -124,6 +134,14 @@
 |<a id="rnf022"></a>**RNF022**| Disponibilidade: acesso remoto contínuo. | [RNF014](metodologias/tec_elicitacao.md#rnf014) e [RNF030](metodologias/tec_elicitacao.md#rnf030) |
 |<a id="rnf023"></a>**RNF023**| Privacidade: restrição de acesso a dados clínicos. | [RNF015](metodologias/tec_elicitacao.md#rnf015) e [RNF031](metodologias/tec_elicitacao.md#rnf031) |
 |<a id="rnf024"></a>**RNF024**| Auditabilidade: logs de acesso e modificações. | [RNF016](metodologias/tec_elicitacao.md#rnf016) e [RNF032](metodologias/tec_elicitacao.md#rnf032) |
+| <a id="rnf025"></a>**RNF025** | O aplicativo deve exibir animais em uma interface responsiva, intuitiva e acessível. | [IS010](metodologias/introspeccao.md#não-funcionais) |
+| <a id="rnf026"></a>**RNF026** | O sistema deve permitir a realização de agendamento de visita com no máximo 4 cliques. | [IS011](metodologias/introspeccao.md#não-funcionais) |
+| <a id="rnf027"></a>**RNF027** | A notificação sobre vacinas e cuidados deve ocorrer com antecedência mínima de 5 dias. | [IS012](metodologias/introspeccao.md#não-funcionais) |
+| <a id="rnf028"></a>**RNF028** | O aplicativo deve carregar a lista de animais disponíveis em menos de 4 segundos em uma conexão estável. | [IS013](metodologias/introspeccao.md#não-funcionais) |
+| <a id="rnf029"></a>**RNF029** | As fotos dos animais devem ser exibidas com boa resolução, sem distorção. | [IS014](metodologias/introspeccao.md#não-funcionais) |
+| <a id="rnf030"></a>**RNF030** | O sistema deve oferecer autenticação segura com proteção contra acesso não autorizado. | [IS015](metodologias/introspeccao.md#não-funcionais) |
+| <a id="rnf031"></a>**RNF031** | Deve permitir navegação por acessibilidade (voz, contraste, leitor de tela). | [IS016](metodologias/introspeccao.md#não-funcionais) |
+
 
 ---
 ## Tabela de Contribuição
