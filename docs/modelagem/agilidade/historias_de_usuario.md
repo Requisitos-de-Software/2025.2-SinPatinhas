@@ -77,7 +77,7 @@ O processo seguiu as seguintes etapas:
 | Antonio Carvalho | [HU003](#hu003) | [#HU003](../../modelagem/gravacoes/antonio/historias.md) | Cadastro e Gerenciamento de Perfis Ampliados |
 |                      | [HU004](#hu004) | [#HU004](../../modelagem/gravacoes/antonio/historias.md) | Publicação de Campanhas e Materiais Educativos |
 |                      | [HU005](#hu005) | [#HU005](../../modelagem/gravacoes/antonio/historias.md) | Exibição de Horários de Clínicas Parceiras |
-|                      | [HU006](#hu006) | [#HU006](../../modelagem/gravacoes/antonio/historias.md) | Integração Direta com Parceiros |
+|                      | [HU006](#hu006) | [#HU006](../../modelagem/gravacoes/antonio/historias.md) | Emissão de Carteirinha Digital |
 |                      | [HU007](#hu007) | [#HU007](../../modelagem/gravacoes/antonio/historias.md) | Acesso Simplificado para Usuários com Baixa Afinidade Tecnológica |
 |                      | [HU008](#hu008) | [#HU008](../../modelagem/gravacoes/antonio/historias.md) | Desempenho em Consultas Públicas |
 |                      | [HU041](#hu041) | [#HU041](../../modelagem/gravacoes/antonio/historias.md) | Sincronização de Dados entre ONGs e Clínicas |
@@ -171,6 +171,19 @@ O processo seguiu as seguintes etapas:
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
+
 ---
 
 <a id="hu004"></a>
@@ -187,6 +200,20 @@ O processo seguiu as seguintes etapas:
 | **Prioridade** | Alta |
 | **Status** | Não validada |
 | **Rastreabilidade** | [RF018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018) |
+
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -207,24 +234,51 @@ O processo seguiu as seguintes etapas:
 | **Status** | Não validada |
 | **Rastreabilidade** | [RFNI005](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005) |
 
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
 <a id="hu006"></a>
 
-### #HU006 – Integração Direta com Parceiros
+### #HU006 – Emissão de Carteirinha Digital
 *Autoria: Antonio Carvalho*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
 | **Identificação** | HU006 |
-| **Tema** | Integrações |
-| **Descrição** | Como **administrador do sistema**, quero **integrar o SinPatinhas com sistemas de clínicas, ONGs e pet shops**, para **sincronizar informações e melhorar a gestão das parcerias**. |
-| **Critérios de Aceitação** | - O sistema deve possibilitar integração via API REST. <br> - Deve permitir autenticação segura (token). <br> - As atualizações de dados devem ocorrer em tempo real. |
+| **Tema** | Emissão de Carteirinha Digital |
+| **Descrição** | Como **tutor de um animal**, quero **emitir uma carteirinha digital com QR Code**, para **identificar meu pet de forma rápida, prática e verificável por terceiros**. |
+| **Critérios de Aceitação** | - O sistema deve gerar uma carteirinha única vinculada ao animal cadastrado. <br> - O QR Code deve redirecionar para os dados essenciais do animal (nome, tutor responsável, vacinação e status). <br> - A carteirinha deve ser exportável em formato digital (PDF ou imagem). |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNF014](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf014) |
+| **Rastreabilidade** | [RF014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014) |
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -245,6 +299,20 @@ O processo seguiu as seguintes etapas:
 | **Status** | Não validada |
 | **Rastreabilidade** | [RFNI016](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016) |
 
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -263,6 +331,20 @@ O processo seguiu as seguintes etapas:
 | **Prioridade** | Média |
 | **Status** | Não validada |
 | **Rastreabilidade** | [RFNI018](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018) |
+
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -597,18 +679,31 @@ O processo seguiu as seguintes etapas:
 
 <a id="hu041"></a>
 
-### #HU041 – Desempenho em Consultas Públicas
+### #HU041 – Relatórios e Estatísticas para Órgãos Públicos  
 *Autoria: Antonio Carvalho*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
 | **Identificação** | HU041 |
-| **Tema** | Performance |
-| **Descrição** | Como **usuário do sistema**, quero **acessar consultas públicas em menos de 2 segundos**, para **obter informações de forma ágil e eficiente**. |
-| **Critérios de Aceitação** | - As consultas públicas devem ter tempo de resposta inferior a 2 segundos. <br> - O sistema deve exibir mensagem informativa em caso de lentidão. <br> - Os testes de desempenho devem validar a velocidade mínima exigida. |
+| **Tema** | Relatórios e Estatísticas |
+| **Descrição** | Como **órgão público ou entidade fiscalizadora**, quero **acessar relatórios e estatísticas sobre adoções, denúncias e condições dos animais**, para **monitorar, fiscalizar e apoiar políticas públicas relacionadas ao bem-estar animal**. |
+| **Critérios de Aceitação** | - O sistema deve permitir exportação dos relatórios em formatos **PDF e CSV**. <br> - Os relatórios devem incluir filtros por **período, região, status do animal e tipo de ocorrência**. <br> - O sistema deve gerar gráficos e métricas visuais que representem indicadores relevantes (adoções, denúncias, animais vacinados, abandonos etc.). |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNF004](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf004) |
+| **Rastreabilidade** | [RF011](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf011) |
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -616,18 +711,31 @@ O processo seguiu as seguintes etapas:
 
 <a id="hu042"></a>
 
-### #HU042 – Acesso via Web e Mobile
+### #HU042 – Login Integrado via Gov.br para tutores e profissionais.
 *Autoria: Antonio Carvalho*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
 | **Identificação** | HU042 |
-| **Tema** | Portabilidade |
-| **Descrição** | Como **usuário tutor ou voluntário**, quero **acessar o sistema tanto via web quanto pelo aplicativo móvel**, para **poder utilizá-lo em qualquer lugar, priorizando o uso no celular**. |
-| **Critérios de Aceitação** | - O sistema deve ser responsivo e compatível com navegadores modernos. <br> - O aplicativo móvel deve possuir as mesmas funcionalidades principais do sistema web. <br> - O design deve priorizar a usabilidade em dispositivos móveis. |
+| **Tema** | Autenticação e Acesso |
+| **Descrição** | Como **tutor ou profissional da área**, quero **realizar login no sistema utilizando minha conta Gov.br**, para **ter um acesso mais seguro, padronizado e validado oficialmente pelo governo**. |
+| **Critérios de Aceitação** | - O sistema deve permitir autenticação via **Gov.br** com os níveis de segurança exigidos. <br> - Após o login, os dados básicos do usuário devem ser preenchidos automaticamente (nome completo, CPF, data de nascimento e e-mail). <br> - O acesso deve funcionar tanto no aplicativo quanto na versão web. <br> - O sistema deve redirecionar o usuário para a tela inicial após autenticação bem-sucedida. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNFNI001](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni001) |
+| **Rastreabilidade** | [RF012](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012) |
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -635,18 +743,32 @@ O processo seguiu as seguintes etapas:
 
 <a id="hu043"></a>
 
-### #HU043 – Funcionalidades Offline para o Aplicativo
+### #HU043 – Preenchimento Automático de Dados via Gov.br
 *Autoria: Antonio Carvalho*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
 | **Identificação** | HU043 |
-| **Tema** | Usabilidade e Disponibilidade |
-| **Descrição** | Como **usuário do aplicativo móvel**, quero **acessar determinadas funcionalidades mesmo sem conexão com a internet**, para **registrar dados e consultas quando estiver em campo**. |
-| **Critérios de Aceitação** | - O sistema deve permitir o uso offline de funcionalidades básicas (cadastro e consulta). <br> - As informações devem ser sincronizadas automaticamente quando a conexão for restabelecida. <br> - O aplicativo deve indicar claramente quando está operando em modo offline. |
-| **Prioridade** | Média |
+| **Tema** | Autenticação e Cadastro |
+| **Descrição** | Como **tutor de um animal**, quero **que meus dados pessoais sejam preenchidos automaticamente após login via Gov.br**, para **agilizar o cadastro e reduzir erros no preenchimento manual**. |
+| **Critérios de Aceitação** | - Após autenticação via Gov.br, o sistema deve preencher automaticamente os campos: nome completo, CPF, data de nascimento e e-mail. <br> - O usuário deve poder editar ou complementar os dados preenchidos automaticamente. <br> - O sistema deve indicar visualmente quais informações foram importadas pela autenticação. |
+| **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNFNI002](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni002) |
+| **Rastreabilidade** | [RF013](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013) |
+
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -654,18 +776,34 @@ O processo seguiu as seguintes etapas:
 
 <a id="hu044"></a>
 
-### #HU044 – Integração Direta com Parceiros (Clínicas, ONGs e Pet Shops)
+### #HU044 – Emissão de Carteirinha Digital com QR Code  
 *Autoria: Antonio Carvalho*  
 
 | **Campo** | **Descrição** |
 |------------|----------------|
 | **Identificação** | HU044 |
-| **Tema** | Integração |
-| **Descrição** | Como **administrador do sistema**, quero **integrar o SinPatinhas diretamente com sistemas de parceiros (clínicas, ONGs e pet shops)**, para **melhorar o fluxo de informações e reduzir redundâncias de dados**. |
-| **Critérios de Aceitação** | - O sistema deve permitir integração via APIs seguras (REST). <br> - A autenticação deve ser feita com tokens ou chaves privadas. <br> - As informações trocadas devem seguir padrões definidos (JSON ou XML). |
+| **Tema** | Cadastro e Identificação |
+| **Descrição** | Como tutor do animal, quero emitir uma carteirinha digital com QR Code, para facilitar a identificação do pet e o acesso rápido às suas informações. |
+| **Critérios de Aceitação** | Deve ser possível gerar a carteirinha digital para qualquer animal cadastrado; O QR Code deve redirecionar a uma página segura com os dados essenciais do pet; A carteirinha deve conter nome do tutor, nome do pet, foto, ID único e QR Code; A carteirinha deve estar disponível em versão PDF ou formato digital visualizável no app/site. |
 | **Prioridade** | Alta |
 | **Status** | Não validada |
-| **Rastreabilidade** | [RNFNI003](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnfni003) |
+| **Rastreabilidade** | [Rf014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014) |
+
+#### Validação com tutora de animal  
+
+A validação com o usuário foi feita de forma presencial, no dia **21 de outubro de 2025**.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IaoZqXPLfGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+
+#### Participantes da validação  
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável pela criação e modelagem das histórias HU003 a HU008. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato histórias de usuário. |
+
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
 
