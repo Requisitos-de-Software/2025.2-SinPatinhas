@@ -313,11 +313,11 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
 |-----------|----------------|------|--------------|-------------|-------|
-| #V159 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
-| #V160 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
-| #V161 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
-| #V162 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
-| #V163 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
+| #V159 | Elos de Rastreabilidade | [Há elos de agregação que indicam a "composição" de elementos de requisitos (e.g., um requisito composto por sub-requisitos)?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/jvXXVBSm) |
+| #V160 | Elos de Rastreabilidade | [Os artefatos de requisitos, diagramas, códigos e casos de teste foram classificados no nível de informação de Desenvolvimento?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/ZZTfBT0) |
+| #V161 | Elos de Rastreabilidade | [Existe um elo registrado indicando que um artefato de desenvolvimento (e.g., um diagrama) satisfaz o requisito de origem?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/GqJFqPP) |
+| #V162 | Elos de Rastreabilidade | [Para cada requisito que exige um recurso de outro artefato, há um elo de recurso registrado indicando essa dependência?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/Jw53BWfD) |
+| #V163 | Elos de Rastreabilidade | [Existem elos de responsabilidade registrando a participação, responsabilidade e ação de pessoas sobre os artefatos de requisitos e desenvolvimento? ](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/XdjrNpx) |
 
 ---
 
