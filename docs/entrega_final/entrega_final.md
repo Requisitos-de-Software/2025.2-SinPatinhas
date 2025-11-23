@@ -59,7 +59,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 <font>**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
 
-***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 ---
 
@@ -84,7 +84,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
-***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 ---
 
@@ -107,7 +107,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 <font>**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
 
-***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 ---
 
@@ -128,7 +128,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 <font>**Tabela 4** - Entregas de Modelagem Ágil</p></font>
 
-***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 ---
 
@@ -138,15 +138,15 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 |------|----------|----------|----------|----------|----------|----------|
 | Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante  | 3 - [Protótipos de n° 3, 4 e 6](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |   |   |   |
 | Validação dos Protótipos com o usuário com gravação presencial | [Sim](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |   |   |   | 
-| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 19 - [Itens com Foto de Referência](../planejamento/rich-picture/lista_de_verificao.md) |||||
-| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 10 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 19 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-da-rich-picture) |||||
+| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-perfil-de-usuário) |||||
 | Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 0 |||||
 | Quantidade de itens da Lista de verificação da Priorização de Requisitos Elicitados com foto da fonte  | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---moscow) |||||
 | Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--cenários) |||||
 | Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item |5 - (com hiperlink)  |||||
-| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 5 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--casos-de-uso) |||||
 | Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---especificação-suplementar) |||||
-| Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 5 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-histórias-de-usuário) |||||
 | Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - (com hiperlink) |||||
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item |5 - (com hiperlink)  |||||
 | Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 5 - (com hiperlink) |||||
@@ -155,7 +155,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 <font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
 
-***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 ### Etapa 6 - Elos de Rastreabilidade
 
@@ -168,7 +168,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
-***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+**Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)
 
 ---
 
@@ -204,4 +204,6 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
 | 20/11/2025 |  1.0   |  Criação da página de entrega final com introdução, planejamento, ferramentas, relações de apresentação e inspeção, estruturação das matrizes de entrega por etapa e organização de relatos | Antonio Carvalho   |   |
-
+| 21/11/2025  | 1.2 | Adição de artefatos | Antonio Carvalho |    |
+| 22/11/2025  | 1.3 | Criação de tópicos iniciais (de introdução às inspeções)| Antonio Carvalho |    |
+| 23/11/2025  | 1.4 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |    |

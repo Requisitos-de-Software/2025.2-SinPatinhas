@@ -27,6 +27,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme1"></td>
       <td><input type="checkbox" name="nao_conforme1"></td>
       <td>Antonio</td>
+      <td></td>
     </tr>
     <tr>
       <td>002</td>
@@ -34,6 +35,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme2"></td>
       <td><input type="checkbox" name="nao_conforme2"></td>
       <td>Heloisa</td>
+      <td></td>
     </tr>
     <tr>
       <td>003</td>
@@ -41,6 +43,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme3"></td>
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td>Matheus</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -64,6 +67,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <th>Conforme</th>
       <th>Não Conforme</th>
       <th>Autores</th>
+      <th>Referências</th>
     </tr>
   </thead>
   <tbody>
@@ -73,6 +77,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme1"></td>
       <td><input type="checkbox" name="nao_conforme1"></td>
       <td>Leticia</td>
+      <td></td>
     </tr>
     <tr>
       <td>002</td>
@@ -80,6 +85,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme2"></td>
       <td><input type="checkbox" name="nao_conforme2"></td>
       <td>Leticia</td>
+      <td></td>
     </tr>
     <tr>
       <td>003</td>
@@ -87,6 +93,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme3"></td>
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td>Antonio</td>
+      <td></td>
     </tr>
     <tr>
       <td>004</td>
@@ -94,6 +101,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme4"></td>
       <td><input type="checkbox" name="nao_conforme4"></td>
       <td>Isaac</td>
+      <td></td>
     </tr>
     <tr>
       <td>005</td>
@@ -101,6 +109,47 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Matheus</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>006</td>
+      <td></td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>007</td>
+      <td></td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>008</td>
+      <td></td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>009</td>
+      <td></td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>010</td>
+      <td></td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -111,7 +160,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
 
 |Listas individuais|
 |------------------|
-|[Antonio]()|
+|[Antonio](https://drive.google.com/file/d/1DAHMosg114ya97-Fzt09cUFSTE_NhpSS/view?usp=sharing)|
 
 # Histórico de versões
 
