@@ -147,7 +147,9 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 
 <a id="cnfr01"></a>
 
-### #CNFR01 - 1° Cartão de Especificação NFR – Segurança  
+### #CNFR01 - 1° Cartão de Especificação NFR – Segurança 
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
  
 | **Campo** | **Detalhamento** |
 |------------|------------------|
@@ -317,6 +319,8 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 <a id="cnfr02"></a>
 
 ### #CNFR02 - 2° Cartão de Especificação NFR – Confiabilidade e Continuidade Operacional  
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 | **Campo** | **Detalhamento** |
 |------------|------------------|

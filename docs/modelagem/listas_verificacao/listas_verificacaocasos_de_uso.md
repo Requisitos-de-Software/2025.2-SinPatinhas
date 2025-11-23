@@ -31,13 +31,19 @@
 
 ---
 
-## Lista de Verificação Elaborada por Cada Integrante do Grupo
+## Lista de Verificação Unificada
 
 Os arquivos individuais foram consolidados em um único documento em formato PDF para consulta e registro no repositório.
 
 📎 **[Clique aqui para abrir o PDF unificado da Lista de Verificação de Caso de Uso](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_CasodeUso.pdf)**
 
-*(Clique no link acima para visualizar ou baixar o documento completo.)*
+---
+
+## Lista de Verificação Elaborada por Cada Integrante do Grupo
+
+| Integrante |
+|------------|
+| [Antonio Carvalho](https://drive.google.com/file/d/1Zid6Dyrge5dqdCXpbDThNddQVoDRowxO/view?usp=sharing) |
 
 ---
 

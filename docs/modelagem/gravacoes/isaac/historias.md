@@ -97,7 +97,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 21/10/2025 | Página de **Histórias de Usuário** própria | Isaac | - |
+| 1.0 | 21/10/2025 | Página de **Histórias de Usuário** própria | Isaac | Antonio |
 
 ---
 

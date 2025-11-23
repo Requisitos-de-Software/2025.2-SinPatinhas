@@ -40,7 +40,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Léxicos** própria | Letícia | - |
+| 1.0 | 11/10/2025 | Página de **Léxicos** própria | Letícia | Antonio |
 
 ---
 

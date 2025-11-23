@@ -31,7 +31,7 @@ O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob res
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|----------|----------------|------------|--------------|
-| 1.0 | 19/10/2025 | Criação do backlog individual | Heloisa Silva |  |
+| 1.0 | 19/10/2025 | Criação do backlog individual | Heloisa Silva | Antonio |
 
 ---
 

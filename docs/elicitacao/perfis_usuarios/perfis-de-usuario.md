@@ -27,6 +27,8 @@ O **Dono de Pet** é o usuário responsável por cadastrar e manter os dados de 
 - Troca de titularidade do pet.
 - Receber confirmação em processos que envolvam dois donos.
 
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+
 ---
 
 ## Veterinário
@@ -45,6 +47,8 @@ O **Veterinário** é o profissional qualificado que realiza procedimentos de sa
 - Inclusão do pet em sua lista de atendimentos.
 - Atualização do histórico de saúde do animal.
 
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+
 ---
 
 ## Estrutura de Dados
@@ -62,14 +66,21 @@ Esses cadastros permitem operações como:
 - `troca dono`
 - `insere procedimentos`
 
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+
 ---
 
 ## Resumo
+
 
 | Perfil        | Objetivo Principal | Exemplos de Ações |
 |---------------|-------------------|-------------------|
 | **Dono de Pet** | Gerenciar informações de seus animais | Cadastrar pet, atualizar dados, transferir propriedade |
 | **Veterinário** | Registrar informações de saúde do pet | Inserir vacinas, castrações, microchipagem |
+
+**Tabela 1** - Resumo de perfis
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 

@@ -102,6 +102,21 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Léxico relacionado** | [LX001](../../../modelagem/gravacoes/antonio/lexicos.md#lx001) |
 | **Origem** | Entrevista 2 |
 
+### Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veQV-Rdvk44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de casos de uso. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -130,6 +145,21 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Cenário relacionado** | [CNR004](../../../modelagem/gravacoes/antonio/cenarios.md#cn004) |
 | **Léxico relacionado** | [LX002](../../../modelagem/gravacoes/antonio/lexicos.md#lx002) |
 | **Origem** | Entrevista 3 |
+
+### Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veQV-Rdvk44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de casos de uso. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -303,6 +333,21 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Léxico relacionado** | [LX003](../../../modelagem/gravacoes/antonio/lexicos.md#lx003) |
 | **Origem** | Entrevista com usuários sobre acessibilidade e dispositivos utilizados |
 
+### Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veQV-Rdvk44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de casos de uso. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -332,6 +377,21 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Léxico relacionado** | [LX004](../../../modelagem/gravacoes/antonio/lexicos.md#lx004) |
 | **Origem** | Discussão técnica sobre usabilidade e acesso remoto em áreas sem internet |
 
+### Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veQV-Rdvk44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de casos de uso. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -360,6 +420,21 @@ A tabela a seguir apresenta os componentes utilizados.
 | **Cenário relacionado** | [CNR007](../../../modelagem/gravacoes/antonio/cenarios.md#cnr007) |
 | **Léxico relacionado** | [LX005](../../../modelagem/gravacoes/antonio/lexicos.md#lx005) |
 | **Origem** | Reunião de definição de integrações externas com parceiros potenciais |
+
+### Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/veQV-Rdvk44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Maria Clara | Estudante de Gestão Pública de 19 anos de idade, responsável por validar o artefato de casos de uso. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 

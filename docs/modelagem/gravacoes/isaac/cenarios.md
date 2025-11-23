@@ -58,7 +58,7 @@ A seguir, os cenários para os requisitos **Indicador visual da média de avalia
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.2 | 12/10/2025 | Unificação dos Cenários 08 e 09: média de avaliações de clínicas e médicos | Isaac | Antônio |
+| 1.2 | 12/10/2025 | Unificação dos Cenários 08 e 09: média de avaliações de clínicas e médicos | Isaac | Antonio |
 
 ---
 

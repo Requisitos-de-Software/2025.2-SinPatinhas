@@ -109,6 +109,10 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
 <a href="https://github.com/Requisitos-de-Software/2025.2-SinPatinhas/blob/development/docs/pdfs/Lista%20NFR.pdf" target="_blank">Lista NFR (PDF)</a></p>
 <p align="center"><strong>Autor:</strong> Heloisa</p>
 
+|Listas individuais|
+|------------------|
+|[Antonio]()|
+
 # Histórico de versões
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |

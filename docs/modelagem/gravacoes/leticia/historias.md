@@ -102,7 +102,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, Let
 
 | **Versão** | **Data** | **Descrição** | **Autores** | **Revisores** |
 |:----------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 21/10/2025 | Inclusão das histórias e atualização completa do documento. | Letícia Paiva | - |
+| 1.0 | 21/10/2025 | Inclusão das histórias e atualização completa do documento. | Letícia Paiva | Antonio |
 
 ---
 

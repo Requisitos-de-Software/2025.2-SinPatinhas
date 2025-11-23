@@ -20,6 +20,8 @@
 | **Softgoals Relacionados** | Segurança (MAKE ++), Auditabilidade (MAKE ++), Disponibilidade (HURT -), Desempenho (HURT -) |
 | **Propagação de Impactos** | O fortalecimento dos controles de auditoria e segurança **melhora a confiabilidade geral** do sistema, mas pode **aumentar o custo computacional** e reduzir o desempenho em picos de uso. |
 
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
+
 ---
 
 ## Tema: **Confiabilidade e Segurança Operacional do Sistema SinPatinhas**  
@@ -184,6 +186,8 @@
 | **Histórias Relacionadas** | [HU042](../../../modelagem/gravacoes/antonio/historias.md#hu042--recuperação-automática-em-caso-de-falha) |
 | **Softgoals Relacionados** | Confiabilidade (MAKE ++), Disponibilidade (HELP +), Desempenho (HURT -), Segurança (HELP +) |
 | **Propagação de Impactos** | O aumento da confiabilidade **melhora a experiência dos usuários** e a **continuidade das operações**, mas pode exigir **infraestrutura mais robusta** e processos de **monitoramento contínuo**. |
+
+***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
 ---
 

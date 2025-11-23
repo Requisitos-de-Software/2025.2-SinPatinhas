@@ -118,7 +118,7 @@
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 21/10/2025 | Criação dos NFR | Letícia Paiva | - |
+| **1.0** | 21/10/2025 | Criação dos NFR | Letícia Paiva | Antonio |
 
 ---
 

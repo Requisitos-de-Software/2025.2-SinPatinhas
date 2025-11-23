@@ -78,7 +78,7 @@ Os requisitos de **Exibição da média de atendimentos por profissional** detal
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.2 | 12/10/2025 | Adicionado RNFI015: Exibição da média de atendimentos por profissional | Isaac | - |
+| 1.2 | 12/10/2025 | Adicionado RNFI015: Exibição da média de atendimentos por profissional | Isaac | Antonio |
 
 ---
 

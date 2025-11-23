@@ -58,7 +58,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **M
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 21/10/2025 | Criação dos itens de backlog | Mateus Santos Negrini | - |
+| **1.0** | 21/10/2025 | Criação dos itens de backlog | Mateus Santos Negrini | Antonio |
 
 ---
 

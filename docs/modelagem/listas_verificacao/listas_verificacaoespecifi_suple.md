@@ -1,38 +1,53 @@
 #  Lista de Verificação para Especificação Suplementar
 
-| **Item** | **Descrição** | **Autor(es)** | **Conforme** | **Não Conforme** |
-|:--:|---------------------------------------------|---------------------------------------------|:--:|:--:|
-| **Funcionalidade (FURPS: Functionality)** |||||
-| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| **Usabilidade (FURPS: Usability)** |||||
-| 2 | Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida? | Heloisa Silva, Leticia Paiva | ☐ | ☐ |
-| 3 | Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| 4 | Foram definidos os requisitos de acessibilidade para usuários com deficiências? | Heloisa Silva, Leticia Paiva | ☐ | ☐ |
-| **Confiabilidade (FURPS: Reliability)** |||||
-| 5 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ |
-| 6 | Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema? | Heloisa Silva, Leticia Paiva | ☐ | ☐ |
-| 7 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ |
-| **Desempenho (FURPS: Performance)** |||||
-| 8 | Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| 9 | Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| 10 | Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)? | Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| **Capacidade de Suporte (FURPS: Supportability)** |||||
-| 11 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| **Restrições de Design e Implementação** |||||
-| 12 | Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| **Outros Requisitos** |||||
-| 13 | Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)? | Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ |
-| 14 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ |
-
+| **Item** | **Descrição** | **Autor(es)** | **Conforme** | **Não Conforme** | Referência |
+|:--:|---------------------------------------------|---------------------------------------------|:--:|:--:|:--:|
+| **Funcionalidade (FURPS: Functionality)** ||||||
+| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| **Usabilidade (FURPS: Usability)** ||||||
+| 2 | Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida? | Heloisa Silva, Leticia Paiva | ☐ | ☐ ||
+| 3 | Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| 4 | Foram definidos os requisitos de acessibilidade para usuários com deficiências? | Heloisa Silva, Leticia Paiva | ☐ | ☐ ||
+| **Confiabilidade (FURPS: Reliability)** ||||||
+| 5 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ ||
+| 6 | Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema? | Heloisa Silva, Leticia Paiva | ☐ | ☐ ||
+| 7 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ ||
+| **Desempenho (FURPS: Performance)** ||||||
+| 8 | Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| 9 | Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| 10 | Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)? | Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| **Capacidade de Suporte (FURPS: Supportability)** ||||||
+| 11 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| **Restrições de Design e Implementação** ||||||
+| 12 | Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| **Outros Requisitos** ||||||
+| 13 | Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)? | Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
+| 14 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ ||
+| 15 | Introdução está completa e clara? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/Hpq6hzNB)|
+| 16 | Projeto está corretamente identificado? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/Hp17WXJM)|
+| 17 | As funcionalidades foram descritas em linguagem natural e organizadas por
+recurso, usuário ou subsistema? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/N2gZdXBr)|
+| 18 | Requisitos de usabilidade estão definidos com critérios mensuráveis (ex.:
+tempo de treinamento, tempo de execução de tarefas, conformidade com
+padrões)? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/PsCyNtr8)|
+| 19 | Os requisitos de confiabilidade especificam disponibilidade, MTBF, MTTR,
+exatidão e taxa de erros permitida? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/ymp2GWmB)|
 
 ---
 
-
-## Lista de Verificação Elaborada por Cada Integrante do Grupo
+## Lista de Verificação Unificada
 
 Os arquivos individuais foram consolidados em um único documento em formato PDF para consulta e registro no repositório.
 
-📎 **[Clique aqui para abrir o PDF unificado das listas individuais](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_verificacao_especificacao_suplementar_unificado.pdf)**
+**[Clique aqui para abrir o PDF unificado das listas individuais](https://requisitos-de-software.github.io/2025.2-SinPatinhas/assets/images/pdf_listas/listas_verificacao_especificacao_suplementar_unificado.pdf)**
+
+---
+
+## Lista de Verificação Elaborada por Cada Integrante do Grupo
+
+| Integrante |
+|------------|
+| [Antonio Carvalho](https://drive.google.com/file/d/1lM05JR5YkKRaT7UBcYXbjT7d0TTM9vel/view?usp=sharing) |
 
 ---
 

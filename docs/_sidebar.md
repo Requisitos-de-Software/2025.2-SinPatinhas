@@ -122,8 +122,9 @@ details a:hover {
   <summary><strong>Elicitação</strong></summary>
 
   - [Visão Geral](/elicitacao/README.md)
-  - [Técnicas de Elicitação](/elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao)
   - [Perfis de Usuário](/elicitacao/perfis_usuarios/perfis-de-usuario)
+  - [Entrevistas](/elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao)
+  - [Instrospeção](/elicitacao/tecnicas_elicitacao/metodologias/introspeccao.md)
   - [Experimentação com LLMs](/elicitacao/tecnicas_elicitacao/experimentacaoLLMs.md)
   - [Requisitos Elicitados](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
@@ -164,5 +165,11 @@ details a:hover {
 
   - [Verificação](/analise/verificacao_geral.md)
   - [Protótipos](/analise/prototipos.md)
-  - [Comprovação Informal](/analise/comp_informal)
+  - [Comprovação Informal](/analise/comp_informal.md)
+</details>
+
+<details>
+  <summary><strong>Projeto Final</strong></summary>
+
+- [Entrega Final](/entrega_final/entrega_final.md)
 </details>

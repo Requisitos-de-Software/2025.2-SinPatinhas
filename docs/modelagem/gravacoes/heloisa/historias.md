@@ -102,7 +102,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 21/10/2025 | Página de **Histórias de Usuário** própria | Heloisa | - |
+| 1.0 | 21/10/2025 | Página de **Histórias de Usuário** própria | Heloisa | Antonio |
 
 ---
 

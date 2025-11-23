@@ -41,7 +41,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 12/10/2025 | Página de **Especificações Suplementares** própria | Mateus | - |
+| 1.0 | 12/10/2025 | Página de **Especificações Suplementares** própria | Mateus | Antonio |
 
 ---
 

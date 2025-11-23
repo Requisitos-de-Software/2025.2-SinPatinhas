@@ -70,7 +70,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 12/10/2025 | Página de **Casos de Uso** própria | Mateus | - |
+| 1.0 | 12/10/2025 | Página de **Casos de Uso** própria | Mateus | Antonio |
 
 ---
 

@@ -96,7 +96,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **P
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 20/10/2025 | Criação dos artefatos CNFR05 e CNFR06 | Pedro Gomes | |
+| **1.0** | 20/10/2025 | Criação dos artefatos CNFR05 e CNFR06 | Pedro Gomes | Antonio |
 
 ---
 
