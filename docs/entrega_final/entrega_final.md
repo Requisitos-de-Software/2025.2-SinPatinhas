@@ -4,57 +4,57 @@
 
 Esta página tem como propósito apresentar uma síntese estruturada e abrangente das atividades desenvolvidas pelo Grupo 1 ao longo da disciplina de Requisitos de Software.
 
-Durante o semestre, o grupo dedicou-se à investigação, modelagem e documentação do sistema SinPatinhas, com o objetivo de identificar e compreender suas necessidades, funcionalidades esperadas e a perspectiva dos usuários envolvidos. 
+Durante o semestre, o grupo dedicou-se à investigação, modelagem e documentação do sistema SinPatinhas, com o objetivo de identificar e compreender suas necessidades, funcionalidades esperadas e a perspectiva dos usuários envolvidos [[REF1](#referências-bibliográficas)]. 
 
-Esse processo permitiu a elaboração de artefatos consistentes, devidamente rastreáveis e alinhados às metodologias e boas práticas da Engenharia de Requisitos, contribuindo para uma representação precisa e confiável do sistema proposto.
+Esse processo permitiu a elaboração de artefatos consistentes, devidamente rastreáveis e alinhados às metodologias e boas práticas da Engenharia de Requisitos, contribuindo para uma representação precisa e confiável do sistema proposto [[REF1](#referências-bibliográficas)].
 
 ---
 
 ## Aplicativo Escolhido
 
-O **aplicativo selecionado pelo grupo e os motivos pela decisão** apresentam-se no artefato de [Aplicativo Analisado](../planejamento/aplicativo/README.md).
+O **aplicativo selecionado pelo grupo e os motivos pela decisão** apresentam-se no artefato de [Aplicativo Analisado](../planejamento/aplicativo/README.md) [[REF2](#referências-bibliográficas)].
 
 ---
 
 ## Planejamento de Entregas de Artefatos
 
-O **cronograma de tarefas Planejadas x Executadas do projeto** apresenta-se no artefato de [Cronograma](../planejamento/cronograma/README.md).
+O **cronograma de tarefas Planejadas x Executadas do projeto** apresenta-se no artefato de [Cronograma](../planejamento/cronograma/README.md) [[REF2](#referências-bibliográficas)].
 
 ---
 
 ## Ferramentas
 
-As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-se no artefato de [Ferramentas](../planejamento/ferramentas/README.md).
+As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-se no artefato de [Ferramentas](../planejamento/ferramentas/README.md) [[REF2](#referências-bibliográficas)].
 
 ---
 
 ## Relação de Apresentações por Etapa
 
-
+*Esta seção reúne os **vídeos de apresentação correspondentes às entregas do projeto**. Cada link representa uma etapa concluída, permitindo acompanhar a evolução dos artefatos, técnicas aplicadas e decisões tomadas ao longo do desenvolvimento:*
 
 ---
 
 ## Relação de Inspeções do Grupo +1 (Grupo 2) e a Última do Grupo 4
 
-
+*Nesta seção estão os registros das **inspeções realizadas pelos grupos avaliadores externos**. Cada link corresponde a uma inspeção contendo comentários, não conformidades identificadas e sugestões de melhoria para o projeto:*
 
 ---
 
 ## Relação de Inspeções do Nosso Grupo (SinPatinhas)
 
-
+*Aqui serão listadas as **inspeções conduzidas pelo próprio grupo SinPatinhas durante o processo de avaliação**. Os links incluem evidências, formulários preenchidos e eventuais ajustes realizados após cada verificação:*
 
 ---
 
-## Tabela de Contribuição e Registro de Entregas por Etapa 
+## Tabela de Contribuição e Registro de Entregas por Etapa [[REF1](#referências-bibliográficas)]
 
 ### Etapa 1 - Pré-Rastreabilidade
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
 | RichPicture | 2 - [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados) e [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) |   |   |   |   | |
-| Validação com usuário do RichPicture (presencial e com gravação?) | 1 - [Validação de Rich-Picture Geral](../planejamento/rich-picture/README.md)  |   | | | | |
-| **Total de documentos criados** | 2 | |  |  |  | |
+| Validação com usuário do RichPicture | 1 - [Validação de Rich-Picture Geral](../planejamento/rich-picture/README.md)  |   | | | | |
+| **Total de documentos elaborados** | 2 | |  |  |  | |
 | **Total de documentos revisados** | 1 |  |  |  |  | |
 
 <font>**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
@@ -67,8 +67,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Técnicas de elicitação sem a participação do usuário  (analise de documentos, introspecção, etc.) | 1 - [Introspecção](../elicitacao/tecnicas_elicitacao/metodologias/introspeccao.md)  |   |   | | | |
-| Técnicas de elicitação com a participação do usuário sem gravação(Questionario) | 0 |   |   | | | |
+| Técnicas de elicitação sem a participação do usuário | 1 - [Introspecção](../elicitacao/tecnicas_elicitacao/metodologias/introspeccao.md)  |   |   | | | |
+| Técnicas de elicitação com a participação do usuário sem gravação | 0 |   |   | | | |
 |Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | |   | |  | |
 |Técnicas de elicitação que necessita a participação do remota e com gravação com usuário |0 | |   | |  | |
 |Técnicas de Priorização presencial e com gravação com usuário | 1 - [MoSKoW](../elicitacao/tecnicas_priorizacao/MoSCoW.md)  | |   |   | | |
@@ -76,10 +76,11 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 |Técnicas de Priorização remota e com gravação com usuário|0 | |   |   | | |
 | Perfil de Usuário | 2 - [Perfis de Usuário](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |   |   | | | |
 | Persona | 0 |   |   | | | |
-| Se utilizaram Personas, utilizaram a técnica encenação (role playing)  com gravação? | 0 | |   | | | |
+| Se utilizaram Personas, utilizaram a técnica encenação com gravação? | 0 | |   | | | |
 | **Total técnicas presenciais com gravação** | 4 | | | | | |
 | **Total técnicas remotas com gravação** | 0 | |  |  |  | |
 | **Total documentos elaborados** | 4 |  |  |  |  |  | 
+| **Total documentos revisados** |  |  |  |  |  | |
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
@@ -101,8 +102,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  |  | |  |
 | **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  |  |  |  |
 | **Participação de Gravação com o usuário presencial?** | 4 |  |  |  |  |  |
-| **Total Documentos Elaborados** | 30 |  |  |  |  |  |
-| **Total Documentos Revisados** | 19 (Revisor em documentos unitários) |  |  |  |  |  | 
+| **Total documentos elaborados** | 30 |  |  |  |  |  |
+| **Total documentos revisados** | 19 (Revisor em documentos unitários) |  |  |  |  |  | 
 
 <font>**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
 
@@ -177,6 +178,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 ---
 
+## Conclusão
+
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, estruturação e padronização técnica do conteúdo**.
@@ -188,11 +191,11 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 
 <a id="REF1"></a>
 
-> SALES, André Barros de. Afinamento de Participações – Grupo (todas as etapas). Brasília: Universidade de Brasília – UnB, 2025. Documento da disciplina Requisitos de Software – T03 – 2/2025, disponibilizado no Moodle, seção Ambientação – Aula 1.
+> **REF1.:** *SALES, André Barros de. Afinamento de Participações – Grupo (todas as etapas). Brasília: Universidade de Brasília – UnB, 2025. Documento da disciplina Requisitos de Software – T03 – 2/2025, disponibilizado no Moodle, seção Ambientação – Aula 1. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=1503438/. Acesso em: 19 nov. 2025*.
 
 <a id="REF2"></a>
 
-> WILDEMBERG Sales; CAIO Vitor; PHILIPE de Sousa; JOÃO Pedro; LUCAS Lopes; HELLEN Fernanda. Entrega Final – Grasshopper (2022.2-Grasshopper). Técnicas de Projeto. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/entrega-final/tecnicas-projeto/. Acesso em: 20 nov. 2025.
+> **REF2.:** *WILDEMBERG Sales; CAIO Vitor; PHILIPE de Sousa; JOÃO Pedro; LUCAS Lopes; HELLEN Fernanda. Entrega Final – Grasshopper (2022.2-Grasshopper). Técnicas de Projeto. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/entrega-final/tecnicas-projeto/. Acesso em: 20 nov. 2025*.
 
 ---
 
