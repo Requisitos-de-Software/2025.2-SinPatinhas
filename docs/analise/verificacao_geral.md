@@ -58,27 +58,27 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Antonio Carvalho
 
-| ID        | Categoria      | Item | Artefato está conforme? | Referência |
-|-----------|----------------|------|--------------|--------------------|
-| #V001 | Rich-Picture   | [Os atores que interagem com o sistema foram identificados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V002 | Rich-Picture   | [Cada ator está representado graficamente por um boneco (homem palito)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V003 | Rich-Picture   | [Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V004 | Rich-Picture   | [Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V005 | Rich-Picture   | [Cada ator tem pelo menos uma operação associada?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V006 | Rich-Picture   | [As operações (processos/funções) que o sistema executa foram listadas?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V007 | Rich-Picture   | [Cada operação está representada graficamente por um círculo ou oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V008 | Rich-Picture   | [Cada operação tem um rótulo descritivo dentro do oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V009 | Rich-Picture   | [Todas as operações estão corretamente associadas a um ou mais atores?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V010 | Rich-Picture   | [Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V011 | Rich-Picture   | [Cada data store está representado graficamente por um retângulo?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V012 | Rich-Picture   | [Cada data store possui indicação do tipo de dado que armazena?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V013 | Rich-Picture   | [Apenas operações estão conectadas a data stores (leitura/escrita)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V014 | Rich-Picture   | [Todos os fluxos de informação entre atores, operações e data stores estãorepresentados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |                                           
-| #V015 | Rich-Picture   | [Cada seta possui apenas uma direção clara (entrada ou saída)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V016 | Rich-Picture   | [Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V017 | Rich-Picture   | [Foi traçada a fronteira do sistema (círculo/linha sólida ou tracejada) delimitando a área de responsabilidade?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V018 | Rich-Picture   | [Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
-| #V019 | Rich-Picture   | [Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | |
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V001 | Rich-Picture   | [Os atores que interagem com o sistema foram identificados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V002 | Rich-Picture   | [Cada ator está representado graficamente por um boneco (homem palito)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V003 | Rich-Picture   | [Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V004 | Rich-Picture   | [Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V005 | Rich-Picture   | [Cada ator tem pelo menos uma operação associada?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V006 | Rich-Picture   | [As operações (processos/funções) que o sistema executa foram listadas?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V007 | Rich-Picture   | [Cada operação está representada graficamente por um círculo ou oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V008 | Rich-Picture   | [Cada operação tem um rótulo descritivo dentro do oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V009 | Rich-Picture   | [Todas as operações estão corretamente associadas a um ou mais atores?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V010 | Rich-Picture   | [Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V011 | Rich-Picture   | [Cada data store está representado graficamente por um retângulo?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V012 | Rich-Picture   | [Cada data store possui indicação do tipo de dado que armazena?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V013 | Rich-Picture   | [Apenas operações estão conectadas a data stores (leitura/escrita)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V014 | Rich-Picture   | [Todos os fluxos de informação entre atores, operações e data stores estãorepresentados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |                                           
+| #V015 | Rich-Picture   | [Cada seta possui apenas uma direção clara (entrada ou saída)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V016 | Rich-Picture   | [Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V017 | Rich-Picture   | [Foi traçada a fronteira do sistema (círculo/linha sólida ou tracejada) delimitando a área de responsabilidade?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V018 | Rich-Picture   | [Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V019 | Rich-Picture   | [Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
 
 
 <a id="tb002"></a>
@@ -87,19 +87,19 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Antonio Carvalho
 
-| ID        | Categoria      | Item | Artefato está conforme? | Referência |
-|-----------|----------------|------|--------------|--------------------|
-| #V020 | Perfil de Usuário | [O perfil de usuário possui registro dos objetivos dos usuários?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/GQD8dYMg) |
-| #V021 | Perfil de Usuário | [O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/b53VtNny) |
-| #V022 | Perfil de Usuário | [As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/KcHmz78t) |
-| #V023 | Perfil de Usuário | [Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |[Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/KcHmz78t) | 
-| #V024 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |[Referência](https://ibb.co/Y75FcmkH) | 
-| #V025 | Perfil de Usuário | [Foram traçados perfis de usuário considerando as faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/ym8z3PH7) |
-| #V026 | Perfil de Usuário | [Foi calculada a proporção de usuários que se encaixam em cada perfil?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/rfpg6R9N) |
-| #V027 | Perfil de Usuário | [O perfil de usuário foi elaborado dentro de um processo iterativo?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |[Referência](https://ibb.co/WpKcmQ69) |
-| #V028 | Perfil de Usuário | [As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/mrwzR8SQ) |
-| #V029 | Perfil de Usuário | [Os usuários foram categorizados em grupos?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | [Referência](https://ibb.co/RGBc15pW) |
-| #V030 | Perfil de Usuário | [Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |[Referência](https://ibb.co/N2thfBht) | 
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V020 | Perfil de Usuário | [O perfil de usuário possui registro dos objetivos dos usuários?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/GQD8dYMg) |
+| #V021 | Perfil de Usuário | [O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/b53VtNny) |
+| #V022 | Perfil de Usuário | [As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/KcHmz78t) |
+| #V023 | Perfil de Usuário | [Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |[Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/KcHmz78t) | 
+| #V024 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |Antonio Carvalho |[Referência](https://ibb.co/Y75FcmkH) | 
+| #V025 | Perfil de Usuário | [Foram traçados perfis de usuário considerando as faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/ym8z3PH7) |
+| #V026 | Perfil de Usuário | [Foi calculada a proporção de usuários que se encaixam em cada perfil?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/rfpg6R9N) |
+| #V027 | Perfil de Usuário | [O perfil de usuário foi elaborado dentro de um processo iterativo?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/WpKcmQ69) |
+| #V028 | Perfil de Usuário | [As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/mrwzR8SQ) |
+| #V029 | Perfil de Usuário | [Os usuários foram categorizados em grupos?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/RGBc15pW) |
+| #V030 | Perfil de Usuário | [Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/N2thfBht) | 
 
 <a id="tb003"></a>
 
@@ -107,29 +107,29 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Leticia Paiva  
 
-| ID     | Categoria | Item | Artefato está conforme? |
-|--------|-----------|------|---------------------------|
-| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V041 | Casos de Uso | [O nome do sistema está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V042 | Casos de Uso | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V045 | Casos de Uso | [Os atores representam classes/categorias de usuários, e não indivíduos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V046 | Casos de Uso | [Atores primários estão posicionados à esquerda do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V053 | Casos de Uso | [Relacionamentos de associação são representados por linhas sólidas?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V054 | Casos de Uso | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V055 | Casos de Uso | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V056 | Casos de Uso | [Relacionamentos de generalização estão corretos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V057 | Casos de Uso | [O diagrama oferece visão geral simples e compreensível?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V058 | Casos de Uso | [O diagrama demonstra o fluxo funcional básico do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-| #V059 | Casos de Uso | [As funcionalidades foram validadas com o cliente?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) |
-
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V041 | Casos de Uso | [O nome do sistema está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V042 | Casos de Uso | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V045 | Casos de Uso | [Os atores representam classes/categorias de usuários, e não indivíduos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V046 | Casos de Uso | [Atores primários estão posicionados à esquerda do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V053 | Casos de Uso | [Relacionamentos de associação são representados por linhas sólidas?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V054 | Casos de Uso | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V055 | Casos de Uso | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V056 | Casos de Uso | [Relacionamentos de generalização estão corretos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V057 | Casos de Uso | [O diagrama oferece visão geral simples e compreensível?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V058 | Casos de Uso | [O diagrama demonstra o fluxo funcional básico do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V059 | Casos de Uso | [As funcionalidades foram validadas com o cliente?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V150 | Casos de Uso | [](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
 
 ---
 
@@ -139,24 +139,28 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Leticia Paiva  
 
-| ID   | Categoria | Item | Artefato está conforme? |  |
-|------|-----------|------|---------------------------|
-| #V060 | Cenários | [O cenário é apresentado como narrativa concreta e contextualizada?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V061 | Cenários | [O cenário possui um título claro e representativo?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V062 | Cenários | [O cenário define claramente um ator principal e um objetivo?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V063 | Cenários | [A situação inicial do ator está descrita de forma clara?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V064 | Cenários | [O enredo segue sequência lógica de ações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V065 | Cenários | [O ambiente e o contexto estão bem descritos?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V066 | Cenários | [Os atores possuem características pessoais relevantes descritas?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V067 | Cenários | [Os objetivos do ator são explícitos?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V068 | Cenários | [O planejamento mental do ator foi descrito quando necessário?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) |
-| #V069 | Cenários | [Há exploração de situações de exceção?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V070 | Cenários | [O cenário descreve apenas um fluxo específico de eventos?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V071 | Cenários | [O cenário demonstra que o sistema resolve um problema real?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V072 | Cenários | [Os serviços do sistema são claros no apoio ao objetivo do ator?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V073 | Cenários | [As personas, se usadas, foram elaboradas previamente?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) |
-| #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
-| #V126 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](/elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) |
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V060 | Cenários | [O cenário é apresentado como narrativa concreta e contextualizada?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V061 | Cenários | [O cenário possui um título claro e representativo?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V062 | Cenários | [O cenário define claramente um ator principal e um objetivo?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V063 | Cenários | [A situação inicial do ator está descrita de forma clara?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V064 | Cenários | [O enredo segue sequência lógica de ações?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V065 | Cenários | [O ambiente e o contexto estão bem descritos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V066 | Cenários | [Os atores possuem características pessoais relevantes descritas?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V067 | Cenários | [Os objetivos do ator são explícitos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V068 | Cenários | [O planejamento mental do ator foi descrito quando necessário?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) | |
+| #V069 | Cenários | [Há exploração de situações de exceção?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V070 | Cenários | [O cenário descreve apenas um fluxo específico de eventos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V071 | Cenários | [O cenário demonstra que o sistema resolve um problema real?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V072 | Cenários | [Os serviços do sistema são claros no apoio ao objetivo do ator?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V073 | Cenários | [As personas, se usadas, foram elaboradas previamente?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) | |
+| #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
+| #V130 | Cenários | [O ambiente/contexto está descrito (quando, onde e por que ocorre)?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/VpCYCS38) |
+| #V131 | Cenários | [Os atores estão identificados com características relevantes?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/B9ZRfGW) |
+| #V132 | Cenários | [Os objetivos do ator estão explícitos e claros?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/G4J6xPF6) |
+| #V133 | Cenários | [Há descrição de planejamento (como o ator pensa e decide)?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/nsf0QTsJ) |
+| #V134 | Cenários | [As ações e eventos estão narrados em sequência lógica e detalhada?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](../modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/SDSqsWN3) |
 
 
 ---
@@ -166,8 +170,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Pedro Gomes
 
-| ID | Categoria | Item | Artefato está conforme? |
-|---|---|---|---|
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
 | #V075 | História de Usuário | [A história de usuário é uma breve declaração?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
 | #V076 | História de Usuário | [A história de usuário descreve algo que o sistema deve fazer para o usuário?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
 | #V077 | História de Usuário | [Restringe-se a definir o escopo?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
@@ -183,6 +187,11 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V087 | História de Usuário | [É clara, objetiva e curta o suficiente para caber em um cartão?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
 | #V088 | História de Usuário | [Segue o formato: "Como [ator], eu quero [ação] para [benefício]"?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
 | #V089 | História de Usuário | [A equipe de desenvolvimento estima o esforço?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
+| #V135 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
+| #V136 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
+| #V137 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
+| #V138 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
+| #V139 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
 
 ---
 <a id="tb006"></a>
@@ -191,8 +200,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Pedro Gomes
 
-| ID | Categoria | Item | Artefato está conforme? |
-|---|---|---|---|
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
 | #V090 | Entrevista | [A agenda das pessoas a serem entrevistadas foi confirmada?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
 | #V091 | Entrevista | [As salas ou ferramentas de reunião para a entrevista foram reservadas?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
 | #V092 | Entrevista | [O objetivo da entrevista foi claramente definido?](../elicitacao/listas_verificacao/lista_elicitacao.md) | [conforme](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao) |
@@ -212,8 +221,8 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Isaac Menezes Pereira
 
-| ID | Categoria | Item | Artefato está conforme? |
-|----|-----------|------|-------------------------|
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
 | #V102 | MoSCoW | [Os requisitos foram classificados em Must, Should, Could e Won't?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) |
 | #V103 | MoSCoW | [Os Must são os mais críticos (maior valor em relação ao tempo de implementação?)](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
 | #V104 | MoSCoW | [Os Must são imprescindíveis para o sucesso do projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
@@ -224,6 +233,16 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V109 | MoSCoW | [Os Won't estão documentados como fora do escopo desta release/projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
 | #V110 | MoSCoW | [O conceito de Won't (nunca ou apenas não nesta release) está claro para equipe/stakeholders?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
 | #V111 | MoSCoW | [Equipe e stakeholders possuem entendimento comum de M/S/C/W?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | 
+| #V140 | MoSCoW | [Os requisitos classificados como Must Have realmente são indispensáveis para o sucesso do projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/5hJJzjRv) |
+| #V141 | MoSCoW | [Os requisitos Should Have foram avaliados como importantes, mas não essenciais para a primeira entrega?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/CsStxZnG) |
+| #V142 | MoSCoW | [Os requisitos Could Have são apenas desejáveis, podendo ser adiados ou eliminados sem comprometer o sistema?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/s93Fdgsq) |
+| #V143 | MoSCoW | [Os requisitos classificados como Won’t Have estão claramente documentados como fora do escopo da entrega atual?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/bgftM8PW) |
+| #V144 | MoSCoW | [O time definiu explicitamente o que significa “Won’t Have” (não nesta versão vs. nunca)?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/cck0tWHd) |
+| #V145 | MoSCoW | [Foi evitado o uso excessivo de Must Have para inflar o escopo do projeto?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/ZpL1rtxj) |
+| #V146| MoSCoW | [O time garantiu que todos os stakeholders entendem o real significado das quatro categorias (Must, Should, Could, Won’t) para evitar mal-entendidos?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/n8nD5nXB) |
+| #V147 | MoSCoW | [Os participantes do projeto foram alertados sobre a tendência de inflar a categoria Must Have, classificando indevidamente quase todos os requisitos como críticos?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/HfHJ2n6J) |
+| #V148 | MoSCoW | [As diferenças entre Should Have, Could Have e Won’t Have foram compreendidas pelos stakeholders?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/QFDYVXZq) |
+| #V149 | MoSCoW | [O registro da priorização MoSCoW foi documentado e armazenado de forma rastreável para futuras revisões?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/VWDdhPdK) |
 
 ---
 
@@ -231,22 +250,26 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 **Autor:** Isaac Menezes
 
-| ID | Categoria | Item | Artefato está conforme? |
-|----|-----------|------|-------------------------|
-| #V112 | Especificação Suplementar | [Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V113 | Especificação Suplementar | [	Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V114 | Especificação Suplementar | [	Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V115 | Especificação Suplementar | [	Foram definidos os requisitos de acessibilidade para usuários com deficiências?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V116 | Especificação Suplementar | [Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V117 | Especificação Suplementar | [Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V118 | Especificação Suplementar | [Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V119 | Especificação Suplementar | [Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V120 | Especificação Suplementar | [Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V121 | Especificação Suplementar | [Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V122 | Especificação Suplementar | [Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V123 | Especificação Suplementar | [Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V124 | Especificação Suplementar | [Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
-| #V125 | Especificação Suplementar | [Foram definidos os requisitos legais, regulatórios e de licenciamento de software?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) |  
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V112 | Especificação Suplementar | [Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V113 | Especificação Suplementar | [	Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V114 | Especificação Suplementar | [	Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V115 | Especificação Suplementar | [	Foram definidos os requisitos de acessibilidade para usuários com deficiências?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V116 | Especificação Suplementar | [Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V117 | Especificação Suplementar | [Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V118 | Especificação Suplementar | [Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V119 | Especificação Suplementar | [Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V120 | Especificação Suplementar | [Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V121 | Especificação Suplementar | [Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V122 | Especificação Suplementar | [Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V123 | Especificação Suplementar | [Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V124 | Especificação Suplementar | [Foram definidos os requisitos legais, regulatórios e de licenciamento de software?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | |  
+| #V125 | Especificação Suplementar | [Introdução está completa e clara?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/Hpq6hzNB) |  
+| #V126 | Especificação Suplementar | [Projeto está corretamente identificado?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/Hp17WXJM) |  
+| #V127 | Especificação Suplementar | [As funcionalidades foram descritas em linguagem natural e organizadas por recurso, usuário ou subsistema?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md)| [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/N2gZdXBr) |  
+| #V128 | Especificação Suplementar | [Requisitos de usabilidade estão definidos com critérios mensuráveis (ex. tempo de treinamento, tempo de execução de tarefas e conformidade com padrões)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/PsCyNtr8) |  
+| #V129 | Especificação Suplementar | [Os requisitos de confiabilidade especificam disponibilidade, MTBF, MTTR, exatidão e taxa de erros permitida?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md)| [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/ymp2GWmB) |  
 
 
 ## Agradecimentos

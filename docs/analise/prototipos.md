@@ -152,6 +152,8 @@ A validação com o usuário foi feita de forma presencial, no dia **12 de novem
 
 <a id="prototipo06"></a>
 
+## Protótipo 06 - Notificação periódica para atualização de dados e foto do animal
+
 ### 3. Fluxo RFNI021: Notificação Periódica para Atualização de Dados
 
 #### 3.1. Tela: Rede de Integração com Parceiros (Modal de Notificação)
@@ -173,7 +175,7 @@ O Requisito Funcional **RFNI021** (Notificação periódica para atualização d
 
 ## Vídeo de Protótipo e Validação com Tutora de Animal
 
-A validação com o usuário foi feita de forma presencial, no dia **20 de novembro de 2025**.
+A validação com o usuário foi feita de forma presencial, no dia **23 de novembro de 2025**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

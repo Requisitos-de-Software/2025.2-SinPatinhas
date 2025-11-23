@@ -1,6 +1,8 @@
 # Inspeção - Grupo 2 - Entrega 2
 
-A 2ª inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizada no dia 01/10, conduzida por Heloísa e Antônio. O objetivo foi avaliar o processo de elicitação e priorização dos requisitos do projeto, verificando a conformidade com os critérios estabelecidos pela disciplina.
+A 2ª inspeção do Grupo 2 da disciplina de Requisitos de Software foi realizada no dia 01/10, conduzida por Heloísa e Antonio. O objetivo foi avaliar o processo de elicitação e priorização dos requisitos do projeto, verificando a conformidade com os critérios estabelecidos pela disciplina.
+
+[Gravação da Inspeção](https://unbbr-my.sharepoint.com/personal/231011462_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F231011462_aluno_unb_br%2FDocuments%2FGrava%C3%A7%C3%B5es%2FReuni%C3%A3o+com+Heloisa+Laura+Santos+Da+Silva-20251001_225311-Grava%C3%A7%C3%A3o+de+Reuni%C3%A3o.mp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&ga=1&startedResponseCatch=true&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.0a1f80d6-9553-4df3-98f1-49d16c72f382&isDarkMode=false)
 
 ## Checklist de Conformidade de elicitação e priorização
 

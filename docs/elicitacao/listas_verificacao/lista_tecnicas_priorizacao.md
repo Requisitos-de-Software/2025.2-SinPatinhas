@@ -28,6 +28,8 @@
       <th>Item</th>
       <th>Conforme</th>
       <th>Não Conforme</th>
+      <th>Autor</th>
+      <th>Referência</th>
     </tr>
   </thead>
   <tbody>
@@ -37,34 +39,105 @@
     </tr>
     <tr><td>1</td><td>Os requisitos foram classificados em Must, Should, Could e Won't?</td>
       <td><input type="checkbox" id="conforme1"   name="conforme1"></td>
-      <td><input type="checkbox" id="nao_conforme1" name="nao_conforme1"></td></tr>
+      <td><input type="checkbox" id="nao_conforme1" name="nao_conforme1"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>2</td><td>Os Must são os mais críticos (maior valor em relação ao tempo de implementação)?</td>
       <td><input type="checkbox" id="conforme2"   name="conforme2"></td>
-      <td><input type="checkbox" id="nao_conforme2" name="nao_conforme2"></td></tr>
+      <td><input type="checkbox" id="nao_conforme2" name="nao_conforme2"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>3</td><td>Os Must são imprescindíveis para o sucesso do projeto?</td>
       <td><input type="checkbox" id="conforme3"   name="conforme3"></td>
-      <td><input type="checkbox" id="nao_conforme3" name="nao_conforme3"></td></tr>
+      <td><input type="checkbox" id="nao_conforme3" name="nao_conforme3"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>4</td><td>Evita-se marcar todos os requisitos como “Must”, garantindo priorização real?</td>
       <td><input type="checkbox" id="conforme4"   name="conforme4"></td>
-      <td><input type="checkbox" id="nao_conforme4" name="nao_conforme4"></td></tr>
+      <td><input type="checkbox" id="nao_conforme4" name="nao_conforme4"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>5</td><td>Os Should não comprometem o sucesso caso não sejam implementados nesta entrega?</td>
       <td><input type="checkbox" id="conforme5"   name="conforme5"></td>
-      <td><input type="checkbox" id="nao_conforme5" name="nao_conforme5"></td></tr>
+      <td><input type="checkbox" id="nao_conforme5" name="nao_conforme5"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>6</td><td>Os Could são desejáveis?</td>
       <td><input type="checkbox" id="conforme6"   name="conforme6"></td>
-      <td><input type="checkbox" id="nao_conforme6" name="nao_conforme6"></td></tr>
+      <td><input type="checkbox" id="nao_conforme6" name="nao_conforme6"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>7</td><td>Stakeholders cientes de que Could entram apenas se houver recursos?</td>
       <td><input type="checkbox" id="conforme7"   name="conforme7"></td>
-      <td><input type="checkbox" id="nao_conforme7" name="nao_conforme7"></td></tr>
+      <td><input type="checkbox" id="nao_conforme7" name="nao_conforme7"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>8</td><td>Os Won’t estão documentados como fora do escopo desta release/projeto?</td>
       <td><input type="checkbox" id="conforme8"   name="conforme8"></td>
-      <td><input type="checkbox" id="nao_conforme8" name="nao_conforme8"></td></tr>
+      <td><input type="checkbox" id="nao_conforme8" name="nao_conforme8"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>9</td><td>O conceito de Won’t (nunca ou apenas não nesta release) está claro para equipe/stakeholders?</td>
       <td><input type="checkbox" id="conforme9"   name="conforme9"></td>
-      <td><input type="checkbox" id="nao_conforme9" name="nao_conforme9"></td></tr>
+      <td><input type="checkbox" id="nao_conforme9" name="nao_conforme9"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
     <tr><td>10</td><td>Equipe e stakeholders possuem entendimento comum de M/S/C/W?</td>
       <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td></tr>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Pedro </td>
+      <td> </td></tr>
+    <tr><td>11</td><td>Os requisitos classificados como Must Have realmente são indispensáveis para o sucesso do projeto? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/5hJJzjRv">Referência</a> </td></tr>
+    <tr><td>12</td><td>Os requisitos Should Have foram avaliados como importantes, mas não essenciais para a primeira entrega? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/CsStxZnG">Referência</a> </td></tr>
+    <tr><td>13</td><td>Os requisitos Could Have são apenas desejáveis, podendo ser adiados ou eliminados sem comprometer o sistema? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/s93Fdgsq">Referência</a> </td></tr>
+    <tr><td>14</td><td>Os requisitos classificados como Won’t Have estão claramente documentados como fora do escopo da entrega atual? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/bgftM8PW">Referência</a> </td></tr>
+    <tr><td>15</td><td>O time definiu explicitamente o que significa “Won’t Have” (não nesta versão vs. nunca)? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/cck0tWHd">Referência</a> </td></tr>
+    <tr><td>16</td><td>Foi evitado o uso excessivo de Must Have para inflar o escopo do projeto? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/ZpL1rtxj">Referência</a> </td></tr>
+    <tr><td>17</td><td>O time garantiu que todos os stakeholders entendem o real significado das quatro categorias (Must, Should, Could, Won’t) para evitar mal-entendidos? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/n8nD5nXB">Referência</a> </td></tr>
+    <tr><td>18</td><td>Os participantes do projeto foram alertados sobre a tendência de inflar a categoria Must Have, classificando indevidamente quase todos os requisitos como críticos? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/HfHJ2n6J">Referência</a> </td></tr>
+    <tr><td>19</td><td>As diferenças entre Should Have, Could Have e Won’t Have foram compreendidas pelos stakeholders? </td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/QFDYVXZq">Referência</a> </td></tr>
+    <tr><td>20</td><td>O registro da priorização MoSCoW foi documentado e armazenado de forma rastreável para futuras revisões?</td>
+      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
+      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
+      <td> Antonio Carvalho </td>
+      <td><a href="https://ibb.co/VWDdhPdK">Referência</a> </td></tr>
+
 --
     <!-- Técnica: Escala de Três Níveis (Autor: Letícia Paiva)-->
     <tr class="section-row">

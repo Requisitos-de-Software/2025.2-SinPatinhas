@@ -135,20 +135,20 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-|  Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante  |1 (com hiperlink) | |   |   |   |   |
-|  Quantidade de Validação dos Protótipos com o usuário com gravação presencial |1 (com hiperlink) | |   |   |   |   | 
-| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 1 (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 1 (com hiperlink) |||||
-|  Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 1 (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação da Priorização de Requisotos Elicitados com foto da fonte  | 1 (com hiperlink) |||||
-|Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 1 (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item |1 (com hiperlink)  |||||
-| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 1 (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 1 (com hiperlink) |||||
-|  Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 1 (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 1 (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item |1 (com hiperlink)  |||||
-| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 1 (com hiperlink) |||||
+| Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante  | 3 - [Protótipos de n° 3, 4 e 6](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |   |   |   |
+| Validação dos Protótipos com o usuário com gravação presencial | [Sim](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |   |   |   | 
+| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 19 - [Itens com Foto de Referência](../planejamento/rich-picture/lista_de_verificao.md) |||||
+| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 10 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 0 |||||
+| Quantidade de itens da Lista de verificação da Priorização de Requisitos Elicitados com foto da fonte  | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---moscow) |||||
+| Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--cenários) |||||
+| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item |5 - (com hiperlink)  |||||
+| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 5 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---especificação-suplementar) |||||
+| Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 5 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item |5 - (com hiperlink)  |||||
+| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 5 - (com hiperlink) |||||
 | **Documentos criados** |  | |  |  |  |  |
 | **Documentos revisados** |  |  |  | |  |  | 
 

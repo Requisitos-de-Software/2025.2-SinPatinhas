@@ -23,11 +23,15 @@
 | **Outros Requisitos** ||||||
 | 13 | Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)? | Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ ||
 | 14 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ ||
-| 15 |  | Antonio Carvalho | ☐ | ☐ ||
-| 16 |  | Antonio Carvalho | ☐ | ☐ ||
-| 17 |  | Antonio Carvalho | ☐ | ☐ ||
-| 18 |  | Antonio Carvalho | ☐ | ☐ ||
-| 19 |  | Antonio Carvalho | ☐ | ☐ ||
+| 15 | Introdução está completa e clara? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/Hpq6hzNB)|
+| 16 | Projeto está corretamente identificado? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/Hp17WXJM)|
+| 17 | As funcionalidades foram descritas em linguagem natural e organizadas por
+recurso, usuário ou subsistema? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/N2gZdXBr)|
+| 18 | Requisitos de usabilidade estão definidos com critérios mensuráveis (ex.:
+tempo de treinamento, tempo de execução de tarefas, conformidade com
+padrões)? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/PsCyNtr8)|
+| 19 | Os requisitos de confiabilidade especificam disponibilidade, MTBF, MTTR,
+exatidão e taxa de erros permitida? | Antonio Carvalho | ☐ | ☐ |[Referência](https://ibb.co/ymp2GWmB)|
 
 ---
 
