@@ -123,6 +123,7 @@ details a:hover {
 
   - [Visão Geral](/elicitacao/README.md)
   - [Perfis de Usuário](/elicitacao/perfis_usuarios/perfis-de-usuario)
+  - [Listas de Verificação](/elicitacao/listas_verificacao/listas_verificacao.md)
   - [Entrevistas](/elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao)
   - [Instrospeção](/elicitacao/tecnicas_elicitacao/metodologias/introspeccao.md)
   - [Experimentação com LLMs](/elicitacao/tecnicas_elicitacao/experimentacaoLLMs.md)

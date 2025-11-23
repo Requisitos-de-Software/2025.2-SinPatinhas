@@ -17,282 +17,73 @@
 
 ---
 
-## Lista de Verificação
+ Lista de Verificação – Técnicas de Priorização
+**Autora:** Letícia Paiva
 
-<div class="plan-grid"></div>
 
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th>Item</th>
-      <th>Conforme</th>
-      <th>Não Conforme</th>
-      <th>Autor</th>
-      <th>Referência</th>
-    </tr>
-  </thead>
-  <tbody>
-   <!-- Técnica: MoSCoW (Autor: Antonio Carvalho)-->
-    <tr class="section-row">
-      <th colspan="4" scope="colgroup">Técnica: MoSCoW</th>
-    </tr>
-    <tr><td>1</td><td>Os requisitos foram classificados em Must, Should, Could e Won't?</td>
-      <td><input type="checkbox" id="conforme1"   name="conforme1"></td>
-      <td><input type="checkbox" id="nao_conforme1" name="nao_conforme1"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>2</td><td>Os Must são os mais críticos (maior valor em relação ao tempo de implementação)?</td>
-      <td><input type="checkbox" id="conforme2"   name="conforme2"></td>
-      <td><input type="checkbox" id="nao_conforme2" name="nao_conforme2"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>3</td><td>Os Must são imprescindíveis para o sucesso do projeto?</td>
-      <td><input type="checkbox" id="conforme3"   name="conforme3"></td>
-      <td><input type="checkbox" id="nao_conforme3" name="nao_conforme3"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>4</td><td>Evita-se marcar todos os requisitos como “Must”, garantindo priorização real?</td>
-      <td><input type="checkbox" id="conforme4"   name="conforme4"></td>
-      <td><input type="checkbox" id="nao_conforme4" name="nao_conforme4"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>5</td><td>Os Should não comprometem o sucesso caso não sejam implementados nesta entrega?</td>
-      <td><input type="checkbox" id="conforme5"   name="conforme5"></td>
-      <td><input type="checkbox" id="nao_conforme5" name="nao_conforme5"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>6</td><td>Os Could são desejáveis?</td>
-      <td><input type="checkbox" id="conforme6"   name="conforme6"></td>
-      <td><input type="checkbox" id="nao_conforme6" name="nao_conforme6"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>7</td><td>Stakeholders cientes de que Could entram apenas se houver recursos?</td>
-      <td><input type="checkbox" id="conforme7"   name="conforme7"></td>
-      <td><input type="checkbox" id="nao_conforme7" name="nao_conforme7"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>8</td><td>Os Won’t estão documentados como fora do escopo desta release/projeto?</td>
-      <td><input type="checkbox" id="conforme8"   name="conforme8"></td>
-      <td><input type="checkbox" id="nao_conforme8" name="nao_conforme8"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>9</td><td>O conceito de Won’t (nunca ou apenas não nesta release) está claro para equipe/stakeholders?</td>
-      <td><input type="checkbox" id="conforme9"   name="conforme9"></td>
-      <td><input type="checkbox" id="nao_conforme9" name="nao_conforme9"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>10</td><td>Equipe e stakeholders possuem entendimento comum de M/S/C/W?</td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Pedro </td>
-      <td> </td></tr>
-    <tr><td>11</td><td>Os requisitos classificados como Must Have realmente são indispensáveis para o sucesso do projeto? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/5hJJzjRv">Referência</a> </td></tr>
-    <tr><td>12</td><td>Os requisitos Should Have foram avaliados como importantes, mas não essenciais para a primeira entrega? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/CsStxZnG">Referência</a> </td></tr>
-    <tr><td>13</td><td>Os requisitos Could Have são apenas desejáveis, podendo ser adiados ou eliminados sem comprometer o sistema? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/s93Fdgsq">Referência</a> </td></tr>
-    <tr><td>14</td><td>Os requisitos classificados como Won’t Have estão claramente documentados como fora do escopo da entrega atual? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/bgftM8PW">Referência</a> </td></tr>
-    <tr><td>15</td><td>O time definiu explicitamente o que significa “Won’t Have” (não nesta versão vs. nunca)? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/cck0tWHd">Referência</a> </td></tr>
-    <tr><td>16</td><td>Foi evitado o uso excessivo de Must Have para inflar o escopo do projeto? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/ZpL1rtxj">Referência</a> </td></tr>
-    <tr><td>17</td><td>O time garantiu que todos os stakeholders entendem o real significado das quatro categorias (Must, Should, Could, Won’t) para evitar mal-entendidos? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/n8nD5nXB">Referência</a> </td></tr>
-    <tr><td>18</td><td>Os participantes do projeto foram alertados sobre a tendência de inflar a categoria Must Have, classificando indevidamente quase todos os requisitos como críticos? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/HfHJ2n6J">Referência</a> </td></tr>
-    <tr><td>19</td><td>As diferenças entre Should Have, Could Have e Won’t Have foram compreendidas pelos stakeholders? </td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/QFDYVXZq">Referência</a> </td></tr>
-    <tr><td>20</td><td>O registro da priorização MoSCoW foi documentado e armazenado de forma rastreável para futuras revisões?</td>
-      <td><input type="checkbox" id="conforme10"   name="conforme10"></td>
-      <td><input type="checkbox" id="nao_conforme10" name="nao_conforme10"></td>
-      <td> Antonio Carvalho </td>
-      <td><a href="https://ibb.co/VWDdhPdK">Referência</a> </td></tr>
-
---
-    <!-- Técnica: Escala de Três Níveis (Autor: Letícia Paiva)-->
-    <tr class="section-row">
-      <th colspan="4" scope="colgroup">Técnica: Escala de Três Níveis</th>
-    </tr>
-    <tr><td>11</td><td>Definições de Alto, Médio e Baixo foram formalmente acordadas pelos stakeholders?</td>
-      <td><input type="checkbox" id="conforme11"   name="conforme11"></td>
-      <td><input type="checkbox" id="nao_conforme11" name="nao_conforme11"></td></tr>
-    <tr><td>12</td><td>A classificação considera importância (valor) e urgência (próxima entrega)?</td>
-      <td><input type="checkbox" id="conforme12"   name="conforme12"></td>
-      <td><input type="checkbox" id="nao_conforme12" name="nao_conforme12"></td></tr>
-    <tr><td>13</td><td>Alta Prioridade = importante e urgente?</td>
-      <td><input type="checkbox" id="conforme13"   name="conforme13"></td>
-      <td><input type="checkbox" id="nao_conforme13" name="nao_conforme13"></td></tr>
-    <tr><td>14</td><td>Média Prioridade = importante, mas não urgente?</td>
-      <td><input type="checkbox" id="conforme14"   name="conforme14"></td>
-      <td><input type="checkbox" id="nao_conforme14" name="nao_conforme14"></td></tr>
-    <tr><td>15</td><td>Baixa Prioridade = nem importante nem urgente?</td>
-      <td><input type="checkbox" id="conforme15"   name="conforme15"></td>
-      <td><input type="checkbox" id="nao_conforme15" name="nao_conforme15"></td></tr>
-    <tr><td>16</td><td>Itens urgentes porém não importantes foram identificados e descartados?</td>
-      <td><input type="checkbox" id="conforme16"   name="conforme16"></td>
-      <td><input type="checkbox" id="nao_conforme16" name="nao_conforme16"></td></tr>
-    <tr><td>17</td><td>Se “Alta Prioridade” ficou grande, aplicou-se 2ª rodada para isolar críticos?</td>
-      <td><input type="checkbox" id="conforme17"   name="conforme17"></td>
-      <td><input type="checkbox" id="nao_conforme17" name="nao_conforme17"></td></tr>
-    <tr><td>18</td><td>A prioridade final está registrada como atributo (ERS, backlog etc.)?</td>
-      <td><input type="checkbox" id="conforme18"   name="conforme18"></td>
-      <td><input type="checkbox" id="nao_conforme18" name="nao_conforme18"></td></tr>
-    <tr><td>19</td><td>Dependências checadas (alto não depende de baixo)?</td>
-      <td><input type="checkbox" id="conforme19"   name="conforme19"></td>
-      <td><input type="checkbox" id="nao_conforme19" name="nao_conforme19"></td></tr>
---
-    <!-- Técnica: Teste dos $100 (Autor: Pedro Gomes Oliveira) -->
-    <tr class="section-row">
-      <th colspan="4" scope="colgroup">Técnica: Teste dos $100</th>
-    </tr>
-    <tr><td>20</td><td>O objetivo da priorização foi claramente definido?</td>
-      <td><input type="checkbox" id="conforme20"   name="conforme20"></td>
-      <td><input type="checkbox" id="nao_conforme20" name="nao_conforme20"></td></tr>
-    <tr><td>21</td><td>Cada membro recebeu $100 (orçamento imaginário)?</td>
-      <td><input type="checkbox" id="conforme21"   name="conforme21"></td>
-      <td><input type="checkbox" id="nao_conforme21" name="nao_conforme21"></td></tr>
-    <tr><td>22</td><td>Lista completa de requisitos apresentada a todos?</td>
-      <td><input type="checkbox" id="conforme22"   name="conforme22"></td>
-      <td><input type="checkbox" id="nao_conforme22" name="nao_conforme22"></td></tr>
-    <tr><td>23</td><td>Equipe instruída a “comprar” requisitos desejados?</td>
-      <td><input type="checkbox" id="conforme23"   name="conforme23"></td>
-      <td><input type="checkbox" id="nao_conforme23" name="nao_conforme23"></td></tr>
-    <tr><td>24</td><td>Requisitos de maior prioridade receberam mais “dólares”?</td>
-      <td><input type="checkbox" id="conforme24"   name="conforme24"></td>
-      <td><input type="checkbox" id="nao_conforme24" name="nao_conforme24"></td></tr>
-    <tr><td>25</td><td>Orçamento de $100 foi limite estrito?</td>
-      <td><input type="checkbox" id="conforme25"   name="conforme25"></td>
-      <td><input type="checkbox" id="nao_conforme25" name="nao_conforme25"></td></tr>
-    <tr><td>26</td><td>Alocação individual antes da agregação?</td>
-      <td><input type="checkbox" id="conforme26"   name="conforme26"></td>
-      <td><input type="checkbox" id="nao_conforme26" name="nao_conforme26"></td></tr>
-    <tr><td>27</td><td>Soma dos “dólares” determinou a prioridade coletiva?</td>
-      <td><input type="checkbox" id="conforme27"   name="conforme27"></td>
-      <td><input type="checkbox" id="nao_conforme27" name="nao_conforme27"></td></tr>
-    <tr><td>28</td><td>Risco de manipulação (100 em um item) foi esclarecido?</td>
-      <td><input type="checkbox" id="conforme28"   name="conforme28"></td>
-      <td><input type="checkbox" id="nao_conforme28" name="nao_conforme28"></td></tr>
-    <tr><td>29</td><td>Esforço/custo de implementação NÃO é refletido nesta técnica?</td>
-      <td><input type="checkbox" id="conforme29"   name="conforme29"></td>
-      <td><input type="checkbox" id="nao_conforme29" name="nao_conforme29"></td></tr>
-    <tr><td>30</td><td>Equipe compreende que o resultado reflete valor percebido pelos participantes?</td>
-      <td><input type="checkbox" id="conforme30"   name="conforme30"></td>
-      <td><input type="checkbox" id="nao_conforme30" name="nao_conforme30"></td></tr>
---
-    <!-- Técnica: In or Out (Autor: Isaac Menezes Pereira) -->
-    <tr class="section-row">
-      <th colspan="4" scope="colgroup">Técnica: In or Out (Dentro ou Fora)</th>
-    </tr>
-    <tr><td>31</td><td>O requisito nasce de pelo menos uma necessidade de stakeholder?</td>
-      <td><input type="checkbox" id="conforme31"   name="conforme31"></td>
-      <td><input type="checkbox" id="nao_conforme31" name="nao_conforme31"></td></tr>
-    <tr><td>32</td><td>É essencial para o funcionamento do projeto?</td>
-      <td><input type="checkbox" id="conforme32"   name="conforme32"></td>
-      <td><input type="checkbox" id="nao_conforme32" name="nao_conforme32"></td></tr>
-    <tr><td>33</td><td>Decorre de documentação/estudos/leis etc.?</td>
-      <td><input type="checkbox" id="conforme33"   name="conforme33"></td>
-      <td><input type="checkbox" id="nao_conforme33" name="nao_conforme33"></td></tr>
-    <tr><td>34</td><td>É requisito básico de que outros dependem?</td>
-      <td><input type="checkbox" id="conforme34"   name="conforme34"></td>
-      <td><input type="checkbox" id="nao_conforme34" name="nao_conforme34"></td></tr>
-    <tr><td>35</td><td>No fluxo de uso, está o mais próximo possível do usuário?</td>
-      <td><input type="checkbox" id="conforme35"   name="conforme35"></td>
-      <td><input type="checkbox" id="nao_conforme35" name="nao_conforme35"></td></tr>
-    <tr><td>36</td><td>Está contido na fronteira interna do sistema?</td>
-      <td><input type="checkbox" id="conforme36"   name="conforme36"></td>
-      <td><input type="checkbox" id="nao_conforme36" name="nao_conforme36"></td></tr>
-    <tr><td>37</td><td>Possui ligações/dependências com outros requisitos mapeadas?</td>
-      <td><input type="checkbox" id="conforme37"   name="conforme37"></td>
-      <td><input type="checkbox" id="nao_conforme37" name="nao_conforme37"></td></tr>
-    <tr><td>38</td><td>A implementação depende o mínimo possível de outros requisitos?</td>
-      <td><input type="checkbox" id="conforme38"   name="conforme38"></td>
-      <td><input type="checkbox" id="nao_conforme38" name="nao_conforme38"></td></tr>
-  </tbody>
---
-    <!-- Técnica: Comparação em Duplas e Ordenamento Ranqueado (Autor: Luciano Machado) -->
-    <tr class="section-row">
-      <th colspan="4" scope="colgroup">Técnica: Comparação em Duplas e Ordenamento Ranqueado</th>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td>Foi estabelecido uma ordem de comparação, se é maior ou menor, de cada elemento para outro elemento de requerimento? <span class="page-ref">pg. 318</span></td>
-      <td><input type="checkbox" id="conforme39" name="conforme39"></td>
-      <td><input type="checkbox" id="nao_conforme39" name="nao_conforme39"></td>
-    </tr>
-    <tr>
-      <td>40</td>
-      <td>Para cada artefato criado que explicita uma elicitação de requerimentos, foi considerado criar um ordenamento ranqueado por comparação em duplas? <span class="page-ref">pg. 318</span></td>
-      <td><input type="checkbox" id="conforme40" name="conforme40"></td>
-      <td><input type="checkbox" id="nao_conforme40" name="nao_conforme40"></td>
-    </tr>
-    <tr>
-      <td>41</td>
-      <td>Foi considerada uma pouca quantidade de elementos de requerimentos? <span class="page-ref">pg. 319</span></td>
-      <td><input type="checkbox" id="conforme41" name="conforme41"></td>
-      <td><input type="checkbox" id="nao_conforme41" name="nao_conforme41"></td>
-    </tr>
-    <tr>
-      <td>42</td>
-      <td>Foi considerado que não é possível aplicar a técnica de comparação em duplas para todo o projeto como um todo? <span class="page-ref">pg. 319</span></td>
-      <td><input type="checkbox" id="conforme42" name="conforme42"></td>
-      <td><input type="checkbox" id="nao_conforme42" name="nao_conforme42"></td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td>Foi considerado que ranquear todos os requerimentos é demais, além do necessário? <span class="page-ref">pg. 319</span></td>
-      <td><input type="checkbox" id="conforme43" name="conforme43"></td>
-      <td><input type="checkbox" id="nao_conforme43" name="nao_conforme43"></td>
-    </tr>
-    <tr>
-      <td>44</td>
-      <td>Os requerimentos foram agrupados em grupos de release ou por caixas de tempo de desenvolvimento? <span class="page-ref">pg. 319</span></td>
-      <td><input type="checkbox" id="conforme44" name="conforme44"></td>
-      <td><input type="checkbox" id="nao_conforme44" name="nao_conforme44"></td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>Foi considerado separar as prioridades em grupos de features, prioridade similar ou que apenas devem ser implementadas juntas?</td>
-      <td><input type="checkbox" id="conforme45" name="conforme45"></td>
-      <td><input type="checkbox" id="nao_conforme45" name="nao_conforme45"></td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td>Foi atribuído um número único para cada elemento?</td>
-      <td><input type="checkbox" id="conforme46" name="conforme46"></td>
-      <td><input type="checkbox" id="nao_conforme46" name="nao_conforme46"></td>
-    </tr>
-
-</table>
+| # | Item | Autores | Referência |
+|---|------|--------|-----------|
+| — | **Técnica: MoSCoW** | — | — |
+| 1 | Os requisitos foram classificados em Must, Should, Could e Won’t? | Pedro |  |
+| 2 | Os Must são os mais críticos (maior valor em relação ao tempo de implementação)? | Pedro |  |
+| 3 | Os Must são imprescindíveis para o sucesso do projeto? | Pedro |  |
+| 4 | Evita-se marcar todos os requisitos como “Must”, garantindo priorização real? | Pedro |  |
+| 5 | Os Should não comprometem o sucesso caso não sejam implementados nesta entrega? | Pedro |  |
+| 6 | Os Could são apenas desejáveis? | Pedro |  |
+| 7 | Stakeholders estão cientes de que Could entram apenas se houver recursos? | Pedro |  |
+| 8 | Os Won’t estão documentados como fora do escopo desta release/projeto? | Pedro |  |
+| 9 | O conceito de Won’t (nunca ou apenas não nesta release) está claro para equipe/stakeholders? | Pedro |  |
+| 10 | Equipe e stakeholders possuem entendimento comum de Must/Should/Could/Won’t? | Pedro |  |
+| 11 | Os requisitos Must Have são realmente indispensáveis para o sucesso do projeto? | Antonio Carvalho | https://ibb.co/5hJJzjRv |
+| 12 | Os requisitos Should Have são importantes, mas não essenciais para a primeira entrega? | Antonio Carvalho | https://ibb.co/CsStxZnG |
+| 13 | Os requisitos Could Have são desejáveis e podem ser adiados sem comprometer o sistema? | Antonio Carvalho | https://ibb.co/s93Fdgsq |
+| 14 | Os requisitos Won’t Have estão claramente documentados como fora do escopo da entrega atual? | Antonio Carvalho | https://ibb.co/bgftM8PW |
+| 15 | O time definiu explicitamente o que significa “Won’t Have” (não nesta versão vs. nunca)? | Antonio Carvalho | https://ibb.co/cck0tWHd |
+| 16 | Foi evitado o uso excessivo de Must Have para inflar o escopo do projeto? | Antonio Carvalho | https://ibb.co/ZpL1rtxj |
+| 17 | Todos os stakeholders entendem o real significado das quatro categorias? | Antonio Carvalho | https://ibb.co/n8nD5nXB |
+| 18 | Os participantes foram alertados sobre o risco de inflar Must Have? | Antonio Carvalho | https://ibb.co/HfHJ2n6J |
+| 19 | As diferenças entre Should/Could/Won’t foram compreendidas pelos stakeholders? | Antonio Carvalho | https://ibb.co/QFDYVXZq |
+| 20 | O registro da priorização MoSCoW está documentado e rastreável? | Antonio Carvalho | https://ibb.co/VWDdhPdK |
+| — | **Técnica: Escala de Três Níveis** | — | — |
+| 21 | Definições de Alta, Média e Baixa foram formalmente acordadas? | Letícia Paiva | https://ibb.co/21z7D3fB |
+| 22 | A classificação considera importância e urgência? | Letícia Paiva | https://ibb.co/233VnRt0 |
+| 23 | Alta prioridade = importante e urgente? | Letícia Paiva | https://ibb.co/fY3r8KqT |
+| 24 | Média prioridade = importante, mas não urgente? | Letícia Paiva | https://ibb.co/8LbcPRm4 |
+| 25 | Baixa prioridade = nem importante nem urgente? | Letícia Paiva | https://ibb.co/qFx8BPdZ |
+| 26 | Itens urgentes porém não importantes foram identificados e descartados? | Letícia Paiva | https://ibb.co/HTT3q7wH |
+| 27 | Se Alta prioridade ficou muito ampla, foi aplicada uma segunda rodada? | Letícia Paiva | https://ibb.co/KzDcXYcX |
+| 28 | A prioridade final foi registrada como atributo (ERS, backlog etc.)? | Letícia Paiva |  |
+| 29 | Dependências foram verificadas (alto não depende de baixo)? | Letícia Paiva | https://ibb.co/xqx6g4sj |
+| — | **Técnica: Teste dos $100** | — | — |
+| 30 | O objetivo da priorização foi claramente definido? | Pedro Gomes Oliveira | https://ibb.co/zWKsk8mv  |
+| 31 | Cada membro recebeu um orçamento imaginário de $100? | Pedro Gomes Oliveira | https://ibb.co/XkpFyxS6 |
+| 32 | A lista completa de requisitos foi apresentada a todos? | Pedro Gomes Oliveira | https://ibb.co/ccdqMDP4 |
+| 33 | A equipe foi orientada a “comprar” os requisitos desejados? | Pedro Gomes Oliveira | https://ibb.co/zhcBqGB8 |
+| 34 | Os requisitos de maior prioridade receberam mais “dólares”? | Pedro Gomes Oliveira | https://ibb.co/8gXRg1jk |
+| 35 | O orçamento de $100 foi respeitado como limite absoluto? | Pedro Gomes Oliveira | https://ibb.co/bRKNsvq5 |
+| 36 | A alocação foi feita individualmente antes da agregação? | Pedro Gomes Oliveira | https://ibb.co/JFWMxgqz |
+| 37 | A soma dos valores determinou a prioridade coletiva? | Pedro Gomes Oliveira | https://ibb.co/gFzp4xyY |
+| 38 | O risco de concentração total em um único requisito foi esclarecido? | Pedro Gomes Oliveira | https://ibb.co/zWG4H7zR |
+| 39 | O esforço de implementação não é refletido nesta técnica? | Pedro Gomes Oliveira | https://ibb.co/Xf2pN2BF |
+| 40 | A equipe compreende que o resultado reflete o valor percebido? | Pedro Gomes Oliveira | https://ibb.co/C3dD2M0b |
+| — | **Técnica: In or Out (Dentro ou Fora)** | — | — |
+| 41 | O requisito nasce de pelo menos uma necessidade de stakeholder? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D |
+| 42 | É essencial para o funcionamento do projeto? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D |
+| 43 | Decorre de documentação, estudos ou legislação? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D |
+| 44 | É requisito base de que outros dependem? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D |
+| 45 | Está o mais próximo possível do usuário no fluxo de uso? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D |
+| 46 | Está contido na fronteira interna do sistema? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D |
+| 47 | Possui dependências com outros requisitos mapeadas? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D  |
+| 48 | A implementação depende o mínimo possível de outros requisitos? | Isaac Menezes Pereira | https://ibb.co/sJV5Mp1D  |
+| — | **Técnica: Comparação em Duplas e Ordenamento Ranqueado** | — | — |
+| 49 | Foi estabelecida uma ordem de comparação entre os requisitos? | Luciano Machado | https://ibb.co/xq267ftp |
+| 50 | Foi criado um ordenamento ranqueado por comparação em duplas? | Luciano Machado | https://ibb.co/td81W2k |
+| 51 | Foi considerada uma pequena quantidade de requisitos? | Luciano Machado | https://ibb.co/V5PzwvN |
+| 52 | Considerou-se que a técnica não pode ser aplicada ao projeto inteiro? | Luciano Machado | https://ibb.co/4Z9W7hQ8 |
+| 53 | Ranquear todos os requisitos foi considerado excessivo? | Luciano Machado | https://ibb.co/C5pWRrq8 |
+| 54 | Os requisitos foram agrupados por releases ou timeboxes? | Luciano Machado | https://ibb.co/TDgc5Zy4 |
+| 55 | Foram agrupadas prioridades similares ou dependentes? | Luciano Machado | https://ibb.co/b5Kbfmnm |
+| 56 | Foi atribuído um número único para cada requisito? | Luciano Machado | https://ibb.co/fGrpDXNS |
 
 ---
 
