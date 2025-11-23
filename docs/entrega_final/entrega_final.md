@@ -143,13 +143,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 0 |||||
 | Quantidade de itens da Lista de verificação da Priorização de Requisitos Elicitados com foto da fonte  | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---moscow) |||||
 | Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--cenários) |||||
-| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item |5 - (com hiperlink)  |||||
+| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item | 0 |||||
 | Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--casos-de-uso) |||||
+| Quantidade de itens da Lista de verificação do Backlog com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---backlog) |||||
 | Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---especificação-suplementar) |||||
 | Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-histórias-de-usuário) |||||
-| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - (com hiperlink) |||||
-| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item |5 - (com hiperlink)  |||||
-| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 5 - (com hiperlink) |||||
+| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---nfr-framework) |||||
+| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - (com hiperlink)  |||||
+| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 |||||
 | **Documentos criados** |  | |  |  |  |  |
 | **Documentos revisados** |  |  |  | |  |  | 
 

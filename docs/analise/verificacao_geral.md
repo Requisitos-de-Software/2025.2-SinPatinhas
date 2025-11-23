@@ -44,11 +44,10 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | **Participantes** | **Visualizar artefato nesta página** | **Descrição** |
 |---------------|--------------|------------------|
 | **Antonio Carvalho** | [Rich-Picture](#tb001) | Tabela de Verificação da Rich-Picture |
-|                      | [Perfil_de_Usuários](#tb002) | Tabela de Verificação do Perfil de Usuário |
-|                      | [NFR-Framework](#tb009) | Tabela de Verificação de NFR-Framework |
-|                      | [Léxicos](#tb010) | Tabela de Verificação de Léxicos |
-|                      | [Elos de Rastreabilidade](#tb011) | Elos de Rastreabilidade |
-|                      | [Matriz Geral de Rastreabilidade](#tb012) | Matriz Geral de Rastreabilidade |
+|                      | [Perfil_de_Usuários](#tb002) | Tabela de Verificação de Itens de Perfil de Usuário |
+|                      | [NFR-Framework](#tb009) | Tabela de Verificação de Itens de NFR-Framework |
+|                      | [Elos de Rastreabilidade](#tb010) | Tabela de Verificação de Itens de Elos de Rastreabilidade |
+|                      | [Backlog](#tb010) | Tabela de Verificação de Itens de Backlog |
 | **Leticia Paiva**    | [Casos_de_Uso](#tb003) | Tabela de Verificação dos Casos de Uso |
 |                      | [Cenários](#tb004) | Tabela de Verificação dos Cenários |
 | **Pedro Gomes**      | [Histórias do Usuário](#tb005) | Tabela de Verificação das Histórias do Usuário |
@@ -298,23 +297,15 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
 |-----------|----------------|------|--------------|-------------|-------|
-| #V154 | Casos de Uso | [O diagrama também demonstra o fluxo básico daquilo que o sistema ou aplicativo faz?](../elicitacao/listas_verificacao/lista_tecnicas_priorizacao.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência]() |
+| #V154 | NFR-Framework | [O modelo identifica e trata os requisitos não funcionais como cidadãos de primeira ordem?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/yc2m9z6n) |
+| #V155 | NFR-Framework | [O artefato utiliza o modelo Softgoal Interdependency Graph (SIG)?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/VcdgX3Tf) |
+| #V156 | NFR-Framework | [Cada requisito não funcional está representado como um NFR Softgoal?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/YTZG30kr) |
+| #V157 | NFR-Framework | [Há operacionalizações (Operationalizing Softgoals) para cada softgoal identificado?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/6RXfcf0q) |
+| #V158 | NFR-Framework | [As relações de contribuição entre softgoals estão explicitadas (Make, Help, Hurt, Break etc.)?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/twHmYgct) |
 
-
----
+--- 
 
 <a id="tb010"></a>
-
-### Tabela de Verificação - Léxicos
-
-**Autor:** Antonio Carvalho
-
-| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
-|-----------|----------------|------|--------------|-------------|-------|
-
----
-
-<a id="tb011"></a>
 
 ### Tabela de Verificação - Elos de Rastreabilidade
 
@@ -322,17 +313,25 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
 |-----------|----------------|------|--------------|-------------|-------|
+| #V159 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
+| #V160 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
+| #V161 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
+| #V162 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
+| #V163 | Elos de Rastreabilidade | [](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência]() |
 
 ---
 
-<a id="tb012"></a>
+<a id="tb011"></a>
 
-### Tabela de Verificação - Matriz Geral de Rastreabilidade
+### Tabela de Verificação - Backlog
 
 **Autor:** Antonio Carvalho
 
-| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
-|-----------|----------------|------|--------------|-------------|-------|
+| #V164 | Backlog | [A equipe de desenvolvimento e o Product Owner concordaram previamente com os critérios de aceitação antes da execução da Sprint?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/HTHHzGMv) |
+| #V165 | Backlog | [O Product Backlog é atualizado e refinado continuamente conforme o aprendizado sobre o produto e os usuários?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/KjCQDgG6) |
+| #V166 | Backlog | [O Product Backlog contém todas as funcionalidades desejadas e está sob responsabilidade do Product Owner?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/DH1KRt84) |
+| #V167 | Backlog | [As estimativas de esforço foram registradas em Story Points e são atualizadas conforme o andamento da Sprint?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/Qv9WWRnz) |
+| #V168 | Backlog | [O Sprint Backlog é composto por tarefas derivadas dos itens selecionados do Product Backlog?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/0kzdYbw) |
 
 ---
 

@@ -18,16 +18,17 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <th>Conforme</th>
       <th>Não Conforme</th>
       <th>Autores</th>
+      <th>Referências</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>001</td>
-      <td>Os requisitos presentes no backlog estão priorizados?</td>
+      <td>A equipe de desenvolvimento e o Product Owner concordaram previamente com os critérios de aceitação antes da execução da Sprint? </td>
       <td><input type="checkbox" name="conforme1"></td>
       <td><input type="checkbox" name="nao_conforme1"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/HTHHzGMv">Referência</a></td>
     </tr>
     <tr>
       <td>002</td>
@@ -44,6 +45,38 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td>Matheus</td>
       <td></td>
+    </tr>
+    <tr>
+      <td>004</td>
+      <td>O Product Backlog é atualizado e refinado continuamente conforme o aprendizado sobre o produto e os usuários? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/KjCQDgG6">Referência</a></td>
+    </tr>
+    <tr>
+      <td>005</td>
+      <td> O Product Backlog contém todas as funcionalidades desejadas e está sob responsabilidade do Product Owner? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/DH1KRt84">Referência</a></td>
+    </tr>
+    <tr>
+      <td>006</td>
+      <td>As estimativas de esforço foram registradas em Story Points e são atualizadas conforme o andamento da Sprint? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/Qv9WWRnz">Referência</a></td>
+    </tr>
+    <tr>
+      <td>007</td>
+      <td> O Sprint Backlog é composto por tarefas derivadas dos itens selecionados do Product Backlog? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/0kzdYbw">Referência</a></td>
     </tr>
   </tbody>
 </table>
@@ -93,7 +126,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme3"></td>
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="">Referência</a></td>
     </tr>
     <tr>
       <td>004</td>
@@ -113,43 +146,44 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
     </tr>
     <tr>
       <td>006</td>
-      <td></td>
+      <td>O modelo identifica e trata os requisitos não funcionais como cidadãos de primeira ordem? </td>
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/yc2m9z6n">Referência</a></td>
     </tr>
     <tr>
       <td>007</td>
-      <td></td>
+      <td>O artefato utiliza o modelo Softgoal Interdependency Graph (SIG)? </td>
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/VcdgX3Tf">Referência</a></td>
     </tr>
     <tr>
       <td>008</td>
-      <td></td>
+      <td>Cada requisito não funcional está representado como um NFR Softgoal? </td>
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/YTZG30kr">Referência</a></td>
     </tr>
     <tr>
       <td>009</td>
-      <td></td>
+      <td>Há operacionalizações (Operationalizing Softgoals) para cada softgoal identificado?</td>
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/6RXfcf0q">Referência</a></td>
     </tr>
     <tr>
       <td>010</td>
-      <td></td>
+      <td>As relações de contribuição entre softgoals estão explicitadas (Make, Help, Hurt, 
+Break etc.)?</td>
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/twHmYgct">Referência</a></td>
     </tr>
   </tbody>
 </table>
