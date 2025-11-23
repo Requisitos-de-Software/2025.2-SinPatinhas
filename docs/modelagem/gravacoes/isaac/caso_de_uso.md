@@ -44,7 +44,7 @@
 | **Fluxos de Exceção** | - Falha na conexão de internet: o sistema exibe mensagem de erro |
 | **Pós-condições** | O perfil existe |
 | **Data de Criação** | 12/10/2025 |
-| **Rastreabilidade** | `RNFI014` |
+| **Rastreabilidade** | `RNFI015` |
 | **Cenário Relacionado** | [#CNR009](/modelagem/gravacoes/isaac/cenarios.md) |
 | **Léxico Relacionado** | [#LX014, #LX015, #LX016, #LX017, #LX018, #LX019, #LX020](/modelagem/gravacoes/isaac/lexicos.md) |
 
