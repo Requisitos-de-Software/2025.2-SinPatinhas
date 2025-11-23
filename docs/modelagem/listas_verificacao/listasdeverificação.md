@@ -8,7 +8,15 @@
 
 <div class="plan-grid">
 
-<a href="#/modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md" class="card">
+<a href="../../elicitacao/listas_verificacao/lista_cenarios.md" class="card">
+  <div class="card__icon">📘</div>
+  <div class="card__title">Cenários</div>
+  <div class="card__desc">
+    Checklist para avaliar cenários.
+  </div>
+</a>
+
+<a href="../listas_verificacao/listas_verificacaoespecifi_suple.md" class="card">
   <div class="card__icon">📘</div>
   <div class="card__title">Especificação Suplementar</div>
   <div class="card__desc">
@@ -16,7 +24,7 @@
   </div>
 </a>
 
-<a href="#/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md" class="card">
+<a href="../listas_verificacao/listas_verificacaocasos_de_uso.md" class="card">
   <div class="card__icon">🎯</div>
   <div class="card__title">Diagrama de Caso de Uso</div>
   <div class="card__desc">

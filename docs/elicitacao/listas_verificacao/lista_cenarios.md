@@ -28,6 +28,7 @@
       <th>Item</th>
       <th>Autores</th>
       <th>Conforme</th>
+      <th>Referência</th>
       <th>Não Conforme</th>
     </tr>
   </thead>
@@ -38,6 +39,7 @@
       <td>Heloisa Silva / Pedro Oliveira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>2</td>
@@ -45,6 +47,7 @@
       <td>Letícia Paiva / Mateus Negrini</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>3</td>
@@ -52,6 +55,7 @@
       <td>Letícia Paiva / Pedro Oliveira / Isaac Pereira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>4</td>
@@ -59,6 +63,7 @@
       <td>Letícia Paiva / Mateus Negrini</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>5</td>
@@ -66,6 +71,7 @@
       <td>Heloisa Silva / Letícia Paiva / Mateus Negrini</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>6</td>
@@ -73,6 +79,7 @@
       <td>Heloisa Silva / Letícia Paiva / Pedro Oliveira / Mateus Negrini / Isaac Pereira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>7</td>
@@ -80,6 +87,7 @@
       <td>Heloisa Silva / Letícia Paiva / Pedro Oliveira / Mateus Negrini / Isaac Pereira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>8</td>
@@ -87,6 +95,7 @@
       <td>Heloisa Silva / Pedro Oliveira / Mateus Negrini / Isaac Pereira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>9</td>
@@ -94,6 +103,7 @@
       <td>Pedro Oliveira / Mateus Negrini</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>10</td>
@@ -101,6 +111,7 @@
       <td>Pedro Oliveira / Mateus Negrini</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>11</td>
@@ -108,6 +119,7 @@
       <td>Pedro Oliveira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>12</td>
@@ -115,6 +127,7 @@
       <td>Isaac Pereira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>13</td>
@@ -122,6 +135,7 @@
       <td>Isaac Pereira</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>14</td>
@@ -129,6 +143,7 @@
       <td>Heloisa Silva</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
     </tr>
     <tr>
       <td>15</td>
@@ -136,6 +151,48 @@
       <td>Mateus Negrini</td>
       <td><input type="checkbox"></td>
       <td><input type="checkbox"></td>
+      <td>[]()</td>
+    <tr>
+      <td>16</td>
+      <td>O ambiente/contexto está descrito (quando, onde e por que ocorre)?</td>
+      <td>Antonio Carvalho</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><a href="https://ibb.co/VpCYCS38">Referência</a></td>
+    </tr>
+        <tr>
+      <td>17</td>
+      <td>Os atores estão identificados com características relevantes?</td>
+      <td>Antonio Carvalho</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><a href="https://ibb.co/B9ZRfGW">Referência</a></td>
+    </tr>
+        <tr>
+      <td>18</td>
+      <td>Os objetivos do ator estão explícitos e claros?</td>
+      <td>Antonio Carvalho</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><a href="https://ibb.co/G4J6xPF6">Referência</a></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Há descrição de planejamento (como o ator pensa e decide)?</td>
+      <td>Antonio Carvalho</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><a href="https://ibb.co/nsf0QTsJ">Referência</a></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>As ações e eventos estão narrados em sequência lógica e detalhada?</td>
+      <td>Antonio Carvalho</td>
+      <td><input type="checkbox"></td>
+      <td><input type="checkbox"></td>
+      <td><a href="https://ibb.co/SDSqsWN3">Referência</a></td>
+    </tr>
+
     </tr>
   </tbody>
 </table>
@@ -145,7 +202,7 @@
 
 | Integrante |
 |------------|
-| [Antonio Carvalho]() |
+| [Antonio Carvalho](https://docs.google.com/document/d/1Wze-BQb0yRxm-4E8y6hRgZ5K-mLwbSEZ/edit?usp=sharing&ouid=113113440644489804424&rtpof=true&sd=true) |
 | [Heloisa Santos]() |
 | [Isaac Menezes Pereira](https://drive.google.com/file/d/1WBY9PEBFgnyGZV0_tEajS3wFAJOnX4wx/view) |
 | [Letícia Paiva](https://docs.google.com/document/d/1swX9xXXRzD-5Xcl3TjBw92MgUXcp2LCH2Ue6MzN_iQc/edit?tab=t.0) |

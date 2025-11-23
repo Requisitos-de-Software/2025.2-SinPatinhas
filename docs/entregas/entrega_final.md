@@ -75,8 +75,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 |Técnicas de Priorização presencial e sem gravação com usuário|0 | |   |   | | |
 |Técnicas de Priorização remota e com gravação com usuário|0 | |   |   | | |
 | Perfil de Usuário | 2 - [Perfis de Usuário](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |   |   | | | |
-| Persona |0 |   |   | | | |
-| Se utilizaram Personas, utilizaram a técnica encenação (role playing)  com gravação? |0 | |   | | | |
+| Persona | 0 |   |   | | | |
+| Se utilizaram Personas, utilizaram a técnica encenação (role playing)  com gravação? | 0 | |   | | | |
 | **Total técnicas presenciais com gravação** | 4 | | | | | |
 | **Total técnicas remotas com gravação** | 0 | |  |  |  | |
 | **Total documentos elaborados** | 4 |  |  |  |  |  | 

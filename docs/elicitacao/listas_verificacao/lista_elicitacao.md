@@ -150,6 +150,7 @@
 | Integrante |
 |------------|
 |<a href="assets/PDFs/ListVerf/leticiapaiva_tecelic.pdf" target="_blank">Letícia Paiva</a>|
+| [Antonio](https://docs.google.com/document/d/1UCa6NeMfnGiHWE2TUgiHkjAB8LBlkQsr/edit?usp=sharing&ouid=113113440644489804424&rtpof=true&sd=true) |
 | <a href="assets/PDFs/ListVerf/pedrogomesoliveira_tecelic.pdf" target="_blank">Pedro Gomes Oliveira</a> |
 
 ## Histórico de Versão
