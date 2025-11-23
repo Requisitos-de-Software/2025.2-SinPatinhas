@@ -84,8 +84,8 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 |---------------|-----------------------|------------------|------------------|
 | **Antonio Carvalho** | [BL001](#bl001) | [#BL001](../../modelagem/gravacoes/antonio/backlog.md) | Exibição de horários de funcionamento |
 |                      | [BL002](#bl002) | [#BL002](../../modelagem/gravacoes/antonio/backlog.md) | Integração com ONGs, clínicas e pet shops |
-|                      | [BL015](#bl015) | [#BL015](../../modelagem/gravacoes/antonio/backlog.md) | Integração com ONGs, clínicas e pet shops |
-|                      | [BL016](#bl016) | [#BL016](../../modelagem/gravacoes/antonio/backlog.md) | Integração com ONGs, clínicas e pet shops |
+|                      | [BL015](#bl015) | [#BL015](../../modelagem/gravacoes/antonio/backlog.md) | Desempenho em Consultas Públicas |
+|                      | [BL016](#bl016) | [#BL016](../../modelagem/gravacoes/antonio/backlog.md) | Integração Direta com Parceiros |
 | **Leticia** | [BL003](#bl003)  | [#BL003](..2../modelagem/gravacoes/leticia/backlog.md) | Sistema de Adoção |
 |                      | [BL004](#bl004) | [#BL004](../../modelagem/gravacoes/leticia/backlog.md) | Alertas e Notificações Automáticas |
 | **Pedro Gomes** |  | [#BL005](../../modelagem/gravacoes/pedro/backlog.md) | Desenvolvimento do aplicativo móvel |

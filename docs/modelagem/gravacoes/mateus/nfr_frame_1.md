@@ -114,7 +114,7 @@
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 21/10/2025 | Criação dos cards | Mateus Santos Negrini | - |
+| **1.0** | 21/10/2025 | Criação dos cards | Mateus Santos Negrini | Antonio |
 
 ---
 ## Referências  

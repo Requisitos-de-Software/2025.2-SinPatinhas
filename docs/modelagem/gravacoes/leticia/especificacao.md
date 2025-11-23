@@ -121,7 +121,7 @@ Requisitos separados por categoria conforme modelo.
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 11/10/2025 | Página de **Especificações Suplementares** própria | Letícia | - |
+| 1.0 | 11/10/2025 | Página de **Especificações Suplementares** própria | Letícia | Antonio |
 
 ---
 

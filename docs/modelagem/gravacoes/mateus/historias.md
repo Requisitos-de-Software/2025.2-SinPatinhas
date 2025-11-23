@@ -108,7 +108,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 21/10/2025 | Página de **Histórias de Usuário** própria | Mateus | - |
+| 1.0 | 21/10/2025 | Página de **Histórias de Usuário** própria | Mateus | Antonio |
 
 ---
 

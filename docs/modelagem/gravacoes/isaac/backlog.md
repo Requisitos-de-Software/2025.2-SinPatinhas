@@ -31,7 +31,7 @@ O objetivo deste artefato é **organizar e detalhar** as funcionalidades sob res
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|----------|----------------|------------|--------------|
-| 1.0 | 21/10/2025 | Criação do backlog individual de Isaac Menezes | - |  |
+| 1.0 | 21/10/2025 | Criação do backlog individual de Isaac Menezes | Antonio |  |
 
 ---
 

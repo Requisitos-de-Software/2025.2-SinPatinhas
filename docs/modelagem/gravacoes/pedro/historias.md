@@ -174,7 +174,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por mim, **P
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |-------------|-----------|----------------|------------|-------------|
-| **1.0** | 20/10/2025 | Criação das histórias HU013–HU018 e HU039–HU040 | Pedro Gomes |  |
+| **1.0** | 20/10/2025 | Criação das histórias HU013–HU018 e HU039–HU040 | Pedro Gomes | Antonio |
 
 ---
 

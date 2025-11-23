@@ -30,7 +30,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.1 | 12/10/2025 | Adicionados novos léxicos LX014 a LX020 referentes a médias de clínicas e profissionais | Isaac | - |
+| 1.1 | 12/10/2025 | Adicionados novos léxicos LX014 a LX020 referentes a médias de clínicas e profissionais | Isaac | Antonio |
 
 ---
 

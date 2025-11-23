@@ -66,7 +66,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.1 | 12/10/2025 | Adicionado Caso de Uso 11: Média de consultas do profissional | Isaac | - |
+| 1.1 | 12/10/2025 | Adicionado Caso de Uso 11: Média de consultas do profissional | Isaac | Antonio |
 
 ---
 

@@ -37,7 +37,7 @@
 
 | Versão | Data | Descrição | Autores | Revisores |
 |:------:|:-----------|:-------------------------------------------|:--------|:-----------|
-| 1.0 | 12/10/2025 | Página de **Léxicos** própria | Pedro | - |
+| 1.0 | 12/10/2025 | Página de **Léxicos** própria | Pedro | Antonio |
 
 ---
 

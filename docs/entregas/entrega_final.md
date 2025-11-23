@@ -99,9 +99,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Validação com usuário da especificação do caso de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/especificacao.md)  |   |   |   |   |   |
 | Casos de Uso (UCx) |  5 - [UC001](../modelagem/casos_de_uso.md#artefatos), [UC002](../modelagem/casos_de_uso.md#artefatos), [UC013](../modelagem/casos_de_uso.md#artefatos), [UC014](../modelagem/casos_de_uso.md#artefatos), [UC015](../modelagem/casos_de_uso.md#artefatos) |   |   |   |   |   |
 | Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  |  | |  |
-| **Total de Participação nos documentos Criados:** | 34 (gerais e individuais) |  |  |  |  |  |
+| **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  |  |  |  |
 | **Participação de Gravação com o usuário presencial?** | 4 |  |  |  |  |  |
-| **Total documentos elaborados** | 30 |  |  |  |  |  |
+| **Total Documentos Elaborados** | 30 |  |  |  |  |  |
+| **Total Documentos Revisados** | 19 (Revisor em documentos unitários) |  |  |  |  |  | 
 
 <font>**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
 
@@ -115,13 +116,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 |------|----------|----------|----------|----------|----------|----------|
 | Histórias de Usuário (HUx) | 10 (7 Requisitos Funcionais (RFx) e 3 Requisitos Funcionais Não Implementados (RFNIx)) - [HU003](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017)), [HU004](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018)), [HU005](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI005](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005)), [HU006](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF014](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014)), [HU007](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016)), [HU008](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018)), [HU041](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF011](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf011)), [HU042](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012)), [HU043](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013)), [HU044](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014)) |   |   |   |   |   | 
 | Validação com usuário da Historia do Usuário com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  | 
-| NFR Framework (Pelo menos 1 por integrante) | 1 (com hiperlink)  |   |   |   |   |   | 
-| Quantidade de Cartão de especificação do RNF? | 1 (com hiperlink)  |   |   |   |   |  |
-Validação com usuário do NFR com gravação presencial? |  1 (com hiperlink) |   |   |   |  | 
-| Itens de Backlog | 1 (com hiperlink)  |   |   |   |   |  |
-| Validação com usuário dos itens de Backlog | 1 (com hiperlink)  |   |   |   |   |  |
-| **Documentos criados** |  |  |  |  |  |  | 
-| **Documentos revisados** |  |  |  |  |  |  | 
+| NFR Framework (Pelo menos 1 por integrante) | 3 - [RNF017](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf017), [RNF024](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf024), [RNF020](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf020). |   |   |   |   |   | 
+| Quantidade de Cartão de especificação do RNF? | 2 - [CNFR01](../modelagem/agilidade/NFR_framework.md#cnfr01---1-cartão-de-especificação-nfr--segurança) e [CNFR02](../modelagem/agilidade/NFR_framework.md#cnfr02---2-cartão-de-especificação-nfr--confiabilidade-e-continuidade-operacional) |   |   |   |   |  |
+| Validação com usuário do NFR com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/nfr_frame.md) |   |   |   |  | 
+| Itens de Backlog | 4 - [BL001](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL002](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL015](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL016](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros)  |   |   |   |   |  |
+| Validação com usuário dos itens de Backlog | [Sim](../modelagem/gravacoes/antonio/backlog.md) |   |   |   |   |  |
+| **Participação de Gravação com o usuário presencial?** | 3 |  |  |  |  |  |
+| **Documentos Criados** | 19 |  |  |  |  |  | 
+| **Documentos Revisados** | 13 (Revisor em documentos unitários) |  |  |  |  |  | 
 
 <font>**Tabela 4** - Entregas de Modelagem Ágil</p></font>
 
