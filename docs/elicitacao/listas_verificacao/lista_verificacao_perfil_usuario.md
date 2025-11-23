@@ -36,6 +36,7 @@
       <th>Conforme</th>
       <th>Não Conforme</th>
       <th>Autores</th>
+      <th>Referência</th>
         </tr>
     </thead>
     <tbody>
@@ -45,6 +46,7 @@
       <td><input type="checkbox" name="conforme1"></td>
       <td><input type="checkbox" name="nao_conforme1"></td>
       <td> Leticia, Mateus, Pedro </td>
+      <td></td>
     </tr>
     <tr>
       <td>2</td>
@@ -52,6 +54,7 @@
       <td><input type="checkbox" name="conforme2"></td>
       <td><input type="checkbox" name="nao_conforme2"></td>
       <td>Heloisa, Pedro, Leticia, Mateus </td>
+      <td></td>
     </tr>
     <tr>
       <td>3</td>
@@ -59,6 +62,7 @@
       <td><input type="checkbox" name="conforme3"></td>
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td> Heloisa</td>
+      <td></td>
     </tr>
     <tr>
       <td>4</td>
@@ -66,6 +70,7 @@
       <td><input type="checkbox" name="conforme4"></td>
       <td><input type="checkbox" name="nao_conforme4"></td>
       <td>Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>5</td>
@@ -73,6 +78,7 @@
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Mateus, Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>6</td>
@@ -80,6 +86,7 @@
       <td><input type="checkbox" name="conforme6"></td>
       <td><input type="checkbox" name="nao_conforme6"></td>
       <td>Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>7</td>
@@ -87,6 +94,7 @@
       <td><input type="checkbox" name="conforme7"></td>
       <td><input type="checkbox" name="nao_conforme7"></td>
       <td>  Heloisa, Mateus</td>
+      <td></td>
     </tr>
     <tr>
       <td>8</td>
@@ -94,6 +102,7 @@
       <td><input type="checkbox" name="conforme8"></td>
       <td><input type="checkbox" name="nao_conforme8"></td>
       <td>Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>9</td>
@@ -101,6 +110,7 @@
       <td><input type="checkbox" name="conforme9"></td>
       <td><input type="checkbox" name="nao_conforme9"></td>
       <td>Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>10</td>
@@ -108,6 +118,7 @@
       <td><input type="checkbox" name="conforme10"></td>
       <td><input type="checkbox" name="nao_conforme10"></td>
       <td>Mateus, Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>11</td>
@@ -115,6 +126,7 @@
       <td><input type="checkbox" name="conforme11"></td>
       <td><input type="checkbox" name="nao_conforme11"></td>
       <td>Heloisa </td>
+      <td></td>
     </tr>
     <tr>
       <td>12</td>
@@ -122,6 +134,7 @@
       <td><input type="checkbox" name="conforme12"></td>
       <td><input type="checkbox" name="nao_conforme12"></td>
       <td>Leticia, Pedro, Mateus </td>
+      <td></td>
     </tr>
     <tr>
       <td>13</td>
@@ -129,6 +142,7 @@
       <td><input type="checkbox" name="conforme13"></td>
       <td><input type="checkbox" name="nao_conforme13"></td>
       <td>Leticia, Pedro, Mateus </td>
+      <td></td>
     </tr>
     <tr>
       <td>14</td>
@@ -136,6 +150,7 @@
       <td><input type="checkbox" name="conforme14"></td>
       <td><input type="checkbox" name="nao_conforme14"></td>
       <td>Pedro, Mateus, Leticia </td>
+      <td></td>
     </tr>
     <tr>
       <td>15</td>
@@ -143,6 +158,7 @@
       <td><input type="checkbox" name="conforme15"></td>
       <td><input type="checkbox" name="nao_conforme15"></td>
       <td>  Pedro, Leticia</td>
+      <td></td>
     </tr>
     <tr>
       <td>16</td>
@@ -150,6 +166,7 @@
       <td><input type="checkbox" name="conforme2"></td>
       <td><input type="checkbox" name="nao_conforme2"></td>
       <td> Pedro, Mateus </td>
+      <td></td>
     </tr>
     <tr>
       <td>17</td>
@@ -157,6 +174,7 @@
       <td><input type="checkbox" name="conforme15"></td>
       <td><input type="checkbox" name="nao_conforme15"></td>
       <td>   Leticia, Pedro, Mateus</td>
+      <td></td>
     </tr>
     <tr>
       <td>18</td>
@@ -164,6 +182,95 @@
       <td><input type="checkbox" name="conforme15"></td>
       <td><input type="checkbox" name="nao_conforme15"></td>
       <td>  Pedro</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>O perfil de usuário possui registro dos objetivos dos usuários?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/GQD8dYMg">Referência</a></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/b53VtNny">Referência</a></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/KcHmz78t">Referência</a></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/KcHmz78t">Referência</a></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Os dados coletados foram agregados em grupos de acordo com os valores observados?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/Y75FcmkH">Referência</a></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Foram traçados perfis de usuário considerando as faixas de dados agregados?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/ym8z3PH7">Referência</a></td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Foi calculada a proporção de usuários que se encaixam em cada perfil?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/rfpg6R9N">Referência</a></td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>O perfil de usuário foi elaborado dentro de um processo iterativo?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/WpKcmQ69">Referência</a></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/mrwzR8SQ">Referência</a></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Os usuários foram categorizados em grupos?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/RGBc15pW">Referência</a></td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/N2thfBht">Referência</a></td>
     </tr>
     </tbody>
 </table>

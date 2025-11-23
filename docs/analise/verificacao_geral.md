@@ -44,13 +44,16 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | **Participantes** | **Visualizar artefato nesta página** | **Descrição** |
 |---------------|--------------|------------------|
 | **Antonio Carvalho** | [Rich-Picture](#tb001) | Tabela de Verificação da Rich-Picture |
-|                      | [Perfil_de_Usuários](#tb002) | Tabela de Verificação do Perfil de Usuário |
+|                      | [Perfil_de_Usuários](#tb002) | Tabela de Verificação de Itens de Perfil de Usuário |
+|                      | [NFR-Framework](#tb009) | Tabela de Verificação de Itens de NFR-Framework |
+|                      | [Elos de Rastreabilidade](#tb010) | Tabela de Verificação de Itens de Elos de Rastreabilidade |
+|                      | [Backlog](#tb010) | Tabela de Verificação de Itens de Backlog |
 | **Leticia Paiva**    | [Casos_de_Uso](#tb003) | Tabela de Verificação dos Casos de Uso |
 |                      | [Cenários](#tb004) | Tabela de Verificação dos Cenários |
 | **Pedro Gomes**      | [Histórias do Usuário](#tb005) | Tabela de Verificação das Histórias do Usuário |
 |                      | [Técnica de Elicitação - Entrevista](#tb006) | Tabela de Verificação da Técnica de Elicitação - Entrevista |
-| **Isaac Menezes** | [Técnica de Priorização - MoSCoW](#tb007) | Tabela de Verificação da Técnica de MoSCoW |
-| **Isaac Menezes** | [Modelagem - Especificação Suplementar](#tb008) | Tabela de Verificação da Especificação Suplementar |
+| **Isaac Menezes**    | [Técnica de Priorização - MoSCoW](#tb007) | Tabela de Verificação da Técnica de MoSCoW |
+|                      | [Modelagem - Especificação Suplementar](#tb008) | Tabela de Verificação da Especificação Suplementar |
 
 <a id="tb001"></a>
 
@@ -60,25 +63,25 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 
 | ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
 |-----------|----------------|------|--------------|-------------|-------|
-| #V001 | Rich-Picture   | [Os atores que interagem com o sistema foram identificados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V002 | Rich-Picture   | [Cada ator está representado graficamente por um boneco (homem palito)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V003 | Rich-Picture   | [Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V004 | Rich-Picture   | [Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V005 | Rich-Picture   | [Cada ator tem pelo menos uma operação associada?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V006 | Rich-Picture   | [As operações (processos/funções) que o sistema executa foram listadas?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V007 | Rich-Picture   | [Cada operação está representada graficamente por um círculo ou oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V008 | Rich-Picture   | [Cada operação tem um rótulo descritivo dentro do oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V009 | Rich-Picture   | [Todas as operações estão corretamente associadas a um ou mais atores?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V010 | Rich-Picture   | [Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V011 | Rich-Picture   | [Cada data store está representado graficamente por um retângulo?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V012 | Rich-Picture   | [Cada data store possui indicação do tipo de dado que armazena?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V013 | Rich-Picture   | [Apenas operações estão conectadas a data stores (leitura/escrita)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V014 | Rich-Picture   | [Todos os fluxos de informação entre atores, operações e data stores estãorepresentados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |                                           
-| #V015 | Rich-Picture   | [Cada seta possui apenas uma direção clara (entrada ou saída)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V016 | Rich-Picture   | [Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V017 | Rich-Picture   | [Foi traçada a fronteira do sistema (círculo/linha sólida ou tracejada) delimitando a área de responsabilidade?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V018 | Rich-Picture   | [Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
-| #V019 | Rich-Picture   | [Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | |
+| #V001 | Rich-Picture   | [Os atores que interagem com o sistema foram identificados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/4nZQ1V83) |
+| #V002 | Rich-Picture   | [Cada ator está representado graficamente por um boneco (homem palito)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/4nZQ1V83) |
+| #V003 | Rich-Picture   | [Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/4nZQ1V83) |
+| #V004 | Rich-Picture   | [Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/4nZQ1V83) |
+| #V005 | Rich-Picture   | [Cada ator tem pelo menos uma operação associada?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/4nZQ1V83) |
+| #V006 | Rich-Picture   | [As operações (processos/funções) que o sistema executa foram listadas?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/hFK85t0H) |
+| #V007 | Rich-Picture   | [Cada operação está representada graficamente por um círculo ou oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/hFK85t0H) |
+| #V008 | Rich-Picture   | [Cada operação tem um rótulo descritivo dentro do oval?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/hFK85t0H) |
+| #V009 | Rich-Picture   | [Todas as operações estão corretamente associadas a um ou mais atores?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/hFK85t0H) |
+| #V010 | Rich-Picture   | [Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/cKsbz5FX) |
+| #V011 | Rich-Picture   | [Cada data store está representado graficamente por um retângulo?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/cKsbz5FX) |
+| #V012 | Rich-Picture   | [Cada data store possui indicação do tipo de dado que armazena?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/cKsbz5FX) |
+| #V013 | Rich-Picture   | [Apenas operações estão conectadas a data stores (leitura/escrita)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/cKsbz5FX) |
+| #V014 | Rich-Picture   | [Todos os fluxos de informação entre atores, operações e data stores estão representados?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/FkLgj308) |                                           
+| #V015 | Rich-Picture   | [Cada seta possui apenas uma direção clara (entrada ou saída)?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/FkLgj308) |
+| #V016 | Rich-Picture   | [Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/FkLgj308) |
+| #V017 | Rich-Picture   | [Foi traçada a fronteira do sistema (círculo/linha sólida ou tracejada) delimitando a área de responsabilidade?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/ycdvHFVW) |
+| #V018 | Rich-Picture   | [Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/ycdvHFVW) |
+| #V019 | Rich-Picture   | [Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?](../planejamento/rich-picture/lista_de_verificao.md) | [Conforme](../planejamento/rich-picture/README.md) | Antonio Carvalho | [Referência](https://ibb.co/ycdvHFVW) |
 
 
 <a id="tb002"></a>
@@ -100,6 +103,15 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V028 | Perfil de Usuário | [As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) |  [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/mrwzR8SQ) |
 | #V029 | Perfil de Usuário | [Os usuários foram categorizados em grupos?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/RGBc15pW) |
 | #V030 | Perfil de Usuário | [Os grupos correspondem à distribuição dos usuários nas faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/N2thfBht) | 
+| #V031 | Perfil de Usuário | [](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Leticia, Mateus, Pedro |  | 
+| #V032 | Perfil de Usuário | [O perfil de usuário descreve características (faixa etária, nível de instrução) dos usuários do sistema?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa, Pedro, Leticia, Mateus |  | 
+| #V033 | Perfil de Usuário | [As características analisadas para o perfil do usuário são relevantes para o desenvolvimento do sistema projetado?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa  |  | 
+| #V034 | Perfil de Usuário | [Foram coletados dados sobre as características dos usuários através de estudo? (entrevistas, questionários)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa |  | 
+| #V035 | Perfil de Usuário | [Os dados coletados foram agregados em grupos de acordo com os valores observados? (faixa etária 10-15 anos)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Mateus, Heloisa |  
+| #V036 | Perfil de Usuário | [Foram traçados perfis de usuário considerando as faixas de dados agregados?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa |  | 
+| #V037 | Perfil de Usuário | [Foi calculada a proporção de usuários que se encaixam em cada perfil?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa, Mateus |  | 
+| #V038 | Perfil de Usuário | [O perfil de usuário foi elaborado dentro de um processo iterativo?](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa |  | 
+| #V039 | Perfil de Usuário | [As características foram priorizadas de acordo com a sua relevância para o produto e projeto? (dados sobre o usuário, seu conhecimento sobre o produto)](../elicitacao/listas_verificacao/lista_verificacao_perfil_usuario.md) | [Conforme](../elicitacao/perfis_usuarios/perfis-de-usuario.md) | Heloisa |  | 
 
 <a id="tb003"></a>
 
@@ -129,7 +141,11 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V057 | Casos de Uso | [O diagrama oferece visão geral simples e compreensível?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
 | #V058 | Casos de Uso | [O diagrama demonstra o fluxo funcional básico do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
 | #V059 | Casos de Uso | [As funcionalidades foram validadas com o cliente?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V150 | Casos de Uso | [](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
+| #V150 | Casos de Uso | [O sistema é representado por um retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/9mZzfDg8) |
+| #V151 | Casos de Uso | [O nome do sistema escolhido está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/vC28fHHG) |
+| #V152 | Casos de Uso | [Este diagrama define as pessoas, organizações ou outros sistemas que interagem com ele?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/2X0YSQ3) |
+| #V153 | Casos de Uso | [O diagrama possui um sistema/aplicativo para se basear?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/9mzj6TCm) |
+| #V154 | Casos de Uso | [O diagrama também demonstra o fluxo básico daquilo que o sistema ou aplicativo faz?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/cXRCHzXb) |
 
 ---
 
@@ -187,11 +203,11 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V087 | História de Usuário | [É clara, objetiva e curta o suficiente para caber em um cartão?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
 | #V088 | História de Usuário | [Segue o formato: "Como [ator], eu quero [ação] para [benefício]"?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
 | #V089 | História de Usuário | [A equipe de desenvolvimento estima o esforço?](../elicitacao/listas_verificacao/lv_hu.md) | [conforme](../modelagem/agilidade/historias_de_usuario.md) |
-| #V135 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
-| #V136 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
-| #V137 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
-| #V138 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
-| #V139 | História de Usuário | [](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
+| #V135 | História de Usuário | [A história de usuário foi escrita sob o ponto de vista do usuário final, enfatizando o “o que” deve ser feito e não o “como”?](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/gNSZWNy) |
+| #V136 | História de Usuário | [Cada história está devidamente relacionada a uma funcionalidade registrada no Product Backlog?](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/dsVsBwc3) |
+| #V137 | História de Usuário | [A história é pequena o suficiente para ser concluída dentro de uma única Sprint (menor que ¼ da Sprint)?](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/gbRp26cj) |
+| #V138 | História de Usuário | [As histórias foram priorizadas pelo Product Owner antes de serem selecionadas para a Sprint?](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência]() |
+| #V139 | História de Usuário | [Cada história possui critérios de aceitação claros, objetivos e verificáveis?](../elicitacao/listas_verificacao/lv_hu.md) | [Conforme](../modelagem/agilidade/historias_de_usuario.md) | Antonio Carvalho | [Referência](https://ibb.co/F4gQXrBW) |
 
 ---
 <a id="tb006"></a>
@@ -271,6 +287,53 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 | #V128 | Especificação Suplementar | [Requisitos de usabilidade estão definidos com critérios mensuráveis (ex. tempo de treinamento, tempo de execução de tarefas e conformidade com padrões)?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md) | [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/PsCyNtr8) |  
 | #V129 | Especificação Suplementar | [Os requisitos de confiabilidade especificam disponibilidade, MTBF, MTTR, exatidão e taxa de erros permitida?](../modelagem/listas_verificacao/listas_verificacaoespecifi_suple.md)| [Conforme](../modelagem/especificacao_suplementar.md) | Antonio Carvalho |[Referência](https://ibb.co/ymp2GWmB) |  
 
+---
+
+<a id="tb009"></a>
+
+### Tabela de Verificação - NFR-Framework
+
+**Autor:** Antonio Carvalho
+
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V154 | NFR-Framework | [O modelo identifica e trata os requisitos não funcionais como cidadãos de primeira ordem?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/yc2m9z6n) |
+| #V155 | NFR-Framework | [O artefato utiliza o modelo Softgoal Interdependency Graph (SIG)?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/VcdgX3Tf) |
+| #V156 | NFR-Framework | [Cada requisito não funcional está representado como um NFR Softgoal?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/YTZG30kr) |
+| #V157 | NFR-Framework | [Há operacionalizações (Operationalizing Softgoals) para cada softgoal identificado?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/6RXfcf0q) |
+| #V158 | NFR-Framework | [As relações de contribuição entre softgoals estão explicitadas (Make, Help, Hurt, Break etc.)?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../modelagem/agilidade/NFR_framework.md) | Antonio Carvalho | [Referência](https://ibb.co/twHmYgct) |
+
+--- 
+
+<a id="tb010"></a>
+
+### Tabela de Verificação - Elos de Rastreabilidade
+
+**Autor:** Antonio Carvalho
+
+| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
+|-----------|----------------|------|--------------|-------------|-------|
+| #V159 | Elos de Rastreabilidade | [Há elos de agregação que indicam a "composição" de elementos de requisitos (e.g., um requisito composto por sub-requisitos)?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/jvXXVBSm) |
+| #V160 | Elos de Rastreabilidade | [Os artefatos de requisitos, diagramas, códigos e casos de teste foram classificados no nível de informação de Desenvolvimento?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/ZZTfBT0) |
+| #V161 | Elos de Rastreabilidade | [Existe um elo registrado indicando que um artefato de desenvolvimento (e.g., um diagrama) satisfaz o requisito de origem?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/GqJFqPP) |
+| #V162 | Elos de Rastreabilidade | [Para cada requisito que exige um recurso de outro artefato, há um elo de recurso registrado indicando essa dependência?](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/Jw53BWfD) |
+| #V163 | Elos de Rastreabilidade | [Existem elos de responsabilidade registrando a participação, responsabilidade e ação de pessoas sobre os artefatos de requisitos e desenvolvimento? ](../pos-rastreabilidade/listas_verificacao/LV_Elos.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/XdjrNpx) |
+
+---
+
+<a id="tb011"></a>
+
+### Tabela de Verificação - Backlog
+
+**Autor:** Antonio Carvalho
+
+| #V164 | Backlog | [A equipe de desenvolvimento e o Product Owner concordaram previamente com os critérios de aceitação antes da execução da Sprint?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/HTHHzGMv) |
+| #V165 | Backlog | [O Product Backlog é atualizado e refinado continuamente conforme o aprendizado sobre o produto e os usuários?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/KjCQDgG6) |
+| #V166 | Backlog | [O Product Backlog contém todas as funcionalidades desejadas e está sob responsabilidade do Product Owner?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/DH1KRt84) |
+| #V167 | Backlog | [As estimativas de esforço foram registradas em Story Points e são atualizadas conforme o andamento da Sprint?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/Qv9WWRnz) |
+| #V168 | Backlog | [O Sprint Backlog é composto por tarefas derivadas dos itens selecionados do Product Backlog?](../modelagem/listas_verificacao/listas_verificacao_HUB_e_NFR.md) | [Conforme](../pos-rastreabilidade/elos.md) | Antonio Carvalho | [Referência](https://ibb.co/0kzdYbw) |
+
+---
 
 ## Agradecimentos
 
@@ -293,4 +356,5 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Barbosa (2005)*
 |-------:|------------|--------------------------------------------------|---------------|-------------------------|
 | 1.0    | 12/11/2025 | Criação da página da lista de verificação geral, sua estruturação e criação das tabelas de Rich-Picture e Prefil de Usuário | Antonio Carvalho |    |
 | 1.1   | 12/11/2025 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |    |
+| 1.2   | 23/11/2025 | Adição de tabelas e itens | Antonio Carvalho |    |
 ---

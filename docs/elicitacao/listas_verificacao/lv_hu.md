@@ -26,6 +26,7 @@
       <th>Conforme</th>
       <th>Não Conforme</th>
       <th>Autores</th>
+      <th>Referência</th>
     </tr>
   </thead>
   <tbody>
@@ -35,6 +36,7 @@
       <td><input type="checkbox" name="conforme1"></td>
       <td><input type="checkbox" name="nao_conforme1"></td>
       <td>Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>002</td>
@@ -42,6 +44,7 @@
       <td><input type="checkbox" name="conforme2"></td>
       <td><input type="checkbox" name="nao_conforme2"></td>
       <td>Mateus, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>003</td>
@@ -49,6 +52,7 @@
       <td><input type="checkbox" name="conforme3"></td>
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td>Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>004</td>
@@ -56,6 +60,7 @@
       <td><input type="checkbox" name="conforme4"></td>
       <td><input type="checkbox" name="nao_conforme4"></td>
       <td>Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>005</td>
@@ -63,6 +68,7 @@
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Mateus, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>006</td>
@@ -70,6 +76,7 @@
       <td><input type="checkbox" name="conforme6"></td>
       <td><input type="checkbox" name="nao_conforme6"></td>
       <td>Leticia, Mateus, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>007</td>
@@ -77,6 +84,7 @@
       <td><input type="checkbox" name="conforme7"></td>
       <td><input type="checkbox" name="nao_conforme7"></td>
       <td>Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>008</td>
@@ -84,6 +92,7 @@
       <td><input type="checkbox" name="conforme8"></td>
       <td><input type="checkbox" name="nao_conforme8"></td>
       <td>Mateus, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>009</td>
@@ -91,6 +100,7 @@
       <td><input type="checkbox" name="conforme9"></td>
       <td><input type="checkbox" name="nao_conforme9"></td>
       <td>Heloísa, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>010</td>
@@ -98,6 +108,7 @@
       <td><input type="checkbox" name="conforme10"></td>
       <td><input type="checkbox" name="nao_conforme10"></td>
       <td>Heloísa, Mateus, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>011</td>
@@ -105,6 +116,7 @@
       <td><input type="checkbox" name="conforme11"></td>
       <td><input type="checkbox" name="nao_conforme11"></td>
       <td>Heloísa, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>012</td>
@@ -112,6 +124,7 @@
       <td><input type="checkbox" name="conforme12"></td>
       <td><input type="checkbox" name="nao_conforme12"></td>
       <td>Heloísa, Mateus, Pedro</td>
+      <td></td>
     </tr>
     <tr>
       <td>013</td>
@@ -119,6 +132,7 @@
       <td><input type="checkbox" name="conforme13"></td>
       <td><input type="checkbox" name="nao_conforme13"></td>
       <td>Heloísa</td>
+      <td></td>
     </tr>
     <tr>
       <td>014</td>
@@ -126,13 +140,55 @@
       <td><input type="checkbox" name="conforme14"></td>
       <td><input type="checkbox" name="nao_conforme14"></td>
       <td>Heloísa, Mateus</td>
+      <td></td>
     </tr>
     <tr>
       <td>015</td>
       <td>A equipe de desenvolvimento estima o esforço?</td>
       <td><input type="checkbox" name="conforme15"></td>
       <td><input type="checkbox" name="nao_conforme15"></td>
-      <td>Helena, Mateus</td>
+      <td>Heloísa, Mateus</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>016</td>
+      <td>A história de usuário foi escrita sob o ponto de vista do usuário final, enfatizando o “o que” deve ser feito e não o “como”? </td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/gNSZWNy">Referência</a></td>
+    </tr>
+    <tr>
+      <td>017</td>
+      <td> Cada história está devidamente relacionada a uma funcionalidade registrada no Product Backlog? </td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/dsVsBwc3">Referência</a></td>
+    </tr>
+    <tr>
+      <td>018</td>
+      <td>A história é pequena o suficiente para ser concluída dentro de uma única Sprint (menor que ¼ da Sprint)?</td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/gbRp26cj">Referência</a></td>
+    </tr>
+    <tr>
+      <td>019</td>
+      <td> As histórias foram priorizadas pelo Product Owner antes de serem selecionadas para a Sprint? </td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/F4gQXrBW">Referência</a></td>
+    </tr>
+    <tr>
+      <td>020</td>
+      <td>Cada história possui critérios de aceitação claros, objetivos e verificáveis? </td>
+      <td><input type="checkbox" name="conforme15"></td>
+      <td><input type="checkbox" name="nao_conforme15"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/q3jxf3Bd">Referência</a></td>
     </tr>
   </tbody>
 </table>
