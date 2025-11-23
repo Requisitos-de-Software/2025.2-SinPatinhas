@@ -99,12 +99,12 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 |                      |  | [#EL022](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | EL022	Alocado	HU019	BL007        |
 |                      |  | [#EL023](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | EL023	Agregação	RFNI020	RFNI021  |
 |                      |  | [#EL024](../pos-rastreabilidade/unitarios/mateus/matriz_geral.md)  | EL024	Satisfação	CNFR08	RNF023   |
-| **Isaac Menezes**    |  | [#EL025](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | DESCRICAO        |
-|                      |  | [#EL026](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | DESCRICAO        |
-|                      |  | [#EL027](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      |  | [#EL028](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      |  | [#EL029](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
-|                      |  | [#EL030](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
+| **Isaac Menezes**    |  | [#EL025](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | O card de especificação NFR007 satisfaz as operações necessárias para a implementação da área de instruções integradas descrita no RF032 |
+|                      |  | [#EL026](../pos-rastreabilidade/unitarios/isaac/matriz_geral.md)   | O item de backlog BL008 depende do requisito RFNI021        |
+|                      |  | [#EL027](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | O cenário CEN07 é representado pelo Caso de Uso UC007        |
+|                      |  | [#EL028](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | A História de Usuário HU019 está alocada ao item de backlog backlog BL007.        |
+|                      |  | [#EL029](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | O requisito RFNI020 compões o requisito RFNI021        |
+|                      |  | [#EL030](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | O card de especificação nfr 8 satisfaz as operacionalizações necessárias para a implementação da área de instruções integradas descrita no RF032.        |
 | **Heloisa Silva**    |  | [#EL031](../pos-rastreabilidade/unitarios/heloisa/matriz_geral.md) | DESCRICAO        |
 |                      |  | [#EL032](../pos-rastreabilidade/unitarios/heloisa/matriz_geral.md) | DESCRICAO        |
 |                      |  | [#EL033](../pos-rastreabilidade/unitarios/leticia/matriz_geral.md) | DESCRICAO        |
