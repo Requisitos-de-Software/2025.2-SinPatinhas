@@ -165,5 +165,11 @@ details a:hover {
 
   - [Verificação](/analise/verificacao_geral.md)
   - [Protótipos](/analise/prototipos.md)
-  - [Comprovação Informal](/analise/comp_informal)
+  - [Comprovação Informal](/analise/comp_informal.md)
+</details>
+
+<details>
+  <summary><strong>Projeto Final</strong></summary>
+
+- [Entrega Final](/entrega_final/entrega_final.md)
 </details>
