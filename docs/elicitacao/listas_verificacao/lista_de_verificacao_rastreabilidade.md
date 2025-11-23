@@ -1,4 +1,4 @@
-## Lista de Verificação
+## Lista de Verificação - Rastreabilidade
 
 <div class="plan-grid"></div>
 
@@ -57,13 +57,6 @@
   </tbody>
 </table>
 
----
-
-## Lista de verificação elaborada por cada integrante do grupo
-
-| Integrante |
-|------------|
-| [Antonio Carvalho](https://drive.google.com/file/d/1KebFktGD22RV9iAAsIXzbGoNd-oYTUdN/view?usp=sharing) |
 
 ---
 
