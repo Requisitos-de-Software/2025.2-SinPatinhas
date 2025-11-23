@@ -116,70 +116,70 @@ A seguir, são apresentadas as tabelas correspondentes a cada técnica de modela
 <a id="tb003"></a>
 
 #### Tabela de Verificação – Casos de Uso  
-
 **Autor:** Leticia Paiva  
 
-| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
-|-----------|----------------|------|--------------|-------------|-------|
-| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V041 | Casos de Uso | [O nome do sistema está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V042 | Casos de Uso | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V045 | Casos de Uso | [Os atores representam classes/categorias de usuários, e não indivíduos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V046 | Casos de Uso | [Atores primários estão posicionados à esquerda do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V053 | Casos de Uso | [Relacionamentos de associação são representados por linhas sólidas?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V054 | Casos de Uso | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V055 | Casos de Uso | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V056 | Casos de Uso | [Relacionamentos de generalização estão corretos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V057 | Casos de Uso | [O diagrama oferece visão geral simples e compreensível?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V058 | Casos de Uso | [O diagrama demonstra o fluxo funcional básico do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V059 | Casos de Uso | [As funcionalidades foram validadas com o cliente?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | |
-| #V150 | Casos de Uso | [O sistema é representado por um retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/9mZzfDg8) |
-| #V151 | Casos de Uso | [O nome do sistema escolhido está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/vC28fHHG) |
-| #V152 | Casos de Uso | [Este diagrama define as pessoas, organizações ou outros sistemas que interagem com ele?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/2X0YSQ3) |
-| #V153 | Casos de Uso | [O diagrama possui um sistema/aplicativo para se basear?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/9mzj6TCm) |
-| #V154 | Casos de Uso | [O diagrama também demonstra o fluxo básico daquilo que o sistema ou aplicativo faz?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | [Referência](https://ibb.co/cXRCHzXb) |
+| ID   | Categoria | Item | Artefato está conforme? | Autor | Referência |
+|-----|---------|------|--------------|-------------|-------|
+| #V040 | Casos de Uso | [O sistema é representado por um retângulo no diagrama?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/b52j3GCq |
+| #V041 | Casos de Uso | [O nome do sistema está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/QjmDJNHK |
+| #V042 | Casos de Uso | [Todos os elementos e ações pertencentes ao sistema estão dentro do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/CR0nHFw |
+| #V043 | Casos de Uso | [Elementos externos ao sistema estão corretamente posicionados fora do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/5hDqWV6Q |
+| #V044 | Casos de Uso | [Os atores são representados por bonecos palito?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/VpbbKMzv |
+| #V045 | Casos de Uso | [Os atores representam classes/categorias de usuários, e não indivíduos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/MDsLvDg3 |
+| #V046 | Casos de Uso | [Atores primários estão posicionados à esquerda do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/DDKb3rTS |
+| #V047 | Casos de Uso | [Atores secundários estão posicionados à direita do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/DDKb3rTS |
+| #V048 | Casos de Uso | [Cada ator está associado a pelo menos um caso de uso?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/v6NMpPfS |
+| #V049 | Casos de Uso | [Os casos de uso são representados por ovais?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/JjQSZ1jR |
+| #V050 | Casos de Uso | [Os nomes dos casos de uso começam com verbo no infinitivo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | |  |
+| #V051 | Casos de Uso | [Os nomes são claros e suficientemente descritivos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/7N1S33D8 |
+| #V052 | Casos de Uso | [Os casos de uso estão organizados em ordem lógica?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/q3DWQTR7 |
+| #V053 | Casos de Uso | [Relacionamentos de associação são representados por linhas sólidas?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | |  |
+| #V054 | Casos de Uso | [Relacionamentos de Inclusão (<<include>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/v6NMpPfS |
+| #V055 | Casos de Uso | [Relacionamentos de Extensão (<<extend>>) estão corretamente aplicados?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/v6NMpPfS |
+| #V056 | Casos de Uso | [Relacionamentos de generalização estão corretos?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/v6NMpPfS |
+| #V057 | Casos de Uso | [O diagrama oferece visão geral simples e compreensível?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | |  |
+| #V058 | Casos de Uso | [O diagrama demonstra o fluxo funcional básico do sistema?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | | https://ibb.co/cXRCHzXb |
+| #V059 | Casos de Uso | [As funcionalidades foram validadas com o cliente?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | |  |
+| #V150 | Casos de Uso | [O sistema é representado por um retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | https://ibb.co/9mZzfDg8 |
+| #V151 | Casos de Uso | [O nome do sistema escolhido está inserido no topo do retângulo?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | https://ibb.co/vC28fHHG |
+| #V152 | Casos de Uso | [Este diagrama define as pessoas, organizações ou outros sistemas que interagem com ele?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | https://ibb.co/2X0YSQ3 |
+| #V153 | Casos de Uso | [O diagrama possui um sistema/aplicativo para se basear?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | https://ibb.co/9mzj6TCm |
+| #V154 | Casos de Uso | [O diagrama também demonstra o fluxo básico daquilo que o sistema ou aplicativo faz?](/modelagem/listas_verificacao/listas_verificacaocasos_de_uso.md) | [Conforme](/modelagem/casos_de_uso.md) | Antonio Carvalho | https://ibb.co/cXRCHzXb |
+
 
 ---
 
 <a id="tb004"></a>
 
 #### Tabela de Verificação – Cenários  
-
 **Autor:** Leticia Paiva  
 
-| ID        | Categoria      | Item | Artefato está conforme? | Autor | Referência |
-|-----------|----------------|------|--------------|-------------|-------|
-| #V060 | Cenários | [O cenário é apresentado como narrativa concreta e contextualizada?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V061 | Cenários | [O cenário possui um título claro e representativo?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V062 | Cenários | [O cenário define claramente um ator principal e um objetivo?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V063 | Cenários | [A situação inicial do ator está descrita de forma clara?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V064 | Cenários | [O enredo segue sequência lógica de ações?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V065 | Cenários | [O ambiente e o contexto estão bem descritos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V066 | Cenários | [Os atores possuem características pessoais relevantes descritas?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V067 | Cenários | [Os objetivos do ator são explícitos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V068 | Cenários | [O planejamento mental do ator foi descrito quando necessário?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) | |
-| #V069 | Cenários | [Há exploração de situações de exceção?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V070 | Cenários | [O cenário descreve apenas um fluxo específico de eventos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V071 | Cenários | [O cenário demonstra que o sistema resolve um problema real?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V072 | Cenários | [Os serviços do sistema são claros no apoio ao objetivo do ator?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V073 | Cenários | [As personas, se usadas, foram elaboradas previamente?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) | |
-| #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |
-| #V130 | Cenários | [O ambiente/contexto está descrito (quando, onde e por que ocorre)?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/VpCYCS38) |
-| #V131 | Cenários | [Os atores estão identificados com características relevantes?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/B9ZRfGW) |
-| #V132 | Cenários | [Os objetivos do ator estão explícitos e claros?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/G4J6xPF6) |
-| #V133 | Cenários | [Há descrição de planejamento (como o ator pensa e decide)?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/nsf0QTsJ) |
-| #V134 | Cenários | [As ações e eventos estão narrados em sequência lógica e detalhada?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](../modelagem/cenarios.md) | Antonio Carvalho | [Referência](https://ibb.co/SDSqsWN3) |
+| ID    | Categoria | Item | Artefato está conforme? | Autor | Referência |
+|------|-----------|------|---------------------------|------|------------|
+| #V060 | Cenários | [O cenário é apresentado como narrativa concreta e contextualizada?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |  |
+| #V061 | Cenários | [O cenário possui um título claro e representativo?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/gM9CBmGS |
+| #V062 | Cenários | [O cenário define claramente um ator principal e um objetivo?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |  |
+| #V063 | Cenários | [A situação inicial do ator está descrita de forma clara?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/sdxCv0BD |
+| #V064 | Cenários | [O enredo segue sequência lógica de ações?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/PvrYDVwC |
+| #V065 | Cenários | [O ambiente e o contexto estão bem descritos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/21cyGgbs |
+| #V066 | Cenários | [Os atores possuem características pessoais relevantes descritas?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/p7ScdzB |
+| #V067 | Cenários | [Os objetivos do ator são explícitos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/SwbBtWbV |
+| #V068 | Cenários | [O planejamento mental do ator foi descrito quando necessário?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) | |  |
+| #V069 | Cenários | [Há exploração de situações de exceção?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |  |
+| #V070 | Cenários | [O cenário descreve apenas um fluxo específico de eventos?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |  |
+| #V071 | Cenários | [O cenário demonstra que o sistema resolve um problema real?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |  |
+| #V072 | Cenários | [Os serviços do sistema são claros no apoio ao objetivo do ator?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | | https://ibb.co/SwbBtWbV |
+| #V073 | Cenários | [As personas, se usadas, foram elaboradas previamente?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Não Conforme](/modelagem/cenarios.md) | |  |
+| #V074 | Cenários | [O conjunto de cenários é abrangente e cobre variações?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | |  |
+| #V130 | Cenários | [O ambiente/contexto está descrito (quando, onde e por que ocorre)?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | https://ibb.co/VpCYCS38 |
+| #V131 | Cenários | [Os atores estão identificados com características relevantes?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | https://ibb.co/B9ZRfGW |
+| #V132 | Cenários | [Os objetivos do ator estão explícitos e claros?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | https://ibb.co/G4J6xPF6 |
+| #V133 | Cenários | [Há descrição de planejamento (como o ator pensa e decide)?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | https://ibb.co/nsf0QTsJ |
+| #V134 | Cenários | [As ações e eventos estão narrados em sequência lógica e detalhada?](../elicitacao/listas_verificacao/lista_cenarios.md) | [Conforme](/modelagem/cenarios.md) | Antonio Carvalho | https://ibb.co/SDSqsWN3 |
 
 
 ---
+
 <a id="tb005"></a>
 
 #### Tabela de Verificação Histórias de Usuário
