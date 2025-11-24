@@ -110,7 +110,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme1"></td>
       <td><input type="checkbox" name="nao_conforme1"></td>
       <td>Leticia</td>
-      <td></td>
+      <td><a href="https://ibb.co/fGrpDXNS">Referência</a></td>
     </tr>
     <tr>
       <td>002</td>
@@ -118,7 +118,7 @@ Esta página é dedicada à lista de verificação criada para os artefatos da q
       <td><input type="checkbox" name="conforme2"></td>
       <td><input type="checkbox" name="nao_conforme2"></td>
       <td>Leticia</td>
-      <td></td>
+      <td><a href="https://ibb.co/5x1FgrPL">Referência</a></td>
     </tr>
     <tr>
       <td>003</td>

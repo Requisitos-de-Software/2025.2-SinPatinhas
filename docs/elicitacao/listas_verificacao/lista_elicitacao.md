@@ -20,138 +20,28 @@
 
 ---
 
-## Lista de Elicitação
+# Lista de Verificação – Elicitação
+**Autora:** Letícia Paiva
 
-<div class="plan-grid"></div>
+| # | Item | Autores | Referência |
+|---|------|--------|-----------|
+| 1 | A agenda das pessoas a serem entrevistadas foi confirmada? | Letícia Paiva / Pedro | https://ibb.co/MxkMV0k3  |
+| 2 | As salas ou ferramentas de reunião para a entrevista foram reservadas? | Letícia Paiva | https://ibb.co/jvR62spJ  |
+| 3 | O objetivo da entrevista foi claramente definido? | Pedro |  |
+| 4 | O assunto a ser abordado foi estudado previamente pelo entrevistador? | Pedro |  |
+| 5 | A duração da entrevista foi planejada para não exceder duas horas? | Pedro |  |
+| 6 | Um roteiro com perguntas simples e diretas foi preparado para guiar a entrevista? | Pedro |  |
+| 7 | O entrevistado foi informado com antecedência sobre o objetivo e os assuntos da entrevista? | Pedro |  |
+| 8 | A abertura da entrevista incluirá a apresentação do entrevistador, o objetivo, a duração e a finalidade da coleta de informações? | Pedro |  |
+| 9 | O entrevistador está preparado para conduzir a entrevista com a mente aberta e sem preconceitos? | Pedro |  |
+| 10 | Haverá espaço para coletar tanto fatos quanto opiniões, valorizando as ideias do entrevistado? | Pedro |  |
+| 11 | As informações coletadas na entrevista foram registradas em uma “memória de levantamento” (ata, notas, etc.)? | Letícia Paiva | https://ibb.co/LD55GVM4 |
+| 12 | As dúvidas e questões não resolvidas durante a sessão foram registradas para acompanhamento futuro? | Letícia Paiva | https://ibb.co/LXKLjrRw |
+| 13 | O documento final com o entendimento do que foi discutido foi enviado ao entrevistado para revisão e confirmação? | Letícia Paiva / Pedro | https://ibb.co/Y7yRZbTx |
+| 14 | Foi recebida a confirmação (“de acordo”) do entrevistado sobre o documento de entendimento enviado? | Letícia Paiva / Pedro | https://ibb.co/Nndzb086 |
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Item</th>
-      <th>Conforme</th>
-      <th>Não Conforme</th>
-      <th>Autores</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td colspan="5"><strong>Fase 1: Preparação Geral e Seleção da Técnica</strong></td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>A agenda das pessoas a serem entrevistadas foi confirmada?</td>
-      <td><input type="checkbox" name="conforme1" /></td>
-      <td><input type="checkbox" name="nao_conforme1" /></td>
-      <td>Letícia Paiva / Pedro</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>As salas ou ferramentas de reunião para a entrevista foram reservadas?</td>
-      <td><input type="checkbox" name="conforme2" /></td>
-      <td><input type="checkbox" name="nao_conforme2" /></td>
-      <td>Letícia Paiva</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>O objetivo da entrevista foi claramente definido?</td>
-      <td><input type="checkbox" name="conforme3" /></td>
-      <td><input type="checkbox" name="nao_conforme3" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>O assunto a ser abordado foi estudado previamente pelo entrevistador?</td>
-      <td><input type="checkbox" name="conforme4" /></td>
-      <td><input type="checkbox" name="nao_conforme4" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>A duração da entrevista foi planejada para não exceder duas horas?</td>
-      <td><input type="checkbox" name="conforme5" /></td>
-      <td><input type="checkbox" name="nao_conforme5" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Um roteiro com perguntas simples e diretas foi preparado para guiar a entrevista?</td>
-      <td><input type="checkbox" name="conforme6" /></td>
-      <td><input type="checkbox" name="nao_conforme6" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>O entrevistado foi informado com antecedência sobre o objetivo e os assuntos da entrevista?</td>
-      <td><input type="checkbox" name="conforme7" /></td>
-      <td><input type="checkbox" name="nao_conforme7" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td colspan="5"><strong>Fase 2: Execução e Postura do Entrevistador</strong></td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>A abertura da entrevista incluirá a apresentação do entrevistador, o objetivo, a duração e a finalidade da coleta de informações?</td>
-      <td><input type="checkbox" name="conforme8" /></td>
-      <td><input type="checkbox" name="nao_conforme8" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>O entrevistador está preparado para conduzir a entrevista com a mente aberta e sem preconceitos?</td>
-      <td><input type="checkbox" name="conforme9" /></td>
-      <td><input type="checkbox" name="nao_conforme9" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Haverá espaço para coletar tanto fatos quanto opiniões, valorizando as ideias do entrevistado?</td>
-      <td><input type="checkbox" name="conforme10" /></td>
-      <td><input type="checkbox" name="nao_conforme10" /></td>
-      <td>Pedro</td>
-    </tr>
-    <tr>
-      <td colspan="5"><strong>Fase 3: Documentação e Validação (Pós-Entrevista)</strong></td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>As informações coletadas na entrevista foram registradas em uma "memória de levantamento" (ata, notas, etc.)?</td>
-      <td><input type="checkbox" name="conforme11" /></td>
-      <td><input type="checkbox" name="nao_conforme11" /></td>
-      <td>Letícia Paiva</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>As dúvidas e questões que não foram resolvidas durante a sessão foram registradas para acompanhamento futuro?</td>
-      <td><input type="checkbox" name="conforme12" /></td>
-      <td><input type="checkbox" name="nao_conforme12" /></td>
-      <td>Letícia Paiva</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>O documento final com o entendimento do que foi discutido foi enviado ao entrevistado para revisão e confirmação?</td>
-      <td><input type="checkbox" name="conforme13" /></td>
-      <td><input type="checkbox" name="nao_conforme13" /></td>
-      <td>Letícia Paiva / Pedro</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Foi recebida a confirmação ("de acordo") do entrevistado sobre o documento de entendimento enviado?</td>
-      <td><input type="checkbox" name="conforme14" /></td>
-      <td><input type="checkbox" name="nao_conforme14" /></td>
-      <td>Letícia Paiva / Pedro</td>
-    </tr>
-  </tbody>
-</table>
 
-## Lista de verificação elaborada por cada integrante do grupo
-
-| Integrante |
-|------------|
-|<a href="assets/PDFs/ListVerf/leticiapaiva_tecelic.pdf" target="_blank">Letícia Paiva</a>|
-| [Antonio](https://docs.google.com/document/d/1UCa6NeMfnGiHWE2TUgiHkjAB8LBlkQsr/edit?usp=sharing&ouid=113113440644489804424&rtpof=true&sd=true) |
-| <a href="assets/PDFs/ListVerf/pedrogomesoliveira_tecelic.pdf" target="_blank">Pedro Gomes Oliveira</a> |
+--- 
 
 ## Histórico de Versão
 

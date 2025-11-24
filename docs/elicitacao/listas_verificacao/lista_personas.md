@@ -26,136 +26,27 @@
 
 ---
 
-## Lista de Verificação
+# Lista de Verificação – Persona
+**Autora:** Heloisa Silva
 
-<div class="plan-grid">
+| # | Item | Autores | Referência |
+|---|------|--------|-----------|
+| 1 | A persona é um personagem fictício representando um grupo de usuários reais? | Letícia / Pedro / Mateus / Heloisa | https://ibb.co/M5K2xxny |
+| 2 | A persona possui nome e sobrenome? | Letícia / Pedro / Mateus / Heloisa | https://ibb.co/kgQSXvPQ |
+| 3 | A persona possui uma identidade clara e realista (inclui nome, idade e dados demográficos)? | Pedro / Heloisa / Letícia / Mateus | https://ibb.co/kgQSXvPQ |
+| 4 | Cada persona está definida como primária, secundária, stakeholder ou antiusuário? | Mateus / Heloisa / Letícia | https://ibb.co/Jw8y9VFr |
+| 5 | O elenco de personas cobre os principais grupos de usuários (sem excesso)? | Mateus |  |
+| 6 | Estão descritas as competências, formação ou experiência da persona? | Mateus / Pedro / Letícia | https://ibb.co/spR0gDWZ |
+| 7 | Estão identificadas as pessoas ou grupos com quem a persona interage? | Mateus |  |
+| 8 | A persona possui fotografia ou ilustração associada? | Heloisa / Letícia / Mateus / Pedro | https://ibb.co/DfXSJfzV |
+| 9 | São descritas as tarefas básicas ou críticas que a persona realiza? | Mateus / Letícia / Pedro / Heloisa | https://ibb.co/spR0gDWZ |
+| 10 | As tarefas possuem frequência, duração e grau de importância? | Mateus / Heloisa |  |
+| 11 | As necessidades (requisitos) da persona estão explícitas? | Letícia / Mateus / Pedro / Heloisa | https://ibb.co/prWPhkQ3 |
+| 12 | A persona possui expectativas sobre o funcionamento do produto? | Mateus / Letícia / Pedro / Heloisa | https://ibb.co/21wXy9WG |
+| 13 | O elenco possui ao menos uma persona primária? | Pedro / Heloisa / Mateus |  |
+| 14 | O elenco de personas possui no mínimo 3 e no máximo 12 personas distintas? | Heloisa / Pedro |  |
 
-
-</div>
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Item</th>
-            <th>Conforme</th>
-            <th>Não Conforme</th>
-            <th>Autores</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td>1</td>
-      <td>A persona é um personagem fictício representando um grupo de usuários reais?</td>
-      <td><input type="checkbox" name="conforme1"></td>
-      <td><input type="checkbox" name="nao_conforme1"></td>
-      <td>Leticia, Pedro Mateus, Heloisa </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>A persona possui nome e sobrenome?</td>
-      <td><input type="checkbox" name="conforme2"></td>
-      <td><input type="checkbox" name="nao_conforme2"></td>
-      <td>Leticia, Pedro, Mateus, Heloisa </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>A persona possui uma identidade clara e realista? (Inclui nome, sobrenome, idade, outros dados demográficos representativos).</td>
-      <td><input type="checkbox" name="conforme3"></td>
-      <td><input type="checkbox" name="nao_conforme3"></td>
-      <td>Pedro, Heloisa, Leticia, Mateus </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Cada persona está definida como persona primária, secundária, stakeholder ou antiusuário?</td>
-      <td><input type="checkbox" name="conforme4"></td>
-      <td><input type="checkbox" name="nao_conforme4"></td>
-      <td>Mateus, Heloisa </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>O elenco de personas cobre os principais grupos de usuários (sem excesso, para não confundir designers)?</td>
-      <td><input type="checkbox" name="conforme5"></td>
-      <td><input type="checkbox" name="nao_conforme5"></td>
-      <td>Mateus </td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Estão descritas as competências, formação ou experiência da persona?</td>
-      <td><input type="checkbox" name="conforme6"></td>
-      <td><input type="checkbox" name="nao_conforme6"></td>
-      <td>Mateus, Pedro, Leticia </td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Estão identificadas as pessoas ou grupos com quem a persona interage?</td>
-      <td><input type="checkbox" name="conforme7"></td>
-      <td><input type="checkbox" name="nao_conforme7"></td>
-      <td>Mateus </td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>A persona possui fotografia ou ilustração associada?</td>
-      <td><input type="checkbox" name="conforme8"></td>
-      <td><input type="checkbox" name="nao_conforme8"></td>
-      <td>Heloisa, Leticia, Mateus Pedro </td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>É descrito quais tarefas básicas ou críticas a persona realiza?</td>
-      <td><input type="checkbox" name="conforme9"></td>
-      <td><input type="checkbox" name="nao_conforme9"></td>
-      <td>Mateus, Leticia, Pedro, Heloisa </td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>As tarefas básicas ou críticas possuem frequência, duração e grau de importância</td>
-      <td><input type="checkbox" name="conforme11"></td>
-      <td><input type="checkbox" name="nao_conforme11"></td>
-      <td> Mateus, Heloisa </td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>As necessidades (requisitos) da persona estão explícitas?</td>
-      <td><input type="checkbox" name="conforme10"></td>
-      <td><input type="checkbox" name="nao_conforme10"></td>
-      <td>Leticia, Mateus, Pedro, Heloisa </td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>A persona possui expectativas sobre o funcionamento do produto?</td>
-      <td><input type="checkbox" name="conforme12"></td>
-      <td><input type="checkbox" name="nao_conforme12"></td>
-      <td>Mateus, Leticia, Pedro, Heloisa </td>
-    </tr>
-     <tr>
-      <td>13</td>
-      <td>O elenco possui ao menos uma pessoa primária?</td>
-      <td><input type="checkbox" name="conforme11"></td>
-      <td><input type="checkbox" name="nao_conforme11"></td>
-      <td>Pedro, Heloisa, Mateus </td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>O elenco de personas possui no mínimo 3 e no máximo 12 personas distintas?</td>
-      <td><input type="checkbox" name="conforme11"></td>
-      <td><input type="checkbox" name="nao_conforme11"></td>
-      <td>Heloisa, Pedro </td>
-    </tr>
-    </tbody>
-</table>
-
-
-## Lista de verificação elaborada por cada integrante do grupo
-
-| Integrante |
-|------------|
-| [Antonio](https://docs.google.com/document/d/1UCa6NeMfnGiHWE2TUgiHkjAB8LBlkQsr/edit?usp=sharing&ouid=113113440644489804424&rtpof=true&sd=true) |
-| [Heloisa Santos](https://drive.google.com/file/d/1K0e3XNcUESht1RplX1DdndrmKwyfXzac/view?usp=sharing) |
-| [Isaac Menezes Pereira](https://drive.google.com/file/d/1aSHfBhLkgIsNqvGJQVL2JmFvCJ98eK1i/view) |
-| [Letícia Paiva](https://docs.google.com/document/d/1xuHtyHvEhJyAizGIzFZXCtbXIvSIoJQDutUVQx49VZ8/edit?tab=t.0) |
-| [Mateus Negrini]() |
-| [Pedro Gomes Oliveira]() |
+---
 
 ## Histórico de Versão
 

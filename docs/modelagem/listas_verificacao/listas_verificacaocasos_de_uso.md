@@ -1,36 +1,34 @@
-##  Lista de Verificação – Diagrama de Caso de Uso
+## Lista de Verificação – Diagrama de Caso de Uso
+**Autor: Letícia Paiva
 
-| **Item** | **Descrição** | **Autor(es)** | **Conforme** | **Não Conforme** | **Referências** |
-|:--:|-------------------------------------------|---------------------------------------------|:--:|:--:|:--:|
-| **Estrutura e Limites do Sistema** ||||||
-| 1 | O sistema é representado por um retângulo no diagrama. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 2 | O nome do sistema está inserido no topo do retângulo. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 3 | Todos os elementos e ações do sistema estão dentro do retângulo. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 4 | Elementos externos ao sistema estão fora do retângulo. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | ☐ | ☐ | |
-| 23 | O sistema é representado por um retângulo?  | Antonio Carvalho | ☐ | ☐ | [Referência](https://ibb.co/9mZzfDg8) |
-| 23 | O nome do sistema escolhido está inserido no topo do retângulo? | Antonio Carvalho | ☐ | ☐ | [Referência](https://ibb.co/vC28fHHG) |
-| **Atores** ||||||
-| 5 | Atores são representados por um boneco palito. | Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 6 | Atores representam classes/categorias, não indivíduos. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | ☐ | ☐ | |
-| 7 | Atores primários (à esquerda) iniciam o sistema. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 8 | Atores secundários (à direita) reagem ao sistema. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 9 | Cada ator interage com pelo menos um caso de uso. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 21 | Este diagrama define as pessoas, organizações ou outros sistemas que interagem com ele?  | Antonio Carvalho | ☐ | ☐ | [Referência](https://ibb.co/2X0YSQ3) |
-| **Casos de Uso** ||||||
-| 10 | Casos de uso são representados por ovais. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | ☐ | ☐ | |
-| 12 | As descrições são claras e suficientemente descritivas. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | ☐ | ☐ | |
-| 13 | Os casos de uso estão organizados em ordem lógica. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | ☐ | ☐ | |
-| **Relacionamentos** ||||||
-| 14 | Associação é representada por uma linha sólida. | Heloisa Silva, Leticia Paiva | ☐ | ☐ | |
-| 15 | Relacionamentos de Inclusão (<<include>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| 16 | Relacionamentos de Extensão (<<extend>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | ☐ | ☐ | |
-| 17 | Relacionamentos de Generalização (herança) estão corretos. | Antonio Carvalho, Isaac Menezes Pereira, Leticia Paiva | ☐ | ☐ | |
-| **Propósito do Diagrama** ||||||
-| 18 | O diagrama oferece uma visão geral e simples do sistema. | Antonio Carvalho, Leticia Paiva | ☐ | ☐ | |
-| 19 | O diagrama possui um sistema/aplicativo para se basear? | Antonio Carvalho | ☐ | ☐ | [Referência](https://ibb.co/9mzj6TCm) |
-| 20 | As funcionalidades representadas foram validadas com o cliente. | Isaac Menezes Pereira | ☐ | ☐ | |
-| 22 | O diagrama também demonstra o fluxo básico daquilo que o sistema ou aplicativo faz?  | Antonio Carvalho | ☐ | ☐ | [Referência](https://ibb.co/cXRCHzXb) |
+| Item | Descrição | Autor(es) | Referências |
+|------|----------|-----------|------------|
+| **Estrutura e Limites do Sistema** ||||
+| 1 | O sistema é representado por um retângulo no diagrama. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/b52j3GCq |
+| 2 | O nome do sistema está inserido no topo do retângulo. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/QjmDJNHK |
+| 3 | Todos os elementos e ações do sistema estão dentro do retângulo. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/CR0nHFw |
+| 4 | Elementos externos ao sistema estão fora do retângulo. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/5hDqWV6Q |
+| 23 | O sistema é representado por um retângulo? | Antonio Carvalho | https://ibb.co/9mZzfDg8 |
+| 24 | O nome do sistema escolhido está inserido no topo do retângulo? | Antonio Carvalho | https://ibb.co/vC28fHHG |
+| 5 | Atores são representados por um boneco palito. | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/VpbbKMzv |
+| 6 | Atores representam classes/categorias, não indivíduos. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/MDsLvDg3 |
+| 7 | Atores primários (à esquerda) iniciam o sistema. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/DDKb3rTS |
+| 8 | Atores secundários (à direita) reagem ao sistema. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/DDKb3rTS |
+| 9 | Cada ator interage com pelo menos um caso de uso. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
+| 21 | O diagrama define as pessoas, organizações ou outros sistemas que interagem com ele? | Antonio Carvalho | https://ibb.co/2X0YSQ3 |
+| 10 | Casos de uso são representados por ovais. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JjQSZ1jR |
+| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | |
+| 12 | As descrições são claras e suficientemente descritivas. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/7N1S33D8 |
+| 13 | Os casos de uso estão organizados em ordem lógica. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/q3DWQTR7 |
+| 14 | Associação é representada por uma linha sólida. | Heloisa Silva, Leticia Paiva | |
+| 15 | Relacionamentos de Inclusão (<<include>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva |https://ibb.co/v6NMpPfS |
+| 16 | Relacionamentos de Extensão (<<extend>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/v6NMpPfS |
+| 17 | Relacionamentos de Generalização (herança) estão corretos. | Antonio Carvalho, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
+| 18 | O diagrama oferece uma visão geral e simples do sistema. | Antonio Carvalho, Leticia Paiva | |
+| 19 | O diagrama possui um sistema/aplicativo para se basear? | Antonio Carvalho | https://ibb.co/9mzj6TCm |
+| 20 | As funcionalidades representadas foram validadas com o cliente. | Isaac Menezes Pereira | |
+| 22 | O diagrama também demonstra o fluxo básico do que o sistema faz? | Antonio Carvalho | https://ibb.co/cXRCHzXb |
+
 
 ---
 
