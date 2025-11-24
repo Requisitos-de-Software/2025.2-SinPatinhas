@@ -80,7 +80,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Total técnicas presenciais com gravação** | 4 | | | | | |
 | **Total técnicas remotas com gravação** | 0 | |  |  |  | |
 | **Total documentos elaborados** | 4 |  |  |  |  |  | 
-| **Total documentos revisados** |  |  |  |  |  | |
+| **Total documentos revisados** | 6 |  |  |  |  | |
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
@@ -152,7 +152,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---elos-de-rastreabilidade)  |||||
 | Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 |||||
 | **Documentos criados** | 77 | |  |  |  |  |
-| **Documentos revisados** | 15 |  |  | |  |  | 
+| **Documentos revisados** | 15 (Revisor em documentos unitários) |  |  | |  |  | 
 
 <font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
 
@@ -162,10 +162,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Elos de rastreabilidade | 1 (com hiperlink) | |  | |  |  | 
-| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | 1 (com hiperlink) |  |  |  |  |  | 
-| **Documentos criados** |  |  |  |  |  |  | 
-| **Documentos revisados** |  |  |  |  |  |  | 
+| Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) | |  | |  |  | 
+| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |  |  |  | 
+| **Documentos criados** | 7 |  |  |  |  |  | 
+| **Documentos revisados** | 0 |  |  |  |  |  | 
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
