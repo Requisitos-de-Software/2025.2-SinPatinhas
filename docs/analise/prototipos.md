@@ -214,6 +214,7 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de novembr
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/q84mLY3u1t2wX7tlcH27OX/Tutorial-integrado?embed-host=share" allowfullscreen></iframe>
 
 * [Link para o protótipo](https://www.figma.com/site/q84mLY3u1t2wX7tlcH27OX/Tutorial-integrado?t=mF99ewbKknaLKeDv-1)
+* [Link para o PDF do protótipo](../pdfs/prototipos/mateus/tutorial%20integrado.pdf)
 
 *Autor: Mateus Santos Negrini*
 
@@ -226,6 +227,7 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de novembr
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/5QeAGua9i3eG3pWQbWqRlL/Notificar-acesso-indevido?embed-host=share" allowfullscreen></iframe>
 
 * [Link para o protótipo](https://www.figma.com/site/5QeAGua9i3eG3pWQbWqRlL/Notificar-acesso-indevido?t=mF99ewbKknaLKeDv-1)
+* [Link para o PDF do protótipo](../pdfs/prototipos/mateus/notificar%20acesso%20indevido.pdf)
 
 *Autor: Mateus Santos Negrini*
 
@@ -238,6 +240,7 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de novembr
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/8pndki2RlAOPlkKt5JDydM/Adicionar-foto?embed-host=share" allowfullscreen></iframe>
 
 * [Link para o protótipo](https://www.figma.com/site/8pndki2RlAOPlkKt5JDydM/Adicionar-foto?t=mF99ewbKknaLKeDv-1)
+* [Link para o PDF do protótipo](../pdfs/prototipos/mateus/adicionar%20foto.pdf)
 
 *Autor: Mateus Santos Negrini*
 
@@ -250,6 +253,7 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de novembr
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/DwJFKc1e65HLxembpVVqdp/Atualizacao-cadastral?embed-host=share" allowfullscreen></iframe>
 
 * [Link para o protótipo](https://www.figma.com/site/DwJFKc1e65HLxembpVVqdp/Atualizacao-cadastral?t=mF99ewbKknaLKeDv-1)
+* [Link para o PDF do protótipo](../pdfs/prototipos/mateus/atualização%20cadastral.pdf)
 
 *Autor: Mateus Santos Negrini*
 
