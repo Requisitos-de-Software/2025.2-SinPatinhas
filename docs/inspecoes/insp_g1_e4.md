@@ -1,1 +1,22 @@
-in the work phase
+## Inspeção da Etapa 4 - SinPatinhas – Elicitação de Requisitos e Priorização
+
+> Inspeção de **Histórias de Usuário**, **Backlog do Produto**, **Planejamento de Sprint** e aplicação do **NFR Framework**.
+
+🎥 **[Assistir no YouTube – Inspeção do Projeto: Modelagem de Requisitos Ágil]()**  
+
+---
+
+## Agradecimentos
+
+Agradeço o suporte da **IA generativa (ChatGPT – OpenAI)** pela contribuição na organização textual, padronização formal e refinamento técnico deste conteúdo.  
+A fundamentação teórica é orientada pelos aprendizados vindos de sala.
+
+---
+
+##  Histórico de Versão
+
+| Versão | Data       | Descrição                                         | Autores        | Revisores |
+|:------:|------------|--------------------------------------------------|----------------|------------|
+| 1.0    | 23/11/2025 | Registro da Inspeção da nossa Etapa 4 – Modelagem de Requisitos Ágil (Histórias de Usuário, Backlogs, NFR Framework) | Antonio  | -          |
+
+---
