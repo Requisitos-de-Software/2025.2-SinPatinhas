@@ -17,7 +17,7 @@
 
 ---
 
- Lista de Verificação – Técnicas de Priorização
+## Lista de Verificação – Técnicas de Priorização
 **Autora:** Letícia Paiva
 
 

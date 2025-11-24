@@ -1,3 +1,8 @@
+# Listas de Verificação
+
+> Esta seção centraliza os **links para listas de verificação** utilizadas no projeto **SinPatinhas**. Elas servem como guias de apoio para Técnicas de Priorização, Cenários, Perfil do Usuário e Personas de artefatos produzidos pela equipe.
+
+---
 
 ##  Navegação – Listas de Verificação
 
