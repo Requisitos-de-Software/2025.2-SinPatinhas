@@ -49,10 +49,10 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 | **Letícia Paiva** | [Protótipo 05](#prototipo05)  | Alertas e Notificações Automáticas - [**RFNI017**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017) |
 | **Isaac Menezes** | — | — |
 | — |  | — |
-| **Mateus Negrini** | [Protótipo 07](#prototipo07) | HU019: Acesso à Área de Instruções Integradas |
-|  | [Protótipo 08](#prototipo08) | HU023: Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação |
-|  | [Protótipo 09](#prototipo09) | HU024: Vincular Foto do Tutor ao Registro de Adoção |
-|  | [Protótipo 10](#prototipo10) | HU020: Notificação Periódica para Atualização de Dados e Fotos do Animal |
+| **Mateus Negrini** | [Protótipo 07](#prototipo07) | Acesso à Área de Instruções Integradas - [**HU019**](../../modelagem/gravacoes/mateus/historias.md) |
+|  | [Protótipo 08](#prototipo08) | Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação - [**HU023**](../../modelagem/gravacoes/mateus/historias.md) |
+|  | [Protótipo 09](#prototipo09) | Vincular Foto do Tutor ao Registro de Adoção - [**HU024**](../../modelagem/gravacoes/mateus/historias.md) |
+|  | [Protótipo 10](#prototipo10) | Notificação Periódica para Atualização de Dados e Fotos do Animal - [**HU020**](../../modelagem/gravacoes/mateus/historias.md) |
 
 ---
 
