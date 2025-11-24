@@ -47,7 +47,7 @@
 
 | Versão | Data       | Descrição                                              | Autores | Revisores |
 |------:|------------|----------------------------------------------------------|---------|-----------|
-| 1.0   | 30/09/2025 | Criação da página da lista de verificação de elicitação | Leticia | Antonio   |
+| 1.0   | 30/09/2025 | Criação da página da lista de verificação de elicitação | Leticia | [Antonio Carvalho](https://github.com/antonioscarvalho)   |
 
 <style>
 :root{

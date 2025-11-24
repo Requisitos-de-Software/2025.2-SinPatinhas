@@ -200,4 +200,4 @@ Break etc.)?</td>
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 21/10/2025 |  1.0   | Criação da página das listas de verificação com as listas de verificação.| Heloisa | Antonio |
+| 21/10/2025 |  1.0   | Criação da página das listas de verificação com as listas de verificação.| Heloisa | [Antonio Carvalho](https://github.com/antonioscarvalho) |

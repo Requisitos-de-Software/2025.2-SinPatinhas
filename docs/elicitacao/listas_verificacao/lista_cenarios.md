@@ -63,8 +63,8 @@
 
 | Versão | Data       | Descrição                                        | Autores       | Revisores               |
 |-------:|------------|--------------------------------------------------|---------------|-------------------------|
-| 1.0    | 28/09/2025 | Criação da página da lista de verificação de cenários | Leticia Paiva | Heloisa, Antonio        |
-| 1.1    | 30/09/2025 | Adiciona autores de cada item         | Letícia Paiva | Luciano, Heloisa, Antonio|
+| 1.0    | 28/09/2025 | Criação da página da lista de verificação de cenários | Leticia Paiva | [Antonio Carvalho](https://github.com/antonioscarvalho)       |
+| 1.1    | 30/09/2025 | Adiciona autores de cada item         | Letícia Paiva | [Antonio Carvalho](https://github.com/antonioscarvalho)|
 
 ---
 

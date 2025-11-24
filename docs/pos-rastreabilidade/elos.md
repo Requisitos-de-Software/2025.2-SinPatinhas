@@ -114,9 +114,7 @@ O uso de planilhas e ferramentas de controle de versão complementa o processo, 
 
 ---
 
-## Artefatos
-
----
+## Artefatos - Antonio Carvalho
 
 <a id="el001"></a>
 

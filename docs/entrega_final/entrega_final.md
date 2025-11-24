@@ -52,14 +52,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|--------|--------|--------|--------|--------|--------|
-| **Início** |  |  |  | [Visão Geral - Sinpatinhas ](/README.md) + [Visão Geral - Etapa 1](/planejamento/README.md) |  |  |
-| **Aplicativo (escolha do aplicativo)** |  |  |  | [Aplicativo Analisado](/planejamento/aplicativo/README.md) |  |  |
-| **Cronograma** |  |  |  |  |  |  |
-| **Ferramentas** |  |  |  |  |  |  |
-| **Metodologia** |  |  |  |  |  |  |
-| **Atas** |  |  |  |  |  |  |
-| **Pré-Rastreabilidade (Rich-Picture)** | 2 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md) |  |  |  |  |  |
-| **Total de documentos elaborados** | 2 |  |  | 3 |  |  |
+| **Início** | 0 |  |  | [Visão Geral - Sinpatinhas ](/README.md) + [Visão Geral - Etapa 1](/planejamento/README.md) |  |  |
+| **Aplicativo (escolha do aplicativo)** | 0 |  |  | [Aplicativo Analisado](/planejamento/aplicativo/README.md) |  |  |
+| **Cronograma** | 1 - [Cronograma](../planejamento/cronograma/README.md) |  |  |  |  |  |
+| **Ferramentas** | 0 |  |  |  |  |  |
+| **Metodologia** | 0 |  |  |  |  |  |
+| **Atas** | 0 |  |  |  |  |  |
+| **Pré-Rastreabilidade (Rich-Picture)** | 4 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md#validação-com-tutora-de-animal) |  |  |  |  |  |
+| **Total de documentos elaborados** | 4 |  |  | 3 |  |  |
 | **Total de documentos revisados** | 1 |  |  | 3 |  |  |
 
 
@@ -86,7 +86,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Total técnicas presenciais com gravação** | 4 | | | 1 | | |
 | **Total técnicas remotas com gravação** | 0 | |  | 0 | | |
 | **Total documentos elaborados** | 4 |  |  | 1 |  | | 
-| **Total documentos revisados** |  |  |  | 2 |  |  |
+| **Total documentos revisados** | 6 |  |  | 2 |  |  |
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
@@ -158,8 +158,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---nfr-framework) ||| 0 ||
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---elos-de-rastreabilidade)  ||| 0||
 | Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 ||| 0 ||
-| **Documentos criados** |  | |  |  |  |  |
-| **Documentos revisados** |  |  |  | |  |  | 
+| **Documentos criados** | 77 | |  |  |  |  |
+| **Documentos revisados** | 16 |  |  | |  |  | 
 
 <font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
 
@@ -169,10 +169,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Elos de rastreabilidade | 1 (com hiperlink) | |  | |  |  | 
-| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | 1 (com hiperlink) |  |  |  |  |  | 
-| **Documentos criados** |  |  |  |  |  |  | 
-| **Documentos revisados** |  |  |  |  |  |  | 
+| Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) | |  | |  |  | 
+| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |  |  |  | 
+| **Documentos criados** | 7 |  |  |  |  |  | 
+| **Documentos revisados** | 4 |  |  |  |  |  | 
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
@@ -190,7 +190,6 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 #### Letícia Paiva
 
 > A maior dificuldade que enfrentei foi conciliar as demandas da disciplina com o estágio, as demais matérias e, principalmente, alinhar os horários com os outros membros do grupo, já que a maioria das entregas tinha prazo de apenas uma semana. Ainda assim, mesmo diante desses desafios, consegui perceber claramente a minha evolução e a do grupo a cada etapa, demonstrando uma compreensão cada vez maior sobre o conteúdo trabalhado na disciplina.
-
 
 ---
 
