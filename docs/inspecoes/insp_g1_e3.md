@@ -2,7 +2,7 @@
 
 > Inspeção dos modelos desenvolvidos, incluindo cenários estruturados, léxico do domínio, diag​ramas de caso de uso e especificações complementares.
 
-🎥 **[Assistir no YouTube – Inspeção do Projeto: Modelagem: Cenários, Léxico, Use Case e Especificação Suplementar]()**  
+🎥 **[Assistir no YouTube – Inspeção do Projeto: Modelagem: Cenários, Léxico, Use Case e Especificação Suplementar](https://youtu.be/aGa1tuINavQ)**  
 
 ---
 

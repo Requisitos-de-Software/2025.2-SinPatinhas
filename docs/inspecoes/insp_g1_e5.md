@@ -2,7 +2,7 @@
 
 > Inspeção de **Itens de Verificação**, **Protótipos** e **Comprovação Informal**.
 
-🎥 **[Assistir no YouTube – Inspeção do Projeto: Etapa de Análise de Requisistos: Verificação e Validação]()**  
+🎥 **[Assistir no YouTube – Inspeção do Projeto: Etapa de Análise de Requisistos: Verificação e Validação](https://youtu.be/SnEeO2Js8ps)**  
 
 ---
 

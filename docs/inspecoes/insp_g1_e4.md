@@ -2,7 +2,7 @@
 
 > Inspeção de **Histórias de Usuário**, **Backlog do Produto**, **Planejamento de Sprint** e aplicação do **NFR Framework**.
 
-🎥 **[Assistir no YouTube – Inspeção do Projeto: Modelagem de Requisitos Ágil]()**  
+🎥 **[Assistir no YouTube – Inspeção do Projeto: Modelagem de Requisitos Ágil](https://youtu.be/J7m6Uz-ei4Y)**  
 
 ---
 

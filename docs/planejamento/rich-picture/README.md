@@ -29,9 +29,20 @@ A seguir está o Rich Picture do projeto, acompanhado da legenda para facilitar 
 
 ---
 
-### Validação de Rich-Picture
+## Validação com tutora de animal
 
+A validação com a tutora foi feita de forma presencial, no dia **23 de outubro de 2025**.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hGCsymvOkXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+## Participantes da validação
+
+| **Participante** | **Papel** |
+|------------------|-----------|
+| **Antonio Carvalho** | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| **Maria Clara** | Estudante de Gestão Pública, 19 anos, responsável por validar o artefato Rich-Picture. |
 
 ---
 

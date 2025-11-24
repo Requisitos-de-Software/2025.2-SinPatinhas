@@ -1,7 +1,7 @@
 ## Inspeção da Etapa 1 - SinPatinhas – Planejamento do Projeto
 > Inspeção da proposta inicial, definição de escopo, objetivos e estrutura de planejamento do projeto SinPatinhas.
 
-🎥 **[Assistir no YouTube – Inspeção do Projeto: Planejamento]()**  
+🎥 **[Assistir no YouTube – Inspeção da Etapa de Pós-Rastreabilidade](https://youtu.be/vz7LuMyYGH0)**  
 
 ---
 

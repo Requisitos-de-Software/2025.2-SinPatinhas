@@ -2,7 +2,7 @@
 
 > Inspeção das técnicas de elicitação aplicadas (entrevista, brainstorming e questionário), além da priorização dos requisitos com critérios definidos pelo grupo.
 
-🎥 **[Assistir no YouTube – Inspeção do Projeto: Elicitação de Requisitos: Técnicas e Priorização]()**  
+🎥 **[Assistir no YouTube – Inspeção do Projeto: Elicitação de Requisitos: Técnicas e Priorização](https://youtu.be/38lNqRpm8ZI)**  
 
 ---
 

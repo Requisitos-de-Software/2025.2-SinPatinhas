@@ -52,14 +52,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|--------|--------|--------|--------|--------|--------|
-| **Início** |  |  |  | [Visão Geral - Sinpatinhas ](/README.md) + [Visão Geral - Etapa 1](/planejamento/README.md) |  |  |
-| **Aplicativo (escolha do aplicativo)** |  |  |  | [Aplicativo Analisado](/planejamento/aplicativo/README.md) |  |  |
-| **Cronograma** |  |  |  |  |  |  |
-| **Ferramentas** |  |  |  |  |  |  |
-| **Metodologia** |  |  |  |  |  |  |
-| **Atas** |  |  |  |  |  |  |
-| **Pré-Rastreabilidade (Rich-Picture)** | 2 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md) |  |  |  |  |  |
-| **Total de documentos elaborados** | 2 |  |  | 3 |  |  |
+| **Início** | 0 |  |  | [Visão Geral - Sinpatinhas ](/README.md) + [Visão Geral - Etapa 1](/planejamento/README.md) |  |  |
+| **Aplicativo (escolha do aplicativo)** | 0 |  |  | [Aplicativo Analisado](/planejamento/aplicativo/README.md) |  |  |
+| **Cronograma** | 1 - [Cronograma](../planejamento/cronograma/README.md) |  |  |  |  |  |
+| **Ferramentas** | 0 |  |  |  |  |  |
+| **Metodologia** | 0 |  |  |  |  |  |
+| **Atas** | 0 |  |  |  |  |  |
+| **Pré-Rastreabilidade (Rich-Picture)** | 4 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md#validação-com-tutora-de-animal) |  |  |  |  |  |
+| **Total de documentos elaborados** | 4 |  |  | 3 |  |  |
 | **Total de documentos revisados** | 1 |  |  | 3 |  |  |
 
 
@@ -86,7 +86,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Total técnicas presenciais com gravação** | 4 | | | 1 | | |
 | **Total técnicas remotas com gravação** | 0 | |  | 0 | | |
 | **Total documentos elaborados** | 4 |  |  | 1 |  | | 
-| **Total documentos revisados** |  |  |  | 2 |  |  |
+| **Total documentos revisados** | 6 |  |  | 2 |  |  |
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
@@ -190,7 +190,6 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 #### Letícia Paiva
 
 > A maior dificuldade que enfrentei foi conciliar as demandas da disciplina com o estágio, as demais matérias e, principalmente, alinhar os horários com os outros membros do grupo, já que a maioria das entregas tinha prazo de apenas uma semana. Ainda assim, mesmo diante desses desafios, consegui perceber claramente a minha evolução e a do grupo a cada etapa, demonstrando uma compreensão cada vez maior sobre o conteúdo trabalhado na disciplina.
-
 
 ---
 

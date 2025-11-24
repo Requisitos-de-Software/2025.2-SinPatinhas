@@ -1,4 +1,4 @@
-# Inspeção – Grupo +1 – Entrega 1
+# Inspeção – Grupo 2 – Entrega 1
 
 A 1ª inspeção do Grupo +1, referente à disciplina de Requisitos de Software da Universidade de Brasília (UnB), foi realizada no dia 10/09/2025.
 
