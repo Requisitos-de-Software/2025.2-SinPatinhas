@@ -1,5 +1,13 @@
 # Cenários - Mateus Santos Negrini
+---
 
+## Validação com tutora de animal
+
+A validação com a tutora foi feita de forma presencial, no dia **23 de novembro de 2025**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=f9OdTWZQtQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
 ## Cenário 11 — Sistema de Adoção (RF030)  
 
 **Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
