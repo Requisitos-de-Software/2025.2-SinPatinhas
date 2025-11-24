@@ -183,11 +183,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 ## Facilidades e Dificuldades do Projeto
 
 #### Antonio Carvalho
+> *A ser preenchido.*
 
+---
 
 #### Letícia Paiva
 
-A maior dificuldade que enfrentei foi conciliar as demandas da disciplina com o estágio, as demais matérias e, principalmente, alinhar os horários com os outros membros do grupo, já que a maioria das entregas tinha prazo de apenas uma semana. Ainda assim, mesmo diante desses desafios, consegui perceber claramente a minha evolução e a do grupo a cada etapa, demonstrando uma compreensão cada vez maior sobre o conteúdo trabalhado na disciplina.
+> A maior dificuldade que enfrentei foi conciliar as demandas da disciplina com o estágio, as demais matérias e, principalmente, alinhar os horários com os outros membros do grupo, já que a maioria das entregas tinha prazo de apenas uma semana. Ainda assim, mesmo diante desses desafios, consegui perceber claramente a minha evolução e a do grupo a cada etapa, demonstrando uma compreensão cada vez maior sobre o conteúdo trabalhado na disciplina.
+
 
 ---
 
