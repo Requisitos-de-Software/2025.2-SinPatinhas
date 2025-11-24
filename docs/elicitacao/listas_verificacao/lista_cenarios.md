@@ -43,6 +43,7 @@
 | 19 | Há descrição de planejamento (como o ator pensa e decide)? | Antonio Carvalho | https://ibb.co/nsf0QTsJ |
 | 20 | As ações e eventos estão narrados em sequência lógica e detalhada? | Antonio Carvalho | https://ibb.co/SDSqsWN3 |
 
+--- 
 
 ## Lista de verificação elaborada por cada integrante do grupo
 
