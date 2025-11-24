@@ -161,8 +161,8 @@
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 29/09/2025 | Criação da página da lista de verificação de personas   | Heloisa  | Antonio         |
-| 2.0    | 30/09/2025 | Adição da coluna de autores   | Heloisa  | Antonio         |
+| 1.0    | 29/09/2025 | Criação da página da lista de verificação de personas   | Heloisa  |[Antonio Carvalho](https://github.com/antonioscarvalho)        |
+| 2.0    | 30/09/2025 | Adição da coluna de autores   | Heloisa  |[Antonio Carvalho](https://github.com/antonioscarvalho)        |
 
 ---
 

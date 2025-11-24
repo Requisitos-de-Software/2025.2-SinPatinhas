@@ -71,8 +71,8 @@
 | Versão | Data       | Descrição                                   | Autores       | Revisores               |
 |-------:|------------|----------------------------------------------|---------------|-------------------------|
 | 1.0    | 27/09/2025 | Criação da página para Checklists            | Antonio       | Leticia Paiva, Heloisa |
-| 1.1    | 28/09/2025 | Melhoria da navegação com cards intuitivos   | Leticia Paiva | Heloisa, Antonio        |
-| 1.2    | 30/09/2025 | Adiciona lista de elicitação | Leticia Paiva | Heloisa, Antonio        |
+| 1.1    | 28/09/2025 | Melhoria da navegação com cards intuitivos   | Leticia Paiva | Heloisa, [Antonio Carvalho](https://github.com/antonioscarvalho)        |
+| 1.2    | 30/09/2025 | Adiciona lista de elicitação | Leticia Paiva | Heloisa, [Antonio Carvalho](https://github.com/antonioscarvalho)        |
 
 ---
 
