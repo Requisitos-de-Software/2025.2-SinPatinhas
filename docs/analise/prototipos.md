@@ -49,8 +49,10 @@ Conforme afirmam Vazquez e Simões (2016), a prototipação “permite ao usuár
 | **Letícia Paiva** | [Protótipo 05](#prototipo05)  | Alertas e Notificações Automáticas - [**RFNI017**](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni017) |
 | **Isaac Menezes** | — | — |
 | — |  | — |
-| **Mateus Negrini** | — | — |
-| — |  | — |
+| **Mateus Negrini** | [Protótipo 07](#prototipo07) | HU019: Acesso à Área de Instruções Integradas |
+|  | [Protótipo 08](#prototipo08) | HU023: Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação |
+|  | [Protótipo 09](#prototipo09) | HU024: Vincular Foto do Tutor ao Registro de Adoção |
+|  | [Protótipo 10](#prototipo10) | HU020: Notificação Periódica para Atualização de Dados e Fotos do Animal |
 
 ---
 
@@ -194,6 +196,64 @@ A validação com o usuário foi feita de forma presencial, no dia **23 de novem
 [![Vídeo do Protótipo 05](https://img.youtube.com/vi/LeT-ddXzhvU/hqdefault.jpg)](https://www.youtube.com/watch?v=LeT-ddXzhvU)
 
 ---
+
+
+## Protótipos - Mateus Santos Negrini
+## Vídeo de Protótipo e Validações com Tutora de Animal
+
+A validação com a tutora foi feita de forma presencial, no dia **23 de novembro de 2025**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzr-pjIf9bY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+<a id="prototipo07"></a>
+
+## Protótipo 07 - Acesso à Área de Instruções Integradas
+
+### 1. História de usuário HU019: Acesso à Área de Instruções Integradas
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/q84mLY3u1t2wX7tlcH27OX/Tutorial-integrado?embed-host=share" allowfullscreen></iframe>
+
+* [Link para o protótipo](https://www.figma.com/site/q84mLY3u1t2wX7tlcH27OX/Tutorial-integrado?t=mF99ewbKknaLKeDv-1)
+
+*Autor: Mateus Santos Negrini*
+
+<a id="prototipo08"></a>
+
+## Protótipo 08 - Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação
+
+### 1. História de usuário HU023: Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/5QeAGua9i3eG3pWQbWqRlL/Notificar-acesso-indevido?embed-host=share" allowfullscreen></iframe>
+
+* [Link para o protótipo](https://www.figma.com/site/5QeAGua9i3eG3pWQbWqRlL/Notificar-acesso-indevido?t=mF99ewbKknaLKeDv-1)
+
+*Autor: Mateus Santos Negrini*
+
+<a id="prototipo09"></a>
+
+## Protótipo 09 - Vincular Foto do Tutor ao Registro de Adoção
+
+### 1. História de usuário HU024: Vincular Foto do Tutor ao Registro de Adoção
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/8pndki2RlAOPlkKt5JDydM/Adicionar-foto?embed-host=share" allowfullscreen></iframe>
+
+* [Link para o protótipo](https://www.figma.com/site/8pndki2RlAOPlkKt5JDydM/Adicionar-foto?t=mF99ewbKknaLKeDv-1)
+
+*Autor: Mateus Santos Negrini*
+
+<a id="prototipo10></a>
+
+## Protótipo 10 - Notificação Periódica para Atualização de Dados e Fotos do Animal
+
+### 1. História de usuário HU020: Notificação Periódica para Atualização de Dados e Fotos do Animal
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/site/DwJFKc1e65HLxembpVVqdp/Atualizacao-cadastral?embed-host=share" allowfullscreen></iframe>
+
+* [Link para o protótipo](https://www.figma.com/site/DwJFKc1e65HLxembpVVqdp/Atualizacao-cadastral?t=mF99ewbKknaLKeDv-1)
+
+*Autor: Mateus Santos Negrini*
+
+
 
 ## Agradecimentos
 
