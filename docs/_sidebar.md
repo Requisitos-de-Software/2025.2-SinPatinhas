@@ -76,7 +76,6 @@ details a:hover {
   - [Entrega de n° 04](/entregas/entrega_4.md)
   - [Entrega de n° 05](/entregas/entrega_5.md)
   - [Entrega de n° 06](/entregas/entrega_6.md)
-  - [Entrega Final](/entregas/entrega_final.md)
 </details>
 
 <details>
@@ -130,7 +129,6 @@ details a:hover {
   - [Requisitos Elicitados](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
   - [Técnicas de Priorização](/elicitacao/tecnicas_priorizacao/tec-de-priorizacao)
   - [Técnica MoSCoW](/elicitacao/tecnicas_priorizacao/MoSCoW.md)
-
 </details>
 
 <details>
