@@ -172,7 +172,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) | |  | |  |  | 
 | Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |  |  |  | 
 | **Documentos criados** | 7 |  |  |  |  |  | 
-| **Documentos revisados** | 1 |  |  |  |  |  | 
+| **Documentos revisados** | 4 |  |  |  |  |  | 
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
