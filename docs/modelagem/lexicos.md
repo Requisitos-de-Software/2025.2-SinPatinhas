@@ -64,8 +64,8 @@ A tabela a seguir apresenta os componentes utilizados.
 |                      | [LX009](#lx009)  | [#LX009](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas e Notificações Automáticas (RFNI017) |
 | **Pedro Gomes**      | | [#LX010](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 07 |
 |                      | | [#LX011](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 08 |
-| **Mateus Santos Negrini** | | [#LX012](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RF030) |
-|                           | | [#LX013](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas de Notificações Automáticas (RF31) |
+| **Mateus Santos Negrini** |[LX012](#lx012) | [#LX012](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RF030) |
+|                           |[LX013](#lx013) | [#LX013](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas de Notificações Automáticas (RF31) |
 | **Heloisa Silva**         | | [#LX014](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC09 e #CEN05 - Sistema de Adoção (RFNI001) |
 |                           | | [#LX015](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC010 e #CEN06 - Alertas e Notificações Automáticas (RFNI10) |
 | **Isaac Menezes**         | [LX016](#lx016) | [#LX016](/modelagem/gravacoes/isaac/lexicos.md) | Indicador Visual da Média (RNFI014 e RNFI015) |
@@ -309,13 +309,29 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 <a id="lx012"></a>
 
 ### #LX012 – Léxico para #UC03 e #CEN01 – Sistema de Adoção (RF030)
+**Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
 
+| **ID** | **Noção** | **Impacto** | **Classificação** | **Dicionário** | **Rastreamento** |
+|---------|------------|-------------|-------------------|----------------|------------------|
+| `LX012-01` | Instruções Integradas | Área do sistema que centraliza tutoriais, guias e orientações para o usuário. | Objeto | Manual Digital, Tutoriais | RF33, UC07, CEN07 |
+| `LX012-02` | Buscar Conteúdo | Ação de localizar instruções ou tutoriais dentro da Área de Instruções. | Verbo | Pesquisar, Consultar | RF33, UC07, CEN07 |
+| `LX012-03` | Categoria de Conteúdo | Classificação ou agrupamento de instruções/tutoriais dentro do sistema. | Objeto | Seção, Tema | RF33, UC07, CEN07 |
+| `LX012-04` | Tutorial Passo a Passo | Documento ou instrução que guia o usuário em uma tarefa específica no sistema. | Objeto | Guia, Manual Interativo | RF33, UC07, CEN07 |
+| `LX012-05` | Feedback de Conclusão | Mensagem que confirma ao usuário que a ação foi executada corretamente. | Objeto | Confirmação, Resultado | RF33, UC07, CEN07 |
 ---
 
 <a id="lx013"></a>
 
 ### #LX013 – Léxico para #UC04 e #CEN02 – Alertas de Notificações Automáticas (RF31)
+**Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
 
+| **ID** | **Noção** | **Impacto** | **Classificação** | **Dicionário** | **Rastreamento** |
+|---------|------------|-------------|-------------------|----------------|------------------|
+| `LX013-01` | Notificação Automática | Mensagem enviada pelo sistema ao tutor para atualizar informações do animal. | Objeto | Aviso, Alerta | RF44, UC08, CEN02 |
+| `LX013-02` | Atualizar Dados | Ação do tutor de revisar ou modificar informações do animal no sistema. | Verbo | Editar, Corrigir | RF44, UC08, CEN02 |
+| `LX013-03` | Atualizar Foto | Ação do tutor de anexar uma nova imagem do animal. | Verbo | Inserir Foto, Trocar Imagem | RF44, UC08, CEN02 |
+| `LX013-04` | Periodicidade | Intervalo de tempo definido para envio de notificações. | Objeto | Frequência, Intervalo | RF44, UC08, CEN02 |
+| `LX013-05` | Formato de Arquivo | Tipo de arquivo aceito pelo sistema para fotos ou documentos. | Objeto | JPEG, PNG, PDF | RF44, UC08, CEN02 |
 ---
 
 <a id="lx014"></a>
@@ -615,6 +631,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de léxicos e criador dos artefatos LX001, LX002, LX003, LX004, LX005, LX006, LX007, LX023, LX024, LX025, LX026, LX027, LX028, LX029 |
 | Letícia Paiva| 16,6% | Criador dos artefatos LX008 e LX009 |
+| Mateus Santos Negrini| 16,6% | Criador dos artefatos LX012 e LX013 |
 
 ---
 

@@ -92,8 +92,8 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 |                      |  | [#BL006](../../modelagem/gravacoes/pedro/backlog.md) | Interface responsiva e intuitiva |
 |                      |  | [#BL011](../../modelagem/gravacoes/pedro/backlog.md) | Acesso offline à ficha do próprio animal |
 |                      |  | [#BL012](../../modelagem/gravacoes/pedro/backlog.md) | Mensagens de aviso e confirmação offline |
-| **Mateus Negrini**   |  | [#BL007](../../modelagem/gravacoes/mateus/backlog.md) | Acesso à área de instruções integradas |
-|                      |  | [#BL008](../../modelagem/gravacoes/mateus/backlog.md) | Notificação periódica de atualização de dados e fotos |
+| **Mateus Negrini**   | [BL007](#bl007) | [#BL007](../../modelagem/gravacoes/mateus/backlog.md) | Acesso à área de instruções integradas |
+|                      | [BL008](#bl008) | [#BL008](../../modelagem/gravacoes/mateus/backlog.md) | Notificação periódica de atualização de dados e fotos |
 | **Isaac Menezes** | [BL009](#bl009) | [#BL009](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliações da clínica/hospital   |
 |                   | [BL010](#bl010) | [#BL010](../../modelagem/gravacoes/isaac/backlog.md) | Média de avaliação do médico |
 | **Heloisa Silva** |  | [#BL011](../../modelagem/gravacoes/heloisa/backlog.md) | Mapa interativo |
@@ -159,6 +159,22 @@ As histórias de usuário especificam ainda mais os épicos, elas apresentam des
 
 ---
 
+<a id="bl007"></a>
+<a id="bl008"></a>
+
+**Tabela 4 - Itens de backlog derivados de requisitos não implementados**
+
+*Autoria: Mateus Santos Negrini*
+
+| **Identificação** | **Item do Backlog** | **Descrição** | **Prioridade (MoSCoW)** | **Status** | **Responsável** | **Rastreabilidade** |
+|--------------------|--------------------|----------------|---------------------------|-------------|------------------|---------------------|
+| **BL007** | Acesso à área de instruções integradas | Implementar uma área de instruções acessível no menu principal, com tutoriais visuais e explicações passo a passo sobre o uso do sistema. | Must have | Não iniciado | Mateus Santos Negrini | [RFNI019](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni019) / [HU019](../../../modelagem/gravacoes/mateus/historias.md#hu019--acesso-à-área-de-instruções-integradas) |
+| **BL008** | Notificação periódica de atualização de dados e fotos | Implementar o envio automático de notificações para que tutores atualizem periodicamente as informações e fotos dos animais cadastrados. | Should have | Não iniciado | Mateus Santos Negrini | [RFNI021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni021) / [HU020](../../../modelagem/gravacoes/mateus/historias.md#hu020--notificação-periódica-para-atualização-de-dados-e-fotos-do-animal) |
+
+[Voltar para tabela de artefatos](#tabela_artefatos)
+
+---
+
 ## Agradecimentos
 
 Agradeço o apoio das ferramentas de **IA generativa (ChatGPT – OpenAI)** utilizadas para **revisão, formatação e padronização técnica do texto**.  
@@ -172,6 +188,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 |-----------|----------------------|-------------|
 | **Antonio Carvalho** | 16,6% | Co-autor da página de apresentação de backlog do produto e criador dos artefatos BL001, BL002, BL015, BL016 |
 | **Letícia Paiva** | 16,6% | Co-autor da página de apresentação de backlog do produto e criador dos artefatos BL003 e BL004 |
+| **Mateus Santos Negrini** | 16,6% | Co-autor da página de apresentação de backlog do produto e criador dos artefatos BL007 e BL008 |
 
 ---
 

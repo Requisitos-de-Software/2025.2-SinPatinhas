@@ -81,8 +81,8 @@ Essa estratégia assegura que as exigências adicionais estejam em conformidade 
 |                      | [ES004](#es004)  | [#ES004](/modelagem/gravacoes/leticia/especificacao.md) | |
 | **Pedro Gomes**      |  | [#ES005](/modelagem/gravacoes/pedro/especificacao.md)   |  |
 |                      |  | [#ES006](/modelagem/gravacoes/pedro/especificacao.md)   |  |
-| **Mateus Santos Negrini** |  | [#ES007](/modelagem/gravacoes/mateus/especificacao.md) |  |
-|                           |  | [#ES008](/modelagem/gravacoes/mateus/especificacao.md) |  |
+| **Mateus Santos Negrini** | [ES007](#es007) | [#ES007](/modelagem/gravacoes/mateus/especificacao.md) |  |
+|                           | [ES008](#es008) | [#ES008](/modelagem/gravacoes/mateus/especificacao.md) |  |
 | **Isaac Menezes**         | [ES009](#es009) | [#ES009](/modelagem/gravacoes/isaac/especificacao.md) |  |
 |                           | [ES010](#es010) | [#ES010](/modelagem/gravacoes/isaac/especificacao.md) |  |
 
@@ -303,12 +303,22 @@ A validação com o usuário foi feita de forma presencial, no dia 10 de outubro
 
 <a id="es007"></a>
 
+**Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
+
+| **Requisito (Código)** | **Classificação FURPS+** | **Especificação Detalhada** | **Rastreabilidade** |
+| ---------------------- | ------------------------ | --------------------------- | ------------------- |
+| RNF021 | Desempenho (P) | Todas as operações do sistema, incluindo consultas, atualizações e geração de relatórios, devem retornar resultados em **até 2 segundos** sob condições normais de uso (até 10000 usuários simultâneos). | |
 ---
 
 ### #ES008
 
 <a id="es008"></a>
 
+**Autor:** [Mateus Santos Negrini](https://github.com/14luke08)
+
+| **Requisito (Código)** | **Classificação FURPS+** | **Especificação Detalhada** | **Rastreabilidade** |
+| ---------------------- | ------------------------ | --------------------------- | ------------------- |
+| RNF023 | Confiabilidade (R) | Veterinários devem poder acessar dados clinicos de um animal cadastrado e acessar exames mas não poderá editar exames que não foram realizados por ele. | |
 ---
 
 ### #ES009
@@ -561,6 +571,7 @@ Ressalta-se que *todo o conteúdo conceitual e as decisões de modelagem aqui de
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de especificação suplementar e criador dos artefatos ES001, ES002, ES011, ES012, ES013, ES014 |
 | Letícia Paiva | 16,6% | Criador dos artefatos ES003 e ES004 |
+| Mateus Santos Negrini | 16,6% | Criador dos artefatos ES007 e ES008 |
 
 
 ---
