@@ -48,14 +48,20 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 ## Tabela de Contribuição e Registro de Entregas por Etapa [[REF1](#referências-bibliográficas)]
 
-### Etapa 1 - Pré-Rastreabilidade
+### Etapa 1 – Pré-Rastreabilidade
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
-|------|----------|----------|----------|----------|----------|----------|
-| RichPicture | 2 - [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados) e [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) |   |   |   |   | |
-| Validação com usuário do RichPicture | 1 - [Validação de Rich-Picture Geral](../planejamento/rich-picture/README.md)  |   | | | | |
-| **Total de documentos elaborados** | 2 | |  |  |  | |
-| **Total de documentos revisados** | 1 |  |  |  |  | |
+|------|--------|--------|--------|--------|--------|--------|
+| **Início** |  |  |  | [Visão Geral - Sinpatinhas ](/README.md) + [Visão Geral - Etapa 1](/planejamento/README.md) |  |  |
+| **Aplicativo (escolha do aplicativo)** |  |  |  | [Aplicativo Analisado](/planejamento/aplicativo/README.md) |  |  |
+| **Cronograma** |  |  |  |  |  |  |
+| **Ferramentas** |  |  |  |  |  |  |
+| **Metodologia** |  |  |  |  |  |  |
+| **Atas** |  |  |  |  |  |  |
+| **Pré-Rastreabilidade (Rich-Picture)** | 2 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md) |  |  |  |  |  |
+| **Total de documentos elaborados** | 2 |  |  | 3 |  |  |
+| **Total de documentos revisados** | 1 |  |  | 3 |  |  |
+
 
 <font>**Tabela 1** - Entregas de Pré-Rastreabilidade</p></font>
 
@@ -69,7 +75,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 |------|----------|----------|----------|----------|----------|----------|
 | Técnicas de elicitação sem a participação do usuário | 1 - [Introspecção](../elicitacao/tecnicas_elicitacao/metodologias/introspeccao.md)  |   |   | | | |
 | Técnicas de elicitação com a participação do usuário sem gravação | 0 |   |   | | | |
-|Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | |   | |  | |
+|Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | |   |  1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) |  1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) |
 |Técnicas de elicitação que necessita a participação do remota e com gravação com usuário |0 | |   | |  | |
 |Técnicas de Priorização presencial e com gravação com usuário | 1 - [MoSKoW](../elicitacao/tecnicas_priorizacao/MoSCoW.md)  | |   |   | | |
 |Técnicas de Priorização presencial e sem gravação com usuário|0 | |   |   | | |
@@ -77,10 +83,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Perfil de Usuário | 2 - [Perfis de Usuário](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |   |   | | | |
 | Persona | 0 |   |   | | | |
 | Se utilizaram Personas, utilizaram a técnica encenação com gravação? | 0 | |   | | | |
-| **Total técnicas presenciais com gravação** | 4 | | | | | |
-| **Total técnicas remotas com gravação** | 0 | |  |  |  | |
-| **Total documentos elaborados** | 4 |  |  |  |  |  | 
-| **Total documentos revisados** | 6 |  |  |  |  | |
+| **Total técnicas presenciais com gravação** | 4 | | | 1 | | |
+| **Total técnicas remotas com gravação** | 0 | |  | 0 | | |
+| **Total documentos elaborados** | 4 |  |  | 1 |  | | 
+| **Total documentos revisados** |  |  |  | 2 |  |  |
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
@@ -92,18 +98,18 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Especificação dos Cenarios (CNRx)  | 5 - [CNR003](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR004](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR013](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR014](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR015](../modelagem/cenarios.md#artefatos-e-gravações-unitários)  |   |   |   |   | 
+| Especificação dos Cenarios (CNRx)  | 5 - [CNR003](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR004](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR013](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR014](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR015](../modelagem/cenarios.md#artefatos-e-gravações-unitários)  |   |  | [CNR001](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR002](../modelagem/cenarios.md#artefatos-e-gravações-unitários)   |   | 
 | Validação dos cenários com usuário (presencial e gravado?) | [Sim](../modelagem/gravacoes/antonio/cenarios.md)  |   | | | | |
-| Léxicos (LXx) | 14 - [LX001](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX002](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX003](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX004](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX005](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX006](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX007](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX023](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX024](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX025](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX026](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX027](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX028](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX029](../modelagem/lexicos.md#artefatos-e-gravações-unitários) |   |   |   |  |   |   |
+| Léxicos (LXx) | 14 - [LX001](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX002](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX003](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX004](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX005](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX006](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX007](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX023](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX024](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX025](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX026](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX027](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX028](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX029](../modelagem/lexicos.md#artefatos-e-gravações-unitários) |   |   | [LX008](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX009](../modelagem/lexicos.md#artefatos-e-gravações-unitários)   |  |   |   |
 | Validação com usuário dos léxicos com gravação presencial? |  [Sim](../modelagem/gravacoes/antonio/lexicos.md) |   |   |   |  |   |   |
-| Especificação de Caso de Uso  (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.) (ESx)| 6 - [ES001](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES002](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES011](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES012](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES013](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES014](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários)  |   |   |   |  |   |   |
+| Especificação de Caso de Uso  (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.) (ESx)| 6 - [ES001](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES002](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES011](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES012](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES013](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES014](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários)  |   |   | [ES003](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES004](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários)  |  |   |   |
 | Validação com usuário da especificação do caso de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/especificacao.md)  |   |   |   |   |   |
-| Casos de Uso (UCx) |  5 - [UC001](../modelagem/casos_de_uso.md#artefatos), [UC002](../modelagem/casos_de_uso.md#artefatos), [UC013](../modelagem/casos_de_uso.md#artefatos), [UC014](../modelagem/casos_de_uso.md#artefatos), [UC015](../modelagem/casos_de_uso.md#artefatos) |   |   |   |   |   |
-| Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  |  | |  |
-| **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  |  |  |  |
-| **Participação de Gravação com o usuário presencial?** | 4 |  |  |  |  |  |
-| **Total documentos elaborados** | 30 |  |  |  |  |  |
-| **Total documentos revisados** | 19 (Revisor em documentos unitários) |  |  |  |  |  | 
+| Casos de Uso (UCx) |  5 - [UC001](../modelagem/casos_de_uso.md#artefatos), [UC002](../modelagem/casos_de_uso.md#artefatos), [UC013](../modelagem/casos_de_uso.md#artefatos), [UC014](../modelagem/casos_de_uso.md#artefatos), [UC015](../modelagem/casos_de_uso.md#artefatos) |   |   | [UC003](../modelagem/casos_de_uso.md#artefatos), [UC004](../modelagem/casos_de_uso.md#artefatos)    |   |   |
+| Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  | | |  |
+| **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  | 8 |  |  |
+| **Participação de Gravação com o usuário presencial?** | 4 |  |  | 1 |  |  |
+| **Total documentos elaborados** | 30 |  |  | 9 |  |  |
+| **Total documentos revisados** | 19 (Revisor em documentos unitários) |  |  | 4 |  |  | 
 
 <font>**Tabela 3** - Entregas de Modelagem Tradicional</p></font>
 
@@ -115,16 +121,17 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Histórias de Usuário (HUx) | 10 (7 Requisitos Funcionais (RFx) e 3 Requisitos Funcionais Não Implementados (RFNIx)) - [HU003](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017)), [HU004](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018)), [HU005](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI005](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005)), [HU006](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF014](../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014)), [HU007](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016)), [HU008](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018)), [HU041](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF011](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf011)), [HU042](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012)), [HU043](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013)), [HU044](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014)) |   |   |   |   |   | 
-| Validação com usuário da Historia do Usuário com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  | 
-| NFR Framework (Pelo menos 1 por integrante) | 3 - [RNF017](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf017), [RNF024](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf024), [RNF020](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf020). |   |   |   |   |   | 
-| Quantidade de Cartão de especificação do RNF? | 2 - [CNFR01](../modelagem/agilidade/NFR_framework.md#cnfr01---1-cartão-de-especificação-nfr--segurança) e [CNFR02](../modelagem/agilidade/NFR_framework.md#cnfr02---2-cartão-de-especificação-nfr--confiabilidade-e-continuidade-operacional) |   |   |   |   |  |
-| Validação com usuário do NFR com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/nfr_frame.md) |   |   |   |  | 
-| Itens de Backlog | 4 - [BL001](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL002](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL015](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL016](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros)  |   |   |   |   |  |
-| Validação com usuário dos itens de Backlog | [Sim](../modelagem/gravacoes/antonio/backlog.md) |   |   |   |   |  |
-| **Participação de Gravação com o usuário presencial?** | 3 |  |  |  |  |  |
-| **Documentos Criados** | 19 |  |  |  |  |  | 
-| **Documentos Revisados** | 13 (Revisor em documentos unitários) |  |  |  |  |  | 
+| Histórias de Usuário (HUx) | 10 (7 Requisitos Funcionais (RFx) e 3 Requisitos Funcionais Não Implementados (RFNIx)) - [HU003](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF017](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf017)), [HU004](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf018)), [HU005](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI005](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni005)), [HU006](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014)), [HU007](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI016](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni016)), [HU008](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RFNI018](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni018)), [HU041](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF011](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf011)), [HU042](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF012](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf012)), [HU043](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF013](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf013)), [HU044](../modelagem/agilidade/historias_de_usuario.md#artefatos-e-gravações-unitários) ([RF014](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rf014)) |  |  | 6 - [HU001](../modelagem/agilidade/historias_de_usuario.md#hu001), [HU002](../modelagem/agilidade/historias_de_usuario.md#hu002), [HU009](../modelagem/agilidade/historias_de_usuario.md#hu009), [HU010](../modelagem/agilidade/historias_de_usuario.md#hu010), [HU011](../modelagem/agilidade/historias_de_usuario.md#hu011), [HU012](../modelagem/agilidade/historias_de_usuario.md#hu012) |  |  |
+| Validação com usuário da História do Usuário | [Sim](../modelagem/gravacoes/antonio/historias.md) |  |  |  |  |  |
+| NFR Framework (Pelo menos 1 por integrante) | 3 - [RNF017](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf017), [RNF024](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf024), [RNF020](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf020) |  |  | [RNF019](../modelagem/agilidade/NFR_framework.md#requisito-não-funcional--rnf019)  |  |  |
+| Quantidade de Cartão de especificação do RNF? | 2 - [CNFR01](../modelagem/agilidade/NFR_framework.md#cnfr01---1-cartão-de-especificação-nfr--segurança) e [CNFR02](../modelagem/agilidade/NFR_framework.md#cnfr02---2-cartão-de-especificação-nfr--confiabilidade-e-continuidade-operacional) |  |  | [CNFR09](../modelagem/agilidade/NFR_framework?id=cnfr09) |  |  |
+| Validação com usuário do NFR com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/nfr_frame.md) |  |  |  |  |  |
+| Itens de Backlog | 4 - [BL001](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL002](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL015](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros), [BL016](../modelagem/agilidade/backlog.md#tema-integração-e-serviços-parceiros) |  |  | [BL003](../modelagem/agilidade/backlog?id=bl003), [BL004](../modelagem/agilidade/backlog?id=bl004) |  |  |
+| Validação com usuário dos itens de Backlog | [Sim](../modelagem/gravacoes/antonio/backlog.md) |  |  |  |  |  |
+| **Participação de Gravação com o usuário presencial?** | 3 |  |  | 0 |  |  |
+| **Documentos Criados** | 19 |  |  | 11 |  |  |
+| **Documentos Revisados** | 13 (Revisor em documentos unitários) |  |  | 3 |  |  |
+
 
 <font>**Tabela 4** - Entregas de Modelagem Ágil</p></font>
 
@@ -136,23 +143,23 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante  | 3 - [Protótipos de n° 3, 4 e 6](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |   |   |   |
-| Validação dos Protótipos com o usuário com gravação presencial | [Sim](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |   |   |   | 
-| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 19 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-da-rich-picture) |||||
-| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-perfil-de-usuário) |||||
-| Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 0 |||||
-| Quantidade de itens da Lista de verificação da Priorização de Requisitos Elicitados com foto da fonte  | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---moscow) |||||
-| Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--cenários) |||||
-| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item | 0 |||||
-| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--casos-de-uso) |||||
-| Quantidade de itens da Lista de verificação do Backlog com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---backlog) |||||
-| Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---especificação-suplementar) |||||
-| Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-histórias-de-usuário) |||||
-| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---nfr-framework) |||||
-| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---elos-de-rastreabilidade)  |||||
-| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 |||||
+| Quantidade de Requisitos Funcionais não implementados criados no protótipo pelo estudante  | 3 - [Protótipos de n° 3, 4 e 6](../analise/prototipos.md#protótipos---antonio-carvalho) | |   |[Protótipos de n° 5](../analise/prototipos?id=prototipo05)  |   |   |
+| Validação dos Protótipos com o usuário com gravação presencial | [Sim](../analise/prototipos.md#protótipos---antonio-carvalho) | |   | Não  |   |   | 
+| Quantidade de itens da Lista de verificação do RichPictures com foto da fonte do item | 19 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-da-rich-picture) || | 0 ||
+| Quantidade de itens da Lista de verificação do Perfil do usuário com foto da fonte do item | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-perfil-de-usuário) ||| 2 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-perfil-de-usuário) ||
+| Quantidade de itens da Lista de verificação de Elicitação de Requisitos com foto da fonte do item | 0 ||| 6 - [Itens com Foto de Referência](../analise/verificacao_geral?id=tabela-de-verificação-técnica-de-elicitação-entrevista) ||
+| Quantidade de itens da Lista de verificação da Priorização de Requisitos Elicitados com foto da fonte  | 10 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---moscow) ||| 0 ||
+| Quantidade de itens da Lista de verificação de Cenarios com foto da fonte do item| 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--cenários) ||| 6 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--cenários) ||
+| Quantidade de itens da Lista de verificação de Lexicos com foto da fonte do item | 0 ||| 0 ||
+| Quantidade de itens da Lista de verificação dos Casos de Uso com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--casos-de-uso) ||| 17 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação--casos-de-uso)||
+| Quantidade de itens da Lista de verificação do Backlog com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---backlog) ||| 0||
+| Quantidade de itens da Lista de verificação de Especificações Suplementar com foto da fonte do item  | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---especificação-suplementar) ||| 9 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---especificação-suplementar)  ||
+| Quantidade de itens da Lista de verificação das Historias de Usuarios com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-histórias-de-usuário) ||| 1 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação-histórias-de-usuário) ||
+| Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---nfr-framework) ||| 0 ||
+| Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---elos-de-rastreabilidade)  ||| 0||
+| Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 ||| 0 ||
 | **Documentos criados** | 77 | |  |  |  |  |
-| **Documentos revisados** | 15 (Revisor em documentos unitários) |  |  | |  |  | 
+| **Documentos revisados** | 16 |  |  | |  |  | 
 
 <font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
 
@@ -165,7 +172,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) | |  | |  |  | 
 | Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |  |  |  | 
 | **Documentos criados** | 7 |  |  |  |  |  | 
-| **Documentos revisados** | 0 |  |  |  |  |  | 
+| **Documentos revisados** | 1 |  |  |  |  |  | 
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
@@ -176,6 +183,14 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 ## Facilidades e Dificuldades do Projeto
 
 #### Antonio Carvalho
+> *A ser preenchido.*
+
+---
+
+#### Letícia Paiva
+
+> A maior dificuldade que enfrentei foi conciliar as demandas da disciplina com o estágio, as demais matérias e, principalmente, alinhar os horários com os outros membros do grupo, já que a maioria das entregas tinha prazo de apenas uma semana. Ainda assim, mesmo diante desses desafios, consegui perceber claramente a minha evolução e a do grupo a cada etapa, demonstrando uma compreensão cada vez maior sobre o conteúdo trabalhado na disciplina.
+
 
 ---
 

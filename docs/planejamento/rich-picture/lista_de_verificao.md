@@ -63,7 +63,7 @@ A base conceitual foi desenvolvida com base nos fundamentos do **CTEC2402**.
 
 | Versão | Data       | Descrição                                        | Autores       | Revisores               |
 |-------:|------------|--------------------------------------------------|---------------|-------------------------|
-| 1.0    | 12/11/2025 | Criação da lista de verificação de Rich Picture | Antonio Carvalho |    |
+| 1.0    | 12/11/2025 | Criação da lista de verificação de Rich Picture | Antonio Carvalho | Letícia Paiva   |
 
 ---
 

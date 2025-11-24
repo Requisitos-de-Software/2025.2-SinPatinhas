@@ -1,5 +1,5 @@
 ## Lista de Verificação – Diagrama de Caso de Uso
-**Autor: Letícia Paiva
+**Autora:** Leticia Paiva
 
 | Item | Descrição | Autor(es) | Referências |
 |------|----------|-----------|------------|
