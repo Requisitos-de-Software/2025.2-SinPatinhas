@@ -17,7 +17,7 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de novembr
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
-| **Código** | `#CEN07` |
+| **Código** | `#CEN11` |
 | **Título** | Usuário Acessa a Área de Instruções Integradas |
 | **Metas/Objetivos** | Disponibilizar um ambiente centralizado onde tutores, veterinários e ONGs possam acessar instruções, orientações e materiais educativos relacionados à saúde, bem-estar e regulamentação de animais. |
 | **Contexto** | **Local:** Portal web ou aplicativo do SinPatinhas.<br>**Tempo:** A qualquer momento, mediante acesso autenticado.<br>**Pré-condição:** O usuário deve possuir um cadastro ativo no sistema e estar logado em sua conta. |
@@ -37,7 +37,7 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de novembr
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
-| **Código** | `#CEN08` |
+| **Código** | `#CEN12` |
 | **Título** | Sistema Envia Notificação de Atualização Cadastral ao Tutor |
 | **Metas/Objetivos** | Garantir que os tutores mantenham atualizadas as informações e fotos dos animais cadastrados, reforçando a confiabilidade do sistema. |
 | **Contexto** | **Local:** Acesso ao e-mail ou sistema web do SinPatinhas.<br>**Tempo:** Periodicamente a cada 1 ano.<br>**Pré-condição:** O tutor possui cadastro ativo e um ou mais animais registrados no sistema. |
