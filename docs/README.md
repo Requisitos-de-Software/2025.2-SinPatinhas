@@ -12,6 +12,8 @@ Coordenado pelo **Ministério do Meio Ambiente e Mudança do Clima**, o SinPatin
 
 > “Seu objetivo é tirar os animais da invisibilidade, reunindo dados essenciais para o planejamento de políticas públicas de bem-estar animal.”
 
+**Documentações do App e seu uso para análise e estudo:** [Lei nº 15.046/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L15046.htm), [Decreto nº 12.439/2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Decreto/D12439.htm), [Perguntas e Respostas - Ministério do Meio Ambiente](https://www.gov.br/mma/pt-br/noticias/perguntas-e-respostas-sobre-o-propatinhas-e-o-sinpatinhas) e ["RG para cães e gatos - Página do Planalto"](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2025/04/rg-para-caes-e-gatos-tire-duvidas-sobre-a-nova-acao-do-governo-federal),
+
 ---
 
 ## Funcionalidades

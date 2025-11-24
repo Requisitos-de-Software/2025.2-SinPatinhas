@@ -26,6 +26,23 @@ A técnica **MoSCoW** agrupa os requisitos em quatro categorias de prioridade:
 
 ---
 
+## Priorização com tutor de animal
+
+A priorização com o tutor foi feita de forma presencial, no dia 07 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WY3oytolFS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+
+### Participantes da priorização
+
+| Participante | Papel |
+| ------------ | ----- |
+| Antonio Carvalho | Integrante do grupo, responsável por fazer a priorização com a tutor. |
+| Pedro Gomes | Integrante do grupo, responsável por fazer a priorização com a tutor. |
+| Douglas Wilson | Estudante de Engenharia de Software de 22 anos de idade, responsável por priorizar os requisitos. |
+
+---
+
 ## Requisitos Funcionais – Resultados da Priorização
 
 **Tabela 1 – Classificação MoSCoW dos requisitos funcionais implementados.**

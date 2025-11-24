@@ -205,9 +205,9 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 #### Antonio Carvalho
 
-> Primarioamente, em relação às facilidades, tive contato prévio com métodos de elicitação de requisitos no estágio que faço, então, foi ótimo rever alguns conceitos na disciplina e aprender a gerar novos tipos de artefatos para implementar. No que diz respeito à parte técnica, usei previamente ferramentas de versionamento, como o Git, e serviços de hospedagem, como Github, BitBucket e GitLab, e também já fazia arquivos para documentação em linguagem de marcação Markdown. 
+> Primariamente, em relação às facilidades, tive contato prévio com métodos de elicitação de requisitos no estágio em que atuo, então foi positivo revisar alguns conceitos na disciplina e aprender a gerar novos tipos de artefatos para implementar. No aspecto técnico, eu já havia utilizado ferramentas de versionamento, como Git, e serviços de hospedagem, como GitHub, Bitbucket e GitLab, além de já ter familiaridade com documentação utilizando linguagem de marcação Markdown.
 
-> Concomitantemente, durante o processo, tive dificuldades para equilibrar minhas responsabilidades pessoais e acadêmicas com o ritmo de execução da equipe, que, por fatores compreensíveis, acabou concentrando grande parte das atividades próximo aos prazos finais e acelerando etapas que ainda estavam pendentes. Percebi que, em alguns momentos, a colaboração poderia ter sido melhor distribuída ao longo do tempo.
+> Concomitantemente, durante o processo, tive dificuldades para equilibrar minhas responsabilidades pessoais e acadêmicas com o ritmo de execução da equipe, que, por motivos compreensíveis, acabou concentrando boa parte das atividades próximo aos prazos finais e acelerando etapas que ainda estavam pendentes. Percebi que, em alguns momentos, a colaboração poderia ter sido melhor distribuída ao longo do tempo.
 
 ---
 

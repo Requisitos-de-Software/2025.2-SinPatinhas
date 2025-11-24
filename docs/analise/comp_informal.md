@@ -47,6 +47,10 @@ Selecionar um membro experiente aumenta a confiabilidade da validação, garanti
 
 ### Atualizações
 
+![Integração com desenvolvedor sênior do projeto](../assets/images/analise/comp_informal/screenshot_3.jpg)
+
+*Imagem de n° 3: Busca de alinhamento para realização da reunião*
+
 Até o momento estamos aguardando confirmação para **validação da análise e elicitação de requisitos sobre o projeto** em reunião com o desenvolvedor.
 
 ---
@@ -69,3 +73,4 @@ A base conceitual foi desenvolvida com base nos fundamentos de engenharia de req
 | Versão | Data       | Descrição                                                                                   | Autor(es)         | Revisor(es) |
 |--------|------------|---------------------------------------------------------------------------------------------|-------------------|-------------|
 | 1.0    | 19/11/2025 | Criação da página, estruturação da sessão e registro da validação informal dos requisitos. | Antonio Carvalho  |             |
+| 1.1    | 23/11/2025 | Registro de novas interações. | Antonio Carvalho  |             |

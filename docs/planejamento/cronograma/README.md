@@ -20,7 +20,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 06/09/2025     | 07/09/2025      | Montagem do cronograma detalhado e Rich Picture                              | Antonio e Pedro                                                | Não se aplica  | Não se aplica   |
 | 06/09/2025     | 07/09/2025      | Criação do heatmap de disponibilidade                                        | Luciano                                                        | Não se aplica  | Não se aplica   |
 | 07/09/2025     | 08/09/2025      | Revisão geral e gravação da apresentação                                     | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro      | Não se aplica  | Não se aplica   |
-| 08/09/2025     | 09/09/2025      | Entrega                                                                       | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro      | Não se aplica  | Não se aplica   |
+| 08/09/2025     | 09/09/2025      | Gravação e Entrega                                                                       | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro      | Não se aplica  | Não se aplica   |
 | 15/09/2025     | 16/09/2025      | Revisão/ajustes nos artefatos devido às considerações dos monitores/professor| Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro      | Não se aplica  | Não se aplica   |
 
 
@@ -39,7 +39,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 06/09/2025 | 07/09/2025 | Rich Picture | Mateus | Entregue | – |
 | 06/09/2025 | 07/09/2025 | Montagem do cronograma detalhado | Antonio | Entregue | – |
 | 07/09/2025 | 08/09/2025 | Revisão geral e gravação da apresentação | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Entregue | – |
-| 08/09/2025 | 09/09/2025 | Entrega | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Entregue | – |
+| 08/09/2025 | 09/09/2025 | Gravação e Entrega | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Entregue | – |
 | 15/09/2025 | 16/09/2025 | Revisão/ajustes nos artefatos devido às considerações dos monitores/professor | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Entregue | – |
 | 16/11/2025 | 17/11/2025 | Inspeção do nosso grupo na 1ª etapa do projeto | – | – | – |
 | 16/11/2025 | 17/11/2025 | Inspeção do grupo +1 - Etapa 1 | – | – | – |
@@ -63,7 +63,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 25/09/2025 | 26/09/2025 | Definição das técnicas de priorização | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 25/09/2025 | 26/09/2025 | Upload das técnicas de priorização no site | Antonio | Não se aplica | Não se aplica |
 | 26/09/2025 | 27/09/2025 | Revisão geral e gravação da apresentação | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
-| 29/09/2025 | 30/09/2025 | Entrega | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
+| 29/09/2025 | 30/09/2025 | Gravação e Entrega | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 30/09/2025 | 01/10/2025 | Inspeção Etapa 2 - Grupo 2 | Pedro e Heloísa | Não se aplica | Não se aplica |
 | 02/10/2025 | 03/10/2025 | Revisão/ajustes nos artefatos devido às considerações dos monitores/professor | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 16/11/2025 | 17/11/2025 | Apresentação da 2ª etapa do projeto (Correção) | – | – | – |
@@ -86,7 +86,6 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 26/09/2025 | 27/09/2025 | Upload da página das técnicas de priorização no site | Antonio | Entregue | – |
 | 29/09/2025 | 30/09/2025 | Inspeção do grupo +1 - Etapa 2 | Antonio e Heloisa | Entregue | – |
 | 17/10/2025 | 18/10/2025 | Elaboração de página com abordagem e aplicação da MoSCoW | Antonio | Entregue | – |
-| 16/11/2025 | 17/11/2025 | Apresentação da 2ª etapa do projeto (Correção) | – | – | – |
 
 
 <p style="text-align: center;"><b>Tabela 4</b> – Cronograma Executado da Etapa 2</p>
@@ -103,7 +102,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 08/10/2025 | 09/10/2025 | Especificação de Casos de Uso | Pedro, Heloísa | Não se aplica | Não se aplica |
 | 10/10/2025 | 11/10/2025 | Elaboração do Diagrama de Classes | Mateus, Luciano | Não se aplica | Não se aplica |
 | 12/10/2025 | 13/10/2025 | Validação dos Modelos Tradicionais | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
-| 13/10/2025 | 14/10/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
+| 13/10/2025 | 14/10/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 17/10/2025 | 18/10/2025 | Revisão e ajustes pós-feedback | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 
 <p style="text-align: center;"><b>Tabela 5</b> – Cronograma Planejado da Etapa 3</p>
@@ -119,7 +118,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 11/10/2025 | 12/10/2025 | Especificação dos Casos de Uso | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 11/10/2025 | 12/10/2025 | Validação Unitária dos Modelos Tradicionais | Antonio | Entregue | – |
 | 11/10/2025 | 12/10/2025 | Criação das páginas unitárias criando artefatos após validação dos Modelos Tradicionais | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
-| 11/10/2025 | 12/10/2025 | Apresentação | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
+| 11/10/2025 | 12/10/2025 | Apresentação em gravação da entrega da etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 15/10/2025 | 16/10/2025 | Revisão e ajustes pós-feedback | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 15/10/2025 | 16/10/2025 | Inspeção Grupo +1 - Etapa 3 | Heloisa | Entregue | – |
 | 16/11/2025 | 17/11/2025 | Inspeção do nosso grupo na 3ª etapa do projeto | – | – | – |
@@ -140,7 +139,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 22/10/2025 | 23/10/2025 | Construção do Backlog do Produto | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 24/10/2025 | 25/10/2025 | Construção dos Diagramas Ágeis (User Story Mapping, etc.) | Antonio, Letícia | Não se aplica | Não se aplica |
 | 26/10/2025 | 27/10/2025 | Revisão e validação das histórias com stakeholders | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
-| 27/10/2025 | 28/10/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
+| 27/10/2025 | 28/10/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 30/10/2025 | 31/10/2025 | Revisão e ajustes pós-feedback | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 
 <p style="text-align: center;"><b>Tabela 7</b> – Cronograma Planejado da Etapa 4</p>
@@ -155,7 +154,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 13/11/2025 | 14/11/2025 | Elaboração da página dos Modelos Ágeis e como devem ser feitos | Antonio | Entregue | – |
 | 20/10/2025 | 21/10/2025 | Criação das páginas unitárias criando artefatos | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 11/10/2025 | 12/10/2025 | Validação Unitária dos Modelos Tradicionais | Antonio | Entregue | – |
-| 27/10/2025 | 28/10/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
+| 27/10/2025 | 28/10/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 30/10/2025 | 31/10/2025 | Revisão e ajustes pós-feedback | Antonio | Entregue | – |
 | 16/11/2025 | 17/11/2025 | Inspeção do grupo +1 - Etapa 4 | – | Entregue | – |
 | 16/11/2025 | 17/11/2025 | Inspeção do nosso grupo na 4ª etapa do projeto | – | – | – |
@@ -175,7 +174,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 03/11/2025 | 04/11/2025 | Aplicação das técnicas de validação (MoSCoW, SMART, INVEST) | Pedro, Heloísa | Não se aplica | Não se aplica |
 | 05/11/2025 | 06/11/2025 | Consolidação das métricas de qualidade | Antonio, Mateus | Não se aplica | Não se aplica |
 | 07/11/2025 | 08/11/2025 | Validação cruzada entre os artefatos | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
-| 09/11/2025 | 10/11/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
+| 09/11/2025 | 10/11/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 13/11/2025 | 14/11/2025 | Revisão e ajustes pós-feedback | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 
 <p style="text-align: center;"><b>Tabela 9</b> – Cronograma Planejado da Etapa 5</p>
@@ -191,7 +190,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 08/11/2025 | 09/11/2025 | Criação da página geral de protótipos | Pedro | Entregue | – |
 | 08/11/2025 | 09/11/2025 | Criação dos protótipos unitários | Antonio e Pedro | Entregue | – |
 | 10/11/2025 | 11/11/2025 | Criação das listas de verificação unitários | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
-| 11/11/2025 | 12/11/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
+| 11/11/2025 | 12/11/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 11/11/2025 | 12/11/2025 | Inspeções | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 12/11/2025 | 13/11/2025 | Revisão pós-feedback | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 18/11/2025 | 19/11/2025 | Criação da página de comprovação informal | Antonio | Entregue | – |
@@ -212,7 +211,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 01/11/2025 | 02/11/2025 | Criação da página geral de elos | Heloísa e Luciano | Não se aplica | Não se aplica |
 | 01/11/2025 | 02/11/2025 | Criação da página de matriz geral | Isaac e Mateus | Não se aplica | Não se aplica |
 | 02/11/2025 | 03/11/2025 | Criação dos artefatos unitários de elos e contribuição para matrizes | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
-| 03/11/2025 | 04/11/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
+| 03/11/2025 | 04/11/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 03/11/2025 | 04/11/2025 | Inspeções | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 | 05/11/2025 | 06/11/2025 | Revisão pós-feedback | Antonio, Heloisa, Isaac, Letícia, Luciano, Mateus e Pedro | Não se aplica | Não se aplica |
 
@@ -229,7 +228,7 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | 25/10/2025 | 26/10/2025 | Criação da página geral de elos | Antonio | Entregue | – |
 | 25/10/2025 | 26/10/2025 | Criação da página de matriz geral | Antonio | Entregue | – |
 | 26/10/2025 | 27/10/2025 | Criação dos artefatos unitários de elos e contribuição para matrizes | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
-| 27/10/2025 | 28/10/2025 | Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
+| 27/10/2025 | 28/10/2025 | Gravação e Entrega da Etapa | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 | 28/10/2025 | 29/10/2025 | Inspeções | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | – | – |
 | 30/10/2025 | 31/10/2025 | Revisão pós-feedback | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | Entregue | – |
 
@@ -259,9 +258,9 @@ O cronograma visa à organização de todas as tarefas que deverão ser realizad
 | Data de Início | Data de Término | Atividade | Responsável | Status | Observações |
 |----------------|-----------------|-----------|-------------|--------|-------------|
 | 19/11/2025 | 21/11/2025 | Criação do documento final e estruturação geral | Antonio | Entregue | - |
-| 19/11/2025 | 24/11/2025 | Integração dos artefatos em documento final | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | - | - |
-| 21/11/2025 | 24/11/2025 | Revisão completa do projeto | Antonio | - | - |
-| 23/11/2025 | 23/11/2025 | Gravação da apresentação final | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | - | - |
+| 19/11/2025 | 24/11/2025 | Integração dos artefatos em documento final | Antonio, Letícia,  | - | - |
+| 21/11/2025 | 24/11/2025 | Revisão completa do projeto | Antonio, Letícia,  | - | - |
+| 24/11/2025 | 24/11/2025 | Gravação da apresentação final | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | - | - |
 | 24/11/2025 | 24/11/2025 | Entrega final | Antonio, Heloisa, Isaac, Letícia, Mateus e Pedro | - | - |
 
 <p style="text-align: center;"><b>Tabela 14</b> – Cronograma Executado do Projeto Final</p>
