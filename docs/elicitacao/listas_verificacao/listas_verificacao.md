@@ -4,10 +4,13 @@
 
 ---
 
+<a id="inicio"></a>
+
 ##  Navegação – Listas de Verificação
 
 | Lista | Autoria | Acesso |
 |------|------|------|
+| Rich-Picture | Antonio Carvalho | [Ir para lista](#rich) |
 | Cenários | Letícia Paiva | [Ir para lista](#cenarios) |
 | Rastreabilidade | Antonio Carvalho | [Ir para lista](#rastreabilidade) |
 | Elicitação | Letícia Paiva | [Ir para lista](#elicitacao) |
@@ -15,11 +18,63 @@
 | Perfil de Usuário | Heloisa | [Ir para lista](#perfil-usuario) |
 | História de Usuário | Pedro | [Ir para lista](#historia-usuario) |
 | Técnicas de Priorização | Letícia Paiva | [Ir para lista](#priorizacao) |
+| NRF-Framework | Antonio Carvalho | [Ir para lista](#nfr) |
+| Backlog | Antonio Carvalho | [Ir para lista](#backlog) |
+| Casos de Uso | Antonio Carvalho | [Ir para lista](#usecase) |
+| Especificações Suplementar | Antonio Carvalho | [Ir para lista](#espec) |
+
+---
+
+<a id="rich"></a>
+
+# Tabela de Lista de verificação – Rich-Picture
+
+**Autor:** Antonio Carvalho
+
+<div class="plan-grid"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Item</th>
+      <th>Autores</th>
+      <th>Conforme</th>
+      <th>Não Conforme</th>
+      <th>Link para referência bibliográfica</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Os atores que interagem com o sistema foram identificados?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/4nZQ1V83">Questão 1</a></td></tr>
+    <tr><td>2</td><td>Cada ator está representado graficamente por um boneco (homem palito)?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/4nZQ1V83">Questão 2</a></td></tr>
+    <tr><td>3</td><td>Cada ator tem um rótulo descritivo claro (ex.: Usuário, Gerente, Cliente)?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/4nZQ1V83">Questão 3</a></td></tr>
+    <tr><td>4</td><td>Há atores que representam grupos (ex.: “Equipe de Suporte”) quando aplicável?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/4nZQ1V83">Questão 4</a></td></tr>
+    <tr><td>5</td><td>Cada ator tem pelo menos uma operação associada?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/4nZQ1V83">Questão 5</a></td></tr>
+    <tr><td>6</td><td>As operações (processos/funções) que o sistema executa foram listadas?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/hFK85t0H">Questão 6</a></td></tr>
+    <tr><td>7</td><td>Cada operação está representada graficamente por um círculo ou oval?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/hFK85t0H">Questão 7</a></td></tr>
+    <tr><td>8</td><td>Cada operação tem um rótulo descritivo dentro do oval?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/hFK85t0H">Questão 8</a></td></tr>
+    <tr><td>9</td><td>Todas as operações estão corretamente associadas a um ou mais atores?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/hFK85t0H">Questão 9</a></td></tr>
+    <tr><td>10</td><td>Foram identificados os data stores (tabelas, arquivos, registros) usados no sistema?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/cKsbz5FX">Questão 10</a></td></tr>
+    <tr><td>11</td><td>Cada data store está representado graficamente por um retângulo?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/cKsbz5FX">Questão 11</a></td></tr>
+    <tr><td>12</td><td>Cada data store possui indicação do tipo de dado que armazena?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/cKsbz5FX">Questão 12</a></td></tr>
+    <tr><td>13</td><td>Apenas operações estão conectadas a data stores (leitura/escrita)?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/cKsbz5FX">Questão 13</a></td></tr>
+    <tr><td>14</td><td>Todos os fluxos de informação entre atores, operações e data stores estão representados?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/FkLgj308">Questão 14</a></td></tr>
+    <tr><td>15</td><td>Cada seta possui apenas uma direção clara (entrada ou saída)?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/FkLgj308">Questão 15</a></td></tr>
+    <tr><td>16</td><td>Cada seta tem um rótulo descritivo indicando que tipo de dado/informação circula?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/FkLgj308">Questão 16</a></td></tr>
+    <tr><td>17</td><td>Foi traçada a fronteira do sistema delimitando a área de responsabilidade?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/ycdvHFVW">Questão 17</a></td></tr>
+    <tr><td>18</td><td>Apenas os elementos dentro da fronteira são de responsabilidade do sistema em análise?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/ycdvHFVW">Questão 18</a></td></tr>
+    <tr><td>19</td><td>Foi verificado que os elementos fora da fronteira foram corretamente excluídos da responsabilidade do sistema?</td><td>Antonio Carvalho</td><td><input type="checkbox"></td><td><input type="checkbox"></td><td><a href="https://ibb.co/ycdvHFVW">Questão 19</a></td></tr>
+  </tbody>
+</table>
+
+[Voltar ao início](#inicio)
 
 ---
 
 <a id="cenarios"></a>
+
 # Lista de verificação – Cenários
+
 **Autora:** Letícia Paiva
 
 | # | Item | Autores | Referência |
@@ -45,11 +100,14 @@
 | 19 | Há descrição de planejamento (como o ator pensa e decide)? | Antonio Carvalho | https://ibb.co/nsf0QTsJ |
 | 20 | As ações e eventos estão narrados em sequência lógica e detalhada? | Antonio Carvalho | https://ibb.co/SDSqsWN3 |
 
-----
+[Voltar ao início](#inicio)
+
+---
 
 <a id="rastreabilidade"></a>
 
-# Lista de Verificação – Rastreabilidade
+# Tabela de Lista de Verificação – Rastreabilidade
+
 **Autor:** Antonio Carvalho
 
 <div class="plan-grid"></div>
@@ -109,6 +167,8 @@
   </tbody>
 </table>
 
+[Voltar ao início](#inicio)
+
 ---
 
 <a id="elicitacao"></a>
@@ -133,6 +193,7 @@
 | 13 | O documento final com o entendimento do que foi discutido foi enviado ao entrevistado para revisão e confirmação? | Letícia Paiva / Pedro | https://ibb.co/Y7yRZbTx |
 | 14 | Foi recebida a confirmação (“de acordo”) do entrevistado sobre o documento de entendimento enviado? | Letícia Paiva / Pedro | https://ibb.co/Nndzb086 |
 
+[Voltar ao início](#inicio)
 
 ---
 
@@ -157,6 +218,8 @@
 | 12 | A persona possui expectativas sobre o funcionamento do produto? | Mateus / Letícia / Pedro / Heloisa | https://ibb.co/21wXy9WG |
 | 13 | O elenco possui ao menos uma persona primária? | Pedro / Heloisa / Mateus |  |
 | 14 | O elenco de personas possui no mínimo 3 e no máximo 12 personas distintas? | Heloisa / Pedro |  |
+
+[Voltar ao início](#inicio)
 
 ---
 
@@ -187,6 +250,8 @@
 | 17 | A experiência prévia do usuário com computadores e outros sistemas foi documentada? | Leticia / Pedro / Mateus | https://ibb.co/bMrjyk17 |
 | 18 | O perfil detalha a experiência com produtos similares ou concorrentes? | Pedro | https://ibb.co/bMrjyk17 |
 
+[Voltar ao início](#inicio)
+
 ---
 
 
@@ -212,6 +277,8 @@
 | 013 | É clara, objetiva e curta o suficiente para caber em um cartão? | Heloísa | |
 | 014 | Segue o formato: “Como [ator], eu quero [ação] para [benefício]”? | Heloísa / Mateus | |
 | 015 | A equipe de desenvolvimento estima o esforço? | Helena / Mateus | |
+
+[Voltar ao início](#inicio)
 
 ---
 
@@ -285,10 +352,270 @@
 | 55 | Foram agrupadas prioridades similares ou dependentes? | Luciano Machado | https://ibb.co/b5Kbfmnm |
 | 56 | Foi atribuído um número único para cada requisito? | Luciano Machado | https://ibb.co/fGrpDXNS |
 
+[Voltar ao início](#inicio)
+
 ---
 
+<a id="nfr"></a>
 
+# Tabela de Lista de Verificação - NFR-Framework
+
+**Autor:** Antonio Carvalho
+
+<div class="plan-grid"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Item</th>
+      <th>Conforme</th>
+      <th>Não Conforme</th>
+      <th>Autores</th>
+      <th>Referências</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>001</td>
+      <td>Foram definidos requisitos de Confiabilidade para garantir que o sistema execute sua função sob limites especificados?</td>
+      <td><input type="checkbox" name="conforme1"></td>
+      <td><input type="checkbox" name="nao_conforme1"></td>
+      <td>Leticia</td>
+      <td><a href="https://ibb.co/fGrpDXNS">Referência</a></td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>Foram definidos requisitos de Desempenho relacionados ao tempo de computação e ao consumo de recursos?</td>
+      <td><input type="checkbox" name="conforme2"></td>
+      <td><input type="checkbox" name="nao_conforme2"></td>
+      <td>Leticia</td>
+      <td><a href="https://ibb.co/5x1FgrPL">Referência</a></td>
+    </tr>
+    <tr>
+      <td>003</td>
+      <td>Os Requisitos Não-Funcionais são expressos através de softgoals?</td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="">Referência</a></td>
+    </tr>
+    <tr>
+      <td>004</td>
+      <td>Os softgoals são divididos em três tipos: NFR, de Operacionalização e de Afirmação?</td>
+      <td><input type="checkbox" name="conforme4"></td>
+      <td><input type="checkbox" name="nao_conforme4"></td>
+      <td>Isaac</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>005</td>
+      <td>Os softgoals NFR estão representados de forma hierárquica?</td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Matheus</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>006</td>
+      <td>O modelo identifica e trata os requisitos não funcionais como cidadãos de primeira ordem? </td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/yc2m9z6n">Referência</a></td>
+    </tr>
+    <tr>
+      <td>007</td>
+      <td>O artefato utiliza o modelo Softgoal Interdependency Graph (SIG)? </td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/VcdgX3Tf">Referência</a></td>
+    </tr>
+    <tr>
+      <td>008</td>
+      <td>Cada requisito não funcional está representado como um NFR Softgoal? </td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/YTZG30kr">Referência</a></td>
+    </tr>
+    <tr>
+      <td>009</td>
+      <td>Há operacionalizações (Operationalizing Softgoals) para cada softgoal identificado?</td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/6RXfcf0q">Referência</a></td>
+    </tr>
+    <tr>
+      <td>010</td>
+      <td>As relações de contribuição entre softgoals estão explicitadas (Make, Help, Hurt, 
+Break etc.)?</td>
+      <td><input type="checkbox" name="conforme5"></td>
+      <td><input type="checkbox" name="nao_conforme5"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/twHmYgct">Referência</a></td>
+    </tr>
+  </tbody>
+</table>
+
+[Voltar ao início](#inicio)
+
+---
+
+<a id="backlog"></a>
+
+# Tabela de Lista de Verificação - Backlog
+
+**Autor:** Antonio Carvalho
+
+<div class="plan-grid"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Item</th>
+      <th>Conforme</th>
+      <th>Não Conforme</th>
+      <th>Autores</th>
+      <th>Referências</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>001</td>
+      <td>A equipe de desenvolvimento e o Product Owner concordaram previamente com os critérios de aceitação antes da execução da Sprint? </td>
+      <td><input type="checkbox" name="conforme1"></td>
+      <td><input type="checkbox" name="nao_conforme1"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/HTHHzGMv">Referência</a></td>
+    </tr>
+    <tr>
+      <td>002</td>
+      <td>As funcionalidades listadas no backlog fornecem valor comercial ao cliente?</td>
+      <td><input type="checkbox" name="conforme2"></td>
+      <td><input type="checkbox" name="nao_conforme2"></td>
+      <td>Heloisa</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>003</td>
+      <td>O backlog possui funcionalidades que o produto deve ter?</td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Matheus</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>004</td>
+      <td>O Product Backlog é atualizado e refinado continuamente conforme o aprendizado sobre o produto e os usuários? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/KjCQDgG6">Referência</a></td>
+    </tr>
+    <tr>
+      <td>005</td>
+      <td> O Product Backlog contém todas as funcionalidades desejadas e está sob responsabilidade do Product Owner? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/DH1KRt84">Referência</a></td>
+    </tr>
+    <tr>
+      <td>006</td>
+      <td>As estimativas de esforço foram registradas em Story Points e são atualizadas conforme o andamento da Sprint? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/Qv9WWRnz">Referência</a></td>
+    </tr>
+    <tr>
+      <td>007</td>
+      <td> O Sprint Backlog é composto por tarefas derivadas dos itens selecionados do Product Backlog? </td>
+      <td><input type="checkbox" name="conforme3"></td>
+      <td><input type="checkbox" name="nao_conforme3"></td>
+      <td>Antonio</td>
+      <td><a href="https://ibb.co/0kzdYbw">Referência</a></td>
+    </tr>
+  </tbody>
+</table>
+
+[Voltar ao início](#inicio)
+
+---
+
+<a id="usecase"></a>
+
+## Tabela de Lista de Verificação – Diagrama de Caso de Uso
+
+**Autor:** Antonio Carvalho
+
+| Item | Descrição | Autor(es) | Referências |
+|------|----------|-----------|------------|
+| 1 | O sistema é representado por um retângulo no diagrama. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/b52j3GCq |
+| 2 | O nome do sistema está inserido no topo do retângulo. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/QjmDJNHK |
+| 3 | Todos os elementos e ações do sistema estão dentro do retângulo. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/CR0nHFw |
+| 4 | Elementos externos ao sistema estão fora do retângulo. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/5hDqWV6Q |
+| 23 | O sistema é representado por um retângulo? | Antonio Carvalho | https://ibb.co/9mZzfDg8 |
+| 24 | O nome do sistema escolhido está inserido no topo do retângulo? | Antonio Carvalho | https://ibb.co/vC28fHHG |
+| 5 | Atores são representados por um boneco palito. | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/VpbbKMzv |
+| 6 | Atores representam classes/categorias, não indivíduos. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/MDsLvDg3 |
+| 7 | Atores primários (à esquerda) iniciam o sistema. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/DDKb3rTS |
+| 8 | Atores secundários (à direita) reagem ao sistema. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/DDKb3rTS |
+| 9 | Cada ator interage com pelo menos um caso de uso. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
+| 21 | O diagrama define as pessoas, organizações ou outros sistemas que interagem com ele? | Antonio Carvalho | https://ibb.co/2X0YSQ3 |
+| 10 | Casos de uso são representados por ovais. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JjQSZ1jR |
+| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | |
+| 12 | As descrições são claras e suficientemente descritivas. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/7N1S33D8 |
+| 13 | Os casos de uso estão organizados em ordem lógica. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/q3DWQTR7 |
+| 14 | Associação é representada por uma linha sólida. | Heloisa Silva, Leticia Paiva | |
+| 15 | Relacionamentos de Inclusão (<<include>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva |https://ibb.co/v6NMpPfS |
+| 16 | Relacionamentos de Extensão (<<extend>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/v6NMpPfS |
+| 17 | Relacionamentos de Generalização (herança) estão corretos. | Antonio Carvalho, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
+| 18 | O diagrama oferece uma visão geral e simples do sistema. | Antonio Carvalho, Leticia Paiva | |
+| 19 | O diagrama possui um sistema/aplicativo para se basear? | Antonio Carvalho | https://ibb.co/9mzj6TCm |
+| 20 | As funcionalidades representadas foram validadas com o cliente. | Isaac Menezes Pereira | |
+| 22 | O diagrama também demonstra o fluxo básico do que o sistema faz? | Antonio Carvalho | https://ibb.co/cXRCHzXb |
+
+[Voltar ao início](#inicio)
+
+---
+
+<a id="espec"></a>
+
+# Tabela de Lista de Verificação – Especificação Suplementar
+
+**Autor:** Antonio Carvalho
+
+| Item | Descrição | Autor(es) | Referência |
+|------|----------|-----------|------------|
+| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | |
+| 2 | Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida? | Heloisa Silva, Leticia Paiva | https://ibb.co/Rpq0LNTW |
+| 3 | Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/mVz5bNmc |
+| 4 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | |
+| 5 | Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema? | Heloisa Silva, Leticia Paiva | https://ibb.co/BKYF3yHL |
+| 6 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | |
+| 7 | Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
+| 8 | Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
+| 9 | Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)? | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
+| 10 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | |
+| 11 | Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JRyFkX1c |
+| 12 | Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)? | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/20Y4YQDj |
+| 13 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | |
+| 14 | Introdução está completa e clara? | Antonio Carvalho | https://ibb.co/Hpq6hzNB |
+| 15 | Projeto está corretamente identificado? | Antonio Carvalho | https://ibb.co/Hp17WXJM |
+| 16 | As funcionalidades foram descritas em linguagem natural e organizadas por recurso, usuário ou subsistema? | Antonio Carvalho | https://ibb.co/N2gZdXBr |
+| 17 | Requisitos de usabilidade estão definidos com critérios mensuráveis (ex.: tempo de treinamento, tempo de execução de tarefas, conformidade com padrões)? | Antonio Carvalho | https://ibb.co/PsCyNtr8 |
+| 18 | Os requisitos de confiabilidade especificam disponibilidade, MTBF, MTTR, exatidão e taxa de erros permitida? | Antonio Carvalho | https://ibb.co/ymp2GWmB |
+
+[Voltar ao início](#inicio)
+
+---
 
 | Versão | Data       | Descrição                                              | Autores | Revisores |
 |------:|------------|----------------------------------------------------------|---------|-----------|
-| 1.0   | 23/11/2025 | Criação da página da listas unificada com referencia | Letícia |    |
+| 1.0   | 23/11/2025 | Criação da página da listas unificada com referencia | Letícia | Antonio   |
+| 1.1   | 24/11/2025 | Adição de mais listas | Antonio |    |

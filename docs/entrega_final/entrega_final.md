@@ -32,17 +32,38 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 *Esta seção reúne os **vídeos de apresentação correspondentes às entregas do projeto**. Cada link representa uma etapa concluída, permitindo acompanhar a evolução dos artefatos, técnicas aplicadas e decisões tomadas ao longo do desenvolvimento:*
 
+- [Entrega - Etapa 1](../entregas/entrega_1.md)
+- [Entrega - Etapa 2](../entregas/entrega_2.md)
+- [Entrega - Etapa 3](../entregas/entrega_3.md)
+- [Entrega - Etapa 4](../entregas/entrega_4.md)
+- [Entrega - Etapa 5](../entregas/entrega_5.md)
+- [Entrega - Etapa 6](../entregas/entrega_6.md)
+
 ---
 
 ## Relação de Inspeções do Grupo +1 (Grupo 2) e a Última do Grupo 4
 
 *Nesta seção estão os registros das **inspeções realizadas pelos grupos avaliadores externos**. Cada link corresponde a uma inspeção contendo comentários, não conformidades identificadas e sugestões de melhoria para o projeto:*
 
+- [Inspeção do Grupo 2 - Etapa 1](../inspecoes/inspecao_g2_e1.md)
+- [Inspeção do Grupo 2 - Etapa 2](../inspecoes/inspecao_g2_e2.md)
+- [Inspeção do Grupo 2 - Etapa 3](../inspecoes/inspecao_g2_e3.md)
+- [Inspeção do Grupo 2 - Etapa 4](../inspecoes/inspecao_g2_e4.md)
+- [Inspeção do Grupo 2 - Etapa 5](../inspecoes/inspecao_g2_e5.md)
+- [Inspeção do Grupo 4 - Etapa 6](../inspecoes/inspecao_g4_e6.md)
+
 ---
 
 ## Relação de Inspeções do Nosso Grupo (SinPatinhas)
 
 *Aqui serão listadas as **inspeções conduzidas pelo próprio grupo SinPatinhas durante o processo de avaliação**. Os links incluem evidências, formulários preenchidos e eventuais ajustes realizados após cada verificação:*
+
+- [Inspeção do SinPatinhas - Etapa 1](../inspecoes/insp_g1_e1.md)
+- [Inspeção do SinPatinhas - Etapa 2](../inspecoes/insp_g1_e2.md)
+- [Inspeção do SinPatinhas - Etapa 3](../inspecoes/insp_g1_e3.md)
+- [Inspeção do SinPatinhas - Etapa 4](../inspecoes/insp_g1_e4.md)
+- [Inspeção do SinPatinhas - Etapa 5](../inspecoes/insp_g1_e5.md)
+- [Inspeção do SinPatinhas - Etapa 6](../inspecoes/insp_g1_e6.md)
 
 ---
 
@@ -183,7 +204,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 ## Facilidades e Dificuldades do Projeto
 
 #### Antonio Carvalho
-> *A ser preenchido.*
+
+> Primarioamente, em relação às facilidades, tive contato prévio com métodos de elicitação de requisitos no estágio que faço, então, foi ótimo rever alguns conceitos na disciplina e aprender a gerar novos tipos de artefatos para implementar. No que diz respeito à parte técnica, usei previamente ferramentas de versionamento, como o Git, e serviços de hospedagem, como Github, BitBucket e GitLab, e também já fazia arquivos para documentação em linguagem de marcação Markdown. 
+
+> Concomitantemente, durante o processo, tive dificuldades para equilibrar minhas responsabilidades pessoais e acadêmicas com o ritmo de execução da equipe, que, por fatores compreensíveis, acabou concentrando grande parte das atividades próximo aos prazos finais e acelerando etapas que ainda estavam pendentes. Percebi que, em alguns momentos, a colaboração poderia ter sido melhor distribuída ao longo do tempo.
 
 ---
 
@@ -194,6 +218,12 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 ---
 
 ## Conclusão
+
+O desenvolvimento deste projeto representou uma oportunidade significativa de aplicação prática dos conceitos abordados ao longo da disciplina, permitindo a integração de técnicas, ferramentas e metodologias relacionadas à engenharia de requisitos. Durante o processo, foram executadas atividades como elicitação, modelagem, análise, validação e documentação, tornando possível compreender com mais profundidade os desafios envolvidos na definição clara e estruturada das necessidades de um sistema.
+
+Além dos resultados técnicos, o projeto também evidenciou aspectos importantes relacionados ao trabalho colaborativo, gestão de tempo e adaptação a diferentes ritmos e estilos de trabalho. Esse contexto contribuiu para aprimorar habilidades pessoais e profissionais, como comunicação, organização, flexibilidade, responsabilidade e tomada de decisão.
+
+---
 
 ## Agradecimentos
 
