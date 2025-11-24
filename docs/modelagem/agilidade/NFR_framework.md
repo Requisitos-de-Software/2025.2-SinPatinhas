@@ -137,8 +137,8 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 |                         | [CNFR02](#cnfr02)  | [#CNFR02](../../modelagem/gravacoes/antonio/nfr_frame.md) | Confiabilidade |
 | **Pedro Gomes**         |   | [#CNFR05](../../modelagem/gravacoes/pedro/nfr_frame.md) | Aplicativo Móvel SinPatinhas |
 |                         |   | [#CNFR06](../../modelagem/gravacoes/pedro/nfr_frame.md) | Acesso Offline à Ficha do Próprio Animal |
-| **Mateus Negrini**      |   | [#CNFR07](../../modelagem/gravacoes/mateus/nfr_frame_1.md) | Desempenho |
-|                         |   | [#CNFR08](../../modelagem/gravacoes/mateus/nfr_frame_2.md) | Confiabilidade |
+| **Mateus Negrini**      | [CNFR07](#cnfr07)  | [#CNFR07](../../modelagem/gravacoes/mateus/nfr_frame_1.md) | Desempenho |
+|                         | [CNFR08](#cnfr08)  | [#CNFR08](../../modelagem/gravacoes/mateus/nfr_frame_2.md) | Confiabilidade |
 | **Letícia Paiva**    |  [CNFR09](#cnfr09) | [#CNFR09](../../modelagem/gravacoes/leticia/nfr_frame.md) | Integração entre Clínicas, ONGs e Sistema SinPatinhas  |
 
 ---
@@ -424,6 +424,204 @@ Esse processo garante que o produto final atenda aos **requisitos de qualidade**
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
+<a id="cnfr07"></a>
+## 7° Cartão de Especificação NFR – Desempenho  
+
+| **Campo** | **Detalhamento** |
+|------------|------------------|
+| **Nr Requisito** | CNFR07 |
+| **Cartão de Especificação** | Desempenho |
+| **Descrição** | Todas as operações do sistema, incluindo consultas, atualizações e geração de relatórios, devem retornar resultados em **até 2 segundos** sob condições normais de uso (até 10000 usuários simultâneos). |
+| **Justificativa** | Garantir respostas rápidas melhora a experiência do usuário e assegura eficiência operacional do sistema, mesmo sob alta carga. |
+| **Origem** | [RNF021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021) / Entrevista 3 |
+| **Critério de Ajuste** | Todas as consultas, atualizações e relatórios devem retornar em ≤ **2 segundos** para até 10000 usuários simultâneos. |
+| **Dependências** | Infraestrutura de hardware adequada; Banco de dados otimizado; Servidores de aplicação dimensionados corretamente; Indexação e cache implementados. |
+| **Prioridade** | Alta (9/10) |
+| **Conflitos** | Otimizações de desempenho podem impactar a **consistência** dos dados ([RNF023](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023)); caching agressivo pode afetar **atualização em tempo real**. |
+| **Histórias Relacionadas** | [HU019](../../../modelagem/gravacoes/mateus/historias.md#hu019--acesso-à-area-de-instruções-integradas) / [HU023](../../../modelagem/gravacoes/mateus/historias.md#hu023--emissão-de-alertas-de-acesso-suspeito-ou-tentativas-de-violação) / [HU024](../../../modelagem/gravacoes/mateus/historias.md#hu024--vincular-foto-do-tutor-ao-registro-de-adoção) |
+| **Softgoals Relacionados** | Desempenho (MAKE ++), Disponibilidade (MAKE ++), Confiabilidade (HURT -) |
+| **Propagação de Impactos** | Melhorar desempenho **aumenta satisfação do usuário** e produtividade, mas pode demandar maior custo de infraestrutura e complexidade na implementação. |
+
+---
+
+## Tema: **Desempenho Operacional do Sistema SinPatinhas**  
+
+---
+
+## Requisito Não Funcional – RNF021  
+
+### **Identificação**
+| **Código** | **Descrição** | **Fonte** |
+|-------------|---------------|------------|
+| **RNF021** | **Desempenho: respostas rápidas em todas as operações do sistema.** | Entrevista 3 |
+
+---
+
+### **1. Categoria (Softgoal Type)**  
+**Desempenho (Performance)**  
+> Garante que o sistema execute operações críticas rapidamente, mantendo tempo de resposta aceitável para consultas, atualizações e geração de relatórios.
+
+---
+
+### **2. Softgoal Refinements (Refinamentos do Softgoal)**  
+
+| **Tipo de Refinamento** | **Softgoal Derivado** | **Descrição** |
+|--------------------------|-----------------------|----------------|
+| **Operationalization** | *Tempo de Resposta de Consultas* | Consultas aos dados devem retornar resultados em ≤ 2 segundos. |
+| **Operationalization** | *Atualizações de Dados* | Inserções e alterações em registros devem ser aplicadas em ≤ 2 segundos. |
+| **Operationalization** | *Geração de Relatórios* | Relatórios do sistema devem ser gerados em ≤ 2 segundos sob carga normal. |
+
+---
+
+### **3. Operationalizations (Mecanismos de Implementação)**  
+
+| **Operacionalização** | **Descrição Técnica** | **Ferramenta/Solução Potencial** |
+|------------------------|------------------------|----------------------------------|
+| **O1. Indexação de Banco de Dados** | Criação de índices para consultas frequentes. | MySQL / PostgreSQL / SQL Server |
+| **O2. Caching de Resultados** | Armazenamento temporário de resultados de consultas e relatórios pesados. | Redis / Memcached |
+| **O3. Balanceamento de Carga** | Distribuição de requisições entre múltiplos servidores de aplicação. | NGINX / HAProxy |
+| **O4. Otimização de Queries** | Reescrita de consultas SQL para reduzir tempo de execução. | Analisador de consultas + EXPLAIN |
+
+---
+
+### **4. Mecanismos de Avaliação (Claims e Métricas)**  
+
+| **Claim** | **Métrica de Avaliação** | **Meta** |
+|------------|--------------------------|-----------|
+| "Consultas retornam rapidamente" | Tempo médio de resposta de consultas | ≤ 2 segundos |
+| "Atualizações são aplicadas rapidamente" | Tempo médio de execução de atualização de registros | ≤ 2 segundos |
+| "Relatórios são gerados rapidamente" | Tempo médio de geração de relatórios | ≤ 2 segundos |
+
+---
+
+### **5. Interdependências (Softgoal Interactions)**  
+
+| **Relacionamento** | **Softgoal Associado** | **Tipo de Influência** |
+|---------------------|-------------------------|-------------------------|
+| RNF021 ↔ RNF023 | Confiabilidade | **-** (O desempenho pode afetar consistência de dados) |
+| RNF021 ↔ RNF024 | Auditabilidade | **-** (Logs detalhados podem impactar performance) |
+
+---
+
+### **6. Rastreabilidade**  
+| **Relação** | **Elemento Relacionado** |
+|--------------|---------------------------|
+| **Requisito Funcional Relacionado** | RFNI019 – Área de instruções integradas (manual digital) explicando passo a passo o uso das funções. / RFNI020 -	Emissão de alertas de acesso suspeito ou tentativas de violação. / RFNI022 - Vincular foto do tutor ao registro de adoção. |
+| **Histórias Relacionadas** | HU019 – Acesso à Área de Instruções Integradas / HU023 – Emissão de Alertas de Acesso Suspeito ou Tentativas de Violação / HU024 – Vincular Foto do Tutor ao Registro de Adoção |
+| **Fonte** | Entrevista 3 |
+
+---
+
+## Conclusão  
+
+| **Aspecto Avaliado** | **RNF021 (Desempenho)** |
+|-----------------------|-------------------------|
+| **Softgoal Type** | Performance |
+| **Objetivo** | Garantir respostas rápidas e eficiência operacional |
+| **Mecanismo Principal** | Indexação, caching, balanceamento de carga e otimização de queries |
+| **Métrica-chave** | Tempo de resposta ≤ 2 segundos |
+| **Interdependência Positiva** | Melhora satisfação do usuário e produtividade, mas pode aumentar custo de infraestrutura |
+
+---
+<a id="cnfr08"></a>
+## 8° Cartão de Especificação NFR – Confiabilidade  
+
+| **Campo** | **Detalhamento** |
+|------------|------------------|
+| **Nr Requisito** | CNFR08 |
+| **Cartão de Especificação** | Confiabilidade |
+| **Descrição** | Veterinários devem poder acessar dados clínicos de um animal cadastrado e acessar exames, mas **não poderão editar exames que não foram realizados por eles**. |
+| **Justificativa** | Garantir que cada profissional tenha acesso apenas às informações que pode modificar aumenta a segurança dos dados e evita erros ou alterações indevidas nos registros clínicos. |
+| **Origem** | [RNF023](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf023) / Entrevista 3 |
+| **Critério de Ajuste** | Somente o veterinário responsável pelo exame pode alterá-lo; outros usuários podem apenas visualizar. |
+| **Dependências** | Sistema de autenticação; Banco de dados com controle de usuários; Módulo de permissões e roles; Interface de acesso controlado. |
+| **Prioridade** | Alta (9/10) |
+| **Conflitos** | Restrições de acesso podem impactar **desempenho** em consultas simultâneas ([RNF021](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rnf021)); auditoria detalhada pode impactar **usabilidade**. |
+| **Histórias Relacionadas** | [HU019](../../../modelagem/gravacoes/mateus/historias.md#hu019--acesso-à-area-de-instruções-integradas)  |
+| **Softgoals Relacionados** | Confiabilidade (MAKE ++), Segurança (MAKE ++), Desempenho (HURT -) |
+| **Propagação de Impactos** | O fortalecimento da confiabilidade **reduz risco de erros clínicos** e aumenta a confiança no sistema, mas pode aumentar complexidade na implementação e impacto no desempenho. |
+
+---
+
+## Tema: **Confiabilidade e Integridade de Dados Clínicos no Sistema SinPatinhas**  
+
+---
+
+## Requisito Não Funcional – RNF023  
+
+### **Identificação**
+| **Código** | **Descrição** | **Fonte** |
+|-------------|---------------|------------|
+| **RNF023** | **Confiabilidade: controle de acesso e integridade de exames veterinários.** | Entrevista 3 |
+
+---
+
+### **1. Categoria (Softgoal Type)**  
+**Confiabilidade (Reliability)**  
+> Garante que os dados clínicos e exames só possam ser alterados por profissionais autorizados, mantendo a integridade das informações.
+
+---
+
+### **2. Softgoal Refinements (Refinamentos do Softgoal)**  
+
+| **Tipo de Refinamento** | **Softgoal Derivado** | **Descrição** |
+|--------------------------|-----------------------|----------------|
+| **Operationalization** | *Controle de Acesso a Exames* | Apenas o veterinário responsável pelo exame pode editar seus dados. |
+| **Operationalization** | *Visualização Segura de Dados Clínicos* | Outros veterinários podem visualizar, mas não alterar informações críticas. |
+| **Operationalization** | *Registro de Alterações* | Todas alterações de exames devem ser registradas com timestamp, usuário e histórico da modificação. |
+
+---
+
+### **3. Operationalizations (Mecanismos de Implementação)**  
+
+| **Operacionalização** | **Descrição Técnica** | **Ferramenta/Solução Potencial** |
+|------------------------|------------------------|----------------------------------|
+| **O1. Sistema de Permissões por Usuário** | Atribuição de roles e permissões específicas para cada veterinário. | Banco de dados com tabelas de roles + middleware de autenticação |
+| **O2. Registro de Auditoria de Exames** | Logs de alterações de exames, indicando usuário, timestamp e detalhes da modificação. | SQL Server / PostgreSQL + ORM com triggers |
+| **O3. Interface de Visualização Controlada** | Diferencia opções de edição e visualização de acordo com permissões. | React / Angular |
+| **O4. Verificação de Propriedade de Exame** | Validação no backend para impedir alterações de exames de outro veterinário. | Middleware de validação no servidor |
+
+---
+
+### **4. Mecanismos de Avaliação (Claims e Métricas)**  
+
+| **Claim** | **Métrica de Avaliação** | **Meta** |
+|------------|--------------------------|-----------|
+| "Somente veterinários autorizados podem editar exames" | Percentual de tentativas de edição bloqueadas corretamente | 100% |
+| "Outros usuários só podem visualizar dados" | Número de acessos ilegítimos permitidos | 0 casos |
+| "Alterações são auditáveis" | Cobertura de registro de alterações de exames | 100% |
+
+---
+
+### **5. Interdependências (Softgoal Interactions)**  
+
+| **Relacionamento** | **Softgoal Associado** | **Tipo de Influência** |
+|---------------------|-------------------------|-------------------------|
+| RNF023 ↔ RNF021 | Desempenho | **-** (Verificação de permissões pode impactar tempo de resposta) |
+| RNF023 ↔ RNF024 | Auditabilidade | **+** (Logs reforçam confiabilidade e rastreabilidade) |
+
+---
+
+### **6. Rastreabilidade**  
+| **Relação** | **Elemento Relacionado** |
+|--------------|---------------------------|
+| **Requisito Funcional Relacionado** | RFNI019	 – Área de instruções integradas (manual digital) explicando passo a passo o uso das funções |
+| **Histórias Relacionadas** | HU019 – Acesso à Área de Instruções Integradas  |
+| **Fonte** | Entrevista 3 |
+
+---
+
+## Conclusão  
+
+| **Aspecto Avaliado** | **RNF023 (Confiabilidade)** |
+|-----------------------|-------------------------|
+| **Softgoal Type** | Reliability |
+| **Objetivo** | Garantir integridade de dados clínicos e exames |
+| **Mecanismo Principal** | Controle de acesso baseado em roles e registro de auditoria |
+| **Métrica-chave** | 100% de bloqueio de edições não autorizadas |
+| **Interdependência Positiva** | Aumenta segurança e rastreabilidade geral do sistema |
+
+---
 <a id="cnfr09"></a>
 ## CNFR09 - 3° Cartão de Especificação NFR – Integração
 
@@ -560,6 +758,7 @@ O conteúdo conceitual e as decisões de modelagem foram elaborados por **Antoni
 |-----------|----------------------|-------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação do #CNFR01 e #CNFR02 |
 | Letícia Paiva | 16,6% | Criador dos artefatos CNFR09 |
+| Mateus Santos Negrini | 16,6% | Criador dos artefatos CNFR07 e CNFR08 |
 
 
 ## Tabela de Versionamento
