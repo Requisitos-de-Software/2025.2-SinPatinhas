@@ -65,8 +65,8 @@ A tabela a seguir apresenta os componentes utilizados.
 |                      | [UC004](#uc004) | [#UC004] | [#UC004](/modelagem/gravacoes/leticia/caso_de_uso.md) | Alertas e Notificações Automáticas (RNFI017) |
 | **Pedro Gomes**      | | [#UC005](/modelagem/gravacoes/pedro/caso_de_uso.md)   | Aplicativo Móvel |
 |                      | | [#UC006](/modelagem/gravacoes/pedro/caso_de_uso.md)   | Acesso Offline à Ficha do Animal |
-| **Mateus Santos Negrini** | | [#UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | Acesso à Área de Instruções Integradas (RF33) |
-|                           | | [#UC008](/modelagem/gravacoes/mateus/caso_de_uso.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal (RF44) |
+| **Mateus Santos Negrini** |[UC007](#uc007) | [#UC007](/modelagem/gravacoes/mateus/caso_de_uso.md) | Acesso à Área de Instruções Integradas (RF33) |
+|                           |[UC008](#uc008) | [#UC008](/modelagem/gravacoes/mateus/caso_de_uso.md) | Notificação Periódica para Atualização de Dados e Fotos do Animal (RF44) |
 | **Heloisa Silva**         | | [#UC009](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados (RFNI001) |
 |                           | | [#UC010](/modelagem/gravacoes/heloisa/casos_de_uso.md) | Sistema de avaliação numérica para estabelecimentos (RFNI010) |
 | **Isaac Menezes**         | [UC011](#uc011) | [#UC011](/modelagem/gravacoes/isaac/caso_de_uso.md) | Exibir média de consultas da clínica/hospital (RNFI014) |
@@ -237,12 +237,43 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 ### #UC007 – Acesso à Área de Instruções Integradas (RF33)
 
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | `#UC007` |
+| **Descrição** | Permitir que o usuário acesse uma área de instruções integrada ao sistema, com tutoriais e orientações interativas sobre o uso das principais funcionalidades. |
+| **Ator(es)** | Médico Veterinário / Funcionário em Treinamento |
+| **Pré-condições** | 1. O usuário deve estar autenticado no sistema.<br>2. O sistema deve possuir o módulo de Instruções Integradas habilitado. |
+| **Ação** | Consultar o Manual Digital |
+| **Fluxo Principal** | 1. O ator acessa o sistema de gestão veterinária.<br>2. O ator navega até o menu principal e seleciona a aba “Instruções”.<br>3. O sistema exibe a tela da Área de Instruções Integradas.<br>4. O ator utiliza a barra de busca ou o menu de categorias para selecionar o tema desejado (ex: “Cadastrar Tutor”, “Registrar Exames”, “Inserir Foto do Animal”).<br>5. O sistema exibe um tutorial passo a passo, com imagens, ícones e explicações curtas.<br>6. O ator segue as instruções apresentadas e executa a ação correspondente no sistema.<br>7. O sistema exibe uma mensagem de conclusão ou feedback de sucesso. |
+| **Fluxos Alternativos** | - O ator acessa a aba “Instruções” sem conexão à internet.<br>→ O sistema exibe uma versão resumida offline ou informa a indisponibilidade do conteúdo. |
+| **Fluxos de Exceção** | 1. O sistema não consegue carregar o conteúdo do manual.<br>→ Exibe mensagem: “Não foi possível carregar as instruções no momento.”<br>2. O ator busca por um tema inexistente.<br>→ O sistema exibe “Nenhum resultado encontrado” e sugere tópicos relacionados. |
+| **Pós-condições** | O ator compreende o procedimento desejado e executa corretamente as operações, reduzindo erros e perda de dados. |
+| **Data de Criação** | 12/10/2025 |
+| **Rastreabilidade** | `RF33` |
+| **Cenário Relacionado** | `#CEN07` |
+| **Léxico Relacionado** | `#LX012` |
+
 ---
 
 <a id="uc008"></a>
 
 ### #UC008 – Notificação Periódica para Atualização de Dados e Fotos do Animal (RF44)
 
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Código** | `#UC008` |
+| **Descrição** | Permitir que o sistema envie notificações periódicas aos tutores para que atualizem as informações e fotos de seus animais, garantindo que os registros permaneçam atuais e completos. |
+| **Ator(es)** | Tutor do Animal |
+| **Pré-condições** | 1. O tutor deve possuir um perfil ativo no sistema.<br>2. O perfil do animal deve estar cadastrado e associado ao tutor.<br>3. O tutor deve ter autorizado o recebimento de notificações. |
+| **Ação** | Receber e responder a notificações de atualização de dados/fotos. |
+| **Fluxo Principal** | 1. O sistema identifica automaticamente que um determinado período (ex: 6 meses) se passou desde a última atualização dos dados do animal.<br>2. O sistema gera uma notificação automática solicitando a atualização das informações e fotos.<br>3. O tutor recebe a notificação por e-mail, aplicativo ou SMS.<br>4. O tutor acessa o link ou o painel do sistema indicado na notificação.<br>5. O tutor revisa os dados do animal (nome, idade, endereço, estado de saúde, etc.).<br>6. O tutor anexa uma nova foto atual do animal, se necessário.<br>7. O tutor confirma a atualização.<br>8. O sistema registra a data da nova atualização e substitui as informações antigas. |
+| **Fluxos Alternativos** | - O tutor ignora a notificação.<br>→ O sistema reenvia um lembrete após um prazo definido (ex: 15 dias).<br><br>- O tutor opta por não alterar nenhuma informação.<br>→ O sistema apenas atualiza a data de verificação. |
+| **Fluxos de Exceção** | 1. O tutor tenta enviar uma foto em formato ou tamanho inválido.<br>→ O sistema exibe uma mensagem de erro e solicita nova tentativa.<br>2. O sistema falha ao registrar a atualização.<br>→ O sistema exibe mensagem de erro e orienta o tutor a tentar novamente mais tarde. |
+| **Pós-condições** | O perfil do animal é atualizado com informações recentes, fortalecendo a confiabilidade dos registros e a rastreabilidade do histórico. |
+| **Data de Criação** | 12/10/2025 |
+| **Rastreabilidade** | `RF44` |
+| **Cenário Relacionado** | `#CEN08` |
+| **Léxico Relacionado** | `#LX013` |
 ---
 
 <a id="uc009"></a>
@@ -446,6 +477,7 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 |------------------------|----------------------|-----------------------------|
 | Antonio Carvalho | 16,6% | Autor da página de apresentação de casos de uso e criador dos artefatos UC001, UC002, UC013, UC014, UC015 |
 | Léticia Paiva | 16,6% | Criador dos artefatos UC003 e UC004 |
+| Mateus Santos Negrini | 16,6% | Criador dos artefatos UC007 e UC008 |
  
 ---
 
