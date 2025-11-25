@@ -205,5 +205,5 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 28/10/2025 |  1.0   |  Criação da documentação e estruturação da matriz de rastreabilidade geral  | Antonio Carvalho   |   |
-| 23/11/2025 |  1.1   |  Inserção de artefatos  | Isaac Menezes   |   |
+| 28/10/2025 |  1.0   |  Criação da documentação e estruturação da matriz de rastreabilidade geral  | Antonio Carvalho   |  Letícia |
+| 23/11/2025 |  1.1   |  Inserção de artefatos  | Isaac Menezes   | Letícia   |

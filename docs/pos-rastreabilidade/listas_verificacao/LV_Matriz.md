@@ -20,6 +20,6 @@
 
 | Versão | Data       | Descrição                                   | Autores  | Revisores |
 |-------:|------------|----------------------------------------------|----------|-----------|
-| 1.0    | 23/11/2025 | Elaboração da lista consolidada de Matriz Geral de Rastreabilidade. | Antonio  |    |
+| 1.0    | 23/11/2025 | Elaboração da lista consolidada de Matriz Geral de Rastreabilidade. | Antonio  |  Letícia  |
 
 ---
