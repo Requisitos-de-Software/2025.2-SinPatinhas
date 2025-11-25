@@ -634,6 +634,23 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Rastreabilidade** | RFNI014 |
 | **Validação** | - |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/H8GFpIKZzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -654,6 +671,23 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Status** | Não validada |
 | **Rastreabilidade** | RFNI015 |
 | **Validação** | - |
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/H8GFpIKZzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -676,6 +710,23 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Rastreabilidade** | RF029 |
 | **Validação** | - |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/H8GFpIKZzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -696,6 +747,23 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Status** | Não validada |
 | **Rastreabilidade** | RF033 |
 | **Validação** | - |
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/H8GFpIKZzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -718,6 +786,23 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Rastreabilidade** | RFNI022 |
 | **Validação** | - |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/H8GFpIKZzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -738,6 +823,23 @@ A validação com o usuário foi feita de forma presencial, no dia **21 de outub
 | **Status** | Não validada |
 | **Rastreabilidade** | RF028 |
 | **Validação** | - |
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/H8GFpIKZzHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 

@@ -355,6 +355,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX016   | Indicação visual da média  | Resultado do cálculo da média ponderada.  | Número       | Cálculo, resultado  | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -367,6 +384,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX017   | Usuário  | Pessoa que acessou o sistema, não necessariamente um profissional ou tutor de pet.  | Sujeito  | Indivíduo, interessado | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -381,6 +415,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX018   | Página da clínica  | A página correspondente à clínica no sistema.   | Local  | Site, aba | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -393,6 +444,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX019   | Profissional da área  | Veterinário(a) ou técnico da área.  | Sujeito  | Médico, doutor | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
@@ -407,6 +475,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX020   | Navegar  | No sistema, localizar o perfil da clínica/hospital.  | Ação  | Procurar, localizar | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -420,6 +505,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX021   | Média da clínica  | A média ponderada das consultas totais da clínica. | Número  | Cálculo | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
+
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
 ---
@@ -432,6 +534,23 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 | ID        | Noção          | Impacto                                                                 | Classificação | Dicionário              | Rastreamento |
 | ---------- | --------------- | ------------------------------------------------------------------------ | ------------- | ----------------------- | ------------- |
 | LX02   | Média do profissional  | A média ponderada das consultas totais de cada médico. | Número  | Cálculo | [RFNFI014](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md), [RFNFI015](../../../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 23 de novembro.
+
+<iframe width="560" height="315" src="https://youtu.be/PmhP4X9l34k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+---
+
+### Participantes da validação
+
+| Participante | Papel |
+| ------------ | ----- |
+| Isaac Menezes | Integrante do grupo, responsável por coordenar a validação com a tutora. |
+| Rebecca Menezes | Estudante de Direito tutora de pet. |
 
 [Voltar para tabela de artefatos](#tabela_artefatos)
 
