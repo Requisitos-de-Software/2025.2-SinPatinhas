@@ -66,6 +66,18 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de outubro
 
 ***Autor:** [Antonio Carvalho](https://github.com/antonioscarvalho)*
 
+<a id="rp02"></a>
+
+#### Elaboração de Pedro Gomes
+
+>O Rich Picture abaixo representa de forma visual e descritiva as partes interessadas, fluxos de informação, funções do sistema, problemas, objetivos e interações do aplicativo Loterias Caixa, cujo propósito é permitir que usuários consultem resultados, acompanhem apostas, verifiquem prêmios e realizem jogos de forma prática e segura.
+
+![Referência](../../assets/PDFs/Entrega_Final/pedro/rp.png)
+
+**Imagem 4 - Rich-Picture do Loterias Caixa**
+
+***Autor:** Pedro Gomes
+
 ---
 
 ## Histórico de Versão
