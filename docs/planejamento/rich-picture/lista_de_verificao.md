@@ -43,7 +43,7 @@
 | Integrante |
 |------------|
 | [Antonio Carvalho](https://drive.google.com/file/d/1oDXuD1RE9pRjlvaF6UBlKOf98lZZSy16/view?usp=sharing) |
-
+| [Isaac Menezes](https://drive.google.com/file/d/1QzbirxUrathER3Gwb0jpaIbw_vflrKOD/view?usp=sharing) |
 ---
 
 ## Agradecimentos
@@ -64,6 +64,7 @@ A base conceitual foi desenvolvida com base nos fundamentos do **CTEC2402**.
 | Versão | Data       | Descrição                                        | Autores       | Revisores               |
 |-------:|------------|--------------------------------------------------|---------------|-------------------------|
 | 1.0    | 12/11/2025 | Criação da lista de verificação de Rich Picture | Antonio Carvalho | Letícia Paiva   |
+| 1.1    | 23/11/2025 | Insersão de lista de verificação | Isaac Menezes |    |
 
 ---
 
