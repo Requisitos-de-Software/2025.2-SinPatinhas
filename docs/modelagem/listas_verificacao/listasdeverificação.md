@@ -20,19 +20,19 @@
 
 | Item | Descrição | Autor(es) | Referência |
 |------|----------|-----------|------------|
-| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | |
+| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/39MYjT3z |
 | 2 | Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida? | Heloisa Silva, Leticia Paiva | https://ibb.co/Rpq0LNTW |
 | 3 | Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/mVz5bNmc |
-| 4 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | |
+| 4 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/vCZCS7sV |
 | 5 | Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema? | Heloisa Silva, Leticia Paiva | https://ibb.co/BKYF3yHL |
-| 6 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | |
+| 6 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/ymtSxCJv |
 | 7 | Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
 | 8 | Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
 | 9 | Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)? | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
-| 10 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | |
+| 10 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/ymtSxCJv |
 | 11 | Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JRyFkX1c |
 | 12 | Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)? | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/20Y4YQDj |
-| 13 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | |
+| 13 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/Myk8jDXG |
 | 14 | Introdução está completa e clara? | Antonio Carvalho | https://ibb.co/Hpq6hzNB |
 | 15 | Projeto está corretamente identificado? | Antonio Carvalho | https://ibb.co/Hp17WXJM |
 | 16 | As funcionalidades foram descritas em linguagem natural e organizadas por recurso, usuário ou subsistema? | Antonio Carvalho | https://ibb.co/N2gZdXBr |
@@ -65,13 +65,13 @@
       <td>002</td>
       <td>As funcionalidades listadas no backlog fornecem valor comercial ao cliente?</td>
       <td>Heloisa</td>
-      <td></td>
+      <td><a href="https://ibb.co/HTHHzGMv">Referência</a></td>
     </tr>
     <tr>
       <td>003</td>
       <td>O backlog possui funcionalidades que o produto deve ter?</td>
       <td>Matheus</td>
-      <td></td>
+      <td><a href="https://ibb.co/HTHHzGMv">Referência</a></td>
     </tr>
     <tr>
       <td>004</td>
@@ -140,19 +140,19 @@
       <td>003</td>
       <td>Os Requisitos Não-Funcionais são expressos através de softgoals?</td>
       <td>Antonio</td>
-      <td></td>
+      <td><a href="https://ibb.co/Q3VxS59T">Referência</a></td>
     </tr>
     <tr>
       <td>004</td>
       <td>Os softgoals são divididos em três tipos: NFR, de Operacionalização e de Afirmação?</td>
       <td>Isaac</td>
-      <td></td>
+      <td><a href="https://ibb.co/gMf4DKxx">Referência</a></td>
     </tr>
     <tr>
       <td>005</td>
       <td>Os softgoals NFR estão representados de forma hierárquica?</td>
       <td>Matheus</td>
-      <td></td>
+      <td><a href="https://ibb.co/Kzjy0F6p">Referência</a></td>
     </tr>
     <tr>
       <td>006</td>
@@ -209,17 +209,16 @@
 | 9 | Cada ator interage com pelo menos um caso de uso. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
 | 21 | O diagrama define as pessoas, organizações ou outros sistemas que interagem com ele? | Antonio Carvalho | https://ibb.co/2X0YSQ3 |
 | 10 | Casos de uso são representados por ovais. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JjQSZ1jR |
-| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | |
+| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | https://ibb.co/7N1S33D8 |
 | 12 | As descrições são claras e suficientemente descritivas. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/7N1S33D8 |
 | 13 | Os casos de uso estão organizados em ordem lógica. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/q3DWQTR7 |
-| 14 | Associação é representada por uma linha sólida. | Heloisa Silva, Leticia Paiva | |
+| 14 | Associação é representada por uma linha sólida. | Heloisa Silva, Leticia Paiva | https://ibb.co/twyYzzhG |
 | 15 | Relacionamentos de Inclusão (<<include>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva |https://ibb.co/v6NMpPfS |
 | 16 | Relacionamentos de Extensão (<<extend>>) estão corretos. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/v6NMpPfS |
 | 17 | Relacionamentos de Generalização (herança) estão corretos. | Antonio Carvalho, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
-| 18 | O diagrama oferece uma visão geral e simples do sistema. | Antonio Carvalho, Leticia Paiva | |
+| 18 | O diagrama oferece uma visão geral e simples do sistema. | Antonio Carvalho, Leticia Paiva | https://ibb.co/9HZh9hDV |
 | 19 | O diagrama possui um sistema/aplicativo para se basear? | Antonio Carvalho | https://ibb.co/9mzj6TCm |
-| 20 | As funcionalidades representadas foram validadas com o cliente. | Isaac Menezes Pereira | |
-| 22 | O diagrama também demonstra o fluxo básico do que o sistema faz? | Antonio Carvalho | https://ibb.co/cXRCHzXb |
+| 20 | O diagrama também demonstra o fluxo básico do que o sistema faz? | Antonio Carvalho | https://ibb.co/cXRCHzXb |
 
 
 ---
