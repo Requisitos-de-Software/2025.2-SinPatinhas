@@ -77,10 +77,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | **Aplicativo (escolha do aplicativo)** | 0 |  |  | [Aplicativo Analisado](/planejamento/aplicativo/README.md) |  |  |
 | **Cronograma** | 1 - [Cronograma](../planejamento/cronograma/README.md) |  |  |  |  |  |
 | **Ferramentas** | 0 |  |  |  |  |  |
-| **Metodologia** | 0 |  |  |  |  |  |
-| **Atas** | 0 |  |  |  |  |  |
-| **Pré-Rastreabilidade (Rich-Picture)** | 4 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md#validação-com-tutora-de-animal) |  |  |  |  |  |
-| **Total de documentos elaborados** | 4 |  |  | 3 |  |  |
+| **Metodologia** | 0 |  |  |  |  | 1 [Metodologias](/planejamento/metodologias/README.md) |
+| **Atas** | 0 |  |  |  |  | 6 - [Atas](/planejamento/atas/README.md) |
+| **Pré-Rastreabilidade (Rich-Picture)** | 4 – [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados), [Lista de Verificação](../planejamento/rich-picture/lista_de_verificao.md) + [Validação Geral](../planejamento/rich-picture/README.md#validação-com-tutora-de-animal) |  |  |  |  |1 - [Rich-Picture Unitária](../planejamento/rich-picture/README.md#rich-pictures-unitários-que-foram-inicialmente-analisados)  |
+| **Total de documentos elaborados** | 4 |  |  | 3 |  | 7 |
 | **Total de documentos revisados** | 1 |  |  | 3 |  |  |
 
 
