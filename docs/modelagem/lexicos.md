@@ -62,8 +62,8 @@ A tabela a seguir apresenta os componentes utilizados.
 |                      | [LX029](#lx029) | [#LX029](/modelagem/gravacoes/antonio/lexicos.md) | Léxico para #UC15 e #CNR011 (Rastreamento de Doações e Adoções) |
 | **Letícia Paiva**    | [LX008](#lx008) | [#LX008](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RFNI016) |
 |                      | [LX009](#lx009)  | [#LX009](/modelagem/gravacoes/leticia/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas e Notificações Automáticas (RFNI017) |
-| **Pedro Gomes**      | | [#LX010](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 07 |
-|                      | | [#LX011](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 08 |
+| **Pedro Gomes**      |[LX010](#lx010) | [#LX010](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 07 |
+|                      | [LX011](#lx011) | [#LX011](/modelagem/gravacoes/pedro/lexicos.md)   | Léxico para Cenário 08 |
 | **Mateus Santos Negrini** |[LX012](#lx012) | [#LX012](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC03 e #CEN01 - Sistema de Adoção (RF030) |
 |                           |[LX013](#lx013) | [#LX013](/modelagem/gravacoes/mateus/lexicos.md) | Léxico para #UC04 e #CEN02 - Alertas de Notificações Automáticas (RF31) |
 | **Heloisa Silva**         | | [#LX014](/modelagem/gravacoes/heloisa/lexicos.md) | Léxico para #UC09 e #CEN05 - Sistema de Adoção (RFNI001) |
@@ -294,15 +294,29 @@ A validação com o tutor foi feita de forma presencial, no dia 10 de outubro.
 
 ---
 
-<a id="lx010"></a>
+### #LX010 - Léxico para Cenário 07 — Aplicativo Móvel "SINPatinhas Agente" 
 
-### #LX010 – Léxico para Cenário 07
+**Autor:** [Pedro]
+
+| ID        | Noção         | Impacto                                                                 | Classificação | Dicionário            | Rastreamento | Exemplo de Uso |
+|----------|---------------|-------------------------------------------------------------------------|---------------|-----------------------|--------------|----------------|
+| LX010-01 | Aplicativo SINPatinhas: software móvel (iOS/Android) utilizado por tutores e agentes de apoio para cadastro, consulta e atualização de animais. | Permite interação entre usuários e o sistema, possibilitando cadastro, atualização e consulta de animais. Facilita comunicação e rastreabilidade. | Objeto | App, Software Móvel | CNR005, [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) | Ana Beatriz abre o aplicativo em seu smartphone para consultar o RGA de um animal perdido. |
+| LX010-02 | Tutor: pessoa responsável pelo animal, registrada no sistema com informações de contato e identificação do animal. | Permite que o sistema associe animais a responsáveis, viabilizando consultas e comunicação rápida. | Sujeito | Dono, Proprietário | CNR005, [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) | Ana Beatriz é tutora de Logan e acessa suas informações no app. |
+| LX010-03 | RGA: Registro Geral Animal, código único de identificação visível na coleira do animal. | Identifica o animal de forma única, permitindo consultas rápidas e evitando duplicidades. | Objeto | Código do Animal, Registro | CNR005, [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) | Ana Beatriz digita o número do RGA de um cão perdido para localizar o tutor. |
+| LX010-04 | Consulta Rápida de Animal Perdido: funcionalidade que permite localizar o tutor do animal via RGA. | Permite identificar rapidamente o responsável por um animal encontrado. | Verbo | Localização de Tutor, Busca de Animal | CNR005, [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) | Ao digitar o RGA, o app exibe nome e telefone do tutor. |
+| LX010-05 | Chamada Telefônica via App: ação de iniciar ligação para o tutor diretamente pelo aplicativo. | Facilita comunicação imediata entre quem encontra o animal e o tutor. | Verbo | Ligação pelo App, Contato Telefônico | CNR005, [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001) | Ana Beatriz toca no número exibido pelo app para ligar ao tutor. |
 
 ---
 
-<a id="lx011"></a>
+### #LX011 - Léxico para Cenário 08 — Acesso Offline
 
-### #LX011 – Léxico para Cenário 08
+| ID        | Noção         | Impacto                                                                 | Classificação | Dicionário            | Rastreamento | Exemplo de Uso |
+|----------|---------------|-------------------------------------------------------------------------|---------------|-----------------------|--------------|----------------|
+| LX011-01 | Ficha do Animal: conjunto de informações (identificação, vacinação, histórico, fotos) armazenadas no app. | Permite acesso detalhado e confiável ao histórico e status do animal. | Objeto | Perfil do Animal, Registro do Animal | CNR006, [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) | Ana Beatriz acessa a ficha de Logan para verificar vacinas. |
+| LX011-02 | Disponibilizar Offline: funcionalidade que salva dados do animal localmente no smartphone. | Garante acesso mesmo sem internet, evitando indisponibilidade das informações. | Verbo | Salvar Offline, Download de Dados | CNR006, [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) | Antes de viajar, Ana Beatriz salva a ficha de Logan no dispositivo. |
+| LX011-03 | Acesso Offline: operação de visualizar informações salvas sem conexão ativa. | Permite consultas em locais sem internet, garantindo continuidade. | Verbo | Visualização Offline, Consulta Offline | CNR006, [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) | Na chácara, Ana Beatriz abre a ficha de Logan mesmo sem sinal. |
+| LX011-04 | Mensagem de Erro Sem Conexão: alerta exibido quando o app não acessa dados online. | Informa o usuário sobre impossibilidade de acessar dados não salvos offline. | Objeto | Alerta de Conexão, Notificação Offline | CNR006, [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002) | O app exibe: "Sem conexão com a internet. Conecte-se a uma rede para acessar os dados." |
+
 
 ---
 
