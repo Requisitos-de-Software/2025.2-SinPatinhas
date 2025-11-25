@@ -171,6 +171,6 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sayão e Leite 
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 28/10/2025 | Criação da página de matriz de rastreabilidade | Antonio Carvalho |  |
+| 1.0 | 28/10/2025 | Criação da página de matriz de rastreabilidade | Antonio Carvalho |  Letícia |
 
 ---
