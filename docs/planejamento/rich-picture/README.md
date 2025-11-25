@@ -80,6 +80,18 @@ A validação com a tutora foi feita de forma presencial, no dia **23 de outubro
 
 ---
 
+<a id="rp02"></a>
+
+#### Elaboração de Isaac Menezes
+
+>Rich Picture criado com base no escopo do **aplicativo comunitário Emote** que é um utilitário GUI para Linux que possibilita o uso de emojis no sitema, o que não vem por padrão em todas as distros.
+
+![Referência](../../assets/PDFs/Entrega_Final/isaac/richPictureProj01.png)
+
+**Imagem 4 - Rich-Picture do Emote**
+
+***Autor:** [Isaac Menezes](https://github.com/ispratamena250)*
+
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                         | Autores | Revisores |
