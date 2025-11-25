@@ -81,19 +81,19 @@
 |---|------|--------|-----------|
 | 1 | O cenário é apresentado como uma narrativa concreta, rica em detalhes contextuais, seja em formato textual ou pictórico. | Heloisa Silva / Pedro Oliveira |  |
 | 2 | O cenário possui um título que resume a situação. | Letícia Paiva / Mateus Negrini | https://ibb.co/gM9CBmGS |
-| 3 | O cenário define claramente um ator principal e um objetivo principal a ser alcançado. | Letícia Paiva / Pedro Oliveira / Isaac Pereira |  |
+| 3 | O cenário define claramente um ator principal e um objetivo principal a ser alcançado. | Letícia Paiva / Pedro Oliveira / Isaac Pereira | https://ibb.co/SD84ZHRL  |
 | 4 | A situação inicial do ator é descrita de forma clara. | Letícia Paiva / Mateus Negrini | https://ibb.co/sdxCv0BD |
 | 5 | O enredo do cenário apresenta uma sequência lógica de ações e eventos. | Heloisa Silva / Letícia Paiva / Mateus Negrini | https://ibb.co/PvrYDVwC |
 | 6 | O ambiente e o contexto da situação (quando, onde e por quê) estão bem descritos. | Heloisa Silva / Letícia Paiva / Pedro Oliveira / Mateus Negrini / Isaac Pereira | https://ibb.co/21cyGgbs |
 | 7 | Os atores são descritos com suas características pessoais relevantes para o cenário. | Heloisa Silva / Letícia Paiva / Pedro Oliveira / Mateus Negrini / Isaac Pereira | https://ibb.co/p7ScdzB |
 | 8 | Os objetivos do ator são explícitos e motivam as ações realizadas no cenário. | Heloisa Silva / Pedro Oliveira / Mateus Negrini / Isaac Pereira | https://ibb.co/SwbBtWbV |
-| 9 | O planejamento mental do ator (estratégias e decisões) é descrito quando relevante para a história. | Pedro Oliveira / Mateus Negrini |  |
-| 10 | O cenário explora situações de exceção ou eventos raros. | Pedro Oliveira / Mateus Negrini |  |
-| 11 | O cenário descreve apenas um fluxo específico de eventos (não múltiplos, como em um caso de uso). | Pedro Oliveira |  |
-| 12 | O cenário demonstra que o sistema resolve um problema real do usuário. | Isaac Pereira |  |
+| 9 | O planejamento mental do ator (estratégias e decisões) é descrito quando relevante para a história. | Pedro Oliveira / Mateus Negrini | https://ibb.co/HRdQ2Sf  |
+| 10 | O cenário explora situações de exceção ou eventos raros. | Pedro Oliveira / Mateus Negrini | https://ibb.co/KSQcX8T  |
+| 11 | O cenário descreve apenas um fluxo específico de eventos (não múltiplos, como em um caso de uso). | Pedro Oliveira | https://ibb.co/wZTJkTXb |
+| 12 | O cenário demonstra que o sistema resolve um problema real do usuário. | Isaac Pereira | https://ibb.co/S473gf70 |
 | 13 | O cenário deixa claro como os serviços do sistema ajudam o ator a atingir seus objetivos. | Isaac Pereira | https://ibb.co/SwbBtWbV |
-| 14 | Se o cenário utiliza personas, foi verificado se elas foram elaboradas previamente. | Heloisa Silva |  |
-| 15 | O conjunto de todos os cenários criados é abrangente (cobre diferentes usuários, funções do produto e variações de tarefas). | Mateus Negrini |  |
+| 14 | Se o cenário utiliza personas, foi verificado se elas foram elaboradas previamente. | Heloisa Silva | https://ibb.co/S4Gb4ZCB |
+| 15 | O conjunto de todos os cenários criados é abrangente (cobre diferentes usuários, funções do produto e variações de tarefas). | Mateus Negrini | https://ibb.co/JRF2K7fX  |
 | 16 | O ambiente/contexto está descrito (quando, onde e por que ocorre)? | Antonio Carvalho | https://ibb.co/VpCYCS38 |
 | 17 | Os atores estão identificados com características relevantes? | Antonio Carvalho | https://ibb.co/B9ZRfGW |
 | 18 | Os objetivos do ator estão explícitos e claros? | Antonio Carvalho | https://ibb.co/G4J6xPF6 |
@@ -180,14 +180,14 @@
 |---|------|--------|-----------|
 | 1 | A agenda das pessoas a serem entrevistadas foi confirmada? | Letícia Paiva / Pedro | https://ibb.co/MxkMV0k3  |
 | 2 | As salas ou ferramentas de reunião para a entrevista foram reservadas? | Letícia Paiva | https://ibb.co/jvR62spJ  |
-| 3 | O objetivo da entrevista foi claramente definido? | Pedro |  |
-| 4 | O assunto a ser abordado foi estudado previamente pelo entrevistador? | Pedro |  |
-| 5 | A duração da entrevista foi planejada para não exceder duas horas? | Pedro |  |
+| 3 | O objetivo da entrevista foi claramente definido? | Pedro | https://ibb.co/Nd0v10R1 |
+| 4 | O assunto a ser abordado foi estudado previamente pelo entrevistador? | Pedro | https://ibb.co/ym9PQmBp |
+| 5 | A duração da entrevista foi planejada para não exceder duas horas? | Pedro | https://ibb.co/7xc4TZjs  |
 | 6 | Um roteiro com perguntas simples e diretas foi preparado para guiar a entrevista? | Pedro |  |
-| 7 | O entrevistado foi informado com antecedência sobre o objetivo e os assuntos da entrevista? | Pedro |  |
-| 8 | A abertura da entrevista incluirá a apresentação do entrevistador, o objetivo, a duração e a finalidade da coleta de informações? | Pedro |  |
-| 9 | O entrevistador está preparado para conduzir a entrevista com a mente aberta e sem preconceitos? | Pedro |  |
-| 10 | Haverá espaço para coletar tanto fatos quanto opiniões, valorizando as ideias do entrevistado? | Pedro |  |
+| 7 | O entrevistado foi informado com antecedência sobre o objetivo e os assuntos da entrevista? | Pedro | https://ibb.co/F4Mv8jjC |
+| 8 | A abertura da entrevista incluirá a apresentação do entrevistador, o objetivo, a duração e a finalidade da coleta de informações? | Pedro |  https://ibb.co/WvQjWcfX |
+| 9 | O entrevistador está preparado para conduzir a entrevista com a mente aberta e sem preconceitos? | Pedro | https://ibb.co/xSz5xrfC |
+| 10 | Haverá espaço para coletar tanto fatos quanto opiniões, valorizando as ideias do entrevistado? | Pedro | https://ibb.co/xSz5xrfC |
 | 11 | As informações coletadas na entrevista foram registradas em uma “memória de levantamento” (ata, notas, etc.)? | Letícia Paiva | https://ibb.co/LD55GVM4 |
 | 12 | As dúvidas e questões não resolvidas durante a sessão foram registradas para acompanhamento futuro? | Letícia Paiva | https://ibb.co/LXKLjrRw |
 | 13 | O documento final com o entendimento do que foi discutido foi enviado ao entrevistado para revisão e confirmação? | Letícia Paiva / Pedro | https://ibb.co/Y7yRZbTx |
@@ -208,16 +208,16 @@
 | 2 | A persona possui nome e sobrenome? | Letícia / Pedro / Mateus / Heloisa | https://ibb.co/kgQSXvPQ |
 | 3 | A persona possui uma identidade clara e realista (inclui nome, idade e dados demográficos)? | Pedro / Heloisa / Letícia / Mateus | https://ibb.co/kgQSXvPQ |
 | 4 | Cada persona está definida como primária, secundária, stakeholder ou antiusuário? | Mateus / Heloisa / Letícia | https://ibb.co/Jw8y9VFr |
-| 5 | O elenco de personas cobre os principais grupos de usuários (sem excesso)? | Mateus |  |
+| 5 | O elenco de personas cobre os principais grupos de usuários (sem excesso)? | Mateus | https://ibb.co/05Dp3zZ |
 | 6 | Estão descritas as competências, formação ou experiência da persona? | Mateus / Pedro / Letícia | https://ibb.co/spR0gDWZ |
-| 7 | Estão identificadas as pessoas ou grupos com quem a persona interage? | Mateus |  |
+| 7 | Estão identificadas as pessoas ou grupos com quem a persona interage? | Mateus | https://ibb.co/MD1J6P9k  |
 | 8 | A persona possui fotografia ou ilustração associada? | Heloisa / Letícia / Mateus / Pedro | https://ibb.co/DfXSJfzV |
 | 9 | São descritas as tarefas básicas ou críticas que a persona realiza? | Mateus / Letícia / Pedro / Heloisa | https://ibb.co/spR0gDWZ |
-| 10 | As tarefas possuem frequência, duração e grau de importância? | Mateus / Heloisa |  |
+| 10 | As tarefas possuem frequência, duração e grau de importância? | Mateus / Heloisa | https://ibb.co/s9zy9JhF |
 | 11 | As necessidades (requisitos) da persona estão explícitas? | Letícia / Mateus / Pedro / Heloisa | https://ibb.co/prWPhkQ3 |
 | 12 | A persona possui expectativas sobre o funcionamento do produto? | Mateus / Letícia / Pedro / Heloisa | https://ibb.co/21wXy9WG |
-| 13 | O elenco possui ao menos uma persona primária? | Pedro / Heloisa / Mateus |  |
-| 14 | O elenco de personas possui no mínimo 3 e no máximo 12 personas distintas? | Heloisa / Pedro |  |
+| 13 | O elenco possui ao menos uma persona primária? | Pedro / Heloisa / Mateus | https://ibb.co/PsGjvbwd |
+| 14 | O elenco de personas possui no mínimo 3 e no máximo 12 personas distintas? | Heloisa / Pedro | https://ibb.co/BH2stD0y  |
 
 [Voltar ao início](#inicio)
 
@@ -233,15 +233,15 @@
 |---|------|--------|------------|
 | 1 | O perfil de usuário possui registro dos objetivos dos usuários? | Leticia / Mateus / Pedro | https://ibb.co/v6P9CLCh |
 | 2 | O perfil de usuário descreve características (faixa etária, nível de instrução)? | Heloisa / Pedro / Leticia / Mateus | https://ibb.co/JRbkx4vV |
-| 3 | As características analisadas são relevantes para o desenvolvimento do sistema? | Heloisa | |
-| 4 | Foram coletados dados por meio de entrevistas ou questionários? | Heloisa | |
+| 3 | As características analisadas são relevantes para o desenvolvimento do sistema? | Heloisa | https://ibb.co/NgbbGyxv |
+| 4 | Foram coletados dados por meio de entrevistas ou questionários? | Heloisa | https://ibb.co/hFgK8HwQ |
 | 5 | Os dados foram agregados em grupos (ex.: faixa etária 10–15 anos)? | Mateus / Heloisa | https://ibb.co/JRbkx4vV |
-| 6 | Foram traçados perfis de usuário considerando os dados agregados? | Heloisa | |
-| 7 | Foi calculada a proporção de usuários em cada perfil? | Heloisa / Mateus | |
+| 6 | Foram traçados perfis de usuário considerando os dados agregados? | Heloisa | https://ibb.co/hFgK8HwQ |
+| 7 | Foi calculada a proporção de usuários em cada perfil? | Heloisa / Mateus | https://ibb.co/601L1Q7z |
 | 8 | O perfil de usuário foi elaborado de forma iterativa? | Heloisa | |
-| 9 | As características foram priorizadas conforme a relevância para o projeto? | Heloisa | |
-| 10 | Os usuários foram categorizados em grupos? | Mateus / Heloisa | |
-| 11 | Os grupos correspondem à distribuição dos dados agregados? | Heloisa | |
+| 9 | As características foram priorizadas conforme a relevância para o projeto? | Heloisa | https://ibb.co/NgbbGyxv  |
+| 10 | Os usuários foram categorizados em grupos? | Mateus / Heloisa |https://ibb.co/4RGNW76S |
+| 11 | Os grupos correspondem à distribuição dos dados agregados? | Heloisa | https://ibb.co/4RGNW76S |
 | 12 | O perfil de usuário inclui nível de experiência? | Leticia / Pedro / Mateus | https://ibb.co/JRbkx4vV |
 | 13 | O perfil descreve tarefas que serão realizadas no sistema? | Leticia / Pedro / Mateus | https://ibb.co/bMrjyk17 |
 | 14 | O conhecimento do usuário sobre o domínio do produto está especificado? | Pedro / Mateus / Leticia | https://ibb.co/bMrjyk17 |
@@ -274,9 +274,9 @@
 | 010 | Responde “Quem se beneficia?” (ator)? | Heloísa / Mateus / Pedro | https://ibb.co/TBfGCW25 |
 | 011 | Responde “O que se quer?” (descrição da funcionalidade)? | Heloísa / Pedro | https://ibb.co/PsN6RXYN |
 | 012 | Responde “Qual é o benefício?” (valor de negócio)? | Heloísa / Mateus / Pedro | https://ibb.co/fzW01GNV |
-| 013 | É clara, objetiva e curta o suficiente para caber em um cartão? | Heloísa | |
-| 014 | Segue o formato: “Como [ator], eu quero [ação] para [benefício]”? | Heloísa / Mateus | |
-| 015 | A equipe de desenvolvimento estima o esforço? | Helena / Mateus | |
+| 013 | É clara, objetiva e curta o suficiente para caber em um cartão? | Heloísa | https://ibb.co/zhPC6fdQ |
+| 014 | Segue o formato: “Como [ator], eu quero [ação] para [benefício]”? | Heloísa / Mateus | https://ibb.co/zhPC6fdQ |
+| 015 | A equipe de desenvolvimento estima o esforço? | Helena / Mateus | https://ibb.co/VY5nMxyV |
 
 [Voltar ao início](#inicio)
 
@@ -398,7 +398,7 @@
       <td><input type="checkbox" name="conforme3"></td>
       <td><input type="checkbox" name="nao_conforme3"></td>
       <td>Antonio</td>
-      <td><a href="">Referência</a></td>
+      <td><a href="https://ibb.co/JwdHPtQP">Referência</a></td>
     </tr>
     <tr>
       <td>004</td>
@@ -406,7 +406,7 @@
       <td><input type="checkbox" name="conforme4"></td>
       <td><input type="checkbox" name="nao_conforme4"></td>
       <td>Isaac</td>
-      <td></td>
+      <td><a href="https://ibb.co/chm1v8fv">Referência</a></td>
     </tr>
     <tr>
       <td>005</td>
@@ -414,7 +414,7 @@
       <td><input type="checkbox" name="conforme5"></td>
       <td><input type="checkbox" name="nao_conforme5"></td>
       <td>Matheus</td>
-      <td></td>
+      <td><a href="https://ibb.co/JwdHPtQP">Referência</a></td>
     </tr>
     <tr>
       <td>006</td>
@@ -568,7 +568,7 @@ Break etc.)?</td>
 | 9 | Cada ator interage com pelo menos um caso de uso. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/v6NMpPfS |
 | 21 | O diagrama define as pessoas, organizações ou outros sistemas que interagem com ele? | Antonio Carvalho | https://ibb.co/2X0YSQ3 |
 | 10 | Casos de uso são representados por ovais. | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JjQSZ1jR |
-| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | |
+| 11 | A descrição do caso de uso começa com um verbo. | Heloisa Silva, Leticia Paiva | https://ibb.co/7N1S33D8  |
 | 12 | As descrições são claras e suficientemente descritivas. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/7N1S33D8 |
 | 13 | Os casos de uso estão organizados em ordem lógica. | Antonio Carvalho, Heloisa Silva, Leticia Paiva | https://ibb.co/q3DWQTR7 |
 | 14 | Associação é representada por uma linha sólida. | Heloisa Silva, Leticia Paiva | |
@@ -592,25 +592,24 @@ Break etc.)?</td>
 
 | Item | Descrição | Autor(es) | Referência |
 |------|----------|-----------|------------|
-| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | |
+| 1 | Foram especificados os requisitos funcionais que não estão nos diagramas de caso de uso (ex: login, auditoria, relatórios, tratamento de erros)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/39MYjT3z |
 | 2 | Foram definidos os padrões de interface e a experiência do usuário (UX) a ser seguida? | Heloisa Silva, Leticia Paiva | https://ibb.co/Rpq0LNTW |
 | 3 | Foram especificados os requisitos de ajuda online, documentação de suporte e o tempo esperado para que o usuário se torne produtivo no sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/mVz5bNmc |
-| 4 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | |
+| 4 | Foram especificados os requisitos de disponibilidade do sistema (ex: tempo de operação, tempo máximo de inatividade)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/vCZCS7sV |
 | 5 | Foram definidos o tempo médio entre falhas (MTBF) e o tempo médio para reparo (MTTR) aceitáveis para o sistema? | Heloisa Silva, Leticia Paiva | https://ibb.co/BKYF3yHL |
-| 6 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | |
+| 6 | Foram especificados os mecanismos de recuperação de falhas e de garantia da integridade dos dados? | Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/ymtSxCJv |
 | 7 | Foram especificados os tempos máximos de resposta para diferentes ações e transações do sistema? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
 | 8 | Foram definidos os requisitos de capacidade, como número de usuários simultâneos, volume de transações e crescimento esperado? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
 | 9 | Foram especificadas as restrições de uso de recursos de hardware (memória, CPU)? | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/BKYF3yHL |
-| 10 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | |
+| 10 | Foram definidos os requisitos de manutenibilidade, instalação e configuração do sistema? | Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/ymtSxCJv |
 | 11 | Foram especificadas todas as restrições de design e implementação (ex: linguagens de programação, SGBD, padrões, hardware/software obrigatórios)? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/JRyFkX1c |
 | 12 | Foram especificados os requisitos de documentação a ser entregue ao usuário (manual, ajuda online)? | Isaac Menezes Pereira, Leticia Paiva | https://ibb.co/20Y4YQDj |
-| 13 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | |
+| 13 | Foram definidos os requisitos legais, regulatórios e de licenciamento de software? | Antonio Carvalho, Heloisa Silva, Isaac Menezes Pereira | https://ibb.co/Myk8jDXG |
 | 14 | Introdução está completa e clara? | Antonio Carvalho | https://ibb.co/Hpq6hzNB |
 | 15 | Projeto está corretamente identificado? | Antonio Carvalho | https://ibb.co/Hp17WXJM |
 | 16 | As funcionalidades foram descritas em linguagem natural e organizadas por recurso, usuário ou subsistema? | Antonio Carvalho | https://ibb.co/N2gZdXBr |
 | 17 | Requisitos de usabilidade estão definidos com critérios mensuráveis (ex.: tempo de treinamento, tempo de execução de tarefas, conformidade com padrões)? | Antonio Carvalho | https://ibb.co/PsCyNtr8 |
 | 18 | Os requisitos de confiabilidade especificam disponibilidade, MTBF, MTTR, exatidão e taxa de erros permitida? | Antonio Carvalho | https://ibb.co/ymp2GWmB |
-
 [Voltar ao início](#inicio)
 
 ---
@@ -618,4 +617,5 @@ Break etc.)?</td>
 | Versão | Data       | Descrição                                              | Autores | Revisores |
 |------:|------------|----------------------------------------------------------|---------|-----------|
 | 1.0   | 23/11/2025 | Criação da página da listas unificada com referencia | Letícia | Antonio   |
-| 1.1   | 24/11/2025 | Adição de mais listas | Antonio |    |
+| 1.1   | 24/11/2025 | Adição de mais listas | Antonio | Letícia   |
+| 1.2   | 24/11/2025 | Adição de mais listas + referencias | Letícia | Antonio   |
