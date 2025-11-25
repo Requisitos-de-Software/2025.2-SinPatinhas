@@ -98,16 +98,16 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Técnicas de elicitação com a participação do usuário sem gravação | 0 |   |   | | | |
 |Técnicas de elicitação que necessita a participação do usuário e com gravação com usuário| 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | |   |  1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) | 1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) |  1 - [Entrevista](../elicitacao/tecnicas_elicitacao/metodologias/tec_elicitacao.md#-entrevista-01--ana-beatriz) |
 |Técnicas de elicitação que necessita a participação do remota e com gravação com usuário |0 | |   | |  | |
-|Técnicas de Priorização presencial e com gravação com usuário | 1 - [MoSKoW](../elicitacao/tecnicas_priorizacao/MoSCoW.md)  | |   |   | | |
+|Técnicas de Priorização presencial e com gravação com usuário | 1 - [MoSKoW](../elicitacao/tecnicas_priorizacao/MoSCoW.md)  | |   |   | | 1 - [MoSKoW](../elicitacao/tecnicas_priorizacao/MoSCoW.md) |
 |Técnicas de Priorização presencial e sem gravação com usuário|0 | |   |   | | |
 |Técnicas de Priorização remota e com gravação com usuário|0 | |   |   | | |
 | Perfil de Usuário | 2 - [Perfis de Usuário](../elicitacao/perfis_usuarios/perfis-de-usuario.md) |   |   | | | |
 | Persona | 0 |   |   | | | |
 | Se utilizaram Personas, utilizaram a técnica encenação com gravação? | 0 | |   | | | |
-| **Total técnicas presenciais com gravação** | 4 | | | 1 | | |
+| **Total técnicas presenciais com gravação** | 4 | | | 1 | | 2 |
 | **Total técnicas remotas com gravação** | 0 | |  | 0 | | |
-| **Total documentos elaborados** | 4 |  |  | 1 |  | | 
-| **Total documentos revisados** | 6 |  |  | 2 |  |  |
+| **Total documentos elaborados** | 4 |  |  | 1 |  |1 | 
+| **Total documentos revisados** | 6 |  |  | 2 |  | 2 |
 
 <font>**Tabela 2** - Entregas de Elicitação e Priorização</p></font>
 
@@ -119,7 +119,7 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
-| Especificação dos Cenarios (CNRx)  | 5 - [CNR003](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR004](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR013](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR014](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR015](../modelagem/cenarios.md#artefatos-e-gravações-unitários)  |   |  | [CNR001](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR002](../modelagem/cenarios.md#artefatos-e-gravações-unitários)   |   | 
+| Especificação dos Cenarios (CNRx)  | 5 - [CNR003](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR004](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR013](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR014](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR015](../modelagem/cenarios.md#artefatos-e-gravações-unitários)  |   |  | [CNR001](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR002](../modelagem/cenarios.md#artefatos-e-gravações-unitários)   |   | 2 - [CNR007](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR008](../modelagem/cenarios.md#artefatos-e-gravações-unitários) |
 | Validação dos cenários com usuário (presencial e gravado?) | [Sim](../modelagem/gravacoes/antonio/cenarios.md)  |   | | | | |
 | Léxicos (LXx) | 14 - [LX001](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX002](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX003](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX004](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX005](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX006](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX007](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX023](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX024](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX025](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX026](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX027](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX028](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX029](../modelagem/lexicos.md#artefatos-e-gravações-unitários) |   |   | [LX008](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX009](../modelagem/lexicos.md#artefatos-e-gravações-unitários)   |  |   |   |
 | Validação com usuário dos léxicos com gravação presencial? |  [Sim](../modelagem/gravacoes/antonio/lexicos.md) |   |   |   |  |   |   |
@@ -127,6 +127,10 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Validação com usuário da especificação do caso de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/especificacao.md)  |   |   |   |   |   |
 | Casos de Uso (UCx) |  5 - [UC001](../modelagem/casos_de_uso.md#artefatos), [UC002](../modelagem/casos_de_uso.md#artefatos), [UC013](../modelagem/casos_de_uso.md#artefatos), [UC014](../modelagem/casos_de_uso.md#artefatos), [UC015](../modelagem/casos_de_uso.md#artefatos) |   |   | [UC003](../modelagem/casos_de_uso.md#artefatos), [UC004](../modelagem/casos_de_uso.md#artefatos)    |   |   |
 | Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  | | |  |
+| **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  | 8 |  | 7 |
+| **Participação de Gravação com o usuário presencial?** | 4 |  |  | 1 |  | 4 |
+| **Total documentos elaborados** | 30 |  |  | 9 |  | 7 |
+| **Total documentos revisados** | 19 (Revisor em documentos unitários) |  |  | 4 |  | 0 |
 | **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  | 8 |  |  |
 | **Participação de Gravação com o usuário presencial?** | 4 |  |  | 1 |  |  |
 | **Total documentos elaborados** | 30 |  |  | 9 |  |  |

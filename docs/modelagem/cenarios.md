@@ -320,14 +320,110 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 <a id="cnr007"></a>
 
-### #CNR007 – Integração Direta com Parceiros – [RNFNI003](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CNR007 – Cenário 07 — Consulta Rápida de Animal Perdido via Aplicativo (RF05)
+
+**Autor:** Pedro Gomes
+
+**Tabela – Cenário 07: Consulta Rápida de Animal Perdido via Aplicativo (RF05)**
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Título** | Consulta Rápida de Animal Perdido via Aplicativo |
+| **Código** | CNR007 |
+| **Caso de uso trabalhado** | — |
+
+**Ambiente/Contexto**  
+Local: Via pública.  
+Tempo: Ao se deparar com um animal perdido.  
+Pré-condição: O tutor que encontrou o animal possui o aplicativo SINPatinhas instalado e acesso à internet; o animal encontrado possui identificação RGA visível.
+
+**Atores**  
+Ana Beatriz, 22 anos, estudante de Engenharia Aeroespacial na UnB e tutora de um cão.
+
+**Objetivos**  
+Permitir que qualquer pessoa identifique rapidamente um animal perdido e contate seu tutor usando o aplicativo móvel “SINPatinhas”.
+
+**Planejamento**  
+O ator deseja agir de forma rápida ao encontrar um animal perdido, permitindo contato imediato com o tutor para facilitar a devolução.
+
+**Ações**  
+1. Ana Beatriz encontra o cão perdido e identifica o número de RGA em sua coleira.  
+2. Ela abre o aplicativo “SINPatinhas” em seu smartphone.  
+3. Na tela inicial, seleciona a opção “Consultar Animal”.  
+4. Digita o número de RGA e confirma a busca.  
+5. O aplicativo exibe a ficha pública do animal, incluindo nome e telefone do tutor.  
+6. Ela toca no número exibido e inicia uma chamada para o tutor.
+
+**Eventos**  
+- Consulta do RGA no sistema.  
+- Exibição de informações públicas do animal no aplicativo.  
+- Contato direto via telefone com o tutor.
+
+**Avaliação**  
+A usuária confirma que a ficha do animal está correta e que o contato com o tutor foi realizado com sucesso.
+
+**Exceção**  
+Caso Ana Beatriz não tenha o aplicativo instalado, ela precisa baixar o app na loja de aplicativos, o que pode atrasar o contato com o tutor.
+
 
 ---
 
 <a id="cnr008"></a>
 
-### #CNR008 – Exibir Mapa Interativo de Clínicas e Hospitais – [RFNI001](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CNR008 – Cenário 08 — Acesso Offline à Ficha do Próprio Animal (RNF06)
 
+**Autor:** Pedro Gomes
+
+**Tabela – Cenário 08: Acesso Offline à Ficha do Próprio Animal (RNF06)**
+
+| **Componente** | **Descrição** |
+|----------------|----------------|
+| **Título** | Acesso Offline à Ficha do Próprio Animal |
+| **Código** | CNR008 |
+| **Caso de uso trabalhado** | [UC00](...) |
+
+**Ambiente/Contexto**  
+Local: Portal do tutor acessado pelo aplicativo móvel.  
+Tempo: A qualquer momento após o cadastro do animal.  
+Pré-condição: O tutor deve estar logado, possuir o animal no perfil e ter utilizado a função “Salvar Ficha Offline”.
+
+**Atores**  
+Ana Beatriz, 22 anos, estudante de Engenharia Aeroespacial na UnB e tutora de um cão.
+
+**Objetivos**  
+Permitir que o tutor acesse informações essenciais de seu animal mesmo sem conexão à internet.
+
+**Planejamento**  
+O ator quer garantir disponibilidade dos dados de seu animal em locais remotos, como viagens, áreas rurais ou ambientes sem sinal.
+
+**Ações**  
+1. (Com internet) Ana Beatriz abre o aplicativo SINPatinhas.  
+2. Acessa o perfil de seu cão, Logan.  
+3. Seleciona a opção “Disponibilizar offline”.  
+4. O aplicativo baixa e armazena os dados de Logan localmente e confirma a operação.  
+5. (Sem internet) Em uma área sem sinal, ela precisa consultar a carteira de vacinação.  
+6. Abre o app, que identifica ausência de conexão e exibe “Animais Salvos”.  
+7. Ela abre o perfil de Logan e acessa a ficha completa offline.
+
+**Eventos**  
+- Download e armazenamento local da ficha do animal.  
+- Acesso offline aos dados.  
+- Exibição automática de seção offline ao detectar ausência de internet.
+
+**Avaliação**  
+A usuária verifica que a ficha completa de Logan está disponível offline e pode ser exibida quando necessário.
+
+**Exceção**  
+Caso Ana Beatriz esqueça de salvar a ficha antes da viagem, o aplicativo exibe:  
+“Sem conexão com a internet. Conecte-se a uma rede para acessar os dados.”
+
+---
+
+## Validação com tutora de animal
+
+A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 ---
 
 <a id="cnr009"></a>
