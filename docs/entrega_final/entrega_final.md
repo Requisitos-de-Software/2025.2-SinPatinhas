@@ -183,8 +183,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---nfr-framework) ||| 0 ||
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---elos-de-rastreabilidade)  ||| 0||
 | Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 ||| 0 ||
-| **Documentos criados** | 77 | |  |  |  |  |
-| **Documentos revisados** | 16 |  |  | |  |  | 
+| **Documentos criados** | 77 | |  | 40 |  |  |
+| **Documentos revisados** | 16 |  |  | 10 |  |  | 
 
 <font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
 
@@ -193,11 +193,12 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 ### Etapa 6 - Elos de Rastreabilidade
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
-|------|----------|----------|----------|----------|----------|----------|
-| Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) | |  | |  |  | 
-| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |  |  |  | 
-| **Documentos criados** | 7 |  |  |  |  |  | 
-| **Documentos revisados** | 4 |  |  |  |  |  | 
+|------|----------|----------|-------|---------|--------|-------|
+| Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) |  |  | **6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---leticia-paiva) ([EL007](../pos-rastreabilidade/elos.md#el007-rfni016---sistema-de-adoção-de-animais---relacionado-a-hu001), [EL008](../pos-rastreabilidade/elos.md#el008-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos---relacionado-a-hu002), [EL009](../pos-rastreabilidade/elos.md#el009-rf025---compartilhamento-de-informações-com-familiares---relacionado-a-hu003), [EL010](../pos-rastreabilidade/elos.md#el010-rf026---notificações-de-vacinas-futurasatrasadas---relacionado-a-hu004), [EL011](../pos-rastreabilidade/elos.md#el011-rf027---registro-da-localização-do-animal-ou-tutor---relacionado-a-hu005), [EL012](../pos-rastreabilidade/elos.md#el012-rf031---registro-de-informações-detalhadas-do-animal---relacionado-a-hu006))** |  |  |
+| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  | [6 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |
+| **Documentos criados** | 7 |  |  | 6 |  |  |
+| **Documentos revisados** | 4 |  |  | 2 |  |  |
+
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
@@ -252,7 +253,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 20/11/2025 |  1.0   |  Criação da página de entrega final com introdução, planejamento, ferramentas, relações de apresentação e inspeção, estruturação das matrizes de entrega por etapa e organização de relatos | Antonio Carvalho   |   |
-| 21/11/2025  | 1.2 | Adição de artefatos | Antonio Carvalho |    |
-| 22/11/2025  | 1.3 | Criação de tópicos iniciais (de introdução às inspeções)| Antonio Carvalho |    |
-| 23/11/2025  | 1.4 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |    |
+| 20/11/2025 |  1.0   |  Criação da página de entrega final com introdução, planejamento, ferramentas, relações de apresentação e inspeção, estruturação das matrizes de entrega por etapa e organização de relatos | Antonio Carvalho   | Letícia  |
+| 21/11/2025  | 1.2 | Adição de artefatos | Antonio Carvalho |  Letícia  |
+| 22/11/2025  | 1.3 | Criação de tópicos iniciais (de introdução às inspeções)| Antonio Carvalho |   Letícia |
+| 23/11/2025  | 1.4 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |  Letícia  |
