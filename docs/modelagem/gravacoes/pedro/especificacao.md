@@ -7,11 +7,11 @@
 ## #ES005 - Aplicativo Móvel
 
 **Autor:** Pedro Gomes
-# Especificação Suplementar ES005 – Requisito RNF05: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android)
+# Especificação Suplementar ES005 – Requisito [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001): Aplicativo Móvel "SINPatinhas Agente" (iOS/Android)
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
-| **Código** | `RNF05` |
+| **Código** | `[RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)` |
 | **Título** | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) |
 | **Descrição** | Desenvolver e disponibilizar um aplicativo móvel multiplataforma destinado aos agentes de apoio e tutores para consulta, registro e comunicação sobre animais cadastrados no sistema SINPatinhas, operando em dispositivos iOS e Android. |
 | **Justificativa / Objetivo** | Fornecer uma solução móvel prática e responsiva que permita o uso em campo, especialmente durante campanhas e mutirões, garantindo o acesso rápido a informações, cadastros e consultas de animais, com ou sem conectividade constante. |
@@ -37,7 +37,7 @@
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
-| **Código** | `RNF06` |
+| **Código** | `[RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002)` |
 | **Título** | Acesso Offline à Ficha do Próprio Animal |
 | **Descrição** | Permitir que o tutor acesse informações vitais de seu animal (identificação, histórico, vacinação, contatos) diretamente no aplicativo SINPatinhas, mesmo em locais sem conexão com a internet. |
 | **Justificativa / Objetivo** | Garantir que tutores possam consultar informações essenciais sobre seus animais em qualquer lugar, mesmo em áreas sem cobertura de internet, evitando perda de dados ou atrasos em processos de verificação e atendimento. |

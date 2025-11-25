@@ -1,6 +1,6 @@
 # Casos de uso - Pedro Gomes
 
-## #UC005 – Aplicativo Móvel
+## #UC005 – Aplicativo Móvel [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)
 
 **Autor:** Pedro Gomes
 
@@ -20,7 +20,7 @@
 | **Fluxos de Exceção** | - Falha de conexão durante a consulta.<br>→ Sistema exibe mensagem de erro e sugere tentar novamente. |
 | **Pós-condições** | Consulta registrada; comunicação com tutor iniciada se realizada a chamada. |
 | **Data de Criação** | 12/10/2025 |
-| **Rastreabilidade** | `RF05` |
+| **Rastreabilidade** | `[RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)` |
 | **Cenário Relacionado** | `#CNR005` |
 | **Léxico Relacionado** | `#LX010-01`, `#LX010-02`, `#LX010-03`, `#LX010-04`, `#LX010-05` |
 
@@ -46,7 +46,7 @@
 | **Fluxos de Exceção** | - Falha no armazenamento local ou corrupção de dados.<br>→ Sistema exibe alerta de erro e sugere sincronizar novamente quando houver conexão. |
 | **Pós-condições** | Acesso às informações do animal realizado com sucesso; dados offline permanecem disponíveis para futuras consultas. |
 | **Data de Criação** | 12/10/2025 |
-| **Rastreabilidade** | `RF07` |
+| **Rastreabilidade** | `[RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002)` |
 | **Cenário Relacionado** | `#CNR006` |
 | **Léxico Relacionado** | `#LX011-01`, `#LX011-02`, `#LX011-03`, `#LX011-04` |
 
