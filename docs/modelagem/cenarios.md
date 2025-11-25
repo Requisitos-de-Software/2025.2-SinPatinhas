@@ -52,10 +52,10 @@ A **Tabela 2** apresenta todos os integrantes da equipe que participaram da cons
 |                     | [CNR013](#cnr013) | [Cenário 13](/modelagem/gravacoes/antonio/cenarios.md)  | Acesso via Web e Mobile - [**RNFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |                     | [CNR014](#cnr014) | [Cenário 14](/modelagem/gravacoes/antonio/cenarios.md)  | Funcionalidades Offline - [**RNFNI002**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |                     | [CNR015](#cnr015) | [Cenário 15](/modelagem/gravacoes/antonio/cenarios.md)  | Integração Direta com Parceiros - [**RNFNI003**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Heloisa Santos**  |  | [Cenário 05](/modelagem/gravacoes/heloisa/cenarios.md)  | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - [**RFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|                     |  | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-| **Pedro Gomes**     |  | [Cenário 07](/modelagem/gravacoes/pedro/cenarios.md)  | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RF05**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
-|                     |  | [Cenário 08](/modelagem/gravacoes/pedro/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Heloisa Santos**  | [CNR005](#cnr005) | [Cenário 05](/modelagem/gravacoes/heloisa/cenarios.md)  | Exibir mapa interativo com a localização das clínicas e hospitais veterinários cadastrados - [**RFNI001**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR006](#cnr006) | [Cenário 06](/modelagem/gravacoes/heloisa/cenarios.md)  | Sistema de avaliação numérica para estabelecimentos - [**RFNI010**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+| **Pedro Gomes**     | [CNR007](#cnr007) | [Cenário 07](/modelagem/gravacoes/pedro/cenarios.md)  | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) - [**RF05**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
+|                     | [CNR008](#cnr008) | [Cenário 08](/modelagem/gravacoes/pedro/cenarios.md)  | Notificação Periódica de Atualização - [**RF044**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Isaac Menezes**   | [CNR009](#cnr009) | [Cenário 09](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos na clínica/hospital - [**RFNI014**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 |                     | [CNR010](#cnr010) | [Cenário 10](/modelagem/gravacoes/isaac/cenarios.md)  | Indicador visual da média de atendimentos por médico - [**RFNI015**](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md) |
 | **Luciano Machado** | —           | — |
@@ -308,27 +308,27 @@ A validação com o usuário foi feita de forma presencial, no dia 12 de outubro
 
 <a id="cnr005"></a>
 
-### #CNR005 – Acesso via Web e Mobile – [RNFNI001](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CNR005 – 
 
 ---
 
 <a id="cnr006"></a>
 
-### #CNR006 – Funcionalidades Offline – [RNFNI002](/elicitacao/tecnicas_elicitacao/requisitos_elicitados.md)
+### #CNR006 – 
 
 ---
 
 <a id="cnr007"></a>
 
-### #CNR007 – Cenário 07 — Consulta Rápida de Animal Perdido via Aplicativo (RF05)
+### #CNR007 – Cenário 07 — Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)
 
 **Autor:** Pedro Gomes
 
-**Tabela – Cenário 07: Consulta Rápida de Animal Perdido via Aplicativo (RF05)**
+**Tabela – Cenário 07: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)**
 
 | **Componente** | **Descrição** |
 |----------------|----------------|
-| **Título** | Consulta Rápida de Animal Perdido via Aplicativo |
+| **Título** | Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) |
 | **Código** | CNR007 |
 | **Caso de uso trabalhado** | — |
 
@@ -418,12 +418,12 @@ Caso Ana Beatriz esqueça de salvar a ficha antes da viagem, o aplicativo exibe:
 “Sem conexão com a internet. Conecte-se a uma rede para acessar os dados.”
 
 ---
-
+<a id="gravped"></a>
 ## Validação com tutora de animal
 
 A validação com o usuário foi feita de forma presencial, no dia 12 de outubro.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/loBusGtCcjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQEyRPqPqsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 ---
 
 <a id="cnr009"></a>

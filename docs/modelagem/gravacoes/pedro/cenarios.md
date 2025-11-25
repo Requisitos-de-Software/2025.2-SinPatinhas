@@ -1,12 +1,12 @@
 # Cenários – Pedro Gomes
 
-## Cenário 07: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)
+## Cenário 07: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)
 
 <a id="cnr007"></a>
 
-A seguir, o cenário para o requisito **Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)** é detalhado, utilizando a estrutura apresentada no material *Requisitos – Aula 10* de Milene Serrano e Maurício Serrano.  
+A seguir, o cenário para o requisito **Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)** é detalhado, utilizando a estrutura apresentada no material *Requisitos – Aula 10* de Milene Serrano e Maurício Serrano.  
 
-**Tabela 01 – Cenário 07: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) (RF05)**  
+**Tabela 01 – Cenário 07: Aplicativo Móvel "SINPatinhas Agente" (iOS/Android) [RFNI001](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni001)**  
 
 **Autor:** Pedro Gomes
 
@@ -25,11 +25,11 @@ A seguir, o cenário para o requisito **Aplicativo Móvel "SINPatinhas Agente" (
 
 ---
 
-## Cenário 08: Acesso Offline (RNF06)
+## Cenário 08: Acesso Offline [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002)
 
 <a id="cnr008"></a>
 
-**Tabela 02 – Cenário 08: Acesso Offline (RNF06)**  
+**Tabela 02 – Cenário 08: Acesso Offline [RFNI002](../elicitacao/tecnicas_elicitacao/requisitos_elicitados.md#rfni002)**  
 
 **Autor:** Pedro Gomes
 

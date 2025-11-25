@@ -120,13 +120,13 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
 |------|----------|----------|----------|----------|----------|----------|
 | Especificação dos Cenarios (CNRx)  | 5 - [CNR003](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR004](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR013](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR014](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR015](../modelagem/cenarios.md#artefatos-e-gravações-unitários)  |   |  | [CNR001](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR002](../modelagem/cenarios.md#artefatos-e-gravações-unitários)   |   | 2 - [CNR007](../modelagem/cenarios.md#artefatos-e-gravações-unitários), [CNR008](../modelagem/cenarios.md#artefatos-e-gravações-unitários) |
-| Validação dos cenários com usuário (presencial e gravado?) | [Sim](../modelagem/gravacoes/antonio/cenarios.md)  |   | | | | |
+| Validação dos cenários com usuário (presencial e gravado?) | [Sim](../modelagem/gravacoes/antonio/cenarios.md)  |   | | | | [Sim](../modelagem/cenarios.md#gravped)|
 | Léxicos (LXx) | 14 - [LX001](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX002](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX003](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX004](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX005](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX006](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX007](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX023](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX024](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX025](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX026](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX027](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX028](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX029](../modelagem/lexicos.md#artefatos-e-gravações-unitários) |   |   | [LX008](../modelagem/lexicos.md#artefatos-e-gravações-unitários), [LX009](../modelagem/lexicos.md#artefatos-e-gravações-unitários)   |  |   |   |
-| Validação com usuário dos léxicos com gravação presencial? |  [Sim](../modelagem/gravacoes/antonio/lexicos.md) |   |   |   |  |   |   |
+| Validação com usuário dos léxicos com gravação presencial? |  [Sim](../modelagem/gravacoes/antonio/lexicos.md) |   |   |   |  |   | [Sim](../modelagem/cenarios.md#gravped)  |
 | Especificação de Caso de Uso  (com Nome, Descrição, Atores, Pré-Condição,Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.) (ESx)| 6 - [ES001](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES002](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES011](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES012](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES013](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES014](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários)  |   |   | [ES003](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários), [ES004](../modelagem/especificacao_suplementar.md#artefatos-e-gravações-unitários)  |  |   |   |
-| Validação com usuário da especificação do caso de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/especificacao.md)  |   |   |   |   |   |
+| Validação com usuário da especificação do caso de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/especificacao.md)  |   |   |   |   |  [Sim](../modelagem/cenarios.md#gravped) |
 | Casos de Uso (UCx) |  5 - [UC001](../modelagem/casos_de_uso.md#artefatos), [UC002](../modelagem/casos_de_uso.md#artefatos), [UC013](../modelagem/casos_de_uso.md#artefatos), [UC014](../modelagem/casos_de_uso.md#artefatos), [UC015](../modelagem/casos_de_uso.md#artefatos) |   |   | [UC003](../modelagem/casos_de_uso.md#artefatos), [UC004](../modelagem/casos_de_uso.md#artefatos)    |   |   |
-| Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  | | |  |
+| Validação com usuário dos casos de uso com gravação presencial? | [Sim](../modelagem/gravacoes/antonio/caso_de_uso.md)  |  |  | | | [Sim](../modelagem/cenarios.md#gravped) |
 | **Total de Participação nos documentos criados** | 34 (gerais e individuais) |  |  | 8 |  | 7 |
 | **Participação de Gravação com o usuário presencial?** | 4 |  |  | 1 |  | 4 |
 | **Total documentos elaborados** | 30 |  |  | 9 |  | 7 |
@@ -183,8 +183,8 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 | Quantidade de itens da Lista de verificação do NRF Framework com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---nfr-framework) ||| 0 ||
 | Quantidade de itens da Lista de verificação de Elos com foto da fonte do item | 5 - [Itens com Foto de Referência](../analise/verificacao_geral.md#tabela-de-verificação---elos-de-rastreabilidade)  ||| 0||
 | Quantidade de itens da Lista de verificação de Rastrabilidade com foto da fonte do item | 0 ||| 0 ||
-| **Documentos criados** | 77 | |  |  |  |  |
-| **Documentos revisados** | 16 |  |  | |  |  | 
+| **Documentos criados** | 77 | |  | 40 |  |  |
+| **Documentos revisados** | 16 |  |  | 10 |  |  | 
 
 <font>**Tabela 5** - Entregas de Análise de Requisitos: Verificação e Validação</p></font>
 
@@ -193,11 +193,12 @@ As **ferramentas manuseadas ao longo do desenvolvimento do projeto** apresentam-
 ### Etapa 6 - Elos de Rastreabilidade
 
 | Item | Antonio | Heloísa | Isaac | Letícia | Mateus | Pedro |
-|------|----------|----------|----------|----------|----------|----------|
-| Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) | |  | |  |  | 
-| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |  |  |  | 
-| **Documentos criados** | 7 |  |  |  |  |  | 
-| **Documentos revisados** | 4 |  |  |  |  |  | 
+|------|----------|----------|-------|---------|--------|-------|
+| Elos de rastreabilidade | 6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---antonio-carvalho) ([EL001](../pos-rastreabilidade/elos.md#el001-rf017---suporte-a-perfis-ampliados-de-atores-ongs-protetores-gestores-públicos), [EL002](../pos-rastreabilidade/elos.md#el002-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos), [EL003](../pos-rastreabilidade/elos.md#el003-rfni005---informações-sobre-horários-de-funcionamento-de-clínicashospitais), [EL004](../pos-rastreabilidade/elos.md#el004-rnf014---integração-com-clínicas-ongs-e-pet-shops), [EL005](../pos-rastreabilidade/elos.md#el005-rfni016---sistema-de-adoção-de-animais-facilitar-a-adoção-de-animais), [EL006](../pos-rastreabilidade/elos.md#el006-rfni018---integração-direta-com-parceiros-clínicas-ongs-pet-shops)) |  |  | **6 - [Artefatos](../pos-rastreabilidade/elos.md#artefatos---leticia-paiva) ([EL007](../pos-rastreabilidade/elos.md#el007-rfni016---sistema-de-adoção-de-animais---relacionado-a-hu001), [EL008](../pos-rastreabilidade/elos.md#el008-rf018---envio-de-notificaçõescampanhas-e-publicação-de-materiais-educativos---relacionado-a-hu002), [EL009](../pos-rastreabilidade/elos.md#el009-rf025---compartilhamento-de-informações-com-familiares---relacionado-a-hu003), [EL010](../pos-rastreabilidade/elos.md#el010-rf026---notificações-de-vacinas-futurasatrasadas---relacionado-a-hu004), [EL011](../pos-rastreabilidade/elos.md#el011-rf027---registro-da-localização-do-animal-ou-tutor---relacionado-a-hu005), [EL012](../pos-rastreabilidade/elos.md#el012-rf031---registro-de-informações-detalhadas-do-animal---relacionado-a-hu006))** |  |  |
+| Participação da Matriz de Rastreabilidade (requisitos com versionamento?) | [99 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  | [6 artefatos atrelados](../pos-rastreabilidade/matriz_geral.md) |  |  |
+| **Documentos criados** | 7 |  |  | 6 |  |  |
+| **Documentos revisados** | 4 |  |  | 2 |  |  |
+
 
 <font>**Tabela 6** - Entregas de Elos de Rastreabilidade</p></font>
 
@@ -252,7 +253,7 @@ A base conceitual foi desenvolvida com base nos fundamentos de **Sales (2025) e 
 
 | Data       | Versão | Descrição                                 | Autor                                      | Revisor                                     |
 | :--------: | :----: | :---------------------------------------- | :----------------------------------------: | :----------------------------------------: |
-| 20/11/2025 |  1.0   |  Criação da página de entrega final com introdução, planejamento, ferramentas, relações de apresentação e inspeção, estruturação das matrizes de entrega por etapa e organização de relatos | Antonio Carvalho   |   |
-| 21/11/2025  | 1.2 | Adição de artefatos | Antonio Carvalho |    |
-| 22/11/2025  | 1.3 | Criação de tópicos iniciais (de introdução às inspeções)| Antonio Carvalho |    |
-| 23/11/2025  | 1.4 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |    |
+| 20/11/2025 |  1.0   |  Criação da página de entrega final com introdução, planejamento, ferramentas, relações de apresentação e inspeção, estruturação das matrizes de entrega por etapa e organização de relatos | Antonio Carvalho   | Letícia  |
+| 21/11/2025  | 1.2 | Adição de artefatos | Antonio Carvalho |  Letícia  |
+| 22/11/2025  | 1.3 | Criação de tópicos iniciais (de introdução às inspeções)| Antonio Carvalho |   Letícia |
+| 23/11/2025  | 1.4 | Edição da página de lista de verificação geral com confirguração geral de estrutura | Antonio Carvalho |  Letícia  |
